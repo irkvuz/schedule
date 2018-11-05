@@ -8,10 +8,10 @@ function ListFaculties(props) {
       <h2>List of faculties</h2>
       <ul>
         <li>
-          <Link to="/1">Faculty 1</Link>
+          <Link to="/bgu/1">Faculty 1</Link>
         </li>
         <li>
-          <Link to="/2">Faculty 2</Link>
+          <Link to="/bgu/2">Faculty 2</Link>
         </li>
       </ul>
     </div>
@@ -26,10 +26,10 @@ function ListGroups(props) {
       <h2>Groups of faculty {facultyId}</h2>
       <ul>
         <li>
-          <Link to={`/${facultyId}/10001`}>Group 1001</Link>
+          <Link to={`/bgu/${facultyId}/10001`}>Group 1001</Link>
         </li>
         <li>
-          <Link to={`/${facultyId}/10002`}>Group 1002</Link>
+          <Link to={`/bgu/${facultyId}/10002`}>Group 1002</Link>
         </li>
       </ul>
     </div>
@@ -54,11 +54,11 @@ class App extends React.Component {
       <Router>
         <div>
           <h1>Title</h1>
-          <Link to="/">Home</Link>
+          <Link to="/bgu/">Home</Link>
           <Switch>
-            <Route path="/:facultyId/:groupId" component={TimeTable} />
-            <Route path="/:facultyId(\d+)" component={ListGroups} />
-            <Route path="/" component={ListFaculties} />
+            <Route path="/bgu/:facultyId/:groupId" component={TimeTable} />
+            <Route path="/bgu/:facultyId(\d+)" component={ListGroups} />
+            <Route path="/bgu/" component={ListFaculties} />
           </Switch>
         </div>
       </Router>
