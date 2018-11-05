@@ -1,7 +1,12 @@
 {
   "name": "bgu",
   "version": "0.1.0",
-  "private": true,
+  "description": "Schedule of Baikal Stete University",
+  "main": "src/index.js",
+  "repository": "https://github.com/irkvuz/bgu.git",
+  "author": "Yury Savin <savinyurii@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
