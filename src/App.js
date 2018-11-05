@@ -1,54 +1,68 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Link, Switch, Redirect } from "react-router-dom";
-const api = require('./api')
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import TimeTable from './TimeTable'
 
-function ListFaculties(props) {
-  return (
-    <div>
-      <h2>List of faculties</h2>
-      <ul>
-        <li>
-          <Link to="/bgu/1">Faculty 1</Link>
-        </li>
-        <li>
-          <Link to="/bgu/2">Faculty 2</Link>
-        </li>
-      </ul>
-    </div>
-  );
+const api = require('./api');
+
+
+class ListFaculties extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      faculties: []
+    }
+  }
+  componentDidMount = async () => {
+    let res = await api.getFaculties();
+    let faculties = JSON.parse(res.data.substr(1));
+    // console.log(faculties)
+    this.setState({ faculties });
+  }
+  render() {
+    const listItems = this.state.faculties.map(f => (
+      <li key={f.IdFaculty}><Link to={`${f.IdFaculty}/`}>{f.FacultyName}</Link></li>
+    ));
+    return (
+      <div>
+        <h2>List of faculties</h2>
+        <ul>
+          {listItems}
+        </ul>
+      </div>
+    );
+  }
 }
 
-function ListGroups(props) {
-  console.log(props.match);
-  const facultyId = props.match.params.facultyId;
-  return (
-    <div>
-      <h2>Groups of faculty {facultyId}</h2>
-      <ul>
-        <li>
-          <Link to={`/bgu/${facultyId}/10001`}>Group 1001</Link>
-        </li>
-        <li>
-          <Link to={`/bgu/${facultyId}/10002`}>Group 1002</Link>
-        </li>
-      </ul>
-    </div>
-  );
-}
-function TimeTable(props) {
-  const { groupId, facultyId } = props.match.params;
-  return (
-    <div>
-      There will be timetable of group {groupId} (faculty {facultyId})
-    </div>
-  );
+class ListGroups extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      groups: []
+    }
+  }
+  componentDidMount = async () => {
+    let res = await api.getGroups(this.props.match.params.facultyId);
+    let groups = JSON.parse(res.data.substr(1));
+    // console.log(groups)
+    this.setState({ groups });
+  }
+  render() {
+    const facultyId = this.props.match.params.facultyId;
+    const listItems = this.state.groups.map(f => (
+      <li key={f.IdGroup}><Link to={`${f.IdGroup}/`}>{f.Group}</Link></li>
+    ));
+    return (
+      <div>
+        <h2>Groups of faculty {facultyId}</h2>
+        <ul>
+          {listItems}
+        </ul>
+      </div>
+    );
+  }
 }
 
 class App extends React.Component {
-  componentDidMount = async () => {
-    let res = await api.getFaculties();
-    console.log(JSON.parse(res.data.substr(1)))
-  }
   render() {
     return (
       <Router>
@@ -56,7 +70,7 @@ class App extends React.Component {
           <h1>Title</h1>
           <Link to="/bgu/">Home</Link>
           <Switch>
-            <Route path="/bgu/:facultyId/:groupId" component={TimeTable} />
+            <Route path="/bgu/:facultyId(\d+)/:groupId(\d+)" component={TimeTable} />
             <Route path="/bgu/:facultyId(\d+)" component={ListGroups} />
             <Route path="/bgu/" component={ListFaculties} />
           </Switch>
