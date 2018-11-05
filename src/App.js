@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link, Switch, Redirect } from "react-router-dom";
+const api = require('./api')
 
 function ListFaculties(props) {
   return (
@@ -43,20 +44,26 @@ function TimeTable(props) {
   );
 }
 
-function App() {
-  return (
-    <Router>
-      <div>
-        <h1>Title</h1>
-        <Link to="/">Home</Link>
-        <Switch>
-          <Route path="/:facultyId/:groupId" component={TimeTable} />
-          <Route path="/:facultyId(\d+)" component={ListGroups} />
-          <Route path="/" component={ListFaculties} />
-        </Switch>
-      </div>
-    </Router>
-  );
+class App extends React.Component {
+  componentDidMount = async () => {
+    let res = await api.getFaculties();
+    console.log(JSON.parse(res.data.substr(1)))
+  }
+  render() {
+    return (
+      <Router>
+        <div>
+          <h1>Title</h1>
+          <Link to="/">Home</Link>
+          <Switch>
+            <Route path="/:facultyId/:groupId" component={TimeTable} />
+            <Route path="/:facultyId(\d+)" component={ListGroups} />
+            <Route path="/" component={ListFaculties} />
+          </Switch>
+        </div>
+      </Router>
+    );
+  }
 }
 
 export default App;
