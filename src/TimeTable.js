@@ -26,7 +26,7 @@ class TimeTable extends React.Component {
         There will be timetable of group {groupId} (faculty {facultyId})
         for {this.state.trimester.uYear}
         <div>
-          {JSON.stringify(this.state.schedule)}
+          <pre>{JSON.stringify(this.state.schedule, null, 2)}</pre>
         </div>
       </div>
     );
