@@ -3,9 +3,11 @@ const axios = require('axios')
 axios.defaults.baseURL = 'http://localhost:8080/mobile.bgu.ru/timetableJson.ashx';
 
 module.exports = {
-  getFaculties: () => axios.get(`/`)
+  getFaculties: () => axios.get(`/`),
+  getGroups: (facultyId) => axios.get(`/?mode=1&id=${facultyId}`),
+  getTrimester: () => axios.get(`/?mode=2`),
+  getSchedule: (groupId, trimesterId) => axios.get(`/?mode=3&id=${groupId}&idt=${trimesterId}`)
 }
-
 
 // simple testing
 // if (require.main === module) {
