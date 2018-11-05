@@ -1,4 +1,5 @@
 import React from "react";
+import TabsWeekDays from "./TimeTable/TabsWeekDays";
 // import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 const api = require('./api');
 
@@ -25,6 +26,9 @@ class TimeTable extends React.Component {
       <div>
         There will be timetable of group {groupId} (faculty {facultyId})
         for {this.state.trimester.uYear}
+        {
+          this.state.schedule.length > 0 && <TabsWeekDays schedule={this.state.schedule} />
+        }
         <div>
           <pre>{JSON.stringify(this.state.schedule, null, 2)}</pre>
         </div>

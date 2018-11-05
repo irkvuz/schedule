@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-axios.defaults.baseURL = 'http://localhost:8080/mobile.bgu.ru/timetableJson.ashx';
+axios.defaults.baseURL = 'http://192.168.0.200:8080/mobile.bgu.ru/timetableJson.ashx';
 
 module.exports = {
   getFaculties: () => axios.get(`/`),
