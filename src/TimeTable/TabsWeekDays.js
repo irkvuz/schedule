@@ -77,6 +77,21 @@ class TabsWeekDays extends React.Component {
     };
   }
 
+  updateDimensions = () => {
+    this.setState({
+      mode: window.innerWidth > window.innerHeight ? 'left' : 'top',
+    });
+  };
+  componentWillMount = function() {
+    this.updateDimensions();
+  };
+  componentDidMount = function() {
+    window.addEventListener('resize', this.updateDimensions);
+  };
+  componentWillUnmount = function() {
+    window.removeEventListener('resize', this.updateDimensions);
+  };
+
   handleModeChange = e => {
     const mode = e.target.value;
     this.setState({ mode });
@@ -101,7 +116,7 @@ class TabsWeekDays extends React.Component {
         (this.state.parity && s.Odd === 2) ||
         (!this.state.parity && s.Odd === 1)
       )
-      weekdays[s.WeekDay].lessons.push(s);
+        weekdays[s.WeekDay].lessons.push(s);
     }
     const tabpanes = weekdays.map((wd, i) => {
       if (wd.lessons.length > 0)
@@ -111,6 +126,7 @@ class TabsWeekDays extends React.Component {
               dataSource={wd.lessons}
               columns={columns}
               size="small"
+              className="TimeTable"
               showHeader={false}
               pagination={false}
               rowKey={r =>
@@ -128,14 +144,6 @@ class TabsWeekDays extends React.Component {
     });
     return (
       <div>
-        <Radio.Group
-          onChange={this.handleModeChange}
-          value={this.state.mode}
-          style={{ marginBottom: 8 }}
-        >
-          <Radio.Button value="top">Horizontal</Radio.Button>
-          <Radio.Button value="left">Vertical</Radio.Button>
-        </Radio.Group>
         &nbsp; Неделя: &nbsp;
         <Switch
           checkedChildren="ч"
