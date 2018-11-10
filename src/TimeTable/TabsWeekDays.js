@@ -102,10 +102,19 @@ class TabsWeekDays extends React.Component {
               columns={columns}
               size="small"
               showHeader={false}
-              rowKey={r => r.WeekDay + r.StartTime + r.Odd + r.Lesson}
+              pagination={false}
+              rowKey={r =>
+                r.WeekDay +
+                r.StartTime +
+                r.Odd +
+                r.Lesson +
+                r.LessonType +
+                r.FIO
+              }
             />
           </TabPane>
         );
+      else return null;
     });
     return (
       <div>

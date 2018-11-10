@@ -26,17 +26,12 @@ class TimeTable extends React.Component {
     const { groupId, facultyId } = this.props.match.params;
     return (
       <div>
-        Schedule for group {groupId} (faculty {facultyId}) for{' '}
-        {this.state.trimester.uYear}
         {this.state.schedule.length > 0 && (
           <TabsWeekDays
             loading={this.state.loading}
             schedule={this.state.schedule}
           />
         )}
-        <div>
-          <pre>{JSON.stringify(this.state.schedule, null, 2)}</pre>
-        </div>
       </div>
     );
   }
