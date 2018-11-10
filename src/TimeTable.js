@@ -13,13 +13,13 @@ class TimeTable extends React.Component {
   }
   componentDidMount = async () => {
     let res = await api.getTrimester();
-    let trimester = JSON.parse(res.data.substr(1))[0];
+    let trimester = res.data[0];
     console.log(trimester);
     res = await api.getSchedule(
       this.props.match.params.groupId,
       trimester.IdTrimester
     );
-    let schedule = JSON.parse(res.data.substr(1));
+    let schedule = res.data;
     this.setState({ trimester, schedule });
   };
   render() {

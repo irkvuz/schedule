@@ -2,13 +2,19 @@ const axios = require('axios');
 
 // axios.defaults.baseURL = "http://192.168.0.200:8080/mobile.bgu.ru/timetableJson.ashx";
 
-let apiOriginal = {
-  getFaculties: () => axios.get(`/`),
-  getGroups: facultyId => axios.get(`/?mode=1&id=${facultyId}`),
-  getTrimester: () => axios.get(`/?mode=2`),
-  getSchedule: (groupId, trimesterId) =>
-    axios.get(`/?mode=3&id=${groupId}&idt=${trimesterId}`),
-};
+// let apiOriginal = {
+//   getFaculties: async () => JSON.parse((await axios.get(`/`)).data.substr(1)),
+//   getGroups: async facultyId =>
+//     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
+//   getTrimester: async () =>
+//     JSON.parse((await axios.get(`/?mode=2`)).data.substr(1)),
+//   getSchedule: async (groupId, trimesterId) =>
+//     JSON.parse(
+//       (await axios.get(
+//         `/?mode=3&id=${groupId}&idt=${trimesterId}`
+//       )).data.substr(1)
+//     ),
+// };
 
 let apiFake = {
   getFaculties: () => axios.get(`/data/faculties.json`),

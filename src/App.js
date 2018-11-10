@@ -41,7 +41,7 @@ class ListGroups extends React.Component {
   }
   componentDidMount = async () => {
     let res = await api.getGroups(this.props.match.params.facultyId);
-    let groups = JSON.parse(res.data.substr(1));
+    let groups = res.data;
     // console.log(groups)
     this.setState({ groups });
   };
