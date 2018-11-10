@@ -14,9 +14,14 @@ class ListFaculties extends React.Component {
   }
   componentDidMount = async () => {
     this.setState({ loading: true });
-    let res = await api['getFaculties']();
-    let faculties = res.data;
-    this.setState({ faculties, loading: false });
+    try {
+      let res = await api['getFaculties']();
+      let faculties = res.data;
+      this.setState({ faculties, loading: false });
+    } catch (error) {
+      console.error(error);
+      this.setState({ loading: false });
+    }
   };
   render() {
     return (
@@ -47,9 +52,14 @@ class ListGroups extends React.Component {
   }
   componentDidMount = async () => {
     this.setState({ loading: true });
-    let res = await api.getGroups(this.props.match.params.facultyId);
-    let groups = res.data;
-    this.setState({ groups, loading: false });
+    try {
+      let res = await api.getGroups(this.props.match.params.facultyId);
+      let groups = res.data;
+      this.setState({ groups, loading: false });
+    } catch (error) {
+      console.error(error);
+      this.setState({ loading: false });
+    }
   };
   render() {
     console.log(this.state.groups);
