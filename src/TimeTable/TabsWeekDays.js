@@ -1,10 +1,11 @@
 import React from 'react';
-import { Tabs, Radio, Table, Icon, Switch } from 'antd';
+import { Tabs, Table, Icon, Switch } from 'antd';
+import moment from 'moment';
 import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
-const wdn = 'воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота'.split(
+const wdn = 'Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота'.split(
   '_'
 );
 
@@ -60,7 +61,7 @@ const columns = [
             {record.Lesson}
           </div>
           <div title={record.FIO}>
-            <Icon type="user" /> {record.FIOshort}
+            <Icon type="user" /> {record.FIO}
           </div>
         </React.Fragment>
       );
@@ -73,7 +74,8 @@ class TabsWeekDays extends React.Component {
     super(props);
     this.state = {
       mode: 'top',
-      parity: false,
+      parity: props.parity % 2,
+      day: moment().weekday() || 1,
     };
   }
 
@@ -149,8 +151,12 @@ class TabsWeekDays extends React.Component {
           checkedChildren="ч"
           unCheckedChildren="н"
           onChange={this.handleParityChange}
-        />
-        <Tabs defaultActiveKey="1" tabPosition={this.state.mode}>
+        />{' '}
+        ({this.props.week_n}/{this.props.week_t})
+        <Tabs
+          defaultActiveKey={this.state.day.toString()}
+          tabPosition={this.state.mode}
+        >
           {tabpanes}
         </Tabs>
       </div>
