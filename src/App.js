@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
-import TimeTable from './TimeTable';
+import TimeTable from './TimeTable/TimeTable';
 import { ListFaculties, ListGroups } from './Lists';
 
 class App extends React.Component {

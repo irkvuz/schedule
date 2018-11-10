@@ -1,7 +1,7 @@
 import React from 'react';
-import TabsWeekDays from './TimeTable/TabsWeekDays';
+import TabsWeekDays from './TabsWeekDays';
 // import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
-const api = require('./api');
+const api = require('../api');
 
 class TimeTable extends React.Component {
   constructor(props) {
@@ -13,7 +13,7 @@ class TimeTable extends React.Component {
   }
   componentDidMount = async () => {
     let res = await api.getTrimester();
-    let trimester = res.data[0];
+    let trimester = res.data;
     console.log(trimester);
     res = await api.getSchedule(
       this.props.match.params.groupId,
@@ -26,7 +26,7 @@ class TimeTable extends React.Component {
     const { groupId, facultyId } = this.props.match.params;
     return (
       <div>
-        There will be timetable of group {groupId} (faculty {facultyId}) for{' '}
+        Schedule for group {groupId} (faculty {facultyId}) for{' '}
         {this.state.trimester.uYear}
         {this.state.schedule.length > 0 && (
           <TabsWeekDays schedule={this.state.schedule} />
