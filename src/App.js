@@ -8,7 +8,6 @@ class App extends React.Component {
     return (
       <Router>
         <div>
-          <h1>Schedule of Baikal State University</h1>
           <Link to="/">Home</Link>
           <Switch>
             <Route
