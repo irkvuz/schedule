@@ -4,18 +4,6 @@ import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
-// {
-//   "WeekDay": 1,
-//     "StartTime": "17:30",
-//       "Odd": 1,
-//         "Lesson": "Юридические лица как субъекты гражданских правоотношений ",
-//           "LessonType": "пр",
-//             "Room": "6-409",
-//               "FIO": "Тюкавкин-Плотников Алексей Александрович",
-//                 "FIOshort": "Тюкавкин-Плотников А",
-//                   "Error": null
-// },
-
 const columns = [
   {
     title: 'Время',
