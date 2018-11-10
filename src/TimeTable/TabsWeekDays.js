@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs, Radio, Table, Icon } from 'antd';
+import { Tabs, Radio, Table, Icon, Switch } from 'antd';
 import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
@@ -73,12 +73,17 @@ class TabsWeekDays extends React.Component {
     super(props);
     this.state = {
       mode: 'top',
+      parity: false,
     };
   }
 
   handleModeChange = e => {
     const mode = e.target.value;
     this.setState({ mode });
+  };
+
+  handleParityChange = parity => {
+    this.setState({ parity });
   };
 
   render() {
@@ -91,6 +96,11 @@ class TabsWeekDays extends React.Component {
     }
     const { schedule } = this.props;
     for (let s of schedule) {
+      if (
+        s.Odd === 0 ||
+        (this.state.parity && s.Odd === 2) ||
+        (!this.state.parity && s.Odd === 1)
+      )
       weekdays[s.WeekDay].lessons.push(s);
     }
     const tabpanes = weekdays.map((wd, i) => {
@@ -126,6 +136,12 @@ class TabsWeekDays extends React.Component {
           <Radio.Button value="top">Horizontal</Radio.Button>
           <Radio.Button value="left">Vertical</Radio.Button>
         </Radio.Group>
+        &nbsp; Неделя: &nbsp;
+        <Switch
+          checkedChildren="ч"
+          unCheckedChildren="н"
+          onChange={this.handleParityChange}
+        />
         <Tabs defaultActiveKey="1" tabPosition={this.state.mode}>
           {tabpanes}
         </Tabs>
