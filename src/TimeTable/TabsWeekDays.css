@@ -5,6 +5,10 @@
   white-space: nowrap;
 }
 
+.StartTime {
+  margin-bottom: 4px;
+}
+
 .Room {
   /* width: 56px; */
 }

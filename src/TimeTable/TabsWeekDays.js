@@ -32,10 +32,12 @@ const columns = [
     render: (text, record, index) => {
       return (
         <React.Fragment>
-          <div>
+          <div className="StartTime">
             <Icon type="clock-circle" /> {record.StartTime}
           </div>
-          <div>{record.Room}</div>
+          <div className="Room">
+            <Icon type="environment" /> {record.Room}
+          </div>
         </React.Fragment>
       );
     },
