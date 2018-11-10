@@ -1,0 +1,44 @@
+[
+  {
+    "IdFaculty": 36,
+    "FacultyName": "Институт государства и права",
+    "FacultyAbbr": "ИГП",
+    "Error": null
+  },
+  {
+    "IdFaculty": 210,
+    "FacultyName": "Институт культуры, социальных коммуникаций и информационных технологий",
+    "FacultyAbbr": "ИКСКИТ",
+    "Error": null
+  },
+  {
+    "IdFaculty": 204,
+    "FacultyName": "Институт мировой экономики и международных отношений",
+    "FacultyAbbr": "ИМЭМО",
+    "Error": null
+  },
+  {
+    "IdFaculty": 209,
+    "FacultyName": "Институт народного хозяйства",
+    "FacultyAbbr": "ИНХ",
+    "Error": null
+  },
+  {
+    "IdFaculty": 205,
+    "FacultyName": "Институт управления и финансов",
+    "FacultyAbbr": "ИУФ",
+    "Error": null
+  },
+  {
+    "IdFaculty": 30,
+    "FacultyName": "Информатики, учета и сервиса",
+    "FacultyAbbr": "ФИУС",
+    "Error": null
+  },
+  {
+    "IdFaculty": 35,
+    "FacultyName": "Русско-китайский",
+    "FacultyAbbr": "РКФ",
+    "Error": null
+  }
+]

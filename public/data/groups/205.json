@@ -1,0 +1,596 @@
+[
+  {
+    "IdGroup": 17434,
+    "Group": "БД(11)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17485,
+    "Group": "БД(11)-17-2",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17684,
+    "Group": "БД(11)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 30143,
+    "Group": "БД(11)-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16621,
+    "Group": "БД(9)-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17433,
+    "Group": "БД(9)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17484,
+    "Group": "БД(9)-17-2",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17683,
+    "Group": "БД(9)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 30144,
+    "Group": "БД(9)-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17448,
+    "Group": "БУ(11)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17685,
+    "Group": "БУ(11)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 30142,
+    "Group": "БУ(11)-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16612,
+    "Group": "БУ(9)-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 16613,
+    "Group": "БУ(9)-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17447,
+    "Group": "БУ(9)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17686,
+    "Group": "БУ(9)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 15958,
+    "Group": "ГМУ-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16788,
+    "Group": "ГМУ-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17054,
+    "Group": "ГМУ-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17200,
+    "Group": "ГМУ-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17201,
+    "Group": "ГМУ-17-2",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17715,
+    "Group": "ГМУ-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17716,
+    "Group": "ГМУ-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17508,
+    "Group": "ДОУ(11)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 30120,
+    "Group": "ДОУ(11)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16624,
+    "Group": "ДОУ(9)-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17451,
+    "Group": "ДОУ(9)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17689,
+    "Group": "ДОУ(9)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16030,
+    "Group": "М-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16733,
+    "Group": "М-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 16735,
+    "Group": "М-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17208,
+    "Group": "М-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17765,
+    "Group": "М-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17315,
+    "Group": "МГА-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17837,
+    "Group": "МГА-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17311,
+    "Group": "МГМУ-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17884,
+    "Group": "МГМУ-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17339,
+    "Group": "ММен-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17854,
+    "Group": "ММен-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17302,
+    "Group": "МММеж-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17868,
+    "Group": "МММеж-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17293,
+    "Group": "ММРК-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17853,
+    "Group": "ММРК-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16947,
+    "Group": "МПЛ-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17209,
+    "Group": "МПЛ-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 16028,
+    "Group": "МРК-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16731,
+    "Group": "МРК-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17199,
+    "Group": "МРК-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17764,
+    "Group": "МРК-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 30128,
+    "Group": "МРК-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17336,
+    "Group": "МУБ-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17858,
+    "Group": "МУБ-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17366,
+    "Group": "МУП-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17907,
+    "Group": "МУП-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17276,
+    "Group": "МФиК-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17634,
+    "Group": "МФиК-17б",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17635,
+    "Group": "МФиК-17с",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17633,
+    "Group": "МФиК-17ф",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17855,
+    "Group": "МФиК-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17269,
+    "Group": "МФМеж-17",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17917,
+    "Group": "МФМеж-18",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16035,
+    "Group": "Н-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16748,
+    "Group": "Н-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17188,
+    "Group": "Н-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17756,
+    "Group": "Н-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16016,
+    "Group": "РФф-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16749,
+    "Group": "РФф-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17192,
+    "Group": "РФф-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17769,
+    "Group": "РФф-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16004,
+    "Group": "УБ-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16005,
+    "Group": "УБ-15-2",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16746,
+    "Group": "УБ-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 16747,
+    "Group": "УБ-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17186,
+    "Group": "УБ-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17754,
+    "Group": "УБ-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 15994,
+    "Group": "УП-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 15995,
+    "Group": "УП-15-2",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16742,
+    "Group": "УП-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 16743,
+    "Group": "УП-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17196,
+    "Group": "УП-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17197,
+    "Group": "УП-17-2",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17860,
+    "Group": "УП-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 15968,
+    "Group": "Ф-15-1",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 15969,
+    "Group": "Ф-15-2",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 15970,
+    "Group": "Ф-15-3",
+    "Course": 4,
+    "Error": null
+  },
+  {
+    "IdGroup": 16703,
+    "Group": "Ф-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 16702,
+    "Group": "Ф-16-2",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17211,
+    "Group": "Ф-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17210,
+    "Group": "Ф-17-2",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17212,
+    "Group": "Ф-17-3",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17771,
+    "Group": "Ф-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17770,
+    "Group": "Ф-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17450,
+    "Group": "Ф(11)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 17688,
+    "Group": "Ф(11)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 30145,
+    "Group": "Ф(11)-18-2",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 16629,
+    "Group": "Ф(9)-16-1",
+    "Course": 3,
+    "Error": null
+  },
+  {
+    "IdGroup": 17449,
+    "Group": "Ф(9)-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 18176,
+    "Group": "Ф(9)-18-1",
+    "Course": 1,
+    "Error": null
+  },
+  {
+    "IdGroup": 17607,
+    "Group": "Фс-16-1",
+    "Course": 3,
+    "Error": null
+  }
+]
