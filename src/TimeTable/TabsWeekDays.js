@@ -1,6 +1,6 @@
-import React from "react";
-import { Tabs, Radio, Table } from "antd";
-import './TabsWeekDays.css'
+import React from 'react';
+import { Tabs, Radio, Table } from 'antd';
+import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
@@ -39,7 +39,7 @@ class TabsWeekDays extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      mode: "top"
+      mode: 'top',
     };
   }
 
@@ -52,7 +52,11 @@ class TabsWeekDays extends React.Component {
     const { mode } = this.state;
     return (
       <div>
-        <Radio.Group onChange={this.handleModeChange} value={mode} style={{ marginBottom: 8 }}>
+        <Radio.Group
+          onChange={this.handleModeChange}
+          value={mode}
+          style={{ marginBottom: 8 }}
+        >
           <Radio.Button value="top">Horizontal</Radio.Button>
           <Radio.Button value="left">Vertical</Radio.Button>
         </Radio.Group>
@@ -61,25 +65,15 @@ class TabsWeekDays extends React.Component {
             <Table
               dataSource={this.props.schedule}
               columns={columns}
-              size='small'
+              size="small"
               scroll={{ x: true }}
             />
           </TabPane>
-          <TabPane tab="Вторник" key="2">
-
-          </TabPane>
-          <TabPane tab="Среда" key="3">
-
-          </TabPane>
-          <TabPane tab="Четверг" key="4">
-
-          </TabPane>
-          <TabPane tab="Пятница" key="5">
-
-          </TabPane>
-          <TabPane tab="Суббота" key="6">
-
-          </TabPane>
+          <TabPane tab="Вторник" key="2" />
+          <TabPane tab="Среда" key="3" />
+          <TabPane tab="Четверг" key="4" />
+          <TabPane tab="Пятница" key="5" />
+          <TabPane tab="Суббота" key="6" />
         </Tabs>
       </div>
     );
