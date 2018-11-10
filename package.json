@@ -5,7 +5,7 @@
   "repository": "https://github.com/irkvuz/bgu.git",
   "author": "Yury Savin <savinyurii@gmail.com>",
   "license": "MIT",
-  "homepage": "https://irkvuz.github.io/bgu",
+  "homepage": "https://bgu.irkvuz.ru",
   "private": false,
   "dependencies": {
     "antd": "^3.10.4",

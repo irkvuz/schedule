@@ -9,14 +9,14 @@ class App extends React.Component {
       <Router>
         <div>
           <h1>Schedule of Baikal State University</h1>
-          <Link to="/bgu/">Home</Link>
+          <Link to="/">Home</Link>
           <Switch>
             <Route
-              path="/bgu/:facultyId(\d+)/:groupId(\d+)"
+              path="/:facultyId(\d+)/:groupId(\d+)"
               component={TimeTable}
             />
-            <Route path="/bgu/:facultyId(\d+)" component={ListGroups} />
-            <Route path="/bgu/" component={ListFaculties} />
+            <Route path="/:facultyId(\d+)" component={ListGroups} />
+            <Route path="/" component={ListFaculties} />
           </Switch>
         </div>
       </Router>
