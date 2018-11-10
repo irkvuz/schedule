@@ -1,1 +1,47 @@
-.ant-table td { white-space: nowrap; }
+/* .ant-table td { white-space: nowrap; } */
+
+.StartTime_Room {
+  /* width: 68px; */
+  white-space: nowrap;
+}
+
+.Room {
+  /* width: 56px; */
+}
+
+.Lesson {
+  /* max-width: 100px; */
+}
+
+.LessonType {
+  padding: 0 4px;
+  border-radius: 10%;
+}
+
+.lek1 {
+  background-color: #e0c8ff;
+}
+.lek2 {
+  background-color: #7fffd4;
+}
+.lek3 {
+  background-color: #80adff;
+}
+.lek4 {
+  background-color: #ff69b4;
+}
+.lek5 {
+  background-color: #ff4687;
+}
+.lek6 {
+  background-color: #ffbf46;
+}
+.lek7 {
+  background-color: #46e1ff;
+}
+.lek8 {
+  background-color: #ff0000;
+}
+.lek9 {
+  background-color: #46ff64;
+}

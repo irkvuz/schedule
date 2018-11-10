@@ -1,25 +1,68 @@
 import React from 'react';
-import { Tabs, Radio, Table } from 'antd';
+import { Tabs, Radio, Table, Icon } from 'antd';
 import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
+const wdn = 'воскресенье_понедельник_вторник_среда_четверг_пятница_суббота'.split(
+  '_'
+);
+
+const LessonTypes = {
+  вне: { name: 'внеучебное занятие', className: 'lek0' },
+  л: { name: 'лекция', className: 'lek1' },
+  пр: { name: 'практическое занятие', className: 'lek2' },
+  лаб: { name: 'лабораторная работа', className: 'lek3' },
+  зач: { name: 'зачет', className: 'lek4' },
+  экз: { name: 'экзамен', className: 'lek5' },
+  конс: { name: 'консультация', className: 'lek6' },
+  'п/с': { name: 'пересдача', className: 'lek7' },
+  '': { name: 'внеплановое занятие', className: 'lek8' },
+  тест: { name: 'тестирование', className: 'lek9' },
+  подг: { name: 'подготовительные курсы', className: 'lek10' },
+  ол: { name: 'олимпиада', className: 'lek11' },
+  конф: { name: 'научная конференция', className: 'lek12' },
+  откр: { name: 'день открытых дверей', className: 'lek13' },
+};
+
 const columns = [
   {
-    title: 'Время',
-    dataIndex: 'StartTime',
+    key: 'first',
+    className: 'StartTime_Room',
+    render: (text, record, index) => {
+      return (
+        <React.Fragment>
+          <div>
+            <Icon type="clock-circle" /> {record.StartTime}
+          </div>
+          <div>{record.Room}</div>
+        </React.Fragment>
+      );
+    },
   },
   {
-    title: 'Предмет',
-    dataIndex: 'Lesson',
-  },
-  {
-    title: 'Преподаватель',
-    dataIndex: 'FIO',
-  },
-  {
-    title: 'Кабинет',
-    dataIndex: 'Room',
+    key: 'second',
+    render: (text, record, index) => {
+      return (
+        <React.Fragment>
+          <div>
+            <span
+              title={LessonTypes[record.LessonType].name}
+              className={`LessonType ${
+                LessonTypes[record.LessonType].className
+              }`}
+            >
+              {record.LessonType}
+            </span>
+            &nbsp;
+            {record.Lesson}
+          </div>
+          <div title={record.FIO}>
+            <Icon type="user" /> {record.FIOshort}
+          </div>
+        </React.Fragment>
+      );
+    },
   },
 ];
 
@@ -37,24 +80,36 @@ class TabsWeekDays extends React.Component {
   };
 
   render() {
-    const { mode } = this.state;
+    let weekdays = [];
+    for (let i = 1; i <= 6; i++) {
+      weekdays[i] = {
+        name: wdn[i],
+        lessons: [],
+      };
+    }
+    const { schedule } = this.props;
+    for (let s of schedule) {
+      weekdays[s.WeekDay].lessons.push(s);
+    }
     return (
       <div>
         <Radio.Group
           onChange={this.handleModeChange}
-          value={mode}
+          value={this.state.mode}
           style={{ marginBottom: 8 }}
         >
           <Radio.Button value="top">Horizontal</Radio.Button>
           <Radio.Button value="left">Vertical</Radio.Button>
         </Radio.Group>
-        <Tabs defaultActiveKey="1" tabPosition={mode}>
+        <Tabs defaultActiveKey="1" tabPosition={this.state.mode}>
           <TabPane tab="Понедельник" key="1">
             <Table
               dataSource={this.props.schedule}
               columns={columns}
               size="small"
-              scroll={{ x: true }}
+              showHeader={false}
+              // scroll={{ x: true }}
+              rowKey={r => r.WeekDay + r.StartTime + r.Odd + r.Lesson}
             />
           </TabPane>
           <TabPane tab="Вторник" key="2" />
