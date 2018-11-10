@@ -4,7 +4,7 @@ import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
-const wdn = 'воскресенье_понедельник_вторник_среда_четверг_пятница_суббота'.split(
+const wdn = 'воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота'.split(
   '_'
 );
 
@@ -93,6 +93,20 @@ class TabsWeekDays extends React.Component {
     for (let s of schedule) {
       weekdays[s.WeekDay].lessons.push(s);
     }
+    const tabpanes = weekdays.map((wd, i) => {
+      if (wd.lessons.length > 0)
+        return (
+          <TabPane tab={wd.name} key={i}>
+            <Table
+              dataSource={wd.lessons}
+              columns={columns}
+              size="small"
+              showHeader={false}
+              rowKey={r => r.WeekDay + r.StartTime + r.Odd + r.Lesson}
+            />
+          </TabPane>
+        );
+    });
     return (
       <div>
         <Radio.Group
@@ -104,21 +118,7 @@ class TabsWeekDays extends React.Component {
           <Radio.Button value="left">Vertical</Radio.Button>
         </Radio.Group>
         <Tabs defaultActiveKey="1" tabPosition={this.state.mode}>
-          <TabPane tab="Понедельник" key="1">
-            <Table
-              dataSource={this.props.schedule}
-              columns={columns}
-              size="small"
-              showHeader={false}
-              // scroll={{ x: true }}
-              rowKey={r => r.WeekDay + r.StartTime + r.Odd + r.Lesson}
-            />
-          </TabPane>
-          <TabPane tab="Вторник" key="2" />
-          <TabPane tab="Среда" key="3" />
-          <TabPane tab="Четверг" key="4" />
-          <TabPane tab="Пятница" key="5" />
-          <TabPane tab="Суббота" key="6" />
+          {tabpanes}
         </Tabs>
       </div>
     );
