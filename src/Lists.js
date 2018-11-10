@@ -9,12 +9,14 @@ class ListFaculties extends React.Component {
     super(props);
     this.state = {
       faculties: [],
+      loading: false,
     };
   }
   componentDidMount = async () => {
+    this.setState({ loading: true });
     let res = await api['getFaculties']();
     let faculties = res.data;
-    this.setState({ faculties });
+    this.setState({ faculties, loading: false });
   };
   render() {
     return (
@@ -22,6 +24,7 @@ class ListFaculties extends React.Component {
         <h2>List of faculties</h2>
         <List
           dataSource={this.state.faculties}
+          loading={this.state.loading}
           bordered
           renderItem={f => (
             <List.Item key={f.IdFaculty}>
@@ -39,12 +42,14 @@ class ListGroups extends React.Component {
     super(props);
     this.state = {
       groups: [],
+      loading: false,
     };
   }
   componentDidMount = async () => {
+    this.setState({ loading: true });
     let res = await api.getGroups(this.props.match.params.facultyId);
     let groups = res.data;
-    this.setState({ groups });
+    this.setState({ groups, loading: false });
   };
   render() {
     console.log(this.state.groups);
@@ -53,6 +58,7 @@ class ListGroups extends React.Component {
         <h2>List of groups</h2>
         <List
           dataSource={this.state.groups}
+          loading={this.state.loading}
           bordered
           renderItem={g => (
             <List.Item key={g.IdGroup}>

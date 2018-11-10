@@ -9,18 +9,18 @@ class TimeTable extends React.Component {
     this.state = {
       trimester: {},
       schedule: {},
+      loading: false,
     };
   }
   componentDidMount = async () => {
+    this.setState({ loading: true });
     let res = await api.getTrimester();
     let trimester = res.data;
     console.log(trimester);
-    res = await api.getSchedule(
-      this.props.match.params.groupId,
-      trimester.IdTrimester
-    );
+    const groupId = this.props.match.params.groupId;
+    res = await api.getSchedule(groupId, trimester.IdTrimester);
     let schedule = res.data;
-    this.setState({ trimester, schedule });
+    this.setState({ trimester, schedule, loading: false });
   };
   render() {
     const { groupId, facultyId } = this.props.match.params;
@@ -29,7 +29,10 @@ class TimeTable extends React.Component {
         Schedule for group {groupId} (faculty {facultyId}) for{' '}
         {this.state.trimester.uYear}
         {this.state.schedule.length > 0 && (
-          <TabsWeekDays schedule={this.state.schedule} />
+          <TabsWeekDays
+            loading={this.state.loading}
+            schedule={this.state.schedule}
+          />
         )}
         <div>
           <pre>{JSON.stringify(this.state.schedule, null, 2)}</pre>
