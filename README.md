@@ -1,10 +1,14 @@
-# Schedule of Baikal State University
+# Schedule of Baikal State University (Irkutsk)
 
 This is [React.js](https://reactjs.org) based single page progressive web application.
 
 ## Features
 
-### Responsive
+### Fully Responsive
+
+Works well on both desktop and mobile, large screen and small screen.
+
+![Desktop and Mobile](docs/screenshots/1/4.png)
 
 ![Rotate example](docs/screenshots/rotate.gif)
 
@@ -14,7 +18,7 @@ This is [React.js](https://reactjs.org) based single page progressive web applic
 
 ## Getting Started
 
-To start contributing jast fork and clone this repo.
+To start contributing just fork and clone this repo.
 
 ## Built With
 
@@ -31,4 +35,5 @@ If you have any questions, feel free to contact me via Telegram: [@savinyurii](h
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
+Copyright (c) [Yury Savin](htti://baitun.github.io). All rights reserved.
