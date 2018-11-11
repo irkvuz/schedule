@@ -35,5 +35,5 @@ If you have any questions, feel free to contact me via Telegram: [@savinyurii](h
 
 ## License
 
-This project is licensed under the MIT License.
-Copyright (c) [Yury Savin](htti://baitun.github.io). All rights reserved.
+This project is licensed under the MIT License.  
+Copyright (c) [Yury Savin](http://baitun.github.io). All rights reserved.
