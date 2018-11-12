@@ -72,10 +72,12 @@ const columns = [
 class TabsWeekDays extends React.Component {
   constructor(props) {
     super(props);
+    let today = moment();
     this.state = {
       mode: 'top',
       parity: props.parity % 2,
-      day: moment().weekday() || 1,
+      day: today.weekday() || 1,
+      today,
     };
   }
 
@@ -146,13 +148,20 @@ class TabsWeekDays extends React.Component {
     });
     return (
       <div>
-        &nbsp; Неделя: &nbsp;
-        <Switch
-          checkedChildren="ч"
-          unCheckedChildren="н"
-          onChange={this.handleParityChange}
-        />{' '}
-        ({this.props.week_n}/{this.props.week_t})
+        <div>
+          Сегодня {wdn[this.state.day]}, {this.state.today.format('LL')} неделя{' '}
+          {this.props.week_n} из {this.props.week_t} (
+          {this.props.parity ? 'Четная' : 'Нечетная'})
+        </div>
+        <div className="switch-parity">
+          Неделя: &nbsp;
+          <Switch
+            checkedChildren="ч"
+            unCheckedChildren="н"
+            value={this.state.parity}
+            onChange={this.handleParityChange}
+          />
+        </div>
         <Tabs
           defaultActiveKey={this.state.day.toString()}
           tabPosition={this.state.mode}
