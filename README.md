@@ -1,6 +1,6 @@
 # Schedule of Baikal State University (Irkutsk)
 
-This is [React.js](https://reactjs.org) based single page progressive web application.  
+This is [React.js](https://reactjs.org) based single page progressive web application. This application is designed from scratch.  
 
 ![Desktop and Mobile](docs/screenshots/1/4.png)
 
