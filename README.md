@@ -1,6 +1,8 @@
-# Schedule of Baikal State University (Irkutsk)
+# Schedule for Baikal State University students (Irkutsk)
 
 This is [React.js](https://reactjs.org) based single page progressive web application. This application is designed from scratch.  
+
+App is available here: http://bgu.irkvuz.ru  
 
 ![Desktop and Mobile](docs/screenshots/1/4.png)
 
