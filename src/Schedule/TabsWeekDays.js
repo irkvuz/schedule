@@ -130,7 +130,7 @@ class TabsWeekDays extends React.Component {
               dataSource={wd.lessons}
               columns={columns}
               size="small"
-              className="TimeTable"
+              className="Schedule"
               showHeader={false}
               pagination={false}
               rowKey={r =>

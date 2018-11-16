@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
-import TimeTable from './TimeTable/TimeTable';
+import Schedule from './Schedule/Schedule';
 import { ListFaculties, ListGroups } from './Lists';
 import { LocaleProvider } from 'antd';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
@@ -16,7 +16,7 @@ class App extends React.Component {
             <Switch>
               <Route
                 path="/:facultyId(\d+)/:groupId(\d+)"
-                component={TimeTable}
+                component={Schedule}
               />
               <Route path="/:facultyId(\d+)" component={ListGroups} />
               <Route path="/" component={ListFaculties} />

@@ -4,7 +4,7 @@ import moment from 'moment';
 // import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 const api = require('../api');
 
-class TimeTable extends React.Component {
+class Schedule extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -51,4 +51,4 @@ class TimeTable extends React.Component {
   }
 }
 
-export default TimeTable;
+export default Schedule;
