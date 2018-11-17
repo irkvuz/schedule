@@ -47,7 +47,7 @@ const columns = [
     key: 'second',
     render: (text, record, index) => {
       return (
-        <React.Fragment>
+        <>
           <div>
             <span
               title={LessonTypes[record.LessonType].name}
@@ -63,7 +63,7 @@ const columns = [
           <div title={record.FIO}>
             <Icon type="user" /> {record.FIO}
           </div>
-        </React.Fragment>
+        </>
       );
     },
   },
@@ -75,8 +75,8 @@ class TabsWeekDays extends React.Component {
     let today = moment();
     this.state = {
       mode: 'top',
-      parity: props.parity % 2,
-      day: today.weekday() || 1,
+      parity: props.week_n % 2 === 0,
+      day: today.isoWeekday(),
       today,
     };
   }
@@ -151,14 +151,14 @@ class TabsWeekDays extends React.Component {
         <div>
           Сегодня {wdn[this.state.day]}, {this.state.today.format('LL')} неделя{' '}
           {this.props.week_n} из {this.props.week_t} (
-          {this.props.parity ? 'Четная' : 'Нечетная'})
+          {this.props.week_n % 2 === 0 ? 'Четная' : 'Нечетная'})
         </div>
         <div className="switch-parity">
-          Неделя: &nbsp;
+          Показать неделю: &nbsp;
           <Switch
             checkedChildren="ч"
             unCheckedChildren="н"
-            value={this.state.parity}
+            checked={this.state.parity}
             onChange={this.handleParityChange}
           />
         </div>
