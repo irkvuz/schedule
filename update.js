@@ -37,14 +37,18 @@ let json2file = (path, obj) => {
 
   let faculties = await api.getFaculties();
   json2file(`./public/data/faculties.json`, faculties);
+  let facultiesWithGroups = [];
   for (let f of faculties) {
     console.log(f.IdFaculty);
     let groups = await api.getGroups(f.IdFaculty);
     json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
+    f.groups = groups;
+    facultiesWithGroups.push(f);
     for (let g of groups) {
       console.log('\t', g.IdGroup);
       let schedule = await api.getSchedule(g.IdGroup, trimesterId);
       json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
     }
   }
+  json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
 })();
