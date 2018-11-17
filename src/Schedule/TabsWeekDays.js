@@ -149,8 +149,8 @@ class TabsWeekDays extends React.Component {
     return (
       <>
         <div>
-          Сегодня {wdn[this.state.day]}, {this.state.today.format('LL')} неделя{' '}
-          {this.props.week_n} из {this.props.week_t} (
+          Сегодня {wdn[this.state.day % 7]}, {this.state.today.format('LL')}{' '}
+          неделя {this.props.week_n} из {this.props.week_t} (
           {this.props.week_n % 2 === 0 ? 'Четная' : 'Нечетная'})
         </div>
         <div className="switch-parity">
