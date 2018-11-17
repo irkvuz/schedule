@@ -27,16 +27,13 @@ let json2file = (path, obj) => {
 };
 
 (async () => {
+  console.log('Start downloading');
   let trimesters = await api.getTrimester();
-  json2file(
-    `./public/data/trimesters/${trimesters[0].IdTrimester}.json`,
-    trimesters[0]
-  );
+  let trimesterId = trimesters[0].IdTrimester;
+  json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
   json2file(`./public/data/trimesters/current.json`, trimesters[0]);
-  let dirSchedule = `./public/data/schedule/${trimesters[0].IdTrimester}`;
-  if (!fs.existsSync(dirSchedule)) {
-    fs.mkdirSync(dirSchedule);
-  }
+  let dirSchedule = `./public/data/schedule/${trimesterId}`;
+  if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
   let faculties = await api.getFaculties();
   json2file(`./public/data/faculties.json`, faculties);
@@ -45,11 +42,8 @@ let json2file = (path, obj) => {
     let groups = await api.getGroups(f.IdFaculty);
     json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
     for (let g of groups) {
-      console.log(g.IdGroup);
-      let schedule = await api.getSchedule(
-        g.IdGroup,
-        trimesters[0].IdTrimester
-      );
+      console.log('\t', g.IdGroup);
+      let schedule = await api.getSchedule(g.IdGroup, trimesterId);
       json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
     }
   }
