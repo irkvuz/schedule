@@ -1,8 +1,13 @@
+/**
+ * This script download api response and for all methods and save it to the ./public/data/*.json files
+ */
+
 const axios = require('axios');
 const fs = require('fs');
 
 axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
 
+// substr(1) is needed because response from api contains `@` signn as a first symbol
 let api = {
   getFaculties: async () => JSON.parse((await axios.get(`/`)).data.substr(1)),
   getGroups: async facultyId =>
