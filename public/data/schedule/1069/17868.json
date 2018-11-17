@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Основы научно-исследовательской деятельности  (Master Thesis Colloquium)",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Невзорова Екатерина Николаевна",
+    "FIOshort": "Невзорова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Современные методы исследований (Contemporary Research Methodology)",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Современные методы исследований (Contemporary Research Methodology)",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (Business English)",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Интенсивный курс английского языка (Supplementary English Course)",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Командообразование (Teambuilding)",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Командообразование (Teambuilding)",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Международные интеграционные процессы (International Integration Processes)",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экономика России (Russian Economy)",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Международные интеграционные процессы (International Integration Processes)",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Экономика России (Russian Economy)",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Быков Степан Сергеевич",
+    "FIOshort": "Быков С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Быков Степан Сергеевич",
+    "FIOshort": "Быков С.С.",
+    "Error": null
+  }
+]

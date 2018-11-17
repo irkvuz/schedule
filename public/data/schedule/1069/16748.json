@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налогообложение физических лиц",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налогообложение физических лиц",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Налогообложение физических лиц",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Социальное страхование",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-208",
+    "FIO": "Ширяева Елена Анатольевна",
+    "FIOshort": "Ширяева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Ширяева Елена Анатольевна",
+    "FIOshort": "Ширяева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "4-210",
+    "FIO": "Ширяева Елена Анатольевна",
+    "FIOshort": "Ширяева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "4-210",
+    "FIO": "Ширяева Елена Анатольевна",
+    "FIOshort": "Ширяева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налогообложение использования природных ресурсов",
+    "LessonType": "л",
+    "Room": "4-210",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налогообложение использования природных ресурсов",
+    "LessonType": "пр",
+    "Room": "4-210",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговые системы зарубежных стран",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Ярунина Анна Германовна",
+    "FIOshort": "Ярунина А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоговые системы зарубежных стран",
+    "LessonType": "пр",
+    "Room": "4-206",
+    "FIO": "Ярунина Анна Германовна",
+    "FIOshort": "Ярунина А.Г.",
+    "Error": null
+  }
+]

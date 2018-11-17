@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Теория и история дипломатии",
+    "LessonType": "пр",
+    "Room": "5-515",
+    "FIO": "Лапыренок Роман Викторович",
+    "FIOshort": "Лапыренок Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Демидов Марк Павлович",
+    "FIOshort": "Демидов М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Теория и история дипломатии",
+    "LessonType": "л",
+    "Room": "5-301",
+    "FIO": "Лапыренок Роман Викторович",
+    "FIOshort": "Лапыренок Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Шабаева Сюзанна Валерьевна",
+    "FIOshort": "Шабаева С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История международных отношений в XX в.",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История международных отношений в XX в.",
+    "LessonType": "л",
+    "Room": "5-301",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Юй Чанъэ",
+    "FIOshort": "Юй Ч.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Шабаева Сюзанна Валерьевна",
+    "FIOshort": "Шабаева С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "5-411",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История политических и правовых учений",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Вахрушев Юрий Петрович",
+    "FIOshort": "Вахрушев Ю.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История политических и правовых учений",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Вахрушев Юрий Петрович",
+    "FIOshort": "Вахрушев Ю.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Демидов Марк Павлович",
+    "FIOshort": "Демидов М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Демидов Марк Павлович",
+    "FIOshort": "Демидов М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  }
+]

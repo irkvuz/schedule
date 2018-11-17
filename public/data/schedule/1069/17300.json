@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология развития и возрастная психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социальная психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Социальная психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "1-211",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "1-211",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психодиагностика",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психодиагностика",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Психодиагностика",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Комков Сергей Александрович",
+    "FIOshort": "Комков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Зоопсихология и сравнительная психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Комков Сергей Александрович",
+    "FIOshort": "Комков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Зоопсихология и сравнительная психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Психология развития и возрастная психология",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Психология развития и возрастная психология",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Психология общения и переговоров",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология общения и переговоров",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  }
+]

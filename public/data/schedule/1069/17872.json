@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "10-205",
+    "FIO": "Сизых Елена Юрьевна",
+    "FIOshort": "Сизых Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-102",
+    "FIO": "Деревянко Антон Сергеевич",
+    "FIOshort": "Деревянко А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория и практика перевода",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Язык делового общения",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Язык делового общения",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таможенное дело",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Таможенное дело",
+    "LessonType": "л",
+    "Room": "10-205",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Аудиовизуальный курс русского языка",
+    "LessonType": "пр",
+    "Room": "10-302",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Сизых Елена Юрьевна",
+    "FIOshort": "Сизых Е.Ю.",
+    "Error": null
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "WeekDay": 0,
+    "StartTime": null,
+    "Odd": 0,
+    "Lesson": null,
+    "LessonType": null,
+    "Room": null,
+    "FIO": null,
+    "FIOshort": null,
+    "Error": "no"
+  }
+]
