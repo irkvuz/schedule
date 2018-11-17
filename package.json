@@ -38,5 +38,8 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.15.1"
+  },
+  "nodemonConfig": {
+    "ignore": ["public/*", "build/*"]
   }
 }
