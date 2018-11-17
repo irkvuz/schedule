@@ -24,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "proxy": "node proxy.js"
+    "proxy": "node proxy.js",
+    "update": "node update.js"
   },
   "eslintConfig": {
     "extends": "react-app"
