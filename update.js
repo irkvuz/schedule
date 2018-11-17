@@ -42,13 +42,22 @@ let json2file = (path, obj) => {
     console.log(f.IdFaculty);
     let groups = await api.getGroups(f.IdFaculty);
     json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
-    f.groups = groups;
-    facultiesWithGroups.push(f);
+    let newFaculty = {
+      id: f.IdFaculty,
+      name: f.FacultyAbbr,
+      fullName: f.FacultyName,
+      groups: [],
+    };
     for (let g of groups) {
       console.log('\t', g.IdGroup);
       let schedule = await api.getSchedule(g.IdGroup, trimesterId);
       json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
+      newFaculty.groups.push({
+        id: g.IdGroup,
+        name: g.Group,
+      });
     }
+    facultiesWithGroups.push(newFaculty);
   }
   json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
 })();
