@@ -147,7 +147,7 @@ class TabsWeekDays extends React.Component {
       else return null;
     });
     return (
-      <div>
+      <>
         <div>
           Сегодня {wdn[this.state.day]}, {this.state.today.format('LL')} неделя{' '}
           {this.props.week_n} из {this.props.week_t} (
@@ -168,7 +168,7 @@ class TabsWeekDays extends React.Component {
         >
           {tabpanes}
         </Tabs>
-      </div>
+      </>
     );
   }
 }
