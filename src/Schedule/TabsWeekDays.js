@@ -96,16 +96,12 @@ class TabsWeekDays extends React.Component {
     window.removeEventListener('resize', this.updateDimensions);
   };
 
-  handleModeChange = e => {
-    const mode = e.target.value;
-    this.setState({ mode });
-  };
-
   handleParityChange = parity => {
     this.setState({ parity });
   };
 
   render() {
+    console.log('Component TabsWeekDays props =', this.props);
     let weekdays = [];
     for (let i = 1; i <= 6; i++) {
       weekdays[i] = {
