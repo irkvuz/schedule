@@ -25,7 +25,8 @@ class Schedule extends React.Component {
       let trimester = res.data;
       trimester.dateStart = moment(trimester.dateStart);
       trimester.dateFinish = moment(trimester.dateFinish);
-      let week_number = moment().diff(trimester.dateStart, 'week') + 1;
+      let week_number =
+        moment().diff(trimester.dateStart.startOf('week'), 'week') + 1;
       let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
       const groupId = this.props.match.params.groupId;
       res = await api.getSchedule(groupId, trimester.IdTrimester);
