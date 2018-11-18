@@ -18,6 +18,10 @@ Works well on both desktop and mobile, large screen and small screen.
 
 ![Parity screenshot](docs/screenshots/parity.gif)
 
+### Works offline
+
+You don't need internet connection to get access to your schedule
+
 ## Getting Started
 
 To start contributing just fork and clone this repo.
