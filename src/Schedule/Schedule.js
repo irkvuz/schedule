@@ -1,6 +1,7 @@
 import React from 'react';
 import TabsWeekDays from './TabsWeekDays';
 import moment from 'moment';
+import { Spin } from 'antd';
 // import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 const api = require('../api');
 
@@ -24,7 +25,6 @@ class Schedule extends React.Component {
       trimester.dateFinish = moment(trimester.dateFinish);
       let week_n = moment().diff(trimester.dateStart, 'week') + 1;
       let week_t = trimester.dateFinish.diff(trimester.dateStart, 'week');
-      console.log(trimester, week_n, week_t);
       const groupId = this.props.match.params.groupId;
       res = await api.getSchedule(groupId, trimester.IdTrimester);
       let schedule = res.data;
@@ -35,16 +35,18 @@ class Schedule extends React.Component {
     }
   };
   render() {
+    console.log('Component `Schedule` props =', this.props);
     // const { groupId, facultyId } = this.props.match.params;
     return (
       <div>
-        {this.state.schedule.length > 0 && (
+        {this.state.schedule.length > 0 ? (
           <TabsWeekDays
-            loading={this.state.loading}
             schedule={this.state.schedule}
             week_n={this.state.week_n}
             week_t={this.state.week_t}
           />
+        ) : (
+          <Spin />
         )}
       </div>
     );
