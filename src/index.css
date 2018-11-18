@@ -8,3 +8,8 @@ body {
   max-width: 1000px;
   margin: auto;
 }
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+}
