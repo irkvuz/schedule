@@ -12,8 +12,8 @@ class Schedule extends React.Component {
       trimester: {},
       schedule: {},
       loading: false,
-      week_n: 1,
-      week_t: 0,
+      week_number: 1,
+      week_total: 0,
     };
   }
   componentDidMount = async () => {
@@ -23,12 +23,18 @@ class Schedule extends React.Component {
       let trimester = res.data;
       trimester.dateStart = moment(trimester.dateStart);
       trimester.dateFinish = moment(trimester.dateFinish);
-      let week_n = moment().diff(trimester.dateStart, 'week') + 1;
-      let week_t = trimester.dateFinish.diff(trimester.dateStart, 'week');
+      let week_number = moment().diff(trimester.dateStart, 'week') + 1;
+      let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
       const groupId = this.props.match.params.groupId;
       res = await api.getSchedule(groupId, trimester.IdTrimester);
       let schedule = res.data;
-      this.setState({ trimester, schedule, loading: false, week_n, week_t });
+      this.setState({
+        trimester,
+        schedule,
+        loading: false,
+        week_number,
+        week_total,
+      });
     } catch (error) {
       console.log(error);
       this.setState({ loading: false });
@@ -42,8 +48,8 @@ class Schedule extends React.Component {
         {this.state.schedule.length > 0 ? (
           <TabsWeekDays
             schedule={this.state.schedule}
-            week_n={this.state.week_n}
-            week_t={this.state.week_t}
+            week_number={this.state.week_number}
+            week_total={this.state.week_total}
           />
         ) : (
           <Spin />
