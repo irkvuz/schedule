@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Link, Switch, Redirect } from 'react-router-dom';
 import Schedule from './Schedule/Schedule';
 import { ListFaculties, ListGroups } from './Lists';
 import { LocaleProvider, Icon } from 'antd';
@@ -8,12 +8,14 @@ import 'moment/locale/ru';
 
 class App extends React.Component {
   render() {
+    console.log('App component rendered');
+
     return (
       <LocaleProvider locale={ru_RU}>
-        <Router>
+        <BrowserRouter>
           <>
             <header>
-              <Link to="/">
+              <Link to="/faculties" title="Изменить группу">
                 <Icon type="home" />
               </Link>
             </header>
@@ -24,12 +26,22 @@ class App extends React.Component {
                 component={Schedule}
               />
               <Route path="/:facultyId(\d+)" component={ListGroups} />
-              <Route path="/" component={ListFaculties} />
+              <Route path="/faculties" component={ListFaculties} />
+              <Route
+                path="/"
+                render={() => {
+                  let facultyId = localStorage['facultyId'],
+                    groupId = localStorage['groupId'];
+                  if (facultyId && groupId)
+                    return <Redirect to={`/${facultyId}/${groupId}`} />;
+                  else return <Redirect to="/faculties" />;
+                }}
+              />
             </Switch>
 
             <footer>© Yury Savin, Irkutsk 2018</footer>
           </>
-        </Router>
+        </BrowserRouter>
       </LocaleProvider>
     );
   }

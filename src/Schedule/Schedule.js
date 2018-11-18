@@ -17,6 +17,8 @@ class Schedule extends React.Component {
     };
   }
   componentDidMount = async () => {
+    localStorage.setItem('groupId', this.props.match.params.groupId);
+    localStorage.setItem('facultyId', this.props.match.params.facultyId);
     this.setState({ loading: true });
     try {
       let res = await api.getTrimester();
