@@ -176,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Французский язык",
-    "LessonType": "пр",
-    "Room": "1-402",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,

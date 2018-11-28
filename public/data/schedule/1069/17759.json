@@ -188,17 +188,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Французский язык (факультатив)",
-    "LessonType": "пр",
-    "Room": "1-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Философия",
