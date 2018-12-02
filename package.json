@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "proxy": "node proxy.js",
-    "update": "node update.js && git add --all && git commit -m '📄 Update schedule `date`' && git push && yarn deploy"
+    "update": "node update.js && git add --all && git commit -m ':speech_balloon: Update schedule `date`' && git push && yarn deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
