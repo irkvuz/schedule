@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "proxy": "node proxy.js",
     "update": "node update.js",
-    "push:deploy": "git add --all && git commit -m  \"$(date +'%D %T')\" && git push && yarn deploy"
+    "push:deploy": "git add --all && git commit -m  $(date) && git push"
   },
   "eslintConfig": {
     "extends": "react-app"
