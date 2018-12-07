@@ -67,22 +67,22 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Русский язык (практический курс)",
     "LessonType": "пр",
-    "Room": "10-201(в)",
+    "Room": "10-104",
     "FIO": "Махтина Галина Ивановна",
     "FIOshort": "Махтина Г.И.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Русский язык (практический курс)",
     "LessonType": "пр",
-    "Room": "10-201(в)",
+    "Room": "10-104",
     "FIO": "Махтина Галина Ивановна",
     "FIOshort": "Махтина Г.И.",
     "Error": null

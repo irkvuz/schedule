@@ -1,7 +1,13 @@
 [
   {
     "IdGroup": 17338,
-    "Group": "МЮгр-17",
+    "Group": "МЮгр-17-1",
+    "Course": 2,
+    "Error": null
+  },
+  {
+    "IdGroup": 30200,
+    "Group": "МЮгр-17-2",
     "Course": 2,
     "Error": null
   },
