@@ -27,37 +27,41 @@ let json2file = (path, obj) => {
 };
 
 (async () => {
-  console.log('Start downloading');
-  let trimesters = await api.getTrimester();
-  let trimesterId = trimesters[0].IdTrimester;
-  json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
-  json2file(`./public/data/trimesters/current.json`, trimesters[0]);
-  let dirSchedule = `./public/data/schedule/${trimesterId}`;
-  if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
+  try {
+    console.log('Start downloading');
+    let trimesters = await api.getTrimester();
+    let trimesterId = trimesters[0].IdTrimester;
+    json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
+    json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    let dirSchedule = `./public/data/schedule/${trimesterId}`;
+    if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
-  let faculties = await api.getFaculties();
-  json2file(`./public/data/faculties.json`, faculties);
-  let facultiesWithGroups = [];
-  for (let f of faculties) {
-    console.log(f.IdFaculty);
-    let groups = await api.getGroups(f.IdFaculty);
-    json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
-    let newFaculty = {
-      id: f.IdFaculty,
-      name: f.FacultyAbbr,
-      fullName: f.FacultyName,
-      groups: [],
-    };
-    for (let g of groups) {
-      console.log('\t', g.IdGroup);
-      let schedule = await api.getSchedule(g.IdGroup, trimesterId);
-      json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
-      newFaculty.groups.push({
-        id: g.IdGroup,
-        name: g.Group,
-      });
+    let faculties = await api.getFaculties();
+    json2file(`./public/data/faculties.json`, faculties);
+    let facultiesWithGroups = [];
+    for (let f of faculties) {
+      console.log(f.IdFaculty);
+      let groups = await api.getGroups(f.IdFaculty);
+      json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
+      let newFaculty = {
+        id: f.IdFaculty,
+        name: f.FacultyAbbr,
+        fullName: f.FacultyName,
+        groups: [],
+      };
+      for (let g of groups) {
+        console.log('\t', g.IdGroup);
+        let schedule = await api.getSchedule(g.IdGroup, trimesterId);
+        json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
+        newFaculty.groups.push({
+          id: g.IdGroup,
+          name: g.Group,
+        });
+      }
+      facultiesWithGroups.push(newFaculty);
     }
-    facultiesWithGroups.push(newFaculty);
+    json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
+  } catch (error) {
+    console.error(error);
   }
-  json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
 })();
