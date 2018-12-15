@@ -112,9 +112,10 @@ class TabsWeekDays extends React.Component {
     const { schedule } = this.props;
     for (let s of schedule) {
       if (
-        s.Odd === 0 ||
-        (this.state.parity && s.Odd === 2) ||
-        (!this.state.parity && s.Odd === 1)
+        !s.Error &&
+        (s.Odd === 0 ||
+          (this.state.parity && s.Odd === 2) ||
+          (!this.state.parity && s.Odd === 1))
       )
         weekdays[s.WeekDay].lessons.push(s);
     }
