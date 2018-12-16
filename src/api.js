@@ -18,6 +18,7 @@ const axios = require('axios');
 
 let apiFake = {
   getFaculties: () => axios.get(`/data/faculties.json`),
+  getFacultiesWithGroups: () => axios.get(`/data/facultiesWithGroups.json`),
   getGroups: facultyId => axios.get(`/data/groups/${facultyId}.json`),
   getTrimester: () => axios.get(`/data/trimesters/current.json`),
   getSchedule: (groupId, trimesterId) =>
