@@ -2,7 +2,7 @@ import React from 'react';
 import TabsWeekDays from './TabsWeekDays';
 import moment from 'moment';
 import { Spin } from 'antd';
-// import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import SelectGroup from '../SelectGroup';
 const api = require('../api');
 
 class Schedule extends React.Component {
@@ -45,9 +45,10 @@ class Schedule extends React.Component {
   };
   render() {
     console.log('Component `Schedule` props =', this.props);
-    // const { groupId, facultyId } = this.props.match.params;
+    const { groupId, facultyId } = this.props.match.params;
     return (
       <div>
+        <SelectGroup facultyId={facultyId} groupId={groupId} />
         {this.state.schedule.length > 0 ? (
           <TabsWeekDays
             schedule={this.state.schedule}
