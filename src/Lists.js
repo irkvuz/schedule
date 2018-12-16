@@ -15,7 +15,7 @@ class ListFaculties extends React.Component {
   componentDidMount = async () => {
     this.setState({ loading: true });
     try {
-      let res = await api['getFaculties']();
+      let res = await api.getFaculties();
       let faculties = res.data;
       this.setState({ faculties, loading: false });
     } catch (error) {
