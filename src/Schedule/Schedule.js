@@ -16,7 +16,7 @@ class Schedule extends React.Component {
       week_total: 0,
     };
   }
-  componentDidMount = async () => {
+  loadSchedule = async () => {
     localStorage.setItem('groupId', this.props.match.params.groupId);
     localStorage.setItem('facultyId', this.props.match.params.facultyId);
     this.setState({ loading: true });
@@ -43,12 +43,27 @@ class Schedule extends React.Component {
       this.setState({ loading: false });
     }
   };
+
+  componentDidMount = () => {
+    this.loadSchedule();
+  };
+
+  handleGroupChange = (value, selectedOptions) => {
+    let [facultyId, groupId] = value;
+    this.props.history.push(`/${facultyId}/${groupId}`);
+    this.loadSchedule();
+  };
+
   render() {
     console.log('Component `Schedule` props =', this.props);
     const { groupId, facultyId } = this.props.match.params;
     return (
       <div>
-        <SelectGroup facultyId={facultyId} groupId={groupId} />
+        <SelectGroup
+          facultyId={facultyId}
+          groupId={groupId}
+          onChange={this.handleGroupChange}
+        />
         {this.state.schedule.length > 0 ? (
           <TabsWeekDays
             schedule={this.state.schedule}

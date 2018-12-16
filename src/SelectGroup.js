@@ -7,12 +7,6 @@ class SelectGroup extends React.Component {
     options: [],
   };
 
-  onChange = (value, selectedOptions) => {
-    console.log(value, selectedOptions);
-    let [facultyId, groupId] = value;
-    this.props.history.push(`/${facultyId}/${groupId}`);
-  };
-
   componentDidMount = async () => {
     try {
       let res = await api.getFacultiesWithGroups();
@@ -30,7 +24,7 @@ class SelectGroup extends React.Component {
       this.state.options.length > 0 && (
         <Cascader
           options={this.state.options}
-          onChange={this.onChange}
+          onChange={this.props.onChange}
           allowClear={false}
           size="large"
           defaultValue={[parseInt(facultyId), parseInt(groupId)]}
