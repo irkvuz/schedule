@@ -9,47 +9,32 @@ class SelectGroup extends React.Component {
 
   onChange = (value, selectedOptions) => {
     console.log(value, selectedOptions);
-  };
-
-  loadData = selectedOptions => {
-    const targetOption = selectedOptions[selectedOptions.length - 1];
-    targetOption.loading = true;
-
-    api.getGroups(targetOption.value).then(res => {
-      let groups = JSON.parse(res.data.substr(1));
-      targetOption.loading = false;
-      targetOption.children = groups.map(g => ({
-        label: g.Group,
-        value: g.IdGroup,
-      }));
-      this.setState({
-        options: [...this.state.options],
-      });
-    });
+    let [facultyId, groupId] = value;
+    this.props.history.push(`/${facultyId}/${groupId}`);
   };
 
   componentDidMount = async () => {
-    let res = await api.getFaculties();
-    let faculties = JSON.parse(res.data.substr(1));
-    // console.log(faculties);
-    let options = faculties.map(f => ({
-      label: f.FacultyAbbr,
-      value: f.IdFaculty,
-      fullName: f.FacultyName,
-      isLeaf: false,
-    }));
-    this.setState({ options });
+    try {
+      let res = await api.getFacultiesWithGroups();
+      let options = res.data;
+      this.setState({ options });
+    } catch (error) {
+      console.log(error);
+    }
   };
 
   render() {
+    console.log('SelectGroup props=', this.props);
+    const { groupId, facultyId } = this.props;
     return (
       this.state.options.length > 0 && (
         <Cascader
           options={this.state.options}
-          loadData={this.loadData}
           onChange={this.onChange}
           allowClear={false}
           size="large"
+          defaultValue={[parseInt(facultyId), parseInt(groupId)]}
+          fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
         />
       )
     );
