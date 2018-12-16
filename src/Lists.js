@@ -26,7 +26,7 @@ class ListFaculties extends React.Component {
   render() {
     return (
       <div>
-        <h2>List of faculties</h2>
+        <h2>Список факультетов</h2>
         <List
           dataSource={this.state.faculties}
           loading={this.state.loading}
@@ -65,7 +65,7 @@ class ListGroups extends React.Component {
     console.log(this.state.groups);
     return (
       <div>
-        <h2>List of groups</h2>
+        <h2>Список групп</h2>
         <List
           dataSource={this.state.groups}
           loading={this.state.loading}
