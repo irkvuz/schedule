@@ -17,6 +17,10 @@ class SelectGroup extends React.Component {
     }
   };
 
+  filter = (inputValue, path) => {
+    return path.some(option => option.name.match(new RegExp(inputValue, 'i')));
+  };
+
   render() {
     console.log('SelectGroup props=', this.props);
     const { groupId, facultyId } = this.props;
@@ -29,6 +33,7 @@ class SelectGroup extends React.Component {
           size="large"
           defaultValue={[parseInt(facultyId), parseInt(groupId)]}
           fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
+          showSearch={{ filter: this.filter }}
         />
       )
     );
