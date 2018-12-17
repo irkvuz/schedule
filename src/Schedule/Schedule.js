@@ -10,7 +10,7 @@ class Schedule extends React.Component {
     super(props);
     this.state = {
       trimester: {},
-      schedule: {},
+      schedule: [],
       loading: false,
       week_number: 1,
       week_total: 0,
@@ -64,14 +64,14 @@ class Schedule extends React.Component {
           groupId={groupId}
           onChange={this.handleGroupChange}
         />
-        {this.state.schedule.length > 0 ? (
+        {this.state.loading ? (
+          <Spin />
+        ) : (
           <TabsWeekDays
             schedule={this.state.schedule}
             week_number={this.state.week_number}
             week_total={this.state.week_total}
           />
-        ) : (
-          <Spin />
         )}
       </div>
     );

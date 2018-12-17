@@ -110,6 +110,7 @@ class TabsWeekDays extends React.Component {
       };
     }
     const { schedule } = this.props;
+    if (!schedule) return <div>No data</div>;
     for (let s of schedule) {
       if (
         !s.Error &&
