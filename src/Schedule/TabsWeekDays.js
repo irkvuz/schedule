@@ -163,6 +163,7 @@ class TabsWeekDays extends React.Component {
         <Tabs
           defaultActiveKey={this.state.day.toString()}
           tabPosition={this.state.mode}
+          animated={false}
         >
           {tabpanes}
         </Tabs>
