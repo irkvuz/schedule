@@ -26,6 +26,18 @@ You don't need internet connection to get access to your schedule
 
 To start contributing just fork and clone this repo.
 
+```sh
+git clone https://github.com/irkvuz/schedule
+cd ./schedule
+# install all dependencies
+yarn install
+# download lists and schedule for all groups from http://mobile.bgu.ru/ to /public/data/ 
+# for details see file ./update.js
+yarn update
+# start development server
+yarn start
+```
+
 ## Built With
 
 * [React.js](https://github.com/facebook/react) - JavaScript library for building user interfaces
