@@ -8695,6 +8695,11 @@ react-slick@~0.23.2:
     prettier "^1.14.3"
     resize-observer-polyfill "^1.5.0"
 
+react-yandex-metrika@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/react-yandex-metrika/-/react-yandex-metrika-2.4.2.tgz#cf40df8db7192abf104585f4b4e98b37dbada3c8"
+  integrity sha512-UseTVfT6BFbJclauJy54avfoy1w4RyUZcAy3vk7Bz+ghosnfWsHIIhPg4z9U13tYqeHnYh8qMWeobYxOrdJgWw==
+
 react@^16.6.0:
   version "16.6.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.6.0.tgz#b34761cfaf3e30f5508bc732fb4736730b7da246"

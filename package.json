@@ -15,7 +15,8 @@
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-yandex-metrika": "^2.4.2"
   },
   "scripts": {
     "predeploy": "yarn build",
@@ -42,6 +43,9 @@
     "prettier": "^1.15.1"
   },
   "nodemonConfig": {
-    "ignore": ["public/*", "build/*"]
+    "ignore": [
+      "public/*",
+      "build/*"
+    ]
   }
 }
