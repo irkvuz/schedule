@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs, Table, Icon, Switch } from 'antd';
+import { Tabs, Table, Icon, Switch, Alert } from 'antd';
 import moment from 'moment';
 import './TabsWeekDays.css';
 
@@ -151,6 +151,13 @@ class TabsWeekDays extends React.Component {
           неделя {this.props.week_number} из {this.props.week_total} (
           {this.props.week_number % 2 === 0 ? 'Четная' : 'Нечетная'})
         </div>
+        {this.props.week_number > this.props.week_total && (
+          <Alert
+            type="warning"
+            showIcon
+            message="Учебный семестр закончился. Сейчас отображается расписание прошедшего семестра."
+          />
+        )}
         <div className="switch-parity">
           Показать неделю: &nbsp;
           <Switch
