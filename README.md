@@ -22,6 +22,12 @@ Works well on both desktop and mobile, large screen and small screen.
 
 You don't need internet connection to get access to your schedule
 
+### Quick group selection
+
+Fast switching between groups and search by groups / faculties
+
+![Select screenshot](docs/screenshots/select.gif)
+
 ## Getting Started
 
 To start contributing just fork and clone this repo.
