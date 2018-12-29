@@ -4,6 +4,7 @@
 
 const axios = require('axios');
 const fs = require('fs');
+const ProgressBar = require('progress');
 
 axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
 
@@ -40,7 +41,6 @@ let json2file = (path, obj) => {
     json2file(`./public/data/faculties.json`, faculties);
     let facultiesWithGroups = [];
     for (let f of faculties) {
-      console.log(f.IdFaculty);
       let groups = await api.getGroups(f.IdFaculty);
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
       let newFaculty = {
@@ -49,14 +49,22 @@ let json2file = (path, obj) => {
         fullName: f.FacultyName,
         groups: [],
       };
-      for (let g of groups) {
-        console.log('\t', g.IdGroup);
+      let bar = new ProgressBar(
+        `${f.FacultyName} [:bar] :current/:total :percent :etas`,
+        {
+          width: 20,
+          total: groups.length,
+        }
+      );
+      for (let i = 0; i < groups.length; i++) {
+        let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
         newFaculty.groups.push({
           id: g.IdGroup,
           name: g.Group,
         });
+        bar.tick();
       }
       facultiesWithGroups.push(newFaculty);
     }
