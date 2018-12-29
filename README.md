@@ -28,6 +28,13 @@ Fast switching between groups and search by groups / faculties
 
 ![Select screenshot](docs/screenshots/select.gif)
 
+
+### Daily automatic updates from the official site
+
+To update schedule run script [update.js](./update.js) (`node update.js`)
+
+![Update screenshot](docs/screenshots/update.gif)
+
 ## Getting Started
 
 To start contributing just fork and clone this repo.
