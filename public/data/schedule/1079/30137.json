@@ -1,0 +1,24 @@
+[
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Абдуллин Владимир Рафаэлевич",
+    "FIOshort": "Абдуллин В.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Абдуллин Владимир Рафаэлевич",
+    "FIOshort": "Абдуллин В.Р.",
+    "Error": null
+  }
+]
