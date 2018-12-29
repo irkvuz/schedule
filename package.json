@@ -10,7 +10,6 @@
   "dependencies": {
     "antd": "^3.10.4",
     "axios": "^0.18.0",
-    "cors-anywhere": "^0.4.1",
     "moment": "^2.22.2",
     "progress": "^2.0.3",
     "react": "^16.6.0",
