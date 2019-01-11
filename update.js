@@ -31,9 +31,9 @@ let json2file = (path, obj) => {
   try {
     console.log('Start downloading');
     let trimesters = await api.getTrimester();
-    let trimesterId = trimesters[0].IdTrimester;
+    let trimesterId = 1079; //  trimesters[0].IdTrimester;
     json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
-    json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
     let dirSchedule = `./public/data/schedule/${trimesterId}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
