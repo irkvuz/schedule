@@ -1,13 +1,35 @@
 [
   {
-    "WeekDay": 0,
-    "StartTime": null,
+    "WeekDay": 2,
+    "StartTime": "19:15",
     "Odd": 0,
-    "Lesson": null,
-    "LessonType": null,
-    "Room": null,
-    "FIO": null,
-    "FIOshort": null,
-    "Error": "no"
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
   }
 ]

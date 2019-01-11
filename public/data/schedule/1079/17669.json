@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-305",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Литература",
@@ -187,6 +198,28 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
@@ -206,6 +239,17 @@
     "Room": "12-305",
     "FIO": "Щербина Татьяна Анатольевна",
     "FIOshort": "Щербина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-205",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   }
 ]
