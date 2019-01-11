@@ -111,11 +111,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-415",
+    "Room": "1-412",
     "FIO": "Косяков Виталий Александрович",
     "FIOshort": "Косяков В.А.",
     "Error": null

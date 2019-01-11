@@ -218,27 +218,5 @@
     "FIO": "Немцева Анна Владимировна",
     "FIOshort": "Немцева А.В.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-123",
-    "FIO": "Володина Наталья Юрьевна",
-    "FIOshort": "Володина Н.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-123",
-    "FIO": "Володина Наталья Юрьевна",
-    "FIOshort": "Володина Н.Ю.",
-    "Error": null
   }
 ]

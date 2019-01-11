@@ -132,17 +132,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Экономическая безопасность",
-    "LessonType": "пр",
-    "Room": "5-513",
-    "FIO": "Гущина Ирина Владимировна",
-    "FIOshort": "Гущина И.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -261,6 +250,17 @@
     "Room": "4-212",
     "FIO": "Белых Ольга Александровна",
     "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
     "Error": null
   }
 ]

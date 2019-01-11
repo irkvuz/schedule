@@ -125,8 +125,8 @@
     "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Финансовый менеджмент",
-    "LessonType": "пр",
-    "Room": "2-402",
+    "LessonType": "л",
+    "Room": "2-411",
     "FIO": "Березкин Юрий Михайлович",
     "FIOshort": "Березкин Ю.М.",
     "Error": null
@@ -136,8 +136,8 @@
     "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Финансовый менеджмент",
-    "LessonType": "л",
-    "Room": "2-402",
+    "LessonType": "пр",
+    "Room": "2-411",
     "FIO": "Березкин Юрий Михайлович",
     "FIOshort": "Березкин Ю.М.",
     "Error": null
