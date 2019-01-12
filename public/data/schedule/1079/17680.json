@@ -218,5 +218,27 @@
     "FIO": "Густелева Ольга Юрьевна",
     "FIOshort": "Густелева О.Ю.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-205",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-205",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
   }
 ]
