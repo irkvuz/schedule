@@ -45,6 +45,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Теория вероятностей",
@@ -217,17 +228,6 @@
     "Room": "3-903",
     "FIO": "Дорошенко Наталия Сергеевна",
     "FIOshort": "Дорошенко Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "3-903",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
     "Error": null
   }
 ]

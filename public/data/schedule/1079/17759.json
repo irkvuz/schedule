@@ -145,34 +145,23 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Теория вероятностей",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "История мировой экономики",
     "LessonType": "л",
     "Room": "2-217",
     "FIO": "Тагаров Жаргал Зандараевич",
     "FIOshort": "Тагаров Ж.З.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Теория вероятностей",
-    "LessonType": "пр",
-    "Room": "1-123",
-    "FIO": "Антипина Наталья Валерьевна",
-    "FIOshort": "Антипина Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Математический анализ",
-    "LessonType": "пр",
-    "Room": "1-123",
-    "FIO": "Антипина Наталья Валерьевна",
-    "FIOshort": "Антипина Н.В.",
     "Error": null
   },
   {
@@ -305,6 +294,28 @@
     "Room": "1-405",
     "FIO": "Почасовик Почасовик Почасовик",
     "FIOshort": "Почасовик П.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Математический анализ",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Теория вероятностей",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
     "Error": null
   },
   {
