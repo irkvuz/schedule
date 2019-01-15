@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, RouteComponentProps } from 'react-router-dom';
 import List from 'antd/lib/list';
 import Input from 'antd/lib/input';
 
@@ -11,32 +11,38 @@ const api = require('./api');
  * @param {*} props
  * @returns
  */
-class UniversalList extends React.Component {
+class UniversalList extends React.Component<any, any> {
   state = {
     searchValue: '',
   };
-  handleSearch = e => {
-    const searchValue = e.target.value;
+  handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const searchValue = event.target.value;
     this.setState({ searchValue });
   };
   render() {
     const { title, dataSource, loading, fieldNames } = this.props;
-    const filtredDataSource = dataSource.filter(i =>
-      i[fieldNames.label].match(new RegExp(this.state.searchValue, 'i'))
+    console.log('fieldNames=', fieldNames);
+    const filtredDataSource = dataSource.filter((item: any) =>
+      item[fieldNames.label].match(new RegExp(this.state.searchValue, 'i'))
     );
     return (
       <div>
         <h2>{title}</h2>
-        <Input.Search onChange={this.handleSearch} />
+        <Input.Search
+          onChange={this.handleSearch}
+          placeholder="Начните вводить название..."
+        />
         <br />
         <br />
         <List
           dataSource={filtredDataSource}
           loading={loading}
           bordered
-          renderItem={i => (
-            <List.Item key={i[fieldNames.value]}>
-              <Link to={`${i[fieldNames.value]}/`}>{i[fieldNames.label]}</Link>
+          renderItem={(item: any) => (
+            <List.Item key={item[fieldNames.value]}>
+              <Link to={`${item[fieldNames.value]}/`}>
+                {item[fieldNames.label]}
+              </Link>
             </List.Item>
           )}
         />
@@ -45,67 +51,78 @@ class UniversalList extends React.Component {
   }
 }
 
-class ListFaculties extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      faculties: [],
-      loading: false,
-    };
-  }
+interface ListProps extends RouteComponentProps {
+  type: 'faculties' | 'groups';
+}
+
+type ListState = {
+  items: any[];
+  loading: boolean;
+};
+
+class MyList extends React.Component<ListProps, ListState> {
+  state = {
+    items: [],
+    loading: false,
+  };
+  promise: Promise<any> | null = null;
+  title = '';
+  fieldNames = { label: '', value: '' };
+
+  // constructor(props: ListProps) {
+  //   super(props);
+  //   if (this.props.type === 'faculties') {
+  //     this.promise = api.getFaculties();
+  //     this.title = 'Список факультетов';
+  //     this.fieldNames = { label: 'FacultyName', value: 'IdFaculty' };
+  //   } else if (this.props.type === 'groups') {
+  //     this.promise = api.getGroups(36);
+  //     this.title = 'Список групп';
+  //     this.fieldNames = { label: 'Group', value: 'IdGroup' };
+  //   }
+  //   console.log('type=', props.type, this.props.type);
+  // }
+
   componentDidMount = async () => {
     this.setState({ loading: true });
     try {
-      let res = await api.getFaculties();
-      let faculties = res.data;
-      this.setState({ faculties, loading: false });
+      let res = await this.promise;
+      let items = res.data;
+      this.setState({ items, loading: false });
     } catch (error) {
       console.error(error);
       this.setState({ loading: false });
     }
   };
+
   render() {
     return (
       <UniversalList
-        title="Список факультетов"
-        dataSource={this.state.faculties}
+        title={this.title}
+        dataSource={this.state.items}
         loading={this.state.loading}
-        fieldNames={{ label: 'FacultyName', value: 'IdFaculty' }}
+        fieldNames={this.fieldNames}
       />
     );
   }
 }
 
-class ListGroups extends React.Component {
-  constructor(props) {
+class ListFaculties extends MyList {
+  constructor(props: any) {
     super(props);
-    this.state = {
-      groups: [],
-      loading: false,
-    };
-  }
-  componentDidMount = async () => {
-    this.setState({ loading: true });
-    try {
-      let res = await api.getGroups(this.props.match.params.facultyId);
-      let groups = res.data;
-      this.setState({ groups, loading: false });
-    } catch (error) {
-      console.error(error);
-      this.setState({ loading: false });
-    }
-  };
-  render() {
-    console.log(this.state.groups);
-    return (
-      <UniversalList
-        title="Список групп"
-        dataSource={this.state.groups}
-        loading={this.state.loading}
-        fieldNames={{ label: 'Group', value: 'IdGroup' }}
-      />
-    );
+    this.promise = api.getFaculties();
+    this.title = 'Список факультетов';
+    this.fieldNames = { label: 'FacultyName', value: 'IdFaculty' };
   }
 }
 
-export { ListFaculties, ListGroups };
+class ListGroups extends MyList {
+  constructor(props: any) {
+    super(props);
+    this.promise = api.getGroups(36);
+    this.title = 'Список групп';
+    this.fieldNames = { label: 'Group', value: 'IdGroup' };
+  }
+}
+
+export { ListFaculties, ListGroups, MyList };
