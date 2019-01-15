@@ -1,6 +1,6 @@
 import React from 'react';
 import { Cascader } from 'antd';
-const api = require('./api');
+import api from './api';
 
 class SelectGroup extends React.Component {
   state = {

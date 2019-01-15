@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 let api = {
   getFaculties: () => axios.get(`/data/faculties.json`),
@@ -9,4 +9,4 @@ let api = {
     axios.get(`/data/schedule/${trimesterId}/${groupId}.json`),
 };
 
-module.exports = api;
+export default api;
