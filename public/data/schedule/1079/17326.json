@@ -188,6 +188,28 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "пр",
+    "Room": "5-502",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "л",
+    "Room": "5-502",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Корпоративная социальная ответственность",
@@ -200,34 +222,12 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Финансовый учёт",
-    "LessonType": "л",
-    "Room": "4-304",
-    "FIO": "Юсупова Галина Валерьевна",
-    "FIOshort": "Юсупова Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Управление человеческими ресурсами",
     "LessonType": "л",
     "Room": "4-304",
     "FIO": "Ямбаева Оксана Бакасовна",
     "FIOshort": "Ямбаева О.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Финансовый учёт",
-    "LessonType": "пр",
-    "Room": "4-304",
-    "FIO": "Юсупова Галина Валерьевна",
-    "FIOshort": "Юсупова Г.В.",
     "Error": null
   },
   {
