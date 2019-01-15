@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -96,17 +107,6 @@
     "Room": "5-312",
     "FIO": "Короткова Светлана Николаевна",
     "FIOshort": "Короткова С.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Финансы",
-    "LessonType": "л",
-    "Room": "5-303",
-    "FIO": "Поседко Анна Евгеньевна",
-    "FIOshort": "Поседко А.Е.",
     "Error": null
   },
   {
@@ -201,11 +201,11 @@
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 1,
-    "Lesson": "Финансы",
+    "Lesson": "Геоэкономика",
     "LessonType": "пр",
     "Room": "5-207",
-    "FIO": "Поседко Анна Евгеньевна",
-    "FIOshort": "Поседко А.Е.",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   },
   {
@@ -228,6 +228,17 @@
     "Room": "6-304",
     "FIO": "Сидорова Евгения Александровна",
     "FIOshort": "Сидорова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
     "Error": null
   },
   {
@@ -305,17 +316,6 @@
     "Room": "5-207",
     "FIO": "Ямбаева Оксана Бакасовна",
     "FIOshort": "Ямбаева О.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Геоэкономика",
-    "LessonType": "пр",
-    "Room": "5-207",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   }
 ]

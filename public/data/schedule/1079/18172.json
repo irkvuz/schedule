@@ -188,18 +188,18 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Культурология",
     "LessonType": "л",
-    "Room": "2-209",
+    "Room": "2-101",
     "FIO": "Ткачев Валерий Сысоевич",
     "FIOshort": "Ткачев В.С.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Культурология",
     "LessonType": "пр",

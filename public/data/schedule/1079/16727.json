@@ -187,14 +187,25 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "10:15",
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Английский язык (профессиональный)",
     "LessonType": "пр",
     "Room": "1-420",
     "FIO": "Демидов Марк Павлович",
     "FIOshort": "Демидов М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы рекламы и паблик рилейшнз в СМИ",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
     "Error": null
   },
   {
@@ -253,23 +264,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Основы рекламы и паблик рилейшнз в СМИ",
-    "LessonType": "л",
-    "Room": "2-314",
-    "FIO": "Крючкова Ольга Александровна",
-    "FIOshort": "Крючкова О.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Психология журналистики",
     "LessonType": "пр",
-    "Room": "2-208",
+    "Room": "2-311",
     "FIO": "Малахаева Светлана Карловна",
     "FIOshort": "Малахаева С.К.",
     "Error": null

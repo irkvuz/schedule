@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -63,17 +74,6 @@
     "Room": "3-403",
     "FIO": "Волченко Любовь Юрьевна",
     "FIOshort": "Волченко Л.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Финансы",
-    "LessonType": "л",
-    "Room": "5-303",
-    "FIO": "Поседко Анна Евгеньевна",
-    "FIOshort": "Поседко А.Е.",
     "Error": null
   },
   {
@@ -181,7 +181,7 @@
     "Odd": 1,
     "Lesson": "Финансы",
     "LessonType": "пр",
-    "Room": "5-208",
+    "Room": "4-210",
     "FIO": "Поседко Анна Евгеньевна",
     "FIOshort": "Поседко А.Е.",
     "Error": null
@@ -192,7 +192,7 @@
     "Odd": 2,
     "Lesson": "Основы трудового права",
     "LessonType": "пр",
-    "Room": "5-208",
+    "Room": "4-210",
     "FIO": "Фильчакова Светлана Юрьевна",
     "FIOshort": "Фильчакова С.Ю.",
     "Error": null
