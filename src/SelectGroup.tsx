@@ -6,7 +6,7 @@ import Cascader, {
 import api from './api';
 
 interface IGroup {
-  id: number;
+  id: string;
   name: string;
 }
 
@@ -28,6 +28,18 @@ class SelectGroup extends React.Component<any, SelectGroupState> {
     try {
       let res = await api.getFacultiesWithGroups();
       let options: IFaculty[] = res.data;
+      // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
+      options = options.map((faculty: IFaculty) => {
+        return {
+          ...faculty,
+          id: faculty.id.toString(),
+          groups: faculty.groups.map((group: IGroup) => ({
+            ...group,
+            id: group.id.toString(),
+          })),
+        };
+      });
+      console.log(options);
       this.setState({ options });
     } catch (error) {
       console.log(error);
