@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, RouteComponentProps } from 'react-router-dom';
 import List from 'antd/lib/list';
 import Input from 'antd/lib/input';
-import api from './api'
+import api from './api';
 
 /**
  * Used for ListFaculties and ListGroups
@@ -20,7 +20,6 @@ class UniversalList extends React.Component<any, any> {
   };
   render() {
     const { title, dataSource, loading, fieldNames } = this.props;
-    console.log('fieldNames=', fieldNames);
     const filtredDataSource = dataSource.filter((item: any) =>
       item[fieldNames.label].match(new RegExp(this.state.searchValue, 'i'))
     );

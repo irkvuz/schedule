@@ -1,8 +1,25 @@
 import React from 'react';
-import { Cascader } from 'antd';
+import Cascader, {
+  CascaderOptionType,
+  FilledFieldNamesType,
+} from 'antd/lib/cascader';
 import api from './api';
 
-class SelectGroup extends React.Component {
+interface IGroup {
+  id: number;
+  name: string;
+}
+
+interface IFaculty extends IGroup {
+  fullName: string;
+  groups: IGroup[];
+}
+
+interface SelectGroupState {
+  options: IFaculty[];
+}
+
+class SelectGroup extends React.Component<any, SelectGroupState> {
   state = {
     options: [],
   };
@@ -10,14 +27,18 @@ class SelectGroup extends React.Component {
   componentDidMount = async () => {
     try {
       let res = await api.getFacultiesWithGroups();
-      let options = res.data;
+      let options: IFaculty[] = res.data;
       this.setState({ options });
     } catch (error) {
       console.log(error);
     }
   };
 
-  filter = (inputValue, path) => {
+  filter = (
+    inputValue: string,
+    path: CascaderOptionType[],
+    names: FilledFieldNamesType
+  ) => {
     return path.some(option => option.name.match(new RegExp(inputValue, 'i')));
   };
 
@@ -31,7 +52,8 @@ class SelectGroup extends React.Component {
           onChange={this.props.onChange}
           allowClear={false}
           size="large"
-          defaultValue={[parseInt(facultyId), parseInt(groupId)]}
+          // @TODO надо как то переделать, чтобы это работало. Сейчас он на вход ожидает строки, а у меня структура предполагает id:number
+          defaultValue={[facultyId, groupId]}
           fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
           showSearch={{ filter: this.filter }}
         />

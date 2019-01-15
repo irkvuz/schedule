@@ -1,5 +1,7 @@
 import React from 'react';
 import { Tabs, Table, Icon, Switch, Alert } from 'antd';
+import { TabsPosition } from 'antd/lib/tabs';
+import { ColumnProps } from 'antd/lib/table';
 import moment from 'moment';
 import './TabsWeekDays.css';
 
@@ -9,28 +11,63 @@ const wdn = 'Воскресенье_Понедельник_Вторник_Сре
   '_'
 );
 
-const LessonTypes = {
-  вне: { name: 'внеучебное занятие', className: 'lek0' },
-  л: { name: 'лекция', className: 'lek1' },
-  пр: { name: 'практическое занятие', className: 'lek2' },
-  лаб: { name: 'лабораторная работа', className: 'lek3' },
-  зач: { name: 'зачет', className: 'lek4' },
-  экз: { name: 'экзамен', className: 'lek5' },
-  конс: { name: 'консультация', className: 'lek6' },
-  'п/с': { name: 'пересдача', className: 'lek7' },
-  '': { name: 'внеплановое занятие', className: 'lek8' },
-  тест: { name: 'тестирование', className: 'lek9' },
-  подг: { name: 'подготовительные курсы', className: 'lek10' },
-  ол: { name: 'олимпиада', className: 'lek11' },
-  конф: { name: 'научная конференция', className: 'lek12' },
-  откр: { name: 'день открытых дверей', className: 'lek13' },
-};
+// const LessonTypes = {
+//   'вне': { name: 'внеучебное занятие', className: 'lek0' },
+//   'л': { name: 'лекция', className: 'lek1' },
+//   'пр': { name: 'практическое занятие', className: 'lek2' },
+//   'лаб': { name: 'лабораторная работа', className: 'lek3' },
+//   'зач': { name: 'зачет', className: 'lek4' },
+//   'экз': { name: 'экзамен', className: 'lek5' },
+//   'конс': { name: 'консультация', className: 'lek6' },
+//   'п/с': { name: 'пересдача', className: 'lek7' },
+//   '': { name: 'внеплановое занятие', className: 'lek8' },
+//   'тест': { name: 'тестирование', className: 'lek9' },
+//   'подг': { name: 'подготовительные курсы', className: 'lek10' },
+//   'ол': { name: 'олимпиада', className: 'lek11' },
+//   'конф': { name: 'научная конференция', className: 'lek12' },
+//   'откр': { name: 'день открытых дверей', className: 'lek13' },
+// };
 
-const columns = [
+interface ILessonType {
+  shortName: string;
+  fullName: string;
+  className: string;
+}
+
+const LessonTypes: ILessonType[] = [
+  { shortName: 'вне', fullName: 'внеучебное занятие', className: 'lek0' },
+  { shortName: 'л', fullName: 'лекция', className: 'lek1' },
+  { shortName: 'пр', fullName: 'практическое занятие', className: 'lek2' },
+  { shortName: 'лаб', fullName: 'лабораторная работа', className: 'lek3' },
+  { shortName: 'зач', fullName: 'зачет', className: 'lek4' },
+  { shortName: 'экз', fullName: 'экзамен', className: 'lek5' },
+  { shortName: 'конс', fullName: 'консультация', className: 'lek6' },
+  { shortName: 'п/с', fullName: 'пересдача', className: 'lek7' },
+  { shortName: '', fullName: 'внеплановое занятие', className: 'lek8' },
+  { shortName: 'тест', fullName: 'тестирование', className: 'lek9' },
+  { shortName: 'подг', fullName: 'подготовительные курсы', className: 'lek10' },
+  { shortName: 'ол', fullName: 'олимпиада', className: 'lek11' },
+  { shortName: 'конф', fullName: 'научная конференция', className: 'lek12' },
+  { shortName: 'откр', fullName: 'день открытых дверей', className: 'lek13' },
+];
+
+export interface ILessonOld {
+  WeekDay: number;
+  StartTime: string;
+  Odd: number;
+  Lesson: string;
+  LessonType: string;
+  Room: string;
+  FIO: string;
+  FIOshort: string;
+  Error: string | null;
+}
+
+const columns: ColumnProps<ILessonOld>[] = [
   {
     key: 'first',
     className: 'StartTime_Room',
-    render: (text, record, index) => {
+    render: (text: any, record: ILessonOld, index: number) => {
       return (
         <React.Fragment>
           <div className="StartTime">
@@ -45,15 +82,16 @@ const columns = [
   },
   {
     key: 'second',
-    render: (text, record, index) => {
+    render: (text: any, record: ILessonOld, index: number) => {
+      const lessonType =
+        LessonTypes.find(type => type.shortName === record.LessonType) ||
+        LessonTypes[0];
       return (
         <>
           <div>
             <span
-              title={LessonTypes[record.LessonType].name}
-              className={`LessonType ${
-                LessonTypes[record.LessonType].className
-              }`}
+              title={lessonType.fullName}
+              className={`LessonType ${lessonType.className}`}
             >
               {record.LessonType}
             </span>
@@ -69,40 +107,60 @@ const columns = [
   },
 ];
 
-class TabsWeekDays extends React.Component {
-  constructor(props) {
+interface TabsWeekDaysProps {
+  schedule: ILessonOld[];
+  week_number: number;
+  week_total: number;
+}
+
+interface TabsWeekDaysState {
+  tabsPosition: TabsPosition;
+  parity: boolean;
+  day: number;
+  today: moment.Moment;
+}
+
+interface IWeekDay {
+  name: string;
+  lessons: ILessonOld[];
+}
+
+class TabsWeekDays extends React.Component<
+  TabsWeekDaysProps,
+  TabsWeekDaysState
+> {
+  constructor(props: TabsWeekDaysProps) {
     super(props);
-    let today = moment();
     this.state = {
-      mode: 'top',
-      parity: props.week_number % 2 === 0,
-      day: today.isoWeekday(),
-      today,
+      tabsPosition: 'top',
+      parity: this.props.week_number % 2 === 0,
+      day: moment().isoWeekday(),
+      today: moment(),
     };
   }
 
   updateDimensions = () => {
     this.setState({
-      mode: window.innerWidth > window.innerHeight ? 'left' : 'top',
+      tabsPosition: window.innerWidth > window.innerHeight ? 'left' : 'top',
     });
   };
-  componentWillMount = function() {
+  componentWillMount = () => {
     this.updateDimensions();
   };
-  componentDidMount = function() {
+  componentDidMount = () => {
     window.addEventListener('resize', this.updateDimensions);
   };
-  componentWillUnmount = function() {
+  componentWillUnmount = () => {
     window.removeEventListener('resize', this.updateDimensions);
   };
 
-  handleParityChange = parity => {
+  handleParityChange = (parity: boolean) => {
     this.setState({ parity });
   };
 
   render() {
     console.log('Component TabsWeekDays props =', this.props);
-    let weekdays = [];
+    let weekdays: IWeekDay[] = [];
     for (let i = 1; i <= 6; i++) {
       weekdays[i] = {
         name: wdn[i],
@@ -123,7 +181,7 @@ class TabsWeekDays extends React.Component {
     const tabpanes = weekdays.map((wd, i) => {
       if (wd.lessons.length > 0)
         return (
-          <TabPane tab={wd.name} key={i}>
+          <TabPane tab={wd.name} key={String(i)}>
             <Table
               dataSource={wd.lessons}
               columns={columns}
@@ -169,7 +227,7 @@ class TabsWeekDays extends React.Component {
         </div>
         <Tabs
           defaultActiveKey={this.state.day.toString()}
-          tabPosition={this.state.mode}
+          tabPosition={this.state.tabsPosition}
           animated={false}
         >
           {tabpanes}
