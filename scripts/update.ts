@@ -92,6 +92,7 @@ let json2file = (path: string, obj: any) => {
   try {
     console.log('Start downloading');
     let trimesters = await api.getTrimester();
+    console.log('trimesters=', trimesters);
     // @TODO return back when trimesters fixed
     let trimesterId = 1079; //  trimesters[0].IdTrimester;
     json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
@@ -100,8 +101,10 @@ let json2file = (path: string, obj: any) => {
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
     let faculties = await api.getFaculties();
+    console.log('faculties=', faculties);
     json2file(`./public/data/faculties.json`, faculties);
     let facultiesWithGroups: Faculty[] = [];
+    return;
     for (let f of faculties) {
       let groups = await api.getGroups(f.IdFaculty);
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
