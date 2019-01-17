@@ -133,7 +133,7 @@ class TabsWeekDays extends React.Component<
     super(props);
     this.state = {
       tabsPosition: 'top',
-      parity: this.props.week_number % 2 === 0,
+      parity: (this.props.week_number + 15) % 2 === 0,
       day: moment().isoWeekday(),
       today: moment(),
     };
@@ -206,8 +206,11 @@ class TabsWeekDays extends React.Component<
       <>
         <div>
           Сегодня {wdn[this.state.day % 7]}, {this.state.today.format('LL')}{' '}
-          неделя {this.props.week_number} из {this.props.week_total} (
-          {this.props.week_number % 2 === 0 ? 'Четная' : 'Нечетная'})
+          {/* @TODO I need to do something with weeks and semesters */}
+          неделя в семестре {this.props.week_number} из {this.props.week_total},
+          неделя в году: {this.props.week_number + 15} из{' '}
+          {this.props.week_total + 15}(
+          {(this.props.week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
         </div>
         {this.props.week_number > this.props.week_total && (
           <Alert
