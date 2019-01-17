@@ -30,6 +30,7 @@ class UniversalList extends React.Component<any, any> {
           onChange={this.handleSearch}
           placeholder="Начните вводить название..."
         />
+        {/* @TODO remove br, use css instead */}
         <br />
         <br />
         <List
