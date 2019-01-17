@@ -8,14 +8,75 @@ const ProgressBar = require('progress');
 
 axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
 
+interface iGroupOld {
+  IdGroup: number;
+  Group: string;
+  Course: number;
+  Error: string;
+}
+
+interface iFacultyOld {
+  IdFaculty: number;
+  FacultyName: string;
+  FacultyAbbr: string;
+  Error: string;
+}
+
+interface iTrimesterOld {
+  IdTrimester: number;
+  uYear: string;
+  dateStart: Date;
+  dateFinish: Date;
+  week: number;
+  Error: string;
+}
+
+interface iLessonOld {
+  WeekDay: number;
+  StartTime: string;
+  Odd: number;
+  Lesson: string;
+  LessonType: string;
+  Room: string;
+  FIO: string;
+  FIOshort: string;
+  Error: string;
+}
+
+class Group {
+  public id: number;
+  public name: string;
+  constructor(obj: iGroupOld) {
+    this.id = obj.IdGroup;
+    this.name = obj.Group;
+  }
+}
+
+class Faculty {
+  public id: number;
+  public name: string;
+  public fullName: string;
+  public groups: Group[];
+  constructor(obj: iFacultyOld) {
+    this.id = obj.IdFaculty;
+    this.name = obj.FacultyAbbr;
+    this.fullName = obj.FacultyName;
+    this.groups = [];
+  }
+}
+
 // substr(1) is needed because response from api contains `@` signn as a first symbol
 let api = {
-  getFaculties: async () => JSON.parse((await axios.get(`/`)).data.substr(1)),
-  getGroups: async facultyId =>
+  getFaculties: async (): Promise<iFacultyOld[]> =>
+    JSON.parse((await axios.get(`/`)).data.substr(1)),
+  getGroups: async (facultyId: number): Promise<iGroupOld[]> =>
     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
-  getTrimester: async () =>
+  getTrimester: async (): Promise<iTrimesterOld[]> =>
     JSON.parse((await axios.get(`/?mode=2`)).data.substr(1)),
-  getSchedule: async (groupId, trimesterId) =>
+  getSchedule: async (
+    groupId: number,
+    trimesterId: number
+  ): Promise<iLessonOld[]> =>
     JSON.parse(
       (await axios.get(
         `/?mode=3&id=${groupId}&idt=${trimesterId}`
@@ -23,7 +84,7 @@ let api = {
     ),
 };
 
-let json2file = (path, obj) => {
+let json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2));
 };
 
@@ -31,6 +92,8 @@ let json2file = (path, obj) => {
   try {
     console.log('Start downloading');
     let trimesters = await api.getTrimester();
+    console.log('trimesters=', trimesters);
+    // @TODO return back when trimesters fixed
     let trimesterId = 1079; //  trimesters[0].IdTrimester;
     json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
     // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
@@ -38,19 +101,16 @@ let json2file = (path, obj) => {
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
     let faculties = await api.getFaculties();
+    console.log('faculties=', faculties);
     json2file(`./public/data/faculties.json`, faculties);
-    let facultiesWithGroups = [];
+    let facultiesWithGroups: Faculty[] = [];
+    return;
     for (let f of faculties) {
       let groups = await api.getGroups(f.IdFaculty);
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
-      let newFaculty = {
-        id: f.IdFaculty,
-        name: f.FacultyAbbr,
-        fullName: f.FacultyName,
-        groups: [],
-      };
+      let newFaculty = new Faculty(f);
       let bar = new ProgressBar(
-        `${f.FacultyName} [:bar] :current/:total :percent :etas`,
+        `${newFaculty.name} [:bar] :current/:total :percent :etas`,
         {
           width: 20,
           total: groups.length,
@@ -60,10 +120,7 @@ let json2file = (path, obj) => {
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
-        newFaculty.groups.push({
-          id: g.IdGroup,
-          name: g.Group,
-        });
+        newFaculty.groups.push(new Group(g));
         bar.tick();
       }
       facultiesWithGroups.push(newFaculty);

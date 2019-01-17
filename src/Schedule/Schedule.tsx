@@ -1,21 +1,22 @@
 import React from 'react';
-import TabsWeekDays from './TabsWeekDays';
+import TabsWeekDays, { ILessonOld } from './TabsWeekDays';
 import moment from 'moment';
 import { Spin } from 'antd';
 import SelectGroup from '../SelectGroup';
-const api = require('../api');
+import api from '../api';
 
-class Schedule extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      trimester: {},
-      schedule: [],
-      loading: false,
-      week_number: 1,
-      week_total: 0,
-    };
-  }
+type ScheduleProps = any;
+
+interface ScheduleState {}
+class Schedule extends React.Component<ScheduleProps, ScheduleState> {
+  state = {
+    trimester: {},
+    schedule: [],
+    loading: false,
+    week_number: 1,
+    week_total: 0,
+  };
+
   loadSchedule = async () => {
     localStorage.setItem('groupId', this.props.match.params.groupId);
     localStorage.setItem('facultyId', this.props.match.params.facultyId);
@@ -30,7 +31,7 @@ class Schedule extends React.Component {
       let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
       const groupId = this.props.match.params.groupId;
       res = await api.getSchedule(groupId, trimester.IdTrimester);
-      let schedule = res.data;
+      let schedule: ILessonOld[] = res.data;
       this.setState({
         trimester,
         schedule,
@@ -48,7 +49,7 @@ class Schedule extends React.Component {
     this.loadSchedule();
   };
 
-  handleGroupChange = (value, selectedOptions) => {
+  handleGroupChange = (value: string[], selectedOptions?: any) => {
     let [facultyId, groupId] = value;
     this.props.history.push(`/${facultyId}/${groupId}`);
     this.loadSchedule();
