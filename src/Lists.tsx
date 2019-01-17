@@ -24,7 +24,7 @@ class UniversalList extends React.Component<any, any> {
       item[fieldNames.label].match(new RegExp(this.state.searchValue, 'i'))
     );
     return (
-      <div>
+      <>
         <h2>{title}</h2>
         <Input.Search
           onChange={this.handleSearch}
@@ -44,7 +44,7 @@ class UniversalList extends React.Component<any, any> {
             </List.Item>
           )}
         />
-      </div>
+      </>
     );
   }
 }

@@ -22,26 +22,33 @@ class App extends React.Component {
                 </Link>
               </header>
 
-              <Switch>
-                <Route
-                  path="/:facultyId(\d+)/:groupId(\d+)"
-                  component={Schedule}
-                />
-                <Route path="/:facultyId(\d+)" component={ListGroups} />
-                <Route path="/faculties" component={ListFaculties} />
-                <Route
-                  path="/"
-                  render={() => {
-                    let facultyId = localStorage['facultyId'],
-                      groupId = localStorage['groupId'];
-                    if (facultyId && groupId)
-                      return <Redirect to={`/${facultyId}/${groupId}`} />;
-                    else return <Redirect to="/faculties" />;
-                  }}
-                />
-              </Switch>
+              <div className="content-wrapper">
+                <Switch>
+                  <Route
+                    path="/:facultyId(\d+)/:groupId(\d+)"
+                    component={Schedule}
+                  />
+                  <Route path="/:facultyId(\d+)" component={ListGroups} />
+                  <Route path="/faculties" component={ListFaculties} />
+                  <Route
+                    path="/"
+                    render={() => {
+                      let facultyId = localStorage['facultyId'],
+                        groupId = localStorage['groupId'];
+                      if (facultyId && groupId)
+                        return <Redirect to={`/${facultyId}/${groupId}`} />;
+                      else return <Redirect to="/faculties" />;
+                    }}
+                  />
+                </Switch>
+              </div>
 
-              <footer>© Yury Savin, Irkutsk 2018</footer>
+              <footer>
+                Сделано с ❤{' '}
+                <a href="https://vk.com/savinyurii" target="_blank">
+                  в Иркутске
+                </a>
+              </footer>
             </>
           </BrowserRouter>
         </LocaleProvider>
