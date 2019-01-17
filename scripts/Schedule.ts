@@ -23,7 +23,7 @@ class Lesson {
   public auditories: Auditory[] = [];
   public parity?: number | null = null;
 
-  constructor(lesson: iLessonOld) {
+  constructor(lesson: ILessonOld) {
     this.subject = lesson.Lesson;
     const types = 'пр_лаб_л_?_конс_вне_зач_экз'.split('_');
     this.type = types.indexOf(lesson.LessonType);
@@ -68,7 +68,7 @@ class Schedule {
   }
 }
 
-interface iLessonOld {
+interface ILessonOld {
   WeekDay: number;
   StartTime: string;
   Odd: number;
@@ -80,7 +80,7 @@ interface iLessonOld {
   Error: string;
 }
 
-const s: iLessonOld[] = require('./public/data/schedule/1069/17339.json');
+const s: ILessonOld[] = require('./public/data/schedule/1069/17339.json');
 
 let day: Day | null = null;
 // let days: Day[] = [];

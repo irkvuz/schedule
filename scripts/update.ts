@@ -6,23 +6,21 @@ const axios = require('axios');
 const fs = require('fs');
 const ProgressBar = require('progress');
 
-axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
-
-interface iGroupOld {
+interface IGroupOld {
   IdGroup: number;
   Group: string;
   Course: number;
   Error: string;
 }
 
-interface iFacultyOld {
+interface IFacultyOld {
   IdFaculty: number;
   FacultyName: string;
   FacultyAbbr: string;
   Error: string;
 }
 
-interface iTrimesterOld {
+interface ITrimesterOld {
   IdTrimester: number;
   uYear: string;
   dateStart: Date;
@@ -31,7 +29,7 @@ interface iTrimesterOld {
   Error: string;
 }
 
-interface iLessonOld {
+interface ILessonOld {
   WeekDay: number;
   StartTime: string;
   Odd: number;
@@ -46,7 +44,7 @@ interface iLessonOld {
 class Group {
   public id: number;
   public name: string;
-  constructor(obj: iGroupOld) {
+  constructor(obj: IGroupOld) {
     this.id = obj.IdGroup;
     this.name = obj.Group;
   }
@@ -57,26 +55,26 @@ class Faculty {
   public name: string;
   public fullName: string;
   public groups: Group[];
-  constructor(obj: iFacultyOld) {
+  constructor(obj: IFacultyOld) {
     this.id = obj.IdFaculty;
     this.name = obj.FacultyAbbr;
     this.fullName = obj.FacultyName;
     this.groups = [];
   }
 }
-
+axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
 // substr(1) is needed because response from api contains `@` signn as a first symbol
 let api = {
-  getFaculties: async (): Promise<iFacultyOld[]> =>
+  getFaculties: async (): Promise<IFacultyOld[]> =>
     JSON.parse((await axios.get(`/`)).data.substr(1)),
-  getGroups: async (facultyId: number): Promise<iGroupOld[]> =>
+  getGroups: async (facultyId: number): Promise<IGroupOld[]> =>
     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
-  getTrimester: async (): Promise<iTrimesterOld[]> =>
+  getTrimester: async (): Promise<ITrimesterOld[]> =>
     JSON.parse((await axios.get(`/?mode=2`)).data.substr(1)),
   getSchedule: async (
     groupId: number,
     trimesterId: number
-  ): Promise<iLessonOld[]> =>
+  ): Promise<ILessonOld[]> =>
     JSON.parse(
       (await axios.get(
         `/?mode=3&id=${groupId}&idt=${trimesterId}`
@@ -92,19 +90,15 @@ let json2file = (path: string, obj: any) => {
   try {
     console.log('Start downloading');
     let trimesters = await api.getTrimester();
-    console.log('trimesters=', trimesters);
-    // @TODO return back when trimesters fixed
-    let trimesterId = 1079; //  trimesters[0].IdTrimester;
+    let trimesterId = trimesters[0].IdTrimester;
     json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
-    // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    json2file(`./public/data/trimesters/current.json`, trimesters[0]);
     let dirSchedule = `./public/data/schedule/${trimesterId}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
     let faculties = await api.getFaculties();
-    console.log('faculties=', faculties);
     json2file(`./public/data/faculties.json`, faculties);
     let facultiesWithGroups: Faculty[] = [];
-    return;
     for (let f of faculties) {
       let groups = await api.getGroups(f.IdFaculty);
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
