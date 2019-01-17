@@ -104,7 +104,7 @@
     "Odd": 1,
     "Lesson": "Химия",
     "LessonType": "пр",
-    "Room": "3-703",
+    "Room": "4-410",
     "FIO": "Горбунова Ольга Ивановна",
     "FIOshort": "Горбунова О.И.",
     "Error": null
@@ -123,7 +123,18 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Лесная фитопатология",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Лесная фитопатология",
     "LessonType": "пр",
     "Room": "4-410",
