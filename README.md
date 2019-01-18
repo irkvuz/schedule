@@ -4,7 +4,7 @@ This is [React.js](https://reactjs.org) based single page progressive web applic
 
 App is available here: http://bgu.irkvuz.ru  
 
-![Desktop and Mobile](docs/screenshots/1/4.png)
+[![Desktop and Mobile](docs/screenshots/1/4.png)](https://bgu.irkvuz.ru)
 
 ## Features
 
