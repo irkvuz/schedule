@@ -4,6 +4,7 @@ import moment from 'moment';
 import { Spin } from 'antd';
 import SelectGroup from '../SelectGroup';
 import api from '../api';
+import ym from 'react-yandex-metrika';
 
 type ScheduleProps = any;
 
@@ -16,6 +17,11 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
     week_number: 1,
     week_total: 0,
   };
+
+  constructor(props: ScheduleProps) {
+    super(props);
+    console.log('Schedule constructor');
+  }
 
   loadSchedule = async () => {
     localStorage.setItem('groupId', this.props.match.params.groupId);
@@ -51,7 +57,9 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
 
   handleGroupChange = (value: string[], selectedOptions?: any) => {
     let [facultyId, groupId] = value;
-    this.props.history.push(`/${facultyId}/${groupId}`);
+    const url = `/${facultyId}/${groupId}`;
+    this.props.history.push(url);
+    if (process.env.NODE_ENV === 'production') ym('hit', url);
     this.loadSchedule();
   };
 

@@ -39,7 +39,6 @@ class SelectGroup extends React.Component<any, SelectGroupState> {
           })),
         };
       });
-      console.log(options);
       this.setState({ options });
     } catch (error) {
       console.log(error);

@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Link, Switch, Redirect } from 'react-router-dom';
 import Schedule from './Schedule/Schedule';
 import { ListFaculties, ListGroups } from './Lists';
 import { LocaleProvider, Icon } from 'antd';
-import { YMInitializer } from 'react-yandex-metrika';
+import ym, { YMInitializer } from 'react-yandex-metrika';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
 
@@ -45,7 +45,15 @@ class App extends React.Component {
 
               <footer>
                 Сделано с ❤{' '}
-                <a href="https://vk.com/savinyurii" target="_blank">
+                <a
+                  href="https://vk.com/savinyurii"
+                  target="_blank"
+                  onClick={event => {
+                    console.log('VK clicked', event);
+                    if (process.env.NODE_ENV === 'production')
+                      ym('reachGoal', 'click_vk');
+                  }}
+                >
                   в Иркутске
                 </a>
               </footer>
