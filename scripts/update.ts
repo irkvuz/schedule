@@ -114,10 +114,10 @@ let json2file = (path: string, obj: any) => {
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
-        newFaculty.groups.push(new Group(g));
+        if (schedule.length > 1) newFaculty.groups.push(new Group(g));
         bar.tick();
       }
-      facultiesWithGroups.push(newFaculty);
+      if (newFaculty.groups.length > 0) facultiesWithGroups.push(newFaculty);
     }
     json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
   } catch (error) {
