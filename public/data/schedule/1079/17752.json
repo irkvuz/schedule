@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
