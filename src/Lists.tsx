@@ -6,9 +6,6 @@ import api from './api';
 
 /**
  * Used for ListFaculties and ListGroups
- *
- * @param {*} props
- * @returns
  */
 class UniversalList extends React.Component<any, any> {
   state = {
@@ -50,7 +47,11 @@ class UniversalList extends React.Component<any, any> {
   }
 }
 
-interface ListProps extends RouteComponentProps {
+interface ListRouterProps {
+  facultyId?: string;
+}
+
+interface ListProps extends RouteComponentProps<ListRouterProps> {
   type: 'faculties' | 'groups';
 }
 
@@ -118,7 +119,8 @@ class ListFaculties extends MyList {
 class ListGroups extends MyList {
   constructor(props: any) {
     super(props);
-    this.promise = api.getGroups(36);
+    const facultyId = Number(this.props.match.params.facultyId);
+    this.promise = api.getGroups(facultyId);
     this.title = 'Список групп';
     this.fieldNames = { label: 'Group', value: 'IdGroup' };
   }
