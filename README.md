@@ -8,7 +8,7 @@ App is available here: http://bgu.irkvuz.ru
 
 ## Features
 
-Есть так же [описание преимуществ на русском языке](./FEATURES.md)
+Есть так же [описание преимуществ на русском языке](docs/FEATURES.md)
 
 ### Fully Responsive
 
