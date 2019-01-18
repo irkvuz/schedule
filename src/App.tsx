@@ -7,9 +7,26 @@ import ym, { YMInitializer } from 'react-yandex-metrika';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
 
+/** Detects if device is on iOS */
+const isIos = () => {
+  const userAgent = window.navigator.userAgent.toLowerCase();
+  return /iphone|ipad|ipod/.test(userAgent);
+};
+/** Detects if device is in standalone mode */
+const isInStandaloneMode = () => {
+  const nav: any = window.navigator;
+  return nav.standalone;
+};
+
 class App extends React.Component {
   render() {
     console.log('App component rendered');
+    if (isIos() && isInStandaloneMode()) {
+      if (process.env.NODE_ENV === 'production') {
+        ym('reachGoal', 'standalone');
+        ym('params', { standalone: true });
+      }
+    }
 
     return (
       <>
