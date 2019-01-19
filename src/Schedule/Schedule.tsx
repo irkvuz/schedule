@@ -24,8 +24,6 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
   }
 
   loadSchedule = async () => {
-    localStorage.setItem('groupId', this.props.match.params.groupId);
-    localStorage.setItem('facultyId', this.props.match.params.facultyId);
     this.setState({ loading: true });
     try {
       let res = await api.getTrimester();
@@ -36,6 +34,10 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
         moment().diff(trimester.dateStart.startOf('week'), 'week') + 1;
       let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
       const groupId = this.props.match.params.groupId;
+      const facultyId = this.props.match.params.facultyId;
+      localStorage.setItem('groupId', groupId);
+      localStorage.setItem('facultyId', facultyId);
+
       res = await api.getSchedule(groupId, trimester.IdTrimester);
       let schedule: ILessonOld[] = res.data;
       this.setState({
@@ -55,16 +57,21 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
     this.loadSchedule();
   };
 
+  componentWillReceiveProps = () => {
+    // это нужно чтобы расписание обновилось, когда изменится группа чрез каскадер
+    // т.к. компонент при этом не перемонтируется и componentDidMount не вызывается
+    this.loadSchedule();
+  };
+
   handleGroupChange = (value: string[], selectedOptions?: any) => {
     let [facultyId, groupId] = value;
     const url = `/${facultyId}/${groupId}`;
     this.props.history.push(url);
     if (process.env.NODE_ENV === 'production') ym('hit', url);
-    this.loadSchedule();
   };
 
   render() {
-    console.log('Component `Schedule` props =', this.props);
+    // console.log('Component `Schedule` props =', this.props);
     const { groupId, facultyId } = this.props.match.params;
     return (
       <div>

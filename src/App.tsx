@@ -1,11 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Route, Link, Switch, Redirect } from 'react-router-dom';
+import { Router, Route, Link, Switch, Redirect } from 'react-router-dom';
 import Schedule from './Schedule/Schedule';
 import { ListFaculties, ListGroups } from './Lists';
 import { LocaleProvider, Icon } from 'antd';
 import ym, { YMInitializer } from 'react-yandex-metrika';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
+import history from './history';
 
 /** Detects if device is on iOS */
 const isIos = () => {
@@ -28,8 +29,21 @@ class App extends React.Component {
     console.log('App component rendered');
     return (
       <>
+        {/* пришлось счетчик инициализировать в начале а не в конце, потому что иначе возникает ошибка при редиректе */}
+        <YMInitializer
+          accounts={[50381566]}
+          options={{
+            clickmap: true,
+            trackLinks: true,
+            webvisor: true,
+            params: {
+              mode: isInStandaloneMode() ? 'standalone' : 'regular',
+            },
+          }}
+          version="2"
+        />
         <LocaleProvider locale={ru_RU}>
-          <BrowserRouter>
+          <Router history={history}>
             <>
               <header>
                 <Link to="/faculties" title="Изменить группу">
@@ -71,23 +85,17 @@ class App extends React.Component {
                 </a>
               </footer>
             </>
-          </BrowserRouter>
+          </Router>
         </LocaleProvider>
-        <YMInitializer
-          accounts={[50381566]}
-          options={{
-            clickmap: true,
-            trackLinks: true,
-            webvisor: true,
-            params: {
-              mode: isInStandaloneMode() ? 'standalone' : 'regular',
-            },
-          }}
-          version="2"
-        />
       </>
     );
   }
 }
+
+// @TODO change any to appropriate types
+history.listen((location: any, action: any) => {
+  // console.log('location changed', location, action);
+  ym('hit', location.pathname + location.search);
+});
 
 export default App;
