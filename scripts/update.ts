@@ -11,6 +11,7 @@ interface IGroupOld {
   Group: string;
   Course: number;
   Error: string;
+  hasSchedule: boolean;
 }
 
 interface IFacultyOld {
@@ -101,7 +102,6 @@ let json2file = (path: string, obj: any) => {
     let facultiesWithGroups: Faculty[] = [];
     for (let f of faculties) {
       let groups = await api.getGroups(f.IdFaculty);
-      json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
       let newFaculty = new Faculty(f);
       let bar = new ProgressBar(
         `${newFaculty.name} [:bar] :current/:total :percent :etas`,
@@ -113,6 +113,7 @@ let json2file = (path: string, obj: any) => {
       for (let i = 0; i < groups.length; i++) {
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
+        groups[i].hasSchedule = schedule.length > 1;
         if (schedule.length > 1) {
           json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
           newFaculty.groups.push(new Group(g));
@@ -120,6 +121,7 @@ let json2file = (path: string, obj: any) => {
         bar.tick();
       }
       if (newFaculty.groups.length > 0) facultiesWithGroups.push(newFaculty);
+      json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
     }
     json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
   } catch (error) {
