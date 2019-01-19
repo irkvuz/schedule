@@ -7,7 +7,8 @@ import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
-const wdn = 'Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота'.split(
+/** WeekDayNames - названия дней недели */
+const wdn = 'Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота_Воскресенье'.split(
   '_'
 );
 
@@ -97,10 +98,10 @@ interface TabsWeekDaysProps {
 }
 
 interface TabsWeekDaysState {
-  tabsPosition: TabsPosition;
+  tabPosition: TabsPosition;
   parity: boolean;
-  day: number;
   today: moment.Moment;
+  defaultActiveKey: string;
 }
 
 interface IWeekDay {
@@ -114,17 +115,47 @@ class TabsWeekDays extends React.Component<
 > {
   constructor(props: TabsWeekDaysProps) {
     super(props);
+    const today = moment();
+    let parity = (this.props.week_number + 15) % 2 === 0;
+    // Поиск ближайшего следующего дня для которого есть расписание
+    let currentWeekday = today.isoWeekday();
+    let minWeekday = 15;
+    props.schedule.forEach(lesson => {
+      let weekday = lesson.WeekDay;
+      if (lesson.Odd === 0 && weekday < currentWeekday) {
+        // пара каждую неделю и на этой неделе этот день уже прошел
+        // => пара будет на следующей
+        weekday += 7;
+      } else if (
+        (lesson.Odd === 1 && parity) ||
+        (lesson.Odd === 2 && !parity)
+      ) {
+        // пара не на этой неделе
+        weekday += 7;
+      } else if (weekday < currentWeekday) {
+        // пара на этой неделе, но день уже прошел
+        weekday += 14;
+      }
+      minWeekday = Math.min(minWeekday, weekday);
+    });
+    if (minWeekday > 14) {
+      minWeekday -= 14;
+    } else if (minWeekday > 7) {
+      // если пара в день на следующей неделе, надо поменять четность
+      minWeekday -= 7;
+      parity = !parity;
+    }
     this.state = {
-      tabsPosition: 'top',
-      parity: (this.props.week_number + 15) % 2 === 0,
-      day: moment().isoWeekday(),
-      today: moment(),
+      tabPosition: 'top',
+      parity,
+      today,
+      defaultActiveKey: minWeekday.toString(),
     };
   }
 
   updateDimensions = () => {
     this.setState({
-      tabsPosition: window.innerWidth > window.innerHeight ? 'left' : 'top',
+      tabPosition: window.innerWidth > window.innerHeight ? 'left' : 'top',
     });
   };
   componentWillMount = () => {
@@ -139,23 +170,25 @@ class TabsWeekDays extends React.Component<
 
   handleParityChange = (parity: boolean) => {
     this.setState({ parity });
-    message.info(
-      `Показано расписание ${parity ? 'четной' : 'нечетной'} недели`,
-      1
-    );
+    message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
   render() {
-    console.log('Component TabsWeekDays props =', this.props);
+    // console.log('Component TabsWeekDays props =', this.props);
     let weekdays: IWeekDay[] = [];
-    for (let i = 1; i <= 6; i++) {
+
+    for (let i = 1; i <= 7; i++) {
       weekdays[i] = {
         name: wdn[i],
         lessons: [],
       };
     }
+
     const { schedule } = this.props;
-    if (!schedule) return <div>No data</div>;
+
+    if (!schedule || schedule.length <= 1)
+      return <div>К сожалению, для этой группы нет расписания 😔</div>;
+
     for (let s of schedule) {
       if (
         !s.Error &&
@@ -165,12 +198,13 @@ class TabsWeekDays extends React.Component<
       )
         weekdays[s.WeekDay].lessons.push(s);
     }
-    const tabpanes = weekdays.map((wd, i) => {
-      if (wd.lessons.length > 0)
+
+    const tabsContent = weekdays.map((weekday, i) => {
+      if (weekday.lessons.length > 0)
         return (
-          <TabPane tab={wd.name} key={String(i)}>
+          <TabPane tab={weekday.name} key={String(i)}>
             <Table
-              dataSource={wd.lessons}
+              dataSource={weekday.lessons}
               columns={columns}
               size="small"
               className="Schedule"
@@ -192,7 +226,8 @@ class TabsWeekDays extends React.Component<
     return (
       <>
         <div>
-          Сегодня {wdn[this.state.day % 7]}, {this.state.today.format('LL')}{' '}
+          Сегодня {wdn[this.state.today.isoWeekday() % 7]},{' '}
+          {this.state.today.format('LL')}{' '}
           {/* @TODO I need to do something with weeks and semesters */}
           неделя в семестре {this.props.week_number} из {this.props.week_total},
           неделя в году {this.props.week_number + 15} из{' '}
@@ -216,11 +251,11 @@ class TabsWeekDays extends React.Component<
           />
         </div>
         <Tabs
-          defaultActiveKey={this.state.day.toString()}
-          tabPosition={this.state.tabsPosition}
+          defaultActiveKey={this.state.defaultActiveKey}
+          tabPosition={this.state.tabPosition}
           animated={false}
         >
-          {tabpanes}
+          {tabsContent}
         </Tabs>
       </>
     );
