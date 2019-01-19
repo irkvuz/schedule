@@ -13,21 +13,19 @@ const isIos = () => {
   return /iphone|ipad|ipod/.test(userAgent);
 };
 /** Detects if device is in standalone mode */
-const isInStandaloneMode = () => {
+const isInStandaloneMode = (): boolean => {
   const nav: any = window.navigator;
   return nav.standalone;
 };
 
 class App extends React.Component {
+  componentDidMount() {
+    if (isIos() && isInStandaloneMode()) {
+      ym('reachGoal', 'standalone');
+    }
+  }
   render() {
     console.log('App component rendered');
-    if (isIos() && isInStandaloneMode()) {
-      if (process.env.NODE_ENV === 'production') {
-        ym('reachGoal', 'standalone');
-        ym('params', { standalone: true });
-      }
-    }
-
     return (
       <>
         <LocaleProvider locale={ru_RU}>
@@ -49,7 +47,7 @@ class App extends React.Component {
                   <Route path="/faculties" component={ListFaculties} />
                   <Route
                     path="/"
-                    render={() => {
+                    render={(props: any) => {
                       let facultyId = localStorage['facultyId'],
                         groupId = localStorage['groupId'];
                       if (facultyId && groupId)
@@ -66,9 +64,7 @@ class App extends React.Component {
                   href="https://vk.com/savinyurii"
                   target="_blank"
                   onClick={event => {
-                    console.log('VK clicked', event);
-                    if (process.env.NODE_ENV === 'production')
-                      ym('reachGoal', 'click_vk');
+                    ym('reachGoal', 'click_vk');
                   }}
                 >
                   в Иркутске
@@ -77,18 +73,18 @@ class App extends React.Component {
             </>
           </BrowserRouter>
         </LocaleProvider>
-        {process.env.NODE_ENV === 'production' && (
-          <YMInitializer
-            accounts={[50381566]}
-            options={{
-              clickmap: true,
-              trackLinks: true,
-              accurateTrackBounce: true,
-              webvisor: true,
-            }}
-            version="2"
-          />
-        )}
+        <YMInitializer
+          accounts={[50381566]}
+          options={{
+            clickmap: true,
+            trackLinks: true,
+            webvisor: true,
+            params: {
+              mode: isInStandaloneMode() ? 'standalone' : 'regular',
+            },
+          }}
+          version="2"
+        />
       </>
     );
   }
