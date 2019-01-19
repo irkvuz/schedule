@@ -36,9 +36,13 @@ class UniversalList extends React.Component<any, any> {
           bordered
           renderItem={(item: any) => (
             <List.Item key={item[fieldNames.value]}>
-              <Link to={`${item[fieldNames.value]}/`}>
-                {item[fieldNames.label]}
-              </Link>
+              {item.hasSchedule || !item.hasOwnProperty('hasSchedule') ? (
+                <Link to={`${item[fieldNames.value]}/`}>
+                  {item[fieldNames.label]}
+                </Link>
+              ) : (
+                <span style={{ opacity: 0.5 }}>{item[fieldNames.label]}</span>
+              )}
             </List.Item>
           )}
         />
@@ -52,7 +56,7 @@ interface ListRouterProps {
 }
 
 interface ListProps extends RouteComponentProps<ListRouterProps> {
-  type: 'faculties' | 'groups';
+  type?: 'faculties' | 'groups';
 }
 
 type ListState = {
