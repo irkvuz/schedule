@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs, Table, Icon, Switch, Alert } from 'antd';
+import { Tabs, Table, Icon, Switch, Alert, message } from 'antd';
 import { TabsPosition } from 'antd/lib/tabs';
 import { ColumnProps } from 'antd/lib/table';
 import moment from 'moment';
@@ -10,23 +10,6 @@ const TabPane = Tabs.TabPane;
 const wdn = 'Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота'.split(
   '_'
 );
-
-// const LessonTypes = {
-//   'вне': { name: 'внеучебное занятие', className: 'lek0' },
-//   'л': { name: 'лекция', className: 'lek1' },
-//   'пр': { name: 'практическое занятие', className: 'lek2' },
-//   'лаб': { name: 'лабораторная работа', className: 'lek3' },
-//   'зач': { name: 'зачет', className: 'lek4' },
-//   'экз': { name: 'экзамен', className: 'lek5' },
-//   'конс': { name: 'консультация', className: 'lek6' },
-//   'п/с': { name: 'пересдача', className: 'lek7' },
-//   '': { name: 'внеплановое занятие', className: 'lek8' },
-//   'тест': { name: 'тестирование', className: 'lek9' },
-//   'подг': { name: 'подготовительные курсы', className: 'lek10' },
-//   'ол': { name: 'олимпиада', className: 'lek11' },
-//   'конф': { name: 'научная конференция', className: 'lek12' },
-//   'откр': { name: 'день открытых дверей', className: 'lek13' },
-// };
 
 interface ILessonType {
   shortName: string;
@@ -156,6 +139,10 @@ class TabsWeekDays extends React.Component<
 
   handleParityChange = (parity: boolean) => {
     this.setState({ parity });
+    message.info(
+      `Показано расписание ${parity ? 'четной' : 'нечетной'} недели`,
+      1
+    );
   };
 
   render() {
