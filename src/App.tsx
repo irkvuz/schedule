@@ -62,11 +62,16 @@ class App extends React.Component {
                   <Route
                     path="/"
                     render={(props: any) => {
-                      let facultyId = localStorage['facultyId'],
-                        groupId = localStorage['groupId'];
+                      console.log('redirect props', props);
+                      const facultyId = localStorage['facultyId'];
+                      const groupId = localStorage['groupId'];
+                      const postfix =
+                        props.location.search + props.location.hash;
                       if (facultyId && groupId)
-                        return <Redirect to={`/${facultyId}/${groupId}`} />;
-                      else return <Redirect to="/faculties" />;
+                        return (
+                          <Redirect to={`/${facultyId}/${groupId}${postfix}`} />
+                        );
+                      else return <Redirect to={'/faculties' + postfix} />;
                     }}
                   />
                 </Switch>
@@ -95,7 +100,7 @@ class App extends React.Component {
 // @TODO change any to appropriate types
 history.listen((location: any, action: any) => {
   // console.log('location changed', location, action);
-  ym('hit', location.pathname + location.search);
+  ym('hit', location.pathname + location.search + location.hash);
 });
 
 export default App;

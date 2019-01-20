@@ -63,14 +63,15 @@ class Faculty {
     this.groups = [];
   }
 }
+
 axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
-// substr(1) is needed because response from api contains `@` signn as a first symbol
 let api = {
+  // substr(1) is needed because response from api contains `@` signn as a first symbol
   getFaculties: async (): Promise<IFacultyOld[]> =>
     JSON.parse((await axios.get(`/`)).data.substr(1)),
   getGroups: async (facultyId: number): Promise<IGroupOld[]> =>
     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
-  getTrimester: async (): Promise<ITrimesterOld[]> =>
+  getTrimesters: async (): Promise<ITrimesterOld[]> =>
     JSON.parse((await axios.get(`/?mode=2`)).data.substr(1)),
   getSchedule: async (
     groupId: number,
@@ -83,14 +84,14 @@ let api = {
     ),
 };
 
-let json2file = (path: string, obj: any) => {
+const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2));
 };
 
 (async () => {
   try {
     console.log('Start downloading');
-    let trimesters = await api.getTrimester();
+    let trimesters = await api.getTrimesters();
     let trimesterId = trimesters[0].IdTrimester;
     json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
     json2file(`./public/data/trimesters/current.json`, trimesters[0]);
