@@ -56,6 +56,28 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "2-204",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Философия",
@@ -129,28 +151,6 @@
     "Room": "3-802",
     "FIO": "Николаева Ирина Ивановна",
     "FIOshort": "Николаева И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Психология",
-    "LessonType": "пр",
-    "Room": "3-706",
-    "FIO": "Воронцова Евгения Геннадьевна",
-    "FIOshort": "Воронцова Е.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Психология",
-    "LessonType": "л",
-    "Room": "3-706",
-    "FIO": "Воронцова Евгения Геннадьевна",
-    "FIOshort": "Воронцова Е.Г.",
     "Error": null
   },
   {
