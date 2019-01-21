@@ -4,7 +4,6 @@ import moment from 'moment';
 import { Spin } from 'antd';
 import SelectGroup from '../SelectGroup';
 import api from '../api';
-import ym from 'react-yandex-metrika';
 
 type ScheduleProps = any;
 
@@ -67,7 +66,6 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
     let [facultyId, groupId] = value;
     const url = `/${facultyId}/${groupId}`;
     this.props.history.push(url);
-    if (process.env.NODE_ENV === 'production') ym('hit', url);
   };
 
   render() {
