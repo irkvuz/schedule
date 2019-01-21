@@ -6,6 +6,8 @@ App is available here: http://bgu.irkvuz.ru
 
 [![Desktop and Mobile](docs/screenshots/1/4.png)](https://bgu.irkvuz.ru)
 
+На отдельной странице описал [какие цели я ставил перед сабой при разработке этого приложения](docs/GOALS.md).
+
 ## Features
 
 Есть так же [описание преимуществ на русском языке](docs/FEATURES.md)
