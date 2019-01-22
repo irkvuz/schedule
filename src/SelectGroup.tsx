@@ -65,7 +65,11 @@ class SelectGroup extends React.Component<any, SelectGroupState> {
           size="large"
           defaultValue={[facultyId, groupId]}
           fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
-          showSearch={{ filter: this.filter }}
+          /**
+           * @TODO Need to enable search only for desktop
+           * @body On mobile search looks awful and speed down UX
+           */
+          // showSearch={{ filter: this.filter }}
         />
       )
     );
