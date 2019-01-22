@@ -24,3 +24,7 @@ footer {
   margin-top: 20px;
   text-align: center;
 }
+
+.ant-cascader-menu {
+  height: 194px;
+}
