@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психология семьи",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психология семьи",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология семьи",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психотерапия в работе с персоналом",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психотерапия в работе с персоналом",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психотерапия в работе с персоналом",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Психология рекламы",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Ласточкина Марина Сергеевна",
+    "FIOshort": "Ласточкина М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Психотерапия в работе с персоналом",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психология рекламы",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Ласточкина Марина Сергеевна",
+    "FIOshort": "Ласточкина М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология рекламы",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Ласточкина Марина Сергеевна",
+    "FIOshort": "Ласточкина М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы кадрового делопроизводства",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Введение в экономическую психологию",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Введение в экономическую психологию",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Введение в экономическую психологию",
+    "LessonType": "л",
+    "Room": "1-104",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Введение в экономическую психологию",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  }
+]

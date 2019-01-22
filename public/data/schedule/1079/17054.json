@@ -1,35 +1,24 @@
 [
   {
-    "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Маркетинг территорий",
-    "LessonType": "пр",
-    "Room": "5-516",
-    "FIO": "Вихорева Мария Васильевна",
-    "FIOshort": "Вихорева М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Маркетинг территорий",
-    "LessonType": "л",
-    "Room": "5-516",
-    "FIO": "Вихорева Мария Васильевна",
-    "FIOshort": "Вихорева М.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Принятие и исполнение государственных решений",
     "LessonType": "л",
     "Room": "5-516",
     "FIO": "Хохлова Наталья Сергеевна",
     "FIOshort": "Хохлова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Маркетинг территорий",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Вихорева Мария Васильевна",
+    "FIOshort": "Вихорева М.В.",
     "Error": null
   },
   {
@@ -45,7 +34,18 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг территорий",
+    "LessonType": "л",
+    "Room": "5-307",
+    "FIO": "Вихорева Мария Васильевна",
+    "FIOshort": "Вихорева М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Физическая культура и спорт (элективные дисциплины)",
     "LessonType": "пр",

@@ -4,14 +4,14 @@
     "Group": "БИ-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16393,
     "Group": "БИ-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16766,
@@ -46,14 +46,14 @@
     "Group": "Ж-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16391,
     "Group": "Ж-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16392,
@@ -165,7 +165,7 @@
     "Group": "ИС-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16785,
@@ -207,14 +207,14 @@
     "Group": "МЖ-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 18175,
     "Group": "МИГН-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 18174,
@@ -228,28 +228,28 @@
     "Group": "МИС-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17928,
     "Group": "МРС-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17927,
     "Group": "МСЭП-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16683,
     "Group": "П-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16874,
@@ -291,7 +291,7 @@
     "Group": "ПСД-14-1",
     "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16236,
@@ -326,7 +326,7 @@
     "Group": "РС-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16395,

@@ -39,7 +39,7 @@
     "Group": "К-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17509,
@@ -123,7 +123,7 @@
     "Group": "МЛ-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17179,
@@ -144,21 +144,21 @@
     "Group": "ММЭК-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16025,
     "Group": "МО-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17643,
     "Group": "МО-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16730,
@@ -221,7 +221,7 @@
     "Group": "МРФ-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17343,
@@ -235,21 +235,21 @@
     "Group": "МТД-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15955,
     "Group": "МЭК-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15956,
     "Group": "МЭК-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16739,
@@ -319,7 +319,7 @@
     "Group": "РФ-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16741,
@@ -347,7 +347,7 @@
     "Group": "Т-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16948,
@@ -585,28 +585,28 @@
     "Group": "ЭБ-14-1",
     "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15490,
     "Group": "ЭБ-14-2",
     "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15491,
     "Group": "ЭБ-14-3",
     "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15492,
     "Group": "ЭБ-14-4",
     "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15947,

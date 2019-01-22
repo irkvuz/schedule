@@ -60,7 +60,7 @@
     "Group": "БЖ-15",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17545,
@@ -88,7 +88,7 @@
     "Group": "БФ-15",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30118,
@@ -151,21 +151,21 @@
     "Group": "МЛрки-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16010,
     "Group": "МЭКрк-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16011,
     "Group": "МЭКрк-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16716,
@@ -319,7 +319,7 @@
     "Group": "Юрк-15",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16859,

@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международные конфликты в XXI в.",
+    "LessonType": "л",
+    "Room": "5-411",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международные конфликты в XXI в.",
+    "LessonType": "пр",
+    "Room": "5-411",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международные конфликты в XXI в.",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Шабаева Сюзанна Валерьевна",
+    "FIOshort": "Шабаева С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Практическая психология для дипломатов",
+    "LessonType": "л",
+    "Room": "5-410",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Практическая психология для дипломатов",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Шабаева Сюзанна Валерьевна",
+    "FIOshort": "Шабаева С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Процессы модернизации в странах Азии и Африки",
+    "LessonType": "л",
+    "Room": "5-411",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Процессы модернизации в странах Азии и Африки",
+    "LessonType": "пр",
+    "Room": "5-411",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-303",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-303",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "1-303",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык (первый)",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международные организации",
+    "LessonType": "л",
+    "Room": "5-410",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международные организации",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Международные организации",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  }
+]

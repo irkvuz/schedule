@@ -11,14 +11,14 @@
     "Group": "ЗемК-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15999,
     "Group": "ЗемК-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16737,
@@ -102,7 +102,7 @@
     "Group": "ЛД-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16945,
@@ -207,14 +207,14 @@
     "Group": "МЗемК-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17930,
     "Group": "МЛД-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17259,
@@ -235,7 +235,7 @@
     "Group": "МНГК-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17287,
@@ -249,7 +249,7 @@
     "Group": "МУГД-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17369,
@@ -263,21 +263,21 @@
     "Group": "МЭПД-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15974,
     "Group": "НГК-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15975,
     "Group": "НГК-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16779,
@@ -326,21 +326,21 @@
     "Group": "ПД-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15972,
     "Group": "ПД-15-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 15973,
     "Group": "ПД-15-3",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16704,
@@ -424,7 +424,7 @@
     "Group": "С-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16001,

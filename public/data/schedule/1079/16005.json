@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерское дело",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Максимова Галина Васильевна",
+    "FIOshort": "Максимова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Контроль и ревизия",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Контроль и ревизия",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерское дело",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Алганаева Марина Петровна",
+    "FIOshort": "Алганаева М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт на малых предприятиях",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Копылова Екатерина Константиновна",
+    "FIOshort": "Копылова Е.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт на малых предприятиях",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Копылова Екатерина Константиновна",
+    "FIOshort": "Копылова Е.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ в государственных (муниципальных) учреждениях",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ в государственных (муниципальных) учреждениях",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  }
+]
