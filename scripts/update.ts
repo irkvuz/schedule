@@ -115,7 +115,11 @@ const json2file = (path: string, obj: any) => {
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         groups[i].hasSchedule = schedule.length > 1;
-        if (schedule.length > 1) {
+        if (schedule.length <= 1) {
+          schedule = await api.getSchedule(g.IdGroup, 1108);
+          groups[i].hasSchedule = schedule.length > 1;
+        }
+        if (groups[i].hasSchedule) {
           json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
           newFaculty.groups.push(new Group(g));
         }
