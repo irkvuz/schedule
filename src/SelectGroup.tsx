@@ -63,7 +63,6 @@ class SelectGroup extends React.Component<any, SelectGroupState> {
           onChange={this.props.onChange}
           allowClear={false}
           size="large"
-          // @TODO надо как то переделать, чтобы это работало. Сейчас он на вход ожидает строки, а у меня структура предполагает id:number
           defaultValue={[facultyId, groupId]}
           fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
           showSearch={{ filter: this.filter }}
