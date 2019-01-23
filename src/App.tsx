@@ -37,7 +37,11 @@ class App extends React.Component {
             trackLinks: true,
             webvisor: true,
             params: {
-              mode: isInStandaloneMode() ? 'standalone' : 'regular',
+              mode: isInStandaloneMode()
+                ? isIos()
+                  ? 'standalone_ios'
+                  : 'standalone_android'
+                : 'regular',
             },
           }}
           version="2"
