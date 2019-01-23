@@ -120,6 +120,13 @@ const json2file = (path: string, obj: any) => {
           groups[i].hasSchedule = schedule.length > 1;
         }
         if (groups[i].hasSchedule) {
+          schedule = schedule.map(lesson => {
+            lesson.Lesson = lesson.Lesson.replace(
+              /(Физическая культура).*/,
+              '$1'
+            );
+            return lesson;
+          });
           json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
           newFaculty.groups.push(new Group(g));
         }
