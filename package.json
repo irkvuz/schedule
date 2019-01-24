@@ -21,13 +21,13 @@
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "^2.1.3",
-    "react-yandex-metrika": "^2.4.2",    
+    "react-yandex-metrika": "^2.4.2",
     "typescript": "^3.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "yarn build",    
+    "predeploy": "yarn build",
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
     "serve": "serve -s build",
@@ -48,6 +48,7 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.15.1",
     "progress": "^2.0.3",
+    "serve": "^10.1.1",
     "ts-node": "^7.0.1"
   },
   "nodemonConfig": {
