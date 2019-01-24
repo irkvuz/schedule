@@ -17,24 +17,23 @@
     "axios": "^0.18.0",
     "history": "^4.7.2",
     "moment": "^2.23.0",
-    "progress": "^2.0.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "^2.1.3",
-    "react-yandex-metrika": "^2.4.2",
-    "ts-node": "^7.0.1",
+    "react-yandex-metrika": "^2.4.2",    
     "typescript": "^3.2.2"
   },
   "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn build",    
+    "upload": "gh-pages -d build",
+    "deploy": "yarn upload",
+    "serve": "serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "update": "ts-node --project scripts/tsconfig.json scripts/update.ts",
-    "push:deploy": "git add --all && git commit -m \":speech_balloon: Update schedule\" && git push && yarn deploy"
+    "update": "ts-node --project scripts/tsconfig.json scripts/update.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -47,7 +46,9 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "prettier": "^1.15.1"
+    "prettier": "^1.15.1",
+    "progress": "^2.0.3",
+    "ts-node": "^7.0.1"
   },
   "nodemonConfig": {
     "ignore": [
