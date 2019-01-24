@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "11-204",
+    "FIO": "Лисихина Оксана Юрьевна",
+    "FIOshort": "Лисихина О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Экономическая теория",
@@ -69,11 +80,11 @@
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 2,
-    "Lesson": "Психология",
-    "LessonType": "пр",
+    "Lesson": "Аудит",
+    "LessonType": "л",
     "Room": "11-204",
-    "FIO": "Лисихина Оксана Юрьевна",
-    "FIOshort": "Лисихина О.Ю.",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
     "Error": null
   },
   {
@@ -85,17 +96,6 @@
     "Room": "11-204",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Аудит",
-    "LessonType": "л",
-    "Room": "11-204",
-    "FIO": "Костюк Анна Валерьевна",
-    "FIOshort": "Костюк А.В.",
     "Error": null
   },
   {
@@ -140,6 +140,17 @@
     "Room": "11-204",
     "FIO": "Баянова Елена Владимировна",
     "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "11-311",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
     "Error": null
   },
   {
@@ -191,7 +202,7 @@
     "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Аудит",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "11-202",
     "FIO": "Костюк Анна Валерьевна",
     "FIOshort": "Костюк А.В.",
