@@ -50,7 +50,10 @@ function getContacts() {
 export default function plamyaModal() {
   const reqNum = Number(localStorage.getItem('_ym50381566_reqNum'));
   const plamyaPopupShown = Number(localStorage.getItem('plamyaPopupShown'));
-  if (reqNum < 20 || plamyaPopupShown > 0) {
+  if (
+    (reqNum < 30 || plamyaPopupShown > 0) &&
+    location.hostname === 'bgu.irkvuz.ru'
+  ) {
     return;
   }
 
