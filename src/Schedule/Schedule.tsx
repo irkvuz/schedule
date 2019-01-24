@@ -4,10 +4,12 @@ import moment from 'moment';
 import { Spin, message } from 'antd';
 import SelectGroup from '../SelectGroup';
 import api from '../api';
+import plamyaModal from './plamyaModal';
 
 type ScheduleProps = any;
 
 interface ScheduleState {}
+
 class Schedule extends React.Component<ScheduleProps, ScheduleState> {
   state = {
     trimester: {},
@@ -70,6 +72,7 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
 
   componentDidMount = () => {
     this.loadSchedule();
+    setTimeout(plamyaModal, 3000);
   };
 
   componentWillReceiveProps = () => {
