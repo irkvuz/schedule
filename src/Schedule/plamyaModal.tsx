@@ -41,6 +41,21 @@ function getContacts() {
         getContacts();
       }
     },
+    onCancel: () => {
+      Modal.confirm({
+        title: 'Если не трудно, расскажи, пожалуйста, почему?',
+        content: <Input.TextArea id="plamya-reason" />,
+        onOk: () => {
+          const reason = (document.getElementById(
+            'plamya-reason'
+          ) as HTMLInputElement).value;
+          console.log(reason);
+          ym('userParams', {
+            plamya_reason: reason,
+          });
+        },
+      });
+    },
     icon: plamyaIcon,
     okText: 'До связи :)',
     cancelText: 'Я передумал',
