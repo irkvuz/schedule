@@ -188,11 +188,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Товароведение и экспертиза",
     "LessonType": "пр",
-    "Room": "11-412",
+    "Room": "5-313",
     "FIO": "Белых Ольга Александровна",
     "FIOshort": "Белых О.А.",
     "Error": null
