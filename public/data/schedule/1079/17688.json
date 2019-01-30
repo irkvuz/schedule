@@ -176,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "История",
-    "LessonType": "пр",
-    "Room": "11-306",
-    "FIO": "Немцов Юрий Геннадьевич",
-    "FIOshort": "Немцов Ю.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
