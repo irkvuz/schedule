@@ -244,7 +244,7 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-212",
