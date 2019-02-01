@@ -54,7 +54,7 @@ class SelectGroup extends React.Component<any, SelectGroupState> {
   };
 
   render() {
-    console.log('SelectGroup props=', this.props);
+    // console.log('SelectGroup props=', this.props);
     const { groupId, facultyId } = this.props;
     return (
       this.state.options.length > 0 && (

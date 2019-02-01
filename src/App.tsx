@@ -26,7 +26,7 @@ class App extends React.Component {
     }
   }
   render() {
-    console.log('App component rendered');
+    // console.log('App component rendered');
     return (
       <>
         {/* пришлось счетчик инициализировать в начале а не в конце, потому что иначе возникает ошибка при редиректе */}

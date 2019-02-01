@@ -19,7 +19,7 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
 
   constructor(props: ScheduleProps) {
     super(props);
-    console.log('Schedule constructor');
+    // console.log('Schedule constructor');
   }
 
   loadSchedule = async () => {
