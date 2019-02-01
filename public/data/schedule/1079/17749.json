@@ -199,17 +199,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-212",
-    "FIO": "Горбунова Инна Владимировна",
-    "FIOshort": "Горбунова И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Логика",
@@ -239,17 +228,6 @@
     "Room": "4-403",
     "FIO": "Осипова Марина Анатольевна",
     "FIOshort": "Осипова М.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-212",
-    "FIO": "Семенова Ольга Фиофановна",
-    "FIOshort": "Семенова О.Ф.",
     "Error": null
   }
 ]
