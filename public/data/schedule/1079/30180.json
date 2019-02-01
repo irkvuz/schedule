@@ -99,12 +99,12 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
+    "WeekDay": 3,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Правоведение",
     "LessonType": "пр",
-    "Room": "4-305",
+    "Room": "4-204",
     "FIO": "Комков Сергей Александрович",
     "FIOshort": "Комков С.А.",
     "Error": null

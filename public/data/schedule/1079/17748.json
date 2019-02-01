@@ -99,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-403",
-    "FIO": "Дорошенко Наталия Сергеевна",
-    "FIOshort": "Дорошенко Н.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
@@ -210,17 +199,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-212",
-    "FIO": "Горбунова Инна Владимировна",
-    "FIOshort": "Горбунова И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Логика",
@@ -266,7 +244,7 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-311",
@@ -278,7 +256,7 @@
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 2,
-    "Lesson": "Иностранный язык",
+    "Lesson": "Английский язык",
     "LessonType": "пр",
     "Room": "1-311",
     "FIO": "Семенова Ольга Фиофановна",
