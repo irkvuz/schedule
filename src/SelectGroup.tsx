@@ -4,6 +4,7 @@ import Cascader, {
   FilledFieldNamesType,
 } from 'antd/lib/cascader';
 import api from './api';
+import { MatchParams } from './Schedule/Schedule';
 
 interface IGroup {
   id: string;
@@ -15,11 +16,14 @@ interface IFaculty extends IGroup {
   groups: IGroup[];
 }
 
-interface SelectGroupState {
+export interface Props extends MatchParams {
+  onChange: (value: string[], selectedOptions?: CascaderOptionType[]) => void;
+}
+export interface State {
   options: IFaculty[];
 }
 
-class SelectGroup extends React.Component<any, SelectGroupState> {
+class SelectGroup extends React.Component<Props, State> {
   state = {
     options: [],
   };

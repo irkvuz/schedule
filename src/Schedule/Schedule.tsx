@@ -4,11 +4,17 @@ import moment from 'moment';
 import { Spin, message } from 'antd';
 import SelectGroup from '../SelectGroup';
 import api from '../api';
+import { RouteComponentProps } from 'react-router';
 
-type ScheduleProps = any;
+export interface MatchParams {
+  facultyId: string;
+  groupId: string;
+}
 
-interface ScheduleState {}
-class Schedule extends React.Component<ScheduleProps, ScheduleState> {
+export interface Props extends RouteComponentProps<MatchParams> {}
+
+export interface State {}
+class Schedule extends React.Component<Props, State> {
   state = {
     trimester: {},
     schedule: [],
@@ -17,7 +23,7 @@ class Schedule extends React.Component<ScheduleProps, ScheduleState> {
     week_total: 0,
   };
 
-  constructor(props: ScheduleProps) {
+  constructor(props: Props) {
     super(props);
     // console.log('Schedule constructor');
   }

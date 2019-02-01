@@ -51,11 +51,11 @@ class UniversalList extends React.Component<any, any> {
   }
 }
 
-interface ListRouterProps {
-  facultyId?: string;
+interface MatchParams {
+  facultyId: string;
 }
 
-interface ListProps extends RouteComponentProps<ListRouterProps> {
+interface ListProps extends RouteComponentProps<MatchParams> {
   type?: 'faculties' | 'groups';
 }
 
@@ -123,7 +123,8 @@ class ListFaculties extends MyList {
 class ListGroups extends MyList {
   constructor(props: any) {
     super(props);
-    const facultyId = Number(this.props.match.params.facultyId);
+    const facultyId = this.props.match.params.facultyId;
+
     this.promise = api.getGroups(facultyId);
     this.title = 'Список групп';
     this.fieldNames = { label: 'Group', value: 'IdGroup' };
