@@ -35,7 +35,18 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Бурак Анастасия Владимировна",
+    "FIOshort": "Бурак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "10-104",
@@ -46,7 +57,18 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Бурак Анастасия Владимировна",
+    "FIOshort": "Бурак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "10-104",
