@@ -34,8 +34,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "eslint": "node_modules/.bin/eslint src/**/*.tsx",
-    "precommit": "lint-staged",
-    "update": "ts-node --project scripts/tsconfig.json scripts/update.ts"
+    "schedule": "ts-node --project scripts/tsconfig.json scripts/update.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -69,5 +68,10 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"      
+    }
   }
 }
