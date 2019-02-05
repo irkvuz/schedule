@@ -19,7 +19,7 @@ const config = {
       message: 'Доступно обновление',
       description: 'Нажмите на это уведомление, чтобы обновить приложение',
       placement: 'bottomRight',
-      onClick: () => window.location.reload(),
+      onClick: () => window.location.reload(true),
     });
   },
 };
