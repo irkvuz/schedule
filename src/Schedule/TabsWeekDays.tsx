@@ -187,7 +187,7 @@ class TabsWeekDays extends React.Component<
     const { schedule } = this.props;
 
     if (!schedule || schedule.length <= 1)
-      return <div>К сожалению, для этой группы нет расписания 😔</div>;
+      return <div>К сожалению, для этой группы нет расписания</div>;
 
     for (let s of schedule) {
       if (

@@ -23,11 +23,6 @@ class Schedule extends React.Component<Props, State> {
     week_total: 0,
   };
 
-  constructor(props: Props) {
-    super(props);
-    // console.log('Schedule constructor');
-  }
-
   loadSchedule = async () => {
     this.setState({ loading: true });
     try {

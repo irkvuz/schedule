@@ -86,6 +86,7 @@ class App extends React.Component {
                 <a
                   href="https://vk.com/savinyurii"
                   target="_blank"
+                  rel="noopener noreferrer"
                   onClick={event => {
                     ym('reachGoal', 'click_vk');
                   }}
