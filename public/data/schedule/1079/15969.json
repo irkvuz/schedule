@@ -141,5 +141,27 @@
     "FIO": "Митюгова Елена Юрьевна",
     "FIOshort": "Митюгова Е.Ю.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Платёжные системы",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Митюгова Елена Юрьевна",
+    "FIOshort": "Митюгова Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Платёжные системы",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Митюгова Елена Юрьевна",
+    "FIOshort": "Митюгова Е.Ю.",
+    "Error": null
   }
 ]

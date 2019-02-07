@@ -1,28 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Защита прав на землю",
-    "LessonType": "л",
-    "Room": "3-904",
-    "FIO": "Комков Сергей Александрович",
-    "FIOshort": "Комков С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Защита прав на землю",
-    "LessonType": "пр",
-    "Room": "3-904",
-    "FIO": "Комков Сергей Александрович",
-    "FIOshort": "Комков С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Менеджмент",
@@ -162,6 +140,28 @@
     "Room": "3-901",
     "FIO": "Гусак Анна Сергеевна",
     "FIOshort": "Гусак А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Защита прав на землю",
+    "LessonType": "пр",
+    "Room": "6-402",
+    "FIO": "Комков Сергей Александрович",
+    "FIOshort": "Комков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Защита прав на землю",
+    "LessonType": "л",
+    "Room": "6-402",
+    "FIO": "Комков Сергей Александрович",
+    "FIOshort": "Комков С.А.",
     "Error": null
   },
   {
