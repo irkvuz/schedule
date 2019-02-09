@@ -238,6 +238,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30210,
+    "Group": "МСтр-18",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17287,
     "Group": "МУГД-17",
     "Course": 2,

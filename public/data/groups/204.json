@@ -126,6 +126,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30208,
+    "Group": "ММО-18-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17179,
     "Group": "ММЭК-17-1",
     "Course": 2,
