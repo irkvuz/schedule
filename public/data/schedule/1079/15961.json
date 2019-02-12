@@ -165,17 +165,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Логистика внешнеэкономической деятельности",
-    "LessonType": "л",
-    "Room": "4-202",
-    "FIO": "Козырская Ирина Евгеньевна",
-    "FIOshort": "Козырская И.Е.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,

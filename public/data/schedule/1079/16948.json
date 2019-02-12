@@ -1,16 +1,5 @@
 [
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Малеванный Андрей Александрович",
-    "FIOshort": "Малеванный А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -154,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Малеванный Андрей Александрович",
-    "FIOshort": "Малеванный А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
@@ -233,6 +211,17 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гостиничное хозяйство",
+    "LessonType": "пр",
+    "Room": "1-212",
+    "FIO": "Калинина Ирина Юрьевна",
+    "FIOshort": "Калинина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Гостиничное хозяйство",
     "LessonType": "пр",

@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Изотова Инга Игоревна",
-    "FIOshort": "Изотова И.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -184,17 +173,6 @@
     "Room": "3-404",
     "FIO": "Архипова Зоя Валентиновна",
     "FIOshort": "Архипова З.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Изотова Инга Игоревна",
-    "FIOshort": "Изотова И.И.",
     "Error": null
   },
   {

@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Чмаркова Елена Гирадьевна",
-    "FIOshort": "Чмаркова Е.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -118,17 +107,6 @@
     "Room": "5-308",
     "FIO": "Мазюк Роман Васильевич",
     "FIOshort": "Мазюк Р.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Чмаркова Елена Гирадьевна",
-    "FIOshort": "Чмаркова Е.Г.",
     "Error": null
   },
   {

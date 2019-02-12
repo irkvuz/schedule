@@ -132,17 +132,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -327,17 +316,6 @@
     "Room": "1-401",
     "FIO": "Боброва Екатерина Александровна",
     "FIOshort": "Боброва Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
     "Error": null
   }
 ]

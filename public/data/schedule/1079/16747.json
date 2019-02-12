@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 1,
@@ -173,17 +162,6 @@
     "Room": "2-412",
     "FIO": "Сорокина Елена Михайловна",
     "FIOshort": "Сорокина Е.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
     "Error": null
   }
 ]

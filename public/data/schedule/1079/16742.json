@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -96,17 +85,6 @@
     "Room": "2-305",
     "FIO": "Озерникова Татьяна Георгиевна",
     "FIOshort": "Озерникова Т.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Семенов Леонид Владимирович",
-    "FIOshort": "Семенов Л.В.",
     "Error": null
   },
   {

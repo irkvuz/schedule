@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
@@ -85,17 +74,6 @@
     "Room": "3-804",
     "FIO": "Макаренко Светлана Александровна",
     "FIOshort": "Макаренко С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {

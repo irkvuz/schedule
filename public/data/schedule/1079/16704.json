@@ -77,17 +77,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 1,
@@ -239,17 +228,6 @@
     "Room": "2-404",
     "FIO": "Мима Мария Юрьевна",
     "FIOshort": "Мима М.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
     "Error": null
   }
 ]

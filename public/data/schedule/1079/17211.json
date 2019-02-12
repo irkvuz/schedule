@@ -188,8 +188,8 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
     "Room": "2-217",

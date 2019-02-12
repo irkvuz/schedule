@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 2,
@@ -239,17 +228,6 @@
     "Room": "3-804",
     "FIO": "Бедин Борис Михайлович",
     "FIOshort": "Бедин Б.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {

@@ -99,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Черкашина Елена Владимировна",
-    "FIOshort": "Черкашина Е.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 1,
@@ -239,17 +228,6 @@
     "Room": "2-402",
     "FIO": "Комарова Галина Петровна",
     "FIOshort": "Комарова Г.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Черкашина Елена Владимировна",
-    "FIOshort": "Черкашина Е.В.",
     "Error": null
   }
 ]

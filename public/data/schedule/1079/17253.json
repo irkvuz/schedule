@@ -155,28 +155,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "15-1-01",
-    "FIO": "Чмара Сергей Анатольевич",
-    "FIOshort": "Чмара С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "15-1-01",
-    "FIO": "Чмара Сергей Анатольевич",
-    "FIOshort": "Чмара С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Юридическая психология",
