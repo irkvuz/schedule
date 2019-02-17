@@ -35,7 +35,7 @@ Fast switching between groups and search by groups / faculties
 
 ### Daily automatic updates from the official site
 
-To update schedule run script [update.js](./update.js) (`node update.js`)
+To update schedule run script [scripts/updateSchedule.js](./scripts/updateSchedule.js) (`node scripts/updateSchedule.js` or `yarn updateSchedule`)
 
 ![Update screenshot](docs/screenshots/update.gif)
 
@@ -49,8 +49,8 @@ cd ./schedule
 # install all dependencies
 yarn install
 # download lists and schedule for all groups from http://mobile.bgu.ru/ to /public/data/ 
-# for details see file ./update.js
-yarn update
+# for details see file ./scripts/updateSchedule.js
+yarn updateSchedule
 # start development server
 yarn start
 ```
