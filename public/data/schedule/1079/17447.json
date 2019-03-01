@@ -68,6 +68,17 @@
   {
     "WeekDay": 2,
     "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Практические основы бухгалтерского учета финансовых активов",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Баршай Ирина Сауловна",
+    "FIOshort": "Баршай И.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Психология общения",
     "LessonType": "пр",
@@ -99,6 +110,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психология общения",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -107,6 +140,17 @@
     "Room": "11-210",
     "FIO": "Кузнецова Елена Владимировна",
     "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы, денежное обращение и кредит",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
     "Error": null
   },
   {
@@ -122,13 +166,24 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "История",
     "LessonType": "пр",
     "Room": "11-308",
-    "FIO": "Третьяков Денис Геннадьевич",
-    "FIOshort": "Третьяков Д.Г.",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -138,8 +193,8 @@
     "Lesson": "История",
     "LessonType": "л",
     "Room": "11-308",
-    "FIO": "Третьяков Денис Геннадьевич",
-    "FIOshort": "Третьяков Д.Г.",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -198,6 +253,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
@@ -206,6 +272,17 @@
     "Room": "11-306",
     "FIO": "Колонович Елена Григорьевна",
     "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Организация и технология торговли",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Алексеева Любовь Алексеевна",
+    "FIOshort": "Алексеева Л.А.",
     "Error": null
   },
   {
@@ -228,6 +305,28 @@
     "Room": "11-112",
     "FIO": "Кольцова Алла Викторовна",
     "FIOshort": "Кольцова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Выполнение работ по профессии \"Кассир\"",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Садиева Виктория Викторовна",
+    "FIOshort": "Садиева В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Документационное обеспечение профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "11-302",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
     "Error": null
   }
 ]

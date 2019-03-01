@@ -88,14 +88,14 @@
     "Group": "БУ(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16613,
     "Group": "БУ(9)-16-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17447,

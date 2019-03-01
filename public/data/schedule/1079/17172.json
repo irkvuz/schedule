@@ -22,28 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Налоги и налогообложение",
-    "LessonType": "л",
-    "Room": "1-311",
-    "FIO": "Грошева Екатерина Валерьевна",
-    "FIOshort": "Грошева Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Налоги и налогообложение",
-    "LessonType": "пр",
-    "Room": "1-311",
-    "FIO": "Грошева Екатерина Валерьевна",
-    "FIOshort": "Грошева Е.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -162,6 +140,28 @@
     "Room": "1-210",
     "FIO": "Усольцев Дмитрий Геннадьевич",
     "FIOshort": "Усольцев Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "5-202",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
     "Error": null
   },
   {

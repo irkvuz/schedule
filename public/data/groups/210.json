@@ -238,6 +238,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30285,
+    "Group": "МСЭП-17",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17927,
     "Group": "МСЭП-18",
     "Course": 1,

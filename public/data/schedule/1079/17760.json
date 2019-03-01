@@ -110,12 +110,12 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "17:30",
+    "WeekDay": 3,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Современные технические средства журналиста",
     "LessonType": "пр",
-    "Room": "2-106",
+    "Room": "2-405",
     "FIO": "Немировская Елена Павловна",
     "FIOshort": "Немировская Е.П.",
     "Error": null

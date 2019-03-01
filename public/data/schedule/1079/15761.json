@@ -33,17 +33,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Проблемы квалификации отдельных видов преступлений",
-    "LessonType": "пр",
-    "Room": "5-502",
-    "FIO": "Казарина Марина Игоревна",
-    "FIOshort": "Казарина М.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,

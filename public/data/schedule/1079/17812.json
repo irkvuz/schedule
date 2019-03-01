@@ -242,17 +242,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "1-420",
-    "FIO": "Луц Светлана Сергеевна",
-    "FIOshort": "Луц С.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 1,
@@ -280,7 +269,7 @@
     "Odd": 1,
     "Lesson": "Социология",
     "LessonType": "л",
-    "Room": "2-308",
+    "Room": "4-212",
     "FIO": "Тарабан Ольга Вячеславовна",
     "FIOshort": "Тарабан О.В.",
     "Error": null

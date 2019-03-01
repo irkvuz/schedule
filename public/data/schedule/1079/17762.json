@@ -122,6 +122,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык и культура речи",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История России",
@@ -254,22 +265,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Русский язык и культура речи",
-    "LessonType": "пр",
-    "Room": "2-316",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Социология",
     "LessonType": "л",
-    "Room": "2-308",
+    "Room": "4-212",
     "FIO": "Тарабан Ольга Вячеславовна",
     "FIOshort": "Тарабан О.В.",
     "Error": null

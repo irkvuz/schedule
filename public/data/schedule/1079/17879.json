@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Язык средств массовой информации",
-    "LessonType": "пр",
-    "Room": "10-205",
-    "FIO": "Немировская Елена Павловна",
-    "FIOshort": "Немировская Е.П.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -118,6 +107,17 @@
     "Room": "10-204",
     "FIO": "Сю Василий",
     "FIOshort": "Сю В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Язык средств массовой информации",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
     "Error": null
   },
   {

@@ -155,22 +155,22 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налоговое администрирование",
-    "LessonType": "л",
-    "Room": "2-312",
+    "LessonType": "пр",
+    "Room": "5-307",
     "FIO": "Касаткина Галина Максимовна",
     "FIOshort": "Касаткина Г.М.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Налоговое администрирование",
-    "LessonType": "пр",
-    "Room": "2-312",
+    "LessonType": "л",
+    "Room": "5-307",
     "FIO": "Касаткина Галина Максимовна",
     "FIOshort": "Касаткина Г.М.",
     "Error": null
