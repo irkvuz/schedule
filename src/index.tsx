@@ -23,4 +23,5 @@ const config = {
     });
   },
 };
-serviceWorker.register(config);
+// serviceWorker.register(config);
+serviceWorker.unregister();
