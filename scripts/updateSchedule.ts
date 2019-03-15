@@ -2,9 +2,9 @@
  * This script download api response and for all methods and save it to the ./public/data/*.json files
  */
 
-const axios = require('axios');
-const fs = require('fs');
-const ProgressBar = require('progress');
+import axios from 'axios';
+import fs from 'fs';
+import ProgressBar from 'progress';
 
 interface IGroupOld {
   IdGroup: number;
