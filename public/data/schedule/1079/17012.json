@@ -143,28 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Деловой этикет",
-    "LessonType": "пр",
-    "Room": "1-104",
-    "FIO": "Огдонова Цырена Цыцыковна",
-    "FIOshort": "Огдонова Ц.Ц.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Деловой этикет",
-    "LessonType": "л",
-    "Room": "1-104",
-    "FIO": "Огдонова Цырена Цыцыковна",
-    "FIOshort": "Огдонова Ц.Ц.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -195,6 +173,28 @@
     "Room": "2-309",
     "FIO": "Баребина Наталья Сергеевна",
     "FIOshort": "Баребина Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Деловой этикет",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Огдонова Цырена Цыцыковна",
+    "FIOshort": "Огдонова Ц.Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Деловой этикет",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Огдонова Цырена Цыцыковна",
+    "FIOshort": "Огдонова Ц.Ц.",
     "Error": null
   },
   {

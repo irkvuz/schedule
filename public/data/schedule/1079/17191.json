@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Шабаева Сюзанна Валерьевна",
+    "FIOshort": "Шабаева С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История международных отношений в XX в.",
@@ -107,17 +118,6 @@
     "Room": "10-101",
     "FIO": "Юй Чанъэ",
     "FIOshort": "Юй Ч.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "10-101",
-    "FIO": "Шабаева Сюзанна Валерьевна",
-    "FIOshort": "Шабаева С.В.",
     "Error": null
   },
   {

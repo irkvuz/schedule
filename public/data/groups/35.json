@@ -84,6 +84,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30409,
+    "Group": "БЛрки-18",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 16950,
     "Group": "БФ-15",
     "Course": 4,
