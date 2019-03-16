@@ -137,6 +137,7 @@ const json2file = (path: string, obj: any) => {
     }
     json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
   } catch (error) {
-    console.error(error);
+    if(error.response) console.log(error.response.data);
+    else console.log(error.status)
   }
 })();
