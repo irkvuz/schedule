@@ -9276,7 +9276,7 @@ react-dev-utils@^8.0.0:
     strip-ansi "5.0.0"
     text-table "0.2.0"
 
-react-dom@^16.7.0:
+react-dom@^16.8.4:
   version "16.8.4"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.8.4.tgz#1061a8e01a2b3b0c8160037441c3bf00a0e3bc48"
   integrity sha512-Ob2wK7XG2tUDt7ps7LtLzGYYB6DXMCLj0G5fO6WeEICtT4/HdpOi7W/xLzZnR6RCG1tYza60nMdqtxzA8FaPJQ==
@@ -9411,7 +9411,7 @@ react-yandex-metrika@^2.4.2:
   resolved "https://registry.yarnpkg.com/react-yandex-metrika/-/react-yandex-metrika-2.5.1.tgz#9a2120e0a7e23eaa48e2032bf987efe62b437079"
   integrity sha512-18fviX2Gf50a0Wz0Cfux26iDMKJdI1kx8X6Q6f4/eXTs5CaQWSRSvOxkKBpYYctjJbUO1NR0R3TC2NJsvf09Kw==
 
-react@^16.7.0:
+react@^16.8.4:
   version "16.8.4"
   resolved "https://registry.yarnpkg.com/react/-/react-16.8.4.tgz#fdf7bd9ae53f03a9c4cd1a371432c206be1c4768"
   integrity sha512-0GQ6gFXfUH7aZcjGVymlPOASTuSjlQL4ZtVC5YKH+3JL6bBLCVO21DknzmaPlI90LN253ojj02nsapy+j7wIjg==
