@@ -8,8 +8,8 @@
   "homepage": "https://bgu.irkvuz.ru",
   "private": false,
   "dependencies": {
-    "@types/jest": "^23.3.12",
-    "@types/node": "^10.12.18",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.3",
     "@types/react": "^16.7.20",
     "@types/react-dom": "^16.0.11",
     "@types/react-router-dom": "^4.3.1",
@@ -34,7 +34,7 @@
     "prettier": "^1.16.4",
     "progress": "^2.0.3",
     "serve": "^10.1.1",
-    "ts-node": "^7.0.1"
+    "ts-node": "^8.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
