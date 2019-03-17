@@ -22,7 +22,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8",
     "react-yandex-metrika": "^2.4.2",
-    "typescript": "^3.2.2"
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
