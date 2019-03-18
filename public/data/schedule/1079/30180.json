@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Ирошникова Ирина Николаевна",
+    "FIOshort": "Ирошникова И.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -199,17 +210,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "1-414",
-    "FIO": "Ирошникова Ирина Николаевна",
-    "FIOshort": "Ирошникова И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Политико-экономическая география мира",
@@ -265,17 +265,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "1-414",
-    "FIO": "Ирошникова Ирина Николаевна",
-    "FIOshort": "Ирошникова И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
@@ -286,12 +275,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-402",
+    "Room": "1-417",
     "FIO": "Ирошникова Ирина Николаевна",
     "FIOshort": "Ирошникова И.Н.",
     "Error": null
@@ -327,6 +316,17 @@
     "Room": "2-308",
     "FIO": "Яковлева Елена Анатольевна",
     "FIOshort": "Яковлева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Ирошникова Ирина Николаевна",
+    "FIOshort": "Ирошникова И.Н.",
     "Error": null
   }
 ]

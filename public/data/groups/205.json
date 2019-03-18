@@ -609,6 +609,27 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30411,
+    "Group": "Ф-16б",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30412,
+    "Group": "Ф-16с",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30410,
+    "Group": "Ф-16ф",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17211,
     "Group": "Ф-17-1",
     "Course": 2,
