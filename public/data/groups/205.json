@@ -413,6 +413,20 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30420,
+    "Group": "МФиК-18б",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30419,
+    "Group": "МФиК-18ф",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17269,
     "Group": "МФМеж-17",
     "Course": 2,
