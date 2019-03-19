@@ -2,9 +2,9 @@
 
 This is [React.js](https://reactjs.org) based single page progressive web application. This application is designed from scratch by [Yury Savin](https://github.com/baitun).  
 
-App is available here: http://bgu.irkvuz.ru  
+App is available here: [http://bgu.irkvuz.ru](http://bgu.irkvuz.ru?from=gh)  
 
-[![Desktop and Mobile](docs/screenshots/1/4.png)](https://bgu.irkvuz.ru)
+[![Desktop and Mobile](docs/screenshots/1/4.png)](https://bgu.irkvuz.ru?from=gh)
 
 На отдельной странице описал [какие цели я ставил перед сабой при разработке этого приложения](docs/GOALS.md).
 
