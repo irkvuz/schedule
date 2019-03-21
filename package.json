@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@types/progress": "^2.0.3",
+    "eslint": "^5.15.3",
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-prettier": "^3.0.1",
     "gh-pages": "^2.0.1",
