@@ -91,10 +91,11 @@ const json2file = (path: string, obj: any) => {
 (async () => {
   try {
     console.log('Start downloading');
-    let trimesters = await api.getTrimesters();
-    let trimesterId = trimesters[0].IdTrimester;
-    json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
-    json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    // let trimesters = await api.getTrimesters();
+    // let trimesterId = trimesters[0].IdTrimester;
+    // json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
+    // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    let trimesterId = 1079;
     let dirSchedule = `./public/data/schedule/${trimesterId}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
