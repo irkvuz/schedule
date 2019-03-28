@@ -1,6 +1,28 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Психология общения",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Кассовые операции банка",
@@ -41,6 +63,28 @@
     "Room": "5-515",
     "FIO": "Лебедева Оксана Викторовна",
     "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы, денежное обращение и кредит",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Свердлова Светлана Александровна",
+    "FIOshort": "Свердлова С.А.",
     "Error": null
   },
   {
