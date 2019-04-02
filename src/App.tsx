@@ -66,7 +66,6 @@ class App extends React.Component {
                   <Route
                     path="/"
                     render={(props: any) => {
-                      console.log('redirect props', props);
                       const facultyId = localStorage['facultyId'];
                       const groupId = localStorage['groupId'];
                       const postfix =
