@@ -8,6 +8,8 @@ import history from './history';
 import { ListFaculties, ListGroups } from './Lists';
 import Schedule from './Schedule/Schedule';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 /** Detects if device is on iOS */
 const isIos = () => {
   const userAgent = window.navigator.userAgent.toLowerCase();
@@ -22,7 +24,7 @@ const isInStandaloneMode = (): boolean => {
 class App extends React.Component {
   componentDidMount() {
     if (isIos() && isInStandaloneMode()) {
-      ym('reachGoal', 'standalone');
+      if (isProduction) ym('reachGoal', 'standalone');
     }
   }
   render() {
@@ -30,7 +32,7 @@ class App extends React.Component {
     return (
       <>
         {/* пришлось счетчик инициализировать в начале а не в конце, потому что иначе возникает ошибка при редиректе */}
-        {process.env.NODE_ENV === 'production' && (
+        {isProduction && (
           <YMInitializer
             accounts={[50381566]}
             options={{
@@ -89,7 +91,7 @@ class App extends React.Component {
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={event => {
-                    ym('reachGoal', 'click_vk');
+                    if (isProduction) ym('reachGoal', 'click_vk');
                   }}
                 >
                   в Иркутске
@@ -105,8 +107,8 @@ class App extends React.Component {
 
 // @TODO change any to appropriate types
 history.listen((location: any, action: any) => {
-  // console.log('location changed', location, action);
-  ym('hit', location.pathname + location.search + location.hash);
+  const url = location.pathname + location.search + location.hash;
+  if (isProduction) ym('hit', url);
 });
 
 export default App;
