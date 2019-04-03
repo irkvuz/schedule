@@ -1,12 +1,12 @@
-import React from 'react';
-import { Router, Route, Link, Switch, Redirect } from 'react-router-dom';
-import Schedule from './Schedule/Schedule';
-import { ListFaculties, ListGroups } from './Lists';
-import { LocaleProvider, Icon } from 'antd';
-import ym, { YMInitializer } from 'react-yandex-metrika';
+import { Icon, LocaleProvider } from 'antd';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
+import React from 'react';
+import { Link, Redirect, Route, Router, Switch } from 'react-router-dom';
+import ym, { YMInitializer } from 'react-yandex-metrika';
 import history from './history';
+import { ListFaculties, ListGroups } from './Lists';
+import Schedule from './Schedule/Schedule';
 
 /** Detects if device is on iOS */
 const isIos = () => {
