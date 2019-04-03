@@ -1,7 +1,6 @@
 @import '~antd/dist/antd.css';
 
 body {
-  padding: 0 10px;
   -webkit-user-select: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
@@ -12,19 +11,22 @@ body {
   margin: auto;
 }
 
-header {
-  height: 20px;
-}
 .content-wrapper {
-  min-height: calc(100vh - 70px);
+  /*
+    46px - Menu
+    20px - footer
+    20px - top and buttom padding (10+10)
+   */
+  min-height: calc(100vh - 46px - 20px - 20px);
+  padding: 10px;
 }
 
 footer {
   height: 20px;
-  margin-top: 20px;
   text-align: center;
 }
 
 .ant-cascader-menu {
+  /* empirically chosen value for not to show scroll on faculties */
   height: 194px;
 }

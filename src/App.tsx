@@ -1,12 +1,12 @@
-import React from 'react';
-import { Router, Route, Link, Switch, Redirect } from 'react-router-dom';
-import Schedule from './Schedule/Schedule';
-import { ListFaculties, ListGroups } from './Lists';
-import { LocaleProvider, Icon } from 'antd';
-import ym, { YMInitializer } from 'react-yandex-metrika';
+import { LocaleProvider, Menu } from 'antd';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
+import React from 'react';
+import { Link, Redirect, Route, Router, Switch } from 'react-router-dom';
+import ym, { YMInitializer } from 'react-yandex-metrika';
 import history from './history';
+import { ListFaculties, ListGroups } from './Lists';
+import Schedule from './Schedule/Schedule';
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -54,9 +54,14 @@ class App extends React.Component {
           <Router history={history}>
             <>
               <header>
-                <Link to="/faculties" title="Изменить группу">
-                  <Icon type="home" />
-                </Link>
+                <Menu mode="horizontal" theme="dark">
+                  <Menu.Item>
+                    <Link to="/faculties">Расписание БГУ</Link>
+                  </Menu.Item>
+                  {/* <Menu.Item>
+                  <Link to="/about">Об авторе</Link>
+                </Menu.Item> */}
+                </Menu>
               </header>
 
               <div className="content-wrapper">
