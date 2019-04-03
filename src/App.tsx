@@ -31,22 +31,22 @@ class App extends React.Component {
       <>
         {/* пришлось счетчик инициализировать в начале а не в конце, потому что иначе возникает ошибка при редиректе */}
         {process.env.NODE_ENV === 'production' && (
-        <YMInitializer
-          accounts={[50381566]}
-          options={{
-            clickmap: true,
-            trackLinks: true,
-            webvisor: true,
-            params: {
-              mode: isInStandaloneMode()
-                ? isIos()
-                  ? 'standalone_ios'
-                  : 'standalone_android'
-                : 'regular',
-            },
-          }}
-          version="2"
-        />
+          <YMInitializer
+            accounts={[50381566]}
+            options={{
+              clickmap: true,
+              trackLinks: true,
+              webvisor: true,
+              params: {
+                mode: isInStandaloneMode()
+                  ? isIos()
+                    ? 'standalone_ios'
+                    : 'standalone_android'
+                  : 'regular',
+              },
+            }}
+            version="2"
+          />
         )}
         <LocaleProvider locale={ru_RU}>
           <Router history={history}>
