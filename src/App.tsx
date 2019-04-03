@@ -30,6 +30,7 @@ class App extends React.Component {
     return (
       <>
         {/* пришлось счетчик инициализировать в начале а не в конце, потому что иначе возникает ошибка при редиректе */}
+        {process.env.NODE_ENV === 'production' && (
         <YMInitializer
           accounts={[50381566]}
           options={{
@@ -46,6 +47,7 @@ class App extends React.Component {
           }}
           version="2"
         />
+        )}
         <LocaleProvider locale={ru_RU}>
           <Router history={history}>
             <>
