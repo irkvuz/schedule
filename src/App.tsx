@@ -1,4 +1,4 @@
-import { Icon, LocaleProvider } from 'antd';
+import { LocaleProvider, Menu } from 'antd';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import 'moment/locale/ru';
 import React from 'react';
@@ -54,9 +54,14 @@ class App extends React.Component {
           <Router history={history}>
             <>
               <header>
-                <Link to="/faculties" title="Изменить группу">
-                  <Icon type="home" />
-                </Link>
+                <Menu mode="horizontal" theme="dark">
+                  <Menu.Item>
+                    <Link to="/faculties">Расписание БГУ</Link>
+                  </Menu.Item>
+                  {/* <Menu.Item>
+                  <Link to="/about">Об авторе</Link>
+                </Menu.Item> */}
+                </Menu>
               </header>
 
               <div className="content-wrapper">
