@@ -62,16 +62,9 @@
       "build/*"
     ]
   },
-  "lint-staged": {
-    "*.{js, jsx, ts, tsx }": [
-      "node_modules/.bin/eslint --max-warnings=0",
-      "prettier --write",
-      "git add"
-    ]
-  },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "pretty-quick --staged"
     }
   }
 }
