@@ -121,26 +121,31 @@ class TabsWeekDays extends React.Component<Props, State> {
   init() {
     let parity = (this.props.week_number + 15) % 2 === 0;
     // Поиск ближайшего следующего дня для которого есть расписание
-    let currentWeekday = today.isoWeekday();
-    let minWeekday = 15;
-    props.schedule.forEach(lesson => {
-      let weekday = lesson.WeekDay;
-      if (lesson.Odd === 0 && weekday < currentWeekday) {
-        // пара каждую неделю и на этой неделе этот день уже прошел
-        // => пара будет на следующей
-        weekday += 7;
-      } else if (
-        (lesson.Odd === 1 && parity) ||
-        (lesson.Odd === 2 && !parity)
-      ) {
-        // пара не на этой неделе
-        weekday += 7;
-      } else if (weekday < currentWeekday) {
-        // пара на этой неделе, но день уже прошел
-        weekday += 14;
-      }
-      minWeekday = Math.min(minWeekday, weekday);
-    });
+    let todayWeekday = this.state.today.isoWeekday();
+    const schedule = this.props.schedule;
+    // This may loks like a magic, but it's just found minimal weekday
+    let minWeekday = schedule
+      .map(v => v.WeekDay)
+      .reduce((min, weekday, i) => {
+        const lesson = schedule[i];
+        if (lesson.Odd === 0 && weekday < todayWeekday) {
+          // пара каждую неделю и на этой неделе этот день уже прошел
+          // => пара будет на следующей
+          weekday += 7;
+        } else if (
+          (lesson.Odd === 1 && parity) ||
+          (lesson.Odd === 2 && !parity)
+        ) {
+          // пара не на этой неделе
+          weekday += 7;
+        } else if (weekday < todayWeekday) {
+          // пара на этой неделе, но день уже прошел
+          weekday += 14;
+        }
+        return Math.min(min, weekday);
+      }, 15);
+
+    // We need to correct minWeekday value a little bit
     if (minWeekday > 14) {
       minWeekday -= 14;
     } else if (minWeekday > 7) {
