@@ -164,11 +164,9 @@ class TabsWeekDays extends React.Component<Props, State> {
       tabPosition: window.innerWidth > window.innerHeight ? 'left' : 'top',
     });
   };
-  componentWillMount = () => {
-    this.updateDimensions();
-  };
   componentDidMount = () => {
     this.init();
+    this.updateDimensions();
     window.addEventListener('resize', this.updateDimensions);
   };
   componentWillUnmount = () => {
