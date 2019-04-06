@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs, Table, Icon, Switch, Alert, message } from 'antd';
+import { Tabs, Table, Icon, Switch, Alert, message, Spin } from 'antd';
 import { TabsPosition } from 'antd/lib/tabs';
 import { ColumnProps } from 'antd/lib/table';
 import moment from 'moment';
@@ -91,13 +91,14 @@ const columns: ColumnProps<ILessonOld>[] = [
   },
 ];
 
-interface TabsWeekDaysProps {
+interface Props {
+  loading: boolean;
   schedule: ILessonOld[];
   week_number: number;
   week_total: number;
 }
 
-interface TabsWeekDaysState {
+interface State {
   tabPosition: TabsPosition;
   parity: boolean;
   today: moment.Moment;
@@ -109,11 +110,8 @@ interface IWeekDay {
   lessons: ILessonOld[];
 }
 
-class TabsWeekDays extends React.Component<
-  TabsWeekDaysProps,
-  TabsWeekDaysState
-> {
-  constructor(props: TabsWeekDaysProps) {
+class TabsWeekDays extends React.Component<Props, State> {
+  constructor(props: Props) {
     super(props);
     const today = moment();
     let parity = (this.props.week_number + 15) % 2 === 0;
@@ -184,7 +182,9 @@ class TabsWeekDays extends React.Component<
       };
     }
 
-    const { schedule } = this.props;
+    const { schedule, loading } = this.props;
+
+    if (loading) return <Spin />;
 
     if (!schedule || schedule.length <= 1)
       return <div>К сожалению, для этой группы нет расписания</div>;

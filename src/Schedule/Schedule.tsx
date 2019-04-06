@@ -93,22 +93,23 @@ class Schedule extends React.Component<Props, State> {
     // console.log('Component `Schedule` props =', this.props);
     const { groupId, facultyId } = this.props.match.params;
     return (
-      <div>
-        <SelectGroup
-          facultyId={facultyId}
-          groupId={groupId}
-          onChange={this.handleGroupChange}
-        />
-        {this.state.loading ? (
-          <Spin />
-        ) : (
+      <>
+        <div>
+          <SelectGroup
+            facultyId={facultyId}
+            groupId={groupId}
+            onChange={this.handleGroupChange}
+          />
+        </div>
+        <div>
           <TabsWeekDays
+            loading={this.state.loading}
             schedule={this.state.schedule}
             week_number={this.state.week_number}
             week_total={this.state.week_total}
           />
-        )}
-      </div>
+        </div>
+      </>
     );
   }
 }
