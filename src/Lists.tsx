@@ -80,20 +80,6 @@ class MyList extends React.Component<ListProps, ListState> {
   title = '';
   fieldNames = { label: '', value: '' };
 
-  // constructor(props: ListProps) {
-  //   super(props);
-  //   if (this.props.type === 'faculties') {
-  //     this.promise = api.getFaculties();
-  //     this.title = 'Список факультетов';
-  //     this.fieldNames = { label: 'FacultyName', value: 'IdFaculty' };
-  //   } else if (this.props.type === 'groups') {
-  //     this.promise = api.getGroups(36);
-  //     this.title = 'Список групп';
-  //     this.fieldNames = { label: 'Group', value: 'IdGroup' };
-  //   }
-  //   console.log('type=', props.type, this.props.type);
-  // }
-
   componentDidMount = async () => {
     this.setState({ loading: true });
     try {
