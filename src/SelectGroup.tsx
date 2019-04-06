@@ -5,6 +5,7 @@ import Cascader, {
 } from 'antd/lib/cascader';
 import api from './api';
 import { MatchParams } from './Schedule/Schedule';
+import { Spin } from 'antd';
 
 interface IGroup {
   id: string;
@@ -22,11 +23,14 @@ export interface Props extends MatchParams {
 
 function SelectGroup(props: Props) {
   const [options, setOptions] = useState<IFaculty[]>([]);
+  const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
+    setLoading(true);
     api
       .getFacultiesWithGroups()
       .then(res => {
+        setLoading(false);
         let options: IFaculty[] = res.data;
         // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
         // потому что Cascader ожидает, что id будет строкой
@@ -43,6 +47,7 @@ function SelectGroup(props: Props) {
         setOptions(options);
       })
       .catch(error => {
+        setLoading(false);
         console.log(error);
       });
   }, []);
@@ -55,6 +60,7 @@ function SelectGroup(props: Props) {
     return path.some(option => option.name.match(new RegExp(inputValue, 'i')));
   };
 
+  if (loading) return <Spin />;
   if (options.length === 0) return <div>Options empty</div>;
   return (
     <Cascader
