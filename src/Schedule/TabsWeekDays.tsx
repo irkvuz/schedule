@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Tabs, Table, Icon, Switch, Alert, message, Spin } from 'antd';
 import { TabsPosition } from 'antd/lib/tabs';
 import { ColumnProps } from 'antd/lib/table';
@@ -110,24 +110,33 @@ interface IWeekDay {
   lessons: ILessonOld[];
 }
 
-class TabsWeekDays extends React.Component<Props, State> {
-  state: State = {
-    tabPosition: 'top',
-    parity: false,
-    today: moment(),
-    defaultActiveKey: '1',
-  };
-  // Initial counting schedule params
-  init() {
-    let parity = (this.props.week_number + 15) % 2 === 0;
-    // Поиск ближайшего следующего дня для которого есть расписание
-    let todayWeekday = this.state.today.isoWeekday();
-    const schedule = this.props.schedule;
-    // This may loks like a magic, but it's just found minimal weekday
-    let minWeekday = schedule
+function TabsWeekDays(props: Props) {
+  const [tabPosition, setTabPosition] = useState<TabsPosition>('top');
+  const [parity, setParity] = useState(false);
+  /** Вкладка (день недели), которая будет открыта при загрузке */
+  const [defaultActiveKey, setDefaultActiveKey] = useState<string>('1');
+
+  const today = moment();
+
+  useEffect(() => {
+    const handleResize = () => {
+      setTabPosition(window.innerWidth > window.innerHeight ? 'left' : 'top');
+    };
+    handleResize();
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
+  // Поиск ближайшего следующего дня для которого есть расписание
+  useEffect(() => {
+    let parity = (props.week_number + 15) % 2 === 0;
+    const todayWeekday = today.isoWeekday();
+    let minWeekday = props.schedule
       .map(v => v.WeekDay)
       .reduce((min, weekday, i) => {
-        const lesson = schedule[i];
+        const lesson = props.schedule[i];
         if (lesson.Odd === 0 && weekday < todayWeekday) {
           // пара каждую неделю и на этой неделе этот день уже прошел
           // => пара будет на следующей
@@ -143,7 +152,7 @@ class TabsWeekDays extends React.Component<Props, State> {
           weekday += 14;
         }
         return Math.min(min, weekday);
-      }, 15);
+      }, 15); // здесь минимальным днем передаем максимально невозможное число
 
     // We need to correct minWeekday value a little bit
     if (minWeekday > 14) {
@@ -153,123 +162,90 @@ class TabsWeekDays extends React.Component<Props, State> {
       minWeekday -= 7;
       parity = !parity;
     }
-    this.setState({
-      parity,
-      defaultActiveKey: String(minWeekday),
-    });
-  }
+    setParity(parity);
+    setDefaultActiveKey(String(minWeekday));
+  }, [props.schedule]);
 
-  updateDimensions = () => {
-    this.setState({
-      tabPosition: window.innerWidth > window.innerHeight ? 'left' : 'top',
-    });
-  };
-  componentDidMount = () => {
-    this.init();
-    this.updateDimensions();
-    window.addEventListener('resize', this.updateDimensions);
-  };
-  componentWillUnmount = () => {
-    window.removeEventListener('resize', this.updateDimensions);
-  };
-  componentDidUpdate = (prevProps: Props, prevState: State) => {
-    if (this.props.schedule !== prevProps.schedule) this.init();
-  };
-
-  handleParityChange = (parity: boolean) => {
-    this.setState({ parity });
+  const handleParityChange = (parity: boolean) => {
+    setParity(parity);
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
-  render() {
-    // console.log('Component TabsWeekDays props =', this.props);
-    let weekdays: IWeekDay[] = [];
+  let weekdays: IWeekDay[] = [];
 
-    for (let i = 1; i <= 7; i++) {
-      weekdays[i] = {
-        name: wdn[i],
-        lessons: [],
-      };
-    }
-
-    const { schedule, loading } = this.props;
-
-    if (loading) return <Spin />;
-
-    if (!schedule || schedule.length <= 1)
-      return <div>К сожалению, для этой группы нет расписания</div>;
-
-    for (let s of schedule) {
-      if (
-        !s.Error &&
-        (s.Odd === 0 ||
-          (this.state.parity && s.Odd === 2) ||
-          (!this.state.parity && s.Odd === 1))
-      )
-        weekdays[s.WeekDay].lessons.push(s);
-    }
-
-    const tabsContent = weekdays.map((weekday, i) => {
-      if (weekday.lessons.length > 0)
-        return (
-          <TabPane tab={weekday.name} key={String(i)}>
-            <Table
-              dataSource={weekday.lessons}
-              columns={columns}
-              size="small"
-              className="Schedule"
-              showHeader={false}
-              pagination={false}
-              rowKey={r =>
-                r.WeekDay +
-                r.StartTime +
-                r.Odd +
-                r.Lesson +
-                r.LessonType +
-                r.FIO
-              }
-            />
-          </TabPane>
-        );
-      else return null;
-    });
-    return (
-      <>
-        <div>
-          Сегодня {wdn[this.state.today.isoWeekday() % 7]},{' '}
-          {this.state.today.format('LL')}{' '}
-          {/* @TODO I need to do something with weeks and semesters */}
-          неделя в семестре {this.props.week_number} из {this.props.week_total},
-          неделя в году {this.props.week_number + 15} из{' '}
-          {this.props.week_total + 15} (
-          {(this.props.week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
-        </div>
-        {this.props.week_number > this.props.week_total && (
-          <Alert
-            type="warning"
-            showIcon
-            message="Учебный семестр закончился. Сейчас отображается расписание прошедшего семестра."
-          />
-        )}
-        <div className="switch-parity">
-          Показать неделю: &nbsp;
-          <Switch
-            checkedChildren="ч"
-            unCheckedChildren="н"
-            checked={this.state.parity}
-            onChange={this.handleParityChange}
-          />
-        </div>
-        <Tabs
-          defaultActiveKey={this.state.defaultActiveKey}
-          tabPosition={this.state.tabPosition}
-          animated={false}
-        >
-          {tabsContent}
-        </Tabs>
-      </>
-    );
+  for (let i = 1; i <= 7; i++) {
+    weekdays[i] = {
+      name: wdn[i],
+      lessons: [],
+    };
   }
+
+  if (props.loading) return <Spin />;
+
+  if (!props.schedule || props.schedule.length <= 1)
+    return <div>К сожалению, для этой группы нет расписания</div>;
+
+  for (let s of props.schedule) {
+    if (
+      !s.Error &&
+      (s.Odd === 0 || (parity && s.Odd === 2) || (!parity && s.Odd === 1))
+    )
+      weekdays[s.WeekDay].lessons.push(s);
+  }
+
+  const tabsContent = weekdays.map((weekday, i) => {
+    if (weekday.lessons.length > 0)
+      return (
+        <TabPane tab={weekday.name} key={String(i)}>
+          <Table
+            dataSource={weekday.lessons}
+            columns={columns}
+            size="small"
+            className="Schedule"
+            showHeader={false}
+            pagination={false}
+            rowKey={r =>
+              r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
+            }
+          />
+        </TabPane>
+      );
+    else return null;
+  });
+  return (
+    <>
+      <div>
+        Сегодня {wdn[today.isoWeekday() % 7]}, {today.format('LL')}{' '}
+        {/* @TODO I need to do something with weeks and semesters */}
+        неделя в семестре {props.week_number} из {props.week_total}, неделя в
+        году {props.week_number + 15} из {props.week_total + 15} (
+        {(props.week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
+      </div>
+      {props.week_number > props.week_total && (
+        <Alert
+          type="warning"
+          showIcon
+          message="Учебный семестр закончился. Сейчас отображается расписание прошедшего семестра."
+        />
+      )}
+      <div className="switch-parity">
+        Показать неделю: &nbsp;
+        <Switch
+          checkedChildren="ч"
+          unCheckedChildren="н"
+          checked={parity}
+          onChange={handleParityChange}
+        />
+      </div>
+      <Tabs
+        defaultActiveKey={defaultActiveKey}
+        tabPosition={tabPosition}
+        animated={false}
+      >
+        {tabsContent}
+      </Tabs>
+    </>
+  );
 }
 
 export default TabsWeekDays;
