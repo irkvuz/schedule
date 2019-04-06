@@ -4,10 +4,22 @@ import List from 'antd/lib/list';
 import Input from 'antd/lib/input';
 import api from './api';
 
+type UniversalListProps = {
+  title: string;
+  // @TODO Need to describe types
+  dataSource: any;
+  loading: boolean;
+  fieldNames: {
+    label: string;
+    value: string;
+  };
+};
+
 /**
  * Used for ListFaculties and ListGroups
  */
-function UniversalList({ title, dataSource, loading, fieldNames }: any) {
+function UniversalList(props: UniversalListProps) {
+  const { title, dataSource, loading, fieldNames } = props;
   const [searchValue, setSearchValue] = useState('');
   const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
     const searchValue = event.target.value;
