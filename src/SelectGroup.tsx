@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Cascader, {
   CascaderOptionType,
   FilledFieldNamesType,
@@ -19,37 +19,35 @@ interface IFaculty extends IGroup {
 export interface Props extends MatchParams {
   onChange: (value: string[], selectedOptions?: CascaderOptionType[]) => void;
 }
-export interface State {
-  options: IFaculty[];
-}
 
-class SelectGroup extends React.Component<Props, State> {
-  state = {
-    options: [],
-  };
+function SelectGroup(props: Props) {
+  const [options, setOptions] = useState<IFaculty[]>([]);
 
-  componentDidMount = async () => {
-    try {
-      let res = await api.getFacultiesWithGroups();
-      let options: IFaculty[] = res.data;
-      // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
-      options = options.map((faculty: IFaculty) => {
-        return {
-          ...faculty,
-          id: faculty.id.toString(),
-          groups: faculty.groups.map((group: IGroup) => ({
-            ...group,
-            id: group.id.toString(),
-          })),
-        };
+  useEffect(() => {
+    api
+      .getFacultiesWithGroups()
+      .then(res => {
+        let options: IFaculty[] = res.data;
+        // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
+        // потому что Cascader ожидает, что id будет строкой
+        options = options.map((faculty: IFaculty) => {
+          return {
+            ...faculty,
+            id: faculty.id.toString(),
+            groups: faculty.groups.map((group: IGroup) => ({
+              ...group,
+              id: group.id.toString(),
+            })),
+          };
+        });
+        setOptions(options);
+      })
+      .catch(error => {
+        console.log(error);
       });
-      this.setState({ options });
-    } catch (error) {
-      console.log(error);
-    }
-  };
+  }, []);
 
-  filter = (
+  const filter = (
     inputValue: string,
     path: CascaderOptionType[],
     names: FilledFieldNamesType
@@ -57,27 +55,22 @@ class SelectGroup extends React.Component<Props, State> {
     return path.some(option => option.name.match(new RegExp(inputValue, 'i')));
   };
 
-  render() {
-    // console.log('SelectGroup props=', this.props);
-    const { groupId, facultyId } = this.props;
-    return (
-      this.state.options.length > 0 && (
-        <Cascader
-          options={this.state.options}
-          onChange={this.props.onChange}
-          allowClear={false}
-          size="large"
-          defaultValue={[facultyId, groupId]}
-          fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
-          /**
-           * @TODO Need to enable search only for desktop
-           * @body On mobile search looks awful and speed down UX
-           */
-          // showSearch={{ filter: this.filter }}
-        />
-      )
-    );
-  }
+  if (options.length === 0) return <div>Options empty</div>;
+  return (
+    <Cascader
+      options={options}
+      onChange={props.onChange}
+      allowClear={false}
+      size="large"
+      defaultValue={[props.facultyId, props.groupId]}
+      fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
+      /**
+       * @TODO Need to enable search only for desktop
+       * @body On mobile search looks awful and speed down UX
+       */
+      // showSearch={{ filter: this.filter }}
+    />
+  );
 }
 
 export default SelectGroup;
