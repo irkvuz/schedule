@@ -111,9 +111,14 @@ interface IWeekDay {
 }
 
 class TabsWeekDays extends React.Component<Props, State> {
-  constructor(props: Props) {
-    super(props);
-    const today = moment();
+  state: State = {
+    tabPosition: 'top',
+    parity: false,
+    today: moment(),
+    defaultActiveKey: '1',
+  };
+  // Initial counting schedule params
+  init() {
     let parity = (this.props.week_number + 15) % 2 === 0;
     // Поиск ближайшего следующего дня для которого есть расписание
     let currentWeekday = today.isoWeekday();
@@ -143,12 +148,10 @@ class TabsWeekDays extends React.Component<Props, State> {
       minWeekday -= 7;
       parity = !parity;
     }
-    this.state = {
-      tabPosition: 'top',
+    this.setState({
       parity,
-      today,
-      defaultActiveKey: minWeekday.toString(),
-    };
+      defaultActiveKey: String(minWeekday),
+    });
   }
 
   updateDimensions = () => {
@@ -160,10 +163,14 @@ class TabsWeekDays extends React.Component<Props, State> {
     this.updateDimensions();
   };
   componentDidMount = () => {
+    this.init();
     window.addEventListener('resize', this.updateDimensions);
   };
   componentWillUnmount = () => {
     window.removeEventListener('resize', this.updateDimensions);
+  };
+  componentDidUpdate = (prevProps: Props, prevState: State) => {
+    if (this.props.schedule !== prevProps.schedule) this.init();
   };
 
   handleParityChange = (parity: boolean) => {
