@@ -23,7 +23,7 @@ class Schedule extends React.Component<Props, State> {
     week_total: 0,
   };
 
-  loadSchedule = async () => {
+  loadSchedule = async (facultyId: string, groupId: string) => {
     this.setState({ loading: true });
     try {
       let res = await api.getTrimester();
@@ -33,10 +33,8 @@ class Schedule extends React.Component<Props, State> {
       let week_number =
         moment().diff(trimester.dateStart.startOf('week'), 'week') + 1;
       let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
-      const groupId = this.props.match.params.groupId;
-      const facultyId = this.props.match.params.facultyId;
-      localStorage.setItem('groupId', groupId);
       localStorage.setItem('facultyId', facultyId);
+      localStorage.setItem('groupId', groupId);
 
       res = await api.getSchedule(groupId, trimester.IdTrimester);
       let schedule: ILessonOld[] = res.data;
@@ -70,13 +68,19 @@ class Schedule extends React.Component<Props, State> {
   };
 
   componentDidMount = () => {
-    this.loadSchedule();
+    const facultyId = this.props.match.params.facultyId;
+    const groupId = this.props.match.params.groupId;
+
+    this.loadSchedule(facultyId, groupId);
   };
 
   componentWillReceiveProps = () => {
     // это нужно чтобы расписание обновилось, когда изменится группа чрез каскадер
     // т.к. компонент при этом не перемонтируется и componentDidMount не вызывается
-    this.loadSchedule();
+    const facultyId = this.props.match.params.facultyId;
+    const groupId = this.props.match.params.groupId;
+
+    this.loadSchedule(facultyId, groupId);
   };
 
   handleGroupChange = (value: string[], selectedOptions?: any) => {
@@ -89,22 +93,23 @@ class Schedule extends React.Component<Props, State> {
     // console.log('Component `Schedule` props =', this.props);
     const { groupId, facultyId } = this.props.match.params;
     return (
-      <div>
-        <SelectGroup
-          facultyId={facultyId}
-          groupId={groupId}
-          onChange={this.handleGroupChange}
-        />
-        {this.state.loading ? (
-          <Spin />
-        ) : (
+      <>
+        <div>
+          <SelectGroup
+            facultyId={facultyId}
+            groupId={groupId}
+            onChange={this.handleGroupChange}
+          />
+        </div>
+        <div>
           <TabsWeekDays
+            loading={this.state.loading}
             schedule={this.state.schedule}
             week_number={this.state.week_number}
             week_total={this.state.week_total}
           />
-        )}
-      </div>
+        </div>
+      </>
     );
   }
 }
