@@ -7,13 +7,17 @@ import api from './api';
 import { MatchParams } from './Schedule/Schedule';
 import { Spin } from 'antd';
 
-interface IGroup {
+interface IItem {
   id: string;
   name: string;
 }
+interface IGroup extends IItem {}
 
-interface IFaculty extends IGroup {
+interface IFaculty extends IItem {
   fullName: string;
+}
+
+interface IFacultyWithGroups extends IFaculty {
   groups: IGroup[];
 }
 
@@ -22,7 +26,7 @@ export interface Props extends MatchParams {
 }
 
 function SelectGroup(props: Props) {
-  const [options, setOptions] = useState<IFaculty[]>([]);
+  const [options, setOptions] = useState<IFacultyWithGroups[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
@@ -31,10 +35,10 @@ function SelectGroup(props: Props) {
       .getFacultiesWithGroups()
       .then(res => {
         setLoading(false);
-        let options: IFaculty[] = res.data;
+        let options: IFacultyWithGroups[] = res.data;
         // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
         // потому что Cascader ожидает, что id будет строкой
-        options = options.map((faculty: IFaculty) => {
+        options = options.map((faculty: IFacultyWithGroups) => {
           return {
             ...faculty,
             id: faculty.id.toString(),
