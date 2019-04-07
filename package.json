@@ -66,5 +66,6 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "version": "0.1.0"
 }
