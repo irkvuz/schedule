@@ -1,7 +1,6 @@
 import React from 'react';
 import TabsWeekDays from './TabsWeekDays';
-import moment from 'moment';
-import { Spin, message } from 'antd';
+import { message } from 'antd';
 import SelectGroup from '../SelectGroup';
 import api from '../api';
 import { RouteComponentProps } from 'react-router';
@@ -16,34 +15,24 @@ export interface Props extends RouteComponentProps<MatchParams> {}
 export interface State {}
 class Schedule extends React.Component<Props, State> {
   state = {
-    trimester: {},
+    trimester: undefined,
     schedule: [],
     loading: false,
-    week_number: 1,
-    week_total: 0,
   };
 
   loadSchedule = async (facultyId: string, groupId: string) => {
     this.setState({ loading: true });
     try {
-      let res = await api.getTrimester();
-      let trimester = res.data;
-      trimester.dateStart = moment(trimester.dateStart);
-      trimester.dateFinish = moment(trimester.dateFinish);
-      let week_number =
-        moment().diff(trimester.dateStart.startOf('week'), 'week') + 1;
-      let week_total = trimester.dateFinish.diff(trimester.dateStart, 'week');
       localStorage.setItem('facultyId', facultyId);
       localStorage.setItem('groupId', groupId);
 
-      res = await api.getSchedule(groupId, trimester.IdTrimester);
-      let schedule: ILessonOld[] = res.data;
+      const trimester = await api.getTrimester();
+
+      const schedule = await api.getSchedule(groupId, trimester.IdTrimester);
       this.setState({
         trimester,
         schedule,
         loading: false,
-        week_number,
-        week_total,
       });
     } catch (error) {
       this.setState({ loading: false, schedule: [] });
@@ -106,9 +95,6 @@ class Schedule extends React.Component<Props, State> {
             loading={this.state.loading}
             schedule={this.state.schedule}
             trimester={this.state.trimester}
-            // TOTO вычисляемые значения, не нужно передавать
-            week_number={this.state.week_number}
-            week_total={this.state.week_total}
           />
         </div>
       </>

@@ -92,9 +92,7 @@ const columns: ColumnProps<ILessonOld>[] = [
 interface Props {
   loading: boolean;
   schedule: ILessonOld[];
-  week_number: number;
-  week_total: number;
-  trimester: any;
+  trimester?: ITrimester;
 }
 
 interface IWeekDay {
@@ -103,12 +101,20 @@ interface IWeekDay {
 }
 
 function TabsWeekDays(props: Props) {
+  if (props.loading) return <Spin />;
+  if (!props.trimester) return null;
+
   const [tabPosition, setTabPosition] = useState<TabsPosition>('top');
   const [parity, setParity] = useState(false);
   /** Вкладка (день недели), которая будет открыта при загрузке */
   const [defaultActiveKey, setDefaultActiveKey] = useState<string>('1');
 
   const today = moment();
+  const dateStart = moment(props.trimester.dateStart);
+  const dateFinish = moment(props.trimester.dateFinish);
+
+  const week_number = moment().diff(dateStart.startOf('week'), 'week') + 1;
+  const week_total = dateFinish.diff(dateStart, 'week');
 
   useEffect(() => {
     const handleResize = () => {
@@ -123,7 +129,7 @@ function TabsWeekDays(props: Props) {
 
   // Поиск ближайшего следующего дня для которого есть расписание
   useEffect(() => {
-    let parity = (props.week_number + 15) % 2 === 0;
+    let parity = (week_number + 15) % 2 === 0;
     const todayWeekday = today.isoWeekday();
     let minWeekday = props.schedule
       .map(v => v.WeekDay)
@@ -172,8 +178,6 @@ function TabsWeekDays(props: Props) {
     };
   }
 
-  if (props.loading) return <Spin />;
-
   if (!props.schedule || props.schedule.length <= 1)
     return <div>К сожалению, для этой группы нет расписания</div>;
 
@@ -205,10 +209,6 @@ function TabsWeekDays(props: Props) {
     else return null;
   });
   // TODO с переменными и вычеслениями нужно будет навести порядок
-  const {
-    dateStart,
-    dateFinish,
-  }: { dateStart: Moment; dateFinish: Moment } = props.trimester;
   const d = {
     today: today.valueOf(),
     start: dateStart.valueOf(),
@@ -222,15 +222,15 @@ function TabsWeekDays(props: Props) {
       <div>
         Сегодня {wdn[today.isoWeekday() % 7]}, {today.format('LL')}{' '}
         {/* @TODO I need to do something with weeks and semesters */}
-        неделя в семестре {props.week_number} из {props.week_total}, неделя в
-        году {props.week_number + 15} из {props.week_total + 15} (
-        {(props.week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
+        неделя в семестре {week_number} из {week_total}, неделя в году{' '}
+        {week_number + 15} из {week_total + 15} (
+        {(week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
       </div>
       <div>
         Прогресс семестра ({dateStart.format('L')} - {dateFinish.format('L')}):
       </div>
       <Progress percent={trimesterProgress} />
-      {props.week_number > props.week_total && (
+      {week_number > week_total && (
         <Alert
           type="warning"
           showIcon
