@@ -6,21 +6,7 @@ import Cascader, {
 import api from './api';
 import { MatchParams } from './Schedule/Schedule';
 import { Spin } from 'antd';
-
-interface IItem {
-  id: string;
-  name: string;
-}
-interface IGroup extends IItem {}
-
-interface IFaculty extends IItem {
-  fullName: string;
-}
-
-interface IFacultyWithGroups extends IFaculty {
-  groups: IGroup[];
-}
-
+import { IFacultyWithGroups } from './constants';
 export interface Props extends MatchParams {
   onChange: (value: string[], selectedOptions?: CascaderOptionType[]) => void;
 }
@@ -38,11 +24,11 @@ function SelectGroup(props: Props) {
         let options: IFacultyWithGroups[] = res.data;
         // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
         // потому что Cascader ожидает, что id будет строкой
-        options = options.map((faculty: IFacultyWithGroups) => {
+        options = options.map(faculty => {
           return {
             ...faculty,
             id: faculty.id.toString(),
-            groups: faculty.groups.map((group: IGroup) => ({
+            groups: faculty.groups.map(group => ({
               ...group,
               id: group.id.toString(),
             })),

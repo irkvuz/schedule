@@ -18,3 +18,19 @@ export interface ILessonOld {
   FIOshort: string;
   Error: string | null;
 }
+
+/** Universal item with `id` and `name` fields */
+export interface IItem {
+  id: string;
+  name: string;
+}
+
+export interface IGroup extends IItem {}
+
+export interface IFaculty extends IItem {
+  fullName: string;
+}
+
+export interface IFacultyWithGroups extends IFaculty {
+  groups: IGroup[];
+}
