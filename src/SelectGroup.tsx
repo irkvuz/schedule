@@ -19,12 +19,11 @@ function SelectGroup(props: Props) {
     setLoading(true);
     api
       .getFacultiesWithGroups()
-      .then(res => {
+      .then(facultiesWithGroups => {
         setLoading(false);
-        let options: IFacultyWithGroups[] = res.data;
         // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
         // потому что Cascader ожидает, что id будет строкой
-        options = options.map(faculty => {
+        let convertedFacultiesWithGroups = facultiesWithGroups.map(faculty => {
           return {
             ...faculty,
             id: faculty.id.toString(),
@@ -34,7 +33,7 @@ function SelectGroup(props: Props) {
             })),
           };
         });
-        setOptions(options);
+        setOptions(convertedFacultiesWithGroups);
       })
       .catch(error => {
         setLoading(false);
