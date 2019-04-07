@@ -3,6 +3,7 @@ import { Link, RouteComponentProps } from 'react-router-dom';
 import List from 'antd/lib/list';
 import Input from 'antd/lib/input';
 import api from './api';
+import { IItem } from './constants';
 
 type UniversalListProps = {
   title: string;
@@ -76,16 +77,15 @@ class MyList extends React.Component<ListProps, ListState> {
     items: [],
     loading: false,
   };
-  promise: Promise<any> | null = null;
+  promise?: Promise<IItem[]>;
   title = '';
   fieldNames = { label: '', value: '' };
 
   componentDidMount = async () => {
     this.setState({ loading: true });
     try {
-      let res = await this.promise;
-      let items = res.data;
-      this.setState({ items, loading: false });
+      let items = await this.promise;
+      if (items) this.setState({ items, loading: false });
     } catch (error) {
       console.error(error);
       this.setState({ loading: false });
