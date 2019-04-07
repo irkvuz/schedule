@@ -1,5 +1,6 @@
 {
   "name": "bgu",
+  "version": "0.1.0",
   "description": "Schedule of Baikal Stete University",
   "main": "src/index.js",
   "repository": "https://github.com/irkvuz/bgu.git",
@@ -66,6 +67,5 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  },
-  "version": "0.1.0"
+  }
 }
