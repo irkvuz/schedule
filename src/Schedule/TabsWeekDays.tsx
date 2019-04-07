@@ -1,8 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import { Tabs, Table, Icon, Switch, Alert, message, Spin } from 'antd';
+import {
+  Tabs,
+  Table,
+  Icon,
+  Switch,
+  Alert,
+  message,
+  Spin,
+  Progress,
+} from 'antd';
 import { TabsPosition } from 'antd/lib/tabs';
 import { ColumnProps } from 'antd/lib/table';
-import moment from 'moment';
+import moment, { Moment } from 'moment';
 import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
@@ -96,6 +105,7 @@ interface Props {
   schedule: ILessonOld[];
   week_number: number;
   week_total: number;
+  trimester: any;
 }
 
 interface IWeekDay {
@@ -205,6 +215,19 @@ function TabsWeekDays(props: Props) {
       );
     else return null;
   });
+  // TODO с переменными и вычеслениями нужно будет навести порядок
+  const {
+    dateStart,
+    dateFinish,
+  }: { dateStart: Moment; dateFinish: Moment } = props.trimester;
+  const d = {
+    today: today.valueOf(),
+    start: dateStart.valueOf(),
+    finish: dateFinish.valueOf(),
+  };
+  const trimesterProgress = Math.round(
+    ((d.today - d.start) / (d.finish - d.start)) * 100
+  );
   return (
     <>
       <div>
@@ -214,6 +237,10 @@ function TabsWeekDays(props: Props) {
         году {props.week_number + 15} из {props.week_total + 15} (
         {(props.week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
       </div>
+      <div>
+        Прогресс семестра ({dateStart.format('L')} - {dateFinish.format('L')}):
+      </div>
+      <Progress percent={trimesterProgress} />
       {props.week_number > props.week_total && (
         <Alert
           type="warning"

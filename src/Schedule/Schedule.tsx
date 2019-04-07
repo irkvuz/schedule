@@ -105,6 +105,8 @@ class Schedule extends React.Component<Props, State> {
           <TabsWeekDays
             loading={this.state.loading}
             schedule={this.state.schedule}
+            trimester={this.state.trimester}
+            // TOTO вычисляемые значения, не нужно передавать
             week_number={this.state.week_number}
             week_total={this.state.week_total}
           />
