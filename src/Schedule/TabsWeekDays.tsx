@@ -98,13 +98,6 @@ interface Props {
   week_total: number;
 }
 
-interface State {
-  tabPosition: TabsPosition;
-  parity: boolean;
-  today: moment.Moment;
-  defaultActiveKey: string;
-}
-
 interface IWeekDay {
   name: string;
   lessons: ILessonOld[];
