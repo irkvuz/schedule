@@ -1,4 +1,5 @@
 # Schedule for Baikal State University students (Irkutsk)
+[![Build Status](https://travis-ci.org/irkvuz/schedule.svg?branch=master)](https://travis-ci.org/irkvuz/schedule)
 
 This is [React.js](https://reactjs.org) based single page progressive web application. This application is designed from scratch by [Yury Savin](https://github.com/baitun).  
 
