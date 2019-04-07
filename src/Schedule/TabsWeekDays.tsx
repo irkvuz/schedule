@@ -13,6 +13,7 @@ import { TabsPosition } from 'antd/lib/tabs';
 import { ColumnProps } from 'antd/lib/table';
 import moment, { Moment } from 'moment';
 import './TabsWeekDays.css';
+import { ITrimester, ILessonOld } from '../constants';
 
 const TabPane = Tabs.TabPane;
 
@@ -43,18 +44,6 @@ const LessonTypes: ILessonType[] = [
   { shortName: 'конф', fullName: 'научная конференция', className: 'lek12' },
   { shortName: 'откр', fullName: 'день открытых дверей', className: 'lek13' },
 ];
-
-export interface ILessonOld {
-  WeekDay: number;
-  StartTime: string;
-  Odd: number;
-  Lesson: string;
-  LessonType: string;
-  Room: string;
-  FIO: string;
-  FIOshort: string;
-  Error: string | null;
-}
 
 const columns: ColumnProps<ILessonOld>[] = [
   {

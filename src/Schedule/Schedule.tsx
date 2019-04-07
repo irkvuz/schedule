@@ -1,5 +1,5 @@
 import React from 'react';
-import TabsWeekDays, { ILessonOld } from './TabsWeekDays';
+import TabsWeekDays from './TabsWeekDays';
 import moment from 'moment';
 import { Spin, message } from 'antd';
 import SelectGroup from '../SelectGroup';
