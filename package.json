@@ -23,7 +23,7 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "react-yandex-metrika": "2.5.1",
-    "typescript": "3.4.2"
+    "typescript": "3.4.3"
   },
   "devDependencies": {
     "@types/progress": "2.0.3",
