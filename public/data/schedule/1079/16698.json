@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Непомнящая Екатерина Анатольевна",
+    "FIOshort": "Непомнящая Е.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -79,7 +90,7 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Арбитражный процесс",
     "LessonType": "пр",
     "Room": "6-106",

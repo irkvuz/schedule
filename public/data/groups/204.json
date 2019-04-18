@@ -127,10 +127,10 @@
   },
   {
     "IdGroup": 30208,
-    "Group": "ММО-18-1",
+    "Group": "ММО-18",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17179,

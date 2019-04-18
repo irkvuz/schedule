@@ -233,6 +233,17 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Эволюция денежно-кредитных отношений",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Экономика организации",
     "LessonType": "пр",
