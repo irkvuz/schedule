@@ -1,8 +1,8 @@
 export interface ITrimester {
   IdTrimester: number;
   uYear: string;
-  dateStart: Date;
-  dateFinish: Date;
+  dateStart: string;
+  dateFinish: string;
   week: number;
   Error: string;
 }
