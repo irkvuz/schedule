@@ -1,13 +1,13 @@
 {
-  "id": "backstop_default",
+  "id": "bgu",
   "viewports": [
     {
-      "label": "phone",
+      "label": "iphone5",
       "width": 320,
-      "height": 480
+      "height": 568
     },
     {
-      "label": "tablet",
+      "label": "desktop",
       "width": 1024,
       "height": 768
     }
@@ -16,9 +16,9 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
+      "label": "Schedule",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://garris.github.io/BackstopJS/",
+      "url": "http://localhost:5000/36/17844/",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
