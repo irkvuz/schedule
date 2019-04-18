@@ -101,20 +101,10 @@ interface IWeekDay {
 }
 
 function TabsWeekDays(props: Props) {
-  if (props.loading) return <Spin />;
-  if (!props.trimester) return null;
-
   const [tabPosition, setTabPosition] = useState<TabsPosition>('top');
   const [parity, setParity] = useState(false);
   /** Вкладка (день недели), которая будет открыта при загрузке */
   const [defaultActiveKey, setDefaultActiveKey] = useState<string>('1');
-
-  const today = moment();
-  const dateStart = moment(props.trimester.dateStart);
-  const dateFinish = moment(props.trimester.dateFinish);
-
-  const week_number = moment().diff(dateStart.startOf('week'), 'week') + 1;
-  const week_total = dateFinish.diff(dateStart, 'week');
 
   useEffect(() => {
     const handleResize = () => {
@@ -168,6 +158,16 @@ function TabsWeekDays(props: Props) {
     setParity(parity);
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
+
+  if (props.loading) return <Spin />;
+  if (!props.trimester) return null;
+
+  const today = moment();
+  const dateStart = moment(props.trimester.dateStart);
+  const dateFinish = moment(props.trimester.dateFinish);
+
+  const week_number = moment().diff(dateStart.startOf('week'), 'week') + 1;
+  const week_total = dateFinish.diff(dateStart, 'week');
 
   let weekdays: IWeekDay[] = [];
 
