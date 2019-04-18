@@ -59,11 +59,7 @@ function SelectGroup(props: Props) {
       size="large"
       defaultValue={[props.facultyId, props.groupId]}
       fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
-      /**
-       * @TODO Need to enable search only for desktop
-       * @body On mobile search looks awful and speed down UX
-       */
-      // showSearch={{ filter: this.filter }}
+      showSearch={{ filter: false ? filter : undefined }}
     />
   );
 }
