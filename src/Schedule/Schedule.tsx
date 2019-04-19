@@ -1,9 +1,12 @@
-import React from 'react';
-import TabsWeekDays from './TabsWeekDays';
 import { message } from 'antd';
-import SelectGroup from '../SelectGroup';
-import api from '../api';
+import moment from 'moment';
+import React from 'react';
 import { RouteComponentProps } from 'react-router';
+import api from '../api';
+import { ILessonOld, ITrimester } from '../constants';
+import SelectGroup from '../SelectGroup';
+import TabsWeekDays from './TabsWeekDays';
+import TrimesterInfo from './TrimesterInfo';
 
 export interface MatchParams {
   facultyId: string;
@@ -12,12 +15,18 @@ export interface MatchParams {
 
 export interface Props extends RouteComponentProps<MatchParams> {}
 
-export interface State {}
+export interface State {
+  loading: boolean;
+  trimester?: ITrimester;
+  schedule: ILessonOld[];
+  week_number: number;
+}
 class Schedule extends React.Component<Props, State> {
-  state = {
+  state: State = {
     trimester: undefined,
     schedule: [],
     loading: false,
+    week_number: 0,
   };
 
   loadSchedule = async (facultyId: string, groupId: string) => {
@@ -29,10 +38,15 @@ class Schedule extends React.Component<Props, State> {
       const trimester = await api.getTrimester();
 
       const schedule = await api.getSchedule(groupId, trimester.IdTrimester);
+
+      const week_number =
+        moment().diff(moment(trimester.dateStart).startOf('week'), 'week') + 1;
+
       this.setState({
         trimester,
         schedule,
         loading: false,
+        week_number,
       });
     } catch (error) {
       this.setState({ loading: false, schedule: [] });
@@ -81,6 +95,7 @@ class Schedule extends React.Component<Props, State> {
   render() {
     // console.log('Component `Schedule` props =', this.props);
     const { groupId, facultyId } = this.props.match.params;
+
     return (
       <>
         <div>
@@ -91,10 +106,15 @@ class Schedule extends React.Component<Props, State> {
           />
         </div>
         <div>
+          {this.state.trimester && (
+            <TrimesterInfo trimester={this.state.trimester} />
+          )}
+        </div>
+        <div>
           <TabsWeekDays
             loading={this.state.loading}
             schedule={this.state.schedule}
-            trimester={this.state.trimester}
+            week_number={this.state.week_number}
           />
         </div>
       </>

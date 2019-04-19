@@ -1,26 +1,12 @@
-import React, { useState, useEffect } from 'react';
-import {
-  Tabs,
-  Table,
-  Icon,
-  Switch,
-  Alert,
-  message,
-  Spin,
-  Progress,
-} from 'antd';
-import { TabsPosition } from 'antd/lib/tabs';
+import { Icon, message, Spin, Switch, Table, Tabs } from 'antd';
 import { ColumnProps } from 'antd/lib/table';
-import moment, { Moment } from 'moment';
+import { TabsPosition } from 'antd/lib/tabs';
+import moment from 'moment';
+import React, { useEffect, useState } from 'react';
+import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
 import './TabsWeekDays.css';
-import { ITrimester, ILessonOld } from '../constants';
 
 const TabPane = Tabs.TabPane;
-
-/** WeekDayNames - названия дней недели */
-const wdn = 'Воскресенье_Понедельник_Вторник_Среда_Четверг_Пятница_Суббота_Воскресенье'.split(
-  '_'
-);
 
 interface ILessonType {
   shortName: string;
@@ -92,7 +78,7 @@ const columns: ColumnProps<ILessonOld>[] = [
 interface Props {
   loading: boolean;
   schedule: ILessonOld[];
-  trimester?: ITrimester;
+  week_number: number;
 }
 
 interface IWeekDay {
@@ -101,20 +87,10 @@ interface IWeekDay {
 }
 
 function TabsWeekDays(props: Props) {
-  if (props.loading) return <Spin />;
-  if (!props.trimester) return null;
-
   const [tabPosition, setTabPosition] = useState<TabsPosition>('top');
   const [parity, setParity] = useState(false);
   /** Вкладка (день недели), которая будет открыта при загрузке */
   const [defaultActiveKey, setDefaultActiveKey] = useState<string>('1');
-
-  const today = moment();
-  const dateStart = moment(props.trimester.dateStart);
-  const dateFinish = moment(props.trimester.dateFinish);
-
-  const week_number = moment().diff(dateStart.startOf('week'), 'week') + 1;
-  const week_total = dateFinish.diff(dateStart, 'week');
 
   useEffect(() => {
     const handleResize = () => {
@@ -129,7 +105,9 @@ function TabsWeekDays(props: Props) {
 
   // Поиск ближайшего следующего дня для которого есть расписание
   useEffect(() => {
-    let parity = (week_number + 15) % 2 === 0;
+    let parity = (props.week_number + 15) % 2 === 0;
+    // @TODO Get rid of side-effect
+    const today = moment();
     const todayWeekday = today.isoWeekday();
     let minWeekday = props.schedule
       .map(v => v.WeekDay)
@@ -162,18 +140,20 @@ function TabsWeekDays(props: Props) {
     }
     setParity(parity);
     setDefaultActiveKey(String(minWeekday));
-  }, [props.schedule]);
+  }, [props.schedule, props.week_number]);
 
   const handleParityChange = (parity: boolean) => {
     setParity(parity);
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
+  if (props.loading) return <Spin />;
+
   let weekdays: IWeekDay[] = [];
 
   for (let i = 1; i <= 7; i++) {
     weekdays[i] = {
-      name: wdn[i],
+      name: WEEK_DAY_NAMES[i],
       lessons: [],
     };
   }
@@ -208,35 +188,9 @@ function TabsWeekDays(props: Props) {
       );
     else return null;
   });
-  // TODO с переменными и вычеслениями нужно будет навести порядок
-  const d = {
-    today: today.valueOf(),
-    start: dateStart.valueOf(),
-    finish: dateFinish.valueOf(),
-  };
-  const trimesterProgress = Math.round(
-    ((d.today - d.start) / (d.finish - d.start)) * 100
-  );
+
   return (
     <>
-      <div>
-        Сегодня {wdn[today.isoWeekday() % 7]}, {today.format('LL')}{' '}
-        {/* @TODO I need to do something with weeks and semesters */}
-        неделя в семестре {week_number} из {week_total}, неделя в году{' '}
-        {week_number + 15} из {week_total + 15} (
-        {(week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
-      </div>
-      <div>
-        Прогресс семестра ({dateStart.format('L')} - {dateFinish.format('L')}):
-      </div>
-      <Progress percent={trimesterProgress} />
-      {week_number > week_total && (
-        <Alert
-          type="warning"
-          showIcon
-          message="Учебный семестр закончился. Сейчас отображается расписание прошедшего семестра."
-        />
-      )}
       <div className="switch-parity">
         Показать неделю: &nbsp;
         <Switch
