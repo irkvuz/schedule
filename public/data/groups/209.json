@@ -46,7 +46,7 @@
     "Group": "ЗИО(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17670,
@@ -60,14 +60,14 @@
     "Group": "ЗИО(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16627,
     "Group": "ЗИО(9)-16-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17411,
@@ -151,7 +151,7 @@
     "Group": "ЛХ(11)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17490,
@@ -172,7 +172,7 @@
     "Group": "ЛХ(9)-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16598,
@@ -466,14 +466,14 @@
     "Group": "СПЛ(9)-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16620,
     "Group": "ТХ(11)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17510,
@@ -487,14 +487,14 @@
     "Group": "ТХ(11)-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16404,
     "Group": "ТХ(9)-15-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16619,
@@ -508,7 +508,7 @@
     "Group": "ТХ(9)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17687,

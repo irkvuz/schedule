@@ -4,7 +4,7 @@
     "Group": "ГС(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17677,
@@ -18,7 +18,7 @@
     "Group": "ГС(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17444,
@@ -60,7 +60,7 @@
     "Group": "КТ(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17445,
@@ -382,14 +382,14 @@
     "Group": "Т(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17492,
     "Group": "Т(11)-17-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17681,
@@ -410,14 +410,14 @@
     "Group": "Т(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16609,
     "Group": "Т(9)-16-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16610,
@@ -459,21 +459,21 @@
     "Group": "ТВ(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17682,
     "Group": "ТВ(11)-18-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16618,
     "Group": "ТВ(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17503,

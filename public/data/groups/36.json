@@ -354,28 +354,28 @@
     "Group": "ПСО(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17430,
     "Group": "ПСО(11)-17-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17505,
     "Group": "ПСО(11)-17-3",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17506,
     "Group": "ПСО(11)-17-4",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17673,
@@ -410,28 +410,28 @@
     "Group": "ПСО(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16600,
     "Group": "ПСО(9)-16-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16601,
     "Group": "ПСО(9)-16-3",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16602,
     "Group": "ПСО(9)-16-4",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17427,
