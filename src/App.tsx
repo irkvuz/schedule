@@ -4,9 +4,11 @@ import 'moment/locale/ru';
 import React from 'react';
 import { Link, Redirect, Route, Router, Switch } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
-import history from './history';
+import { createBrowserHistory } from 'history';
 import { ListFaculties, ListGroups } from './Lists';
 import Schedule from './Schedule/Schedule';
+
+const browserHistory = createBrowserHistory();
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -51,7 +53,7 @@ class App extends React.Component {
           />
         )}
         <LocaleProvider locale={ru_RU}>
-          <Router history={history}>
+          <Router history={browserHistory}>
             <>
               <header>
                 <Menu mode="horizontal" theme="dark">
@@ -111,7 +113,7 @@ class App extends React.Component {
 }
 
 // @TODO change any to appropriate types
-history.listen((location: any, action: any) => {
+browserHistory.listen((location: any, action: any) => {
   const url = location.pathname + location.search + location.hash;
   if (isProduction) ym('hit', url);
 });
