@@ -63,6 +63,7 @@ yarn start
 * [Axios](https://github.com/axios/axios) - promise based HTTP client for the browser and node.js
 * [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration
 * [Ant Design](https://github.com/ant-design/ant-design) - an enterprise-class UI design language
+* [Travis CI](https://travis-ci.org/) - continuous integration service used to build and test software projects hosted at GitHub
 
 
 ## Contacts
