@@ -19,6 +19,8 @@ export interface ILessonOld {
   Error: string | null;
 }
 
+export type IScheduleOld = ILessonOld[];
+
 /** Universal item with `id` and `name` fields */
 export interface IItem {
   id: string;
