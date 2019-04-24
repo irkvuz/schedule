@@ -21,21 +21,18 @@ export default function Schedule(props: Props) {
   const [loading, setLoading] = useState<boolean>(false);
   const [weekNumber, setWeekNumber] = useState<number>(0);
 
-  const loadSchedule = async (facultyId: string, groupId: string) => {
+  const loadSchedule = async (
+    facultyId: string,
+    groupId: string,
+    trimester: ITrimester
+  ) => {
     setLoading(true);
     try {
       localStorage.setItem('facultyId', facultyId);
       localStorage.setItem('groupId', groupId);
 
-      const trimester = await api.getTrimester();
-
       const schedule = await api.getSchedule(groupId, trimester.IdTrimester);
 
-      const week_number =
-        moment().diff(moment(trimester.dateStart).startOf('week'), 'week') + 1;
-
-      setWeekNumber(week_number);
-      setTrimester(trimester);
       setSchedule(schedule);
       setLoading(false);
     } catch (error) {
@@ -63,9 +60,25 @@ export default function Schedule(props: Props) {
 
   const { groupId, facultyId } = props.match.params;
 
+  // Триместр загружаетс только один раз при componentDidMount
   useEffect(() => {
-    loadSchedule(facultyId, groupId);
-  }, [facultyId, groupId]);
+    async function loadTrimester() {
+      try {
+        const t = await api.getTrimester();
+        if (t) {
+          setTrimester(t);
+          setWeekNumber(
+            moment().diff(moment(t.dateStart).startOf('week'), 'week') + 1
+          );
+        }
+      } catch (error) {}
+    }
+    loadTrimester();
+  }, []);
+
+  useEffect(() => {
+    if (trimester) loadSchedule(facultyId, groupId, trimester);
+  }, [facultyId, groupId, trimester]);
 
   const handleGroupChange = (value: string[], selectedOptions?: any) => {
     let [facultyId, groupId] = value;
