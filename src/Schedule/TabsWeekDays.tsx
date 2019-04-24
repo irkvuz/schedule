@@ -5,6 +5,7 @@ import moment from 'moment';
 import React, { useEffect, useState } from 'react';
 import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
 import './TabsWeekDays.css';
+import { findNearestDay } from './findNearestDay';
 
 const TabPane = Tabs.TabPane;
 
@@ -103,43 +104,15 @@ function TabsWeekDays(props: Props) {
     };
   }, []);
 
-  // Поиск ближайшего следующего дня для которого есть расписание
   useEffect(() => {
-    let parity = (props.week_number + 15) % 2 === 0;
-    // @TODO Get rid of side-effect
-    const today = moment();
-    const todayWeekday = today.isoWeekday();
-    let minWeekday = props.schedule
-      .map(v => v.WeekDay)
-      .reduce((min, weekday, i) => {
-        const lesson = props.schedule[i];
-        if (lesson.Odd === 0 && weekday < todayWeekday) {
-          // пара каждую неделю и на этой неделе этот день уже прошел
-          // => пара будет на следующей
-          weekday += 7;
-        } else if (
-          (lesson.Odd === 1 && parity) ||
-          (lesson.Odd === 2 && !parity)
-        ) {
-          // пара не на этой неделе
-          weekday += 7;
-        } else if (weekday < todayWeekday) {
-          // пара на этой неделе, но день уже прошел
-          weekday += 14;
-        }
-        return Math.min(min, weekday);
-      }, 15); // здесь минимальным днем передаем максимально невозможное число
-
-    // We need to correct minWeekday value a little bit
-    if (minWeekday > 14) {
-      minWeekday -= 14;
-    } else if (minWeekday > 7) {
-      // если пара в день на следующей неделе, надо поменять четность
-      minWeekday -= 7;
-      parity = !parity;
-    }
-    setParity(parity);
+    const { minWeekday, parity } = findNearestDay({
+      // +15 - костыль для второго триместра 2019 (потому что отчёт должен вестись с начала года, а не с начала семестра)
+      week_number: props.week_number + 15,
+      weekday: moment().isoWeekday(),
+      schedule: props.schedule,
+    });
     setDefaultActiveKey(String(minWeekday));
+    setParity(parity);
   }, [props.schedule, props.week_number]);
 
   const handleParityChange = (parity: boolean) => {
