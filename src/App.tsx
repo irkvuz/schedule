@@ -4,7 +4,7 @@ import 'moment/locale/ru';
 import React from 'react';
 import { Link, Redirect, Route, Router, Switch } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
-import { createBrowserHistory } from 'history';
+import { createBrowserHistory, Location, Action } from 'history';
 import { ListFaculties, ListGroups } from './Lists';
 import Schedule from './Schedule/Schedule';
 
@@ -112,8 +112,7 @@ class App extends React.Component {
   }
 }
 
-// @TODO change any to appropriate types
-browserHistory.listen((location: any, action: any) => {
+browserHistory.listen((location: Location, action: Action) => {
   const url = location.pathname + location.search + location.hash;
   if (isProduction) ym('hit', url);
 });
