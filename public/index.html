@@ -1,158 +1,80 @@
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1.0, shrink-to-fit=no, user-scalable=no, minimal-ui"
-    />
-    <meta
-      name="description"
-      content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения"
-    />
 
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="%PUBLIC_URL%/images/icons/apple-touch-icon.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="%PUBLIC_URL%/images/icons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="%PUBLIC_URL%/images/icons/favicon-16x16.png"
-    />
-    <link
-      rel="mask-icon"
-      href="%PUBLIC_URL%/images/icons/safari-pinned-tab.svg"
-      color="#5bbad5"
-    />
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, shrink-to-fit=no, user-scalable=no, minimal-ui">
+  <meta name="description" content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения" />
+  
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+  <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/images/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="%PUBLIC_URL%/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="white">
+  <meta name="apple-mobile-web-app-title" content="БГУ">
+  <meta name="description" content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения" />
+  <meta property="og:image" content="%PUBLIC_URL%/images/opengraph.jpg" />
+  <meta property="og:title" content="Расписание БГУ" />
+  <meta property="og:description" content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения" />
 
-    <meta name="msapplication-TileColor" content="#2d89ef" />
-    <meta name="theme-color" content="#ffffff" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="white" />
-    <meta name="apple-mobile-web-app-title" content="БГУ" />
-    <meta
-      name="description"
-      content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения"
-    />
-    <meta property="og:image" content="%PUBLIC_URL%/images/opengraph.jpg" />
-    <meta property="og:title" content="Расписание БГУ" />
-    <meta
-      property="og:description"
-      content="Расписание Байкальского Государственного Университета (Иркутск) в виде PWA веб-приложения"
-    />
-
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphone5_splash.png"
-      media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphone6_splash.png"
-      media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphoneplus_splash.png"
-      media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphonex_splash.png"
-      media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphonexr_splash.png"
-      media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/iphonexsmax_splash.png"
-      media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/ipad_splash.png"
-      media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/ipadpro1_splash.png"
-      media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/ipadpro3_splash.png"
-      media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-    <link
-      href="%PUBLIC_URL%/images/splashscreens/ipadpro2_splash.png"
-      media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)"
-      rel="apple-touch-startup-image"
-    />
-
-    <title>Расписание БГУ</title>
-
-    <!-- Start Single Page Apps for GitHub Pages -->
-    <script type="text/javascript">
-      // Single Page Apps for GitHub Pages
-      // https://github.com/rafrex/spa-github-pages
-      // Copyright (c) 2016 Rafael Pedicini, licensed under the MIT License
-      // ----------------------------------------------------------------------
-      // This script checks to see if a redirect is present in the query string
-      // and converts it back into the correct url and adds it to the
-      // browser's history using window.history.replaceState(...),
-      // which won't cause the browser to attempt to load the new url.
-      // When the single page app is loaded further down in this file,
-      // the correct url will be waiting in the browser's history for
-      // the single page app to route accordingly.
-      (function(l) {
-        if (l.search) {
-          var q = {};
-          l.search
-            .slice(1)
-            .split('&')
-            .forEach(function(v) {
-              var a = v.split('=');
-              q[a[0]] = a
-                .slice(1)
-                .join('=')
-                .replace(/~and~/g, '&');
-            });
-          if (q.p !== undefined) {
-            window.history.replaceState(
-              null,
-              null,
-              l.pathname.slice(0, -1) +
-                (q.p || '') +
-                (q.q ? '?' + q.q : '') +
-                l.hash
-            );
-          }
+  <link href="%PUBLIC_URL%/images/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="%PUBLIC_URL%/images/splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  
+  <title>Расписание БГУ</title>
+  
+  <!-- Start Single Page Apps for GitHub Pages -->
+  <script type="text/javascript">
+    // Single Page Apps for GitHub Pages
+    // https://github.com/rafrex/spa-github-pages
+    // Copyright (c) 2016 Rafael Pedicini, licensed under the MIT License
+    // ----------------------------------------------------------------------
+    // This script checks to see if a redirect is present in the query string
+    // and converts it back into the correct url and adds it to the
+    // browser's history using window.history.replaceState(...),
+    // which won't cause the browser to attempt to load the new url.
+    // When the single page app is loaded further down in this file,
+    // the correct url will be waiting in the browser's history for
+    // the single page app to route accordingly.
+    (function (l) {
+      if (l.search) {
+        var q = {};
+        l.search.slice(1).split('&').forEach(function (v) {
+          var a = v.split('=');
+          q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+        });
+        if (q.p !== undefined) {
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + (q.p || '') +
+            (q.q ? ('?' + q.q) : '') +
+            l.hash
+          );
         }
-      })(window.location);
-    </script>
-    <!-- End Single Page Apps for GitHub Pages -->
-  </head>
+      }
+    }(window.location))
+  </script>
+  <!-- End Single Page Apps for GitHub Pages -->
+</head>
 
-  <body>
-    <noscript>
-      Вам нужно включить JavaScript для работы этого приложения.
-    </noscript>
-    <div id="root"></div>
-    <div>v%REACT_APP_VERSION%</div>
-    <!--
+<body>
+  <noscript>
+    Вам нужно включить JavaScript для работы этого приложения.
+  </noscript>
+  <div id="root"></div>
+  <div>v%REACT_APP_VERSION%</div>
+  <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
 
@@ -163,22 +85,7 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
 
-    <script type="text/javascript">
-      !(function() {
-        var t = document.createElement('script');
-        (t.type = 'text/javascript'),
-          (t.async = !0),
-          (t.src = 'https://vk.com/js/api/openapi.js?160'),
-          (t.onload = function() {
-            VK.Retargeting.Init('VK-RTRG-324717-6CPGU'), VK.Retargeting.Hit();
-          }),
-          document.head.appendChild(t);
-      })();</script
-    ><noscript
-      ><img
-        src="https://vk.com/rtrg?p=VK-RTRG-324717-6CPGU"
-        style="position:fixed; left:-999px;"
-        alt=""
-    /></noscript>
-  </body>
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?160",t.onload=function(){VK.Retargeting.Init("VK-RTRG-324717-6CPGU"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-324717-6CPGU" style="position:fixed; left:-999px;" alt=""/></noscript>
+</body>
+
 </html>
