@@ -85,7 +85,7 @@ let api = {
 };
 
 const json2file = (path: string, obj: any) => {
-  fs.writeFileSync(path, JSON.stringify(obj, null, 2));
+  fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
 };
 
 (async () => {
