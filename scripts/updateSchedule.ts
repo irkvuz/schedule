@@ -6,20 +6,7 @@ import axios from 'axios';
 import fs from 'fs';
 import ProgressBar from 'progress';
 
-interface IGroupOld {
-  IdGroup: number;
-  Group: string;
-  Course: number;
-  Error: string;
-  hasSchedule: boolean;
-}
-
-interface IFacultyOld {
-  IdFaculty: number;
-  FacultyName: string;
-  FacultyAbbr: string;
-  Error: string;
-}
+import { IGroupOld, IFacultyOld } from '../src/constants';
 
 interface ITrimesterOld {
   IdTrimester: number;

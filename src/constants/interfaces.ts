@@ -36,3 +36,18 @@ export interface IFaculty extends IItem {
 export interface IFacultyWithGroups extends IFaculty {
   groups: IGroup[];
 }
+
+export interface IGroupOld {
+  IdGroup: number;
+  Group: string;
+  Course: number;
+  Error: string;
+  hasSchedule: boolean;
+}
+
+export interface IFacultyOld {
+  IdFaculty: number;
+  FacultyName: string;
+  FacultyAbbr: string;
+  Error: string;
+}
