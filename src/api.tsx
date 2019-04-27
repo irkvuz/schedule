@@ -3,8 +3,8 @@ import {
   ITrimester,
   ILessonOld,
   IFacultyWithGroups,
-  IFaculty,
-  IGroup,
+  IFacultyOld,
+  IGroupOld,
 } from './constants';
 
 /** Wrapper for `axios.get` that returns `response`.data */
@@ -14,11 +14,11 @@ async function get<T = any>(url: string) {
 }
 
 let api = {
-  getFaculties: () => get<IFaculty[]>(`/data/faculties.json`),
+  getFaculties: () => get<IFacultyOld[]>(`/data/faculties.json`),
   getFacultiesWithGroups: () =>
     get<IFacultyWithGroups[]>(`/data/facultiesWithGroups.json`),
   getGroups: (facultyId: string) =>
-    get<IGroup[]>(`/data/groups/${facultyId}.json`),
+    get<IGroupOld[]>(`/data/groups/${facultyId}.json`),
   getTrimester: () => get<ITrimester>(`/data/trimesters/current.json`),
   getSchedule: (groupId: string, trimesterId: string | number) =>
     get<ILessonOld[]>(`/data/schedule/${trimesterId}/${groupId}.json`),
