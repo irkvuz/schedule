@@ -1,32 +1,35 @@
-import React, { useState } from 'react';
-import { Link, RouteComponentProps } from 'react-router-dom';
-import List from 'antd/lib/list';
 import Input from 'antd/lib/input';
+import List from 'antd/lib/list';
+import React, { useEffect, useState } from 'react';
+import { Link, RouteComponentProps } from 'react-router-dom';
 import api from './api';
 import { IItem } from './constants';
+
+/** Name of fields in source data, to take label and value */
+type FieldNames = {
+  label: string;
+  value: string;
+};
 
 type UniversalListProps = {
   title: string;
   // @TODO Need to describe types
-  dataSource: any;
+  items: IItem[];
   loading: boolean;
-  fieldNames: {
-    label: string;
-    value: string;
-  };
+  fieldNames: FieldNames;
 };
 
 /**
  * Used for ListFaculties and ListGroups
  */
 function UniversalList(props: UniversalListProps) {
-  const { title, dataSource, loading, fieldNames } = props;
+  const { title, items, loading, fieldNames } = props;
   const [searchValue, setSearchValue] = useState('');
   const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
     const searchValue = event.target.value;
     setSearchValue(searchValue);
   };
-  const filtredDataSource = dataSource.filter((item: any) =>
+  const itemsFiltred = items.filter((item: any) =>
     item[fieldNames.label].match(new RegExp(searchValue, 'i'))
   );
   return (
@@ -36,11 +39,10 @@ function UniversalList(props: UniversalListProps) {
         onChange={handleSearch}
         placeholder="Начните вводить название..."
       />
-      {/* @TODO remove br, use css instead */}
       <br />
       <br />
       <List
-        dataSource={filtredDataSource}
+        dataSource={itemsFiltred}
         loading={loading}
         bordered
         renderItem={(item: any) => (
@@ -59,69 +61,63 @@ function UniversalList(props: UniversalListProps) {
   );
 }
 
+interface ListProps {
+  promise: Promise<IItem[]>;
+  title: string;
+  fieldNames: FieldNames;
+}
+
+function MyList(props: ListProps) {
+  const [items, setItems] = useState<IItem[]>([]);
+  const [loading, setLoading] = useState<boolean>(false);
+
+  useEffect(() => {
+    setLoading(true);
+    async function loadItems() {
+      try {
+        let items = await props.promise;
+        setItems(items);
+      } catch (error) {
+        console.error(error);
+      }
+      setLoading(false);
+    }
+    loadItems();
+  }, [props.promise]);
+
+  return (
+    <UniversalList
+      title={props.title}
+      items={items}
+      loading={loading}
+      fieldNames={props.fieldNames}
+    />
+  );
+}
+
+function ListFaculties() {
+  return (
+    <MyList
+      promise={api.getFaculties()}
+      title="Список факультетов"
+      fieldNames={{ label: 'FacultyName', value: 'IdFaculty' }}
+    />
+  );
+}
+
 interface MatchParams {
   facultyId: string;
 }
 
-interface ListProps extends RouteComponentProps<MatchParams> {
-  type?: 'faculties' | 'groups';
+function ListGroups(props: RouteComponentProps<MatchParams>) {
+  const facultyId = props.match.params.facultyId;
+  return (
+    <MyList
+      promise={api.getGroups(facultyId)}
+      title="Список групп"
+      fieldNames={{ label: 'Group', value: 'IdGroup' }}
+    />
+  );
 }
 
-type ListState = {
-  items: any[];
-  loading: boolean;
-};
-
-class MyList extends React.Component<ListProps, ListState> {
-  state = {
-    items: [],
-    loading: false,
-  };
-  promise?: Promise<IItem[]>;
-  title = '';
-  fieldNames = { label: '', value: '' };
-
-  componentDidMount = async () => {
-    this.setState({ loading: true });
-    try {
-      let items = await this.promise;
-      if (items) this.setState({ items, loading: false });
-    } catch (error) {
-      console.error(error);
-      this.setState({ loading: false });
-    }
-  };
-
-  render() {
-    return (
-      <UniversalList
-        title={this.title}
-        dataSource={this.state.items}
-        loading={this.state.loading}
-        fieldNames={this.fieldNames}
-      />
-    );
-  }
-}
-
-class ListFaculties extends MyList {
-  constructor(props: any) {
-    super(props);
-    this.promise = api.getFaculties();
-    this.title = 'Список факультетов';
-    this.fieldNames = { label: 'FacultyName', value: 'IdFaculty' };
-  }
-}
-
-class ListGroups extends MyList {
-  constructor(props: any) {
-    super(props);
-    const facultyId = this.props.match.params.facultyId;
-
-    this.promise = api.getGroups(facultyId);
-    this.title = 'Список групп';
-    this.fieldNames = { label: 'Group', value: 'IdGroup' };
-  }
-}
-
-export { ListFaculties, ListGroups, MyList };
+export { ListFaculties, ListGroups };
