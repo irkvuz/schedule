@@ -46,7 +46,6 @@
     "serve": "serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "eslint": "node_modules/.bin/eslint src/**/*.tsx",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts"
   },
   "eslintConfig": {
