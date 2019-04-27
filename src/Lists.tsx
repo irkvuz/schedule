@@ -3,35 +3,34 @@ import List from 'antd/lib/list';
 import React, { useEffect, useState } from 'react';
 import { Link, RouteComponentProps } from 'react-router-dom';
 import api from './api';
-import { IItem } from './constants';
+import { IFacultyOld, IGroupOld } from './constants';
 
 /** Name of fields in source data, to take label and value */
-type FieldNames = {
-  label: string;
-  value: string;
-};
+type Item = IFacultyOld | IGroupOld;
+type Items = Item[];
 
 type UniversalListProps = {
   title: string;
-  // @TODO Need to describe types
-  items: IItem[];
+  items: Items;
   loading: boolean;
-  fieldNames: FieldNames;
 };
 
 /**
  * Used for ListFaculties and ListGroups
  */
-function UniversalList(props: UniversalListProps) {
-  const { title, items, loading, fieldNames } = props;
+function UniversalListPL(props: UniversalListProps) {
+  const { title, items, loading } = props;
   const [searchValue, setSearchValue] = useState('');
   const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
     const searchValue = event.target.value;
     setSearchValue(searchValue);
   };
-  const itemsFiltred = items.filter((item: any) =>
-    item[fieldNames.label].match(new RegExp(searchValue, 'i'))
-  );
+  const itemsFiltred = items.filter(item => {
+    if ('Group' in item) return item.Group.match(new RegExp(searchValue, 'i'));
+    if ('FacultyName' in item)
+      return item.FacultyName.match(new RegExp(searchValue, 'i'));
+    throw new Error('Unknown data format (ot IGroupOld nor IFacultyOld)');
+  });
   return (
     <>
       <h2>{title}</h2>
@@ -41,34 +40,44 @@ function UniversalList(props: UniversalListProps) {
       />
       <br />
       <br />
-      <List
+      <List<Item>
         dataSource={itemsFiltred}
         loading={loading}
         bordered
-        renderItem={(item: any) => (
-          <List.Item key={item[fieldNames.value]}>
-            {item.hasSchedule || !item.hasOwnProperty('hasSchedule') ? (
-              <Link to={`${item[fieldNames.value]}/`}>
-                {item[fieldNames.label]}
-              </Link>
-            ) : (
-              <span style={{ opacity: 0.5 }}>{item[fieldNames.label]}</span>
-            )}
-          </List.Item>
-        )}
+        renderItem={item => {
+          if ('Group' in item) {
+            return (
+              <List.Item key={item.IdGroup}>
+                {item.hasSchedule || !item.hasOwnProperty('hasSchedule') ? (
+                  <Link to={`${item.IdGroup}/`}>{item.Group}</Link>
+                ) : (
+                  <span style={{ opacity: 0.5 }}>{item.Group}</span>
+                )}
+              </List.Item>
+            );
+          } else if ('FacultyName' in item) {
+            return (
+              <List.Item key={item.IdFaculty}>
+                <Link to={`${item.IdFaculty}/`}>{item.FacultyName}</Link>
+              </List.Item>
+            );
+          } else
+            throw new Error(
+              'Unknown data format (ot IGroupOld nor IFacultyOld)'
+            );
+        }}
       />
     </>
   );
 }
 
-interface ListProps {
-  promise: Promise<IItem[]>;
+interface UniversalListContainerProps {
+  promise: Promise<Items>;
   title: string;
-  fieldNames: FieldNames;
 }
 
-function MyList(props: ListProps) {
-  const [items, setItems] = useState<IItem[]>([]);
+function UniversalListContainer(props: UniversalListContainerProps) {
+  const [items, setItems] = useState<Items>([]);
   const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
@@ -86,21 +95,15 @@ function MyList(props: ListProps) {
   }, [props.promise]);
 
   return (
-    <UniversalList
-      title={props.title}
-      items={items}
-      loading={loading}
-      fieldNames={props.fieldNames}
-    />
+    <UniversalListPL title={props.title} items={items} loading={loading} />
   );
 }
 
 function ListFaculties() {
   return (
-    <MyList
+    <UniversalListContainer
       promise={api.getFaculties()}
       title="Список факультетов"
-      fieldNames={{ label: 'FacultyName', value: 'IdFaculty' }}
     />
   );
 }
@@ -112,10 +115,9 @@ interface MatchParams {
 function ListGroups(props: RouteComponentProps<MatchParams>) {
   const facultyId = props.match.params.facultyId;
   return (
-    <MyList
+    <UniversalListContainer
       promise={api.getGroups(facultyId)}
       title="Список групп"
-      fieldNames={{ label: 'Group', value: 'IdGroup' }}
     />
   );
 }
