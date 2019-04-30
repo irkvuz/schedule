@@ -64,6 +64,8 @@ yarn start
 * [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration
 * [Ant Design](https://github.com/ant-design/ant-design) - an enterprise-class UI design language
 * [Travis CI](https://travis-ci.org/) - continuous integration service used to build and test software projects hosted at GitHub
+* [VS Code](https://github.com/Microsoft/vscode) - the best text editor in the universe
+* Animated screenshots recorded with [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - opensource tool that allows you to record a selected area of your screen, edit and save it as a gif or video
 
 
 ## Contacts
