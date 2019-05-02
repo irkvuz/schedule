@@ -15,7 +15,7 @@ export function findNearestDay({ week_number, weekday, schedule }: Params) {
   let parity = week_number % 2 === 0;
   // .map нужен, потому что .reduce может работать только с plain массивами
   let minWeekday = schedule
-    .map(v => v.WeekDay)
+    .map((v) => v.WeekDay)
     .reduce((min, nextWeekday, i) => {
       const lesson = schedule[i];
       if (lesson.Odd === 0 && nextWeekday < weekday) {

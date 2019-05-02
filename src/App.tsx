@@ -91,7 +91,7 @@ export default function App() {
                 href="https://vk.com/savinyurii"
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={event => {
+                onClick={(event) => {
                   if (isProduction) ym('reachGoal', 'click_vk');
                 }}
               >

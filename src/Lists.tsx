@@ -25,7 +25,7 @@ function UniversalListPL(props: UniversalListProps) {
     const searchValue = event.target.value;
     setSearchValue(searchValue);
   };
-  const itemsFiltred = items.filter(item => {
+  const itemsFiltred = items.filter((item) => {
     if ('Group' in item) return item.Group.match(new RegExp(searchValue, 'i'));
     if ('FacultyName' in item)
       return item.FacultyName.match(new RegExp(searchValue, 'i'));
@@ -44,7 +44,7 @@ function UniversalListPL(props: UniversalListProps) {
         dataSource={itemsFiltred}
         loading={loading}
         bordered
-        renderItem={item => {
+        renderItem={(item) => {
           if ('Group' in item) {
             return (
               <List.Item key={item.IdGroup}>

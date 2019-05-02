@@ -53,7 +53,7 @@ const columns: ColumnProps<ILessonOld>[] = [
     key: 'second',
     render: (text: any, record: ILessonOld, index: number) => {
       const lessonType =
-        LessonTypes.find(type => type.shortName === record.LessonType) ||
+        LessonTypes.find((type) => type.shortName === record.LessonType) ||
         LessonTypes[0];
       return (
         <>
@@ -153,7 +153,7 @@ function TabsWeekDays(props: Props) {
             className="Schedule"
             showHeader={false}
             pagination={false}
-            rowKey={r =>
+            rowKey={(r) =>
               r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
             }
           />

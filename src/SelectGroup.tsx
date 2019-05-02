@@ -19,23 +19,25 @@ function SelectGroup(props: Props) {
     setLoading(true);
     api
       .getFacultiesWithGroups()
-      .then(facultiesWithGroups => {
+      .then((facultiesWithGroups) => {
         setLoading(false);
         // TODO Это конечно костыль, но что поделаешь? По крайне мере так работает
         // потому что Cascader ожидает, что id будет строкой
-        let convertedFacultiesWithGroups = facultiesWithGroups.map(faculty => {
-          return {
-            ...faculty,
-            id: faculty.id.toString(),
-            groups: faculty.groups.map(group => ({
-              ...group,
-              id: group.id.toString(),
-            })),
-          };
-        });
+        let convertedFacultiesWithGroups = facultiesWithGroups.map(
+          (faculty) => {
+            return {
+              ...faculty,
+              id: faculty.id.toString(),
+              groups: faculty.groups.map((group) => ({
+                ...group,
+                id: group.id.toString(),
+              })),
+            };
+          }
+        );
         setOptions(convertedFacultiesWithGroups);
       })
-      .catch(error => {
+      .catch((error) => {
         setLoading(false);
         console.log(error);
       });
@@ -46,7 +48,9 @@ function SelectGroup(props: Props) {
     path: CascaderOptionType[],
     names: FilledFieldNamesType
   ) => {
-    return path.some(option => option.name.match(new RegExp(inputValue, 'i')));
+    return path.some((option) =>
+      option.name.match(new RegExp(inputValue, 'i'))
+    );
   };
 
   if (loading) return <Spin />;
