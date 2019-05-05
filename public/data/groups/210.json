@@ -116,7 +116,7 @@
     "Group": "ИC(9)-16-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17432,
@@ -193,7 +193,7 @@
     "Group": "ИС(11)-17-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17691,
