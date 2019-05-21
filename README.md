@@ -1,6 +1,7 @@
 # Schedule for Baikal State University students (Irkutsk)
 [![Build Status](https://travis-ci.org/irkvuz/schedule.svg?branch=master)](https://travis-ci.org/irkvuz/schedule)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Firkvuz%2Fschedule.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Firkvuz%2Fschedule?ref=badge_shield)
+[![Hits-of-Code](https://hitsofcode.com/github/irkvuz/schedule)](https://hitsofcode.com/view/github/irkvuz/schedule)
 
 This is [React.js](https://reactjs.org) based single page progressive web application. This application is designed from scratch by [Yury Savin](https://github.com/baitun).  
 
