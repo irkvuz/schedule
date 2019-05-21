@@ -9,7 +9,7 @@ App is available here: [http://bgu.irkvuz.ru](http://bgu.irkvuz.ru?from=gh)
 
 [![Desktop and Mobile](docs/screenshots/1/4.png)](https://bgu.irkvuz.ru?from=gh)
 
-На отдельной странице описал [какие цели я ставил перед сабой при разработке этого приложения](docs/GOALS.md).
+На отдельной странице описал [какие цели я ставил перед собой при разработке этого приложения](docs/GOALS.md).
 
 ## Features
 
