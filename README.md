@@ -13,8 +13,6 @@ App is available here: [http://bgu.irkvuz.ru](http://bgu.irkvuz.ru?from=gh)
 
 ## Features
 
-Есть так же [описание преимуществ на русском языке](docs/FEATURES.md)
-
 ### Fully Responsive
 
 Works well on both desktop and mobile, large screen and small screen.
