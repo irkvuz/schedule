@@ -27,6 +27,7 @@
     "typescript": "3.5.2"
   },
   "devDependencies": {
+    "@testing-library/react": "^8.0.4",
     "@types/progress": "2.0.3",
     "gh-pages": "2.0.1",
     "husky": "3.0.0",
