@@ -78,7 +78,7 @@ const columns: ColumnProps<ILessonOld>[] = [
 
 interface Props {
   loading: boolean;
-  schedule: ILessonOld[];
+  schedule?: ILessonOld[];
   week_number: number;
 }
 
@@ -105,6 +105,7 @@ function TabsWeekDays(props: Props) {
   }, []);
 
   useEffect(() => {
+    if (props.schedule === undefined) return;
     const { minWeekday, parity } = findNearestDay({
       // +15 - костыль для второго триместра 2019 (потому что отчёт должен вестись с начала года, а не с начала семестра)
       week_number: props.week_number + 15,
