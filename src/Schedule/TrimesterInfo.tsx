@@ -15,6 +15,7 @@ export default function TrimesterInfo(props: Props) {
   const week_number = today.diff(dateStart.startOf('week'), 'week') + 1;
   const week_total = dateFinish.diff(dateStart, 'week');
 
+  /** Short for dates */
   const d = {
     today: today.valueOf(),
     start: dateStart.valueOf(),

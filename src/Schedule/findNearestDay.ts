@@ -43,6 +43,5 @@ export function findNearestDay({ week_number, weekday, schedule }: Params) {
     minWeekday -= 7;
     parity = !parity;
   }
-  console.log({ week_number, weekday, minWeekday, parity });
   return { minWeekday, parity };
 }

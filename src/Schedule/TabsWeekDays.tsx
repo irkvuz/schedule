@@ -78,7 +78,7 @@ const columns: ColumnProps<ILessonOld>[] = [
 
 interface Props {
   loading: boolean;
-  schedule: ILessonOld[];
+  schedule?: ILessonOld[];
   week_number: number;
 }
 
@@ -105,6 +105,7 @@ function TabsWeekDays(props: Props) {
   }, []);
 
   useEffect(() => {
+    if (props.schedule === undefined) return;
     const { minWeekday, parity } = findNearestDay({
       // +15 - костыль для второго триместра 2019 (потому что отчёт должен вестись с начала года, а не с начала семестра)
       week_number: props.week_number + 15,
@@ -120,7 +121,7 @@ function TabsWeekDays(props: Props) {
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
-  if (props.loading) return <Spin />;
+  if (props.loading) return <Spin data-testid="loading-spinner" />;
 
   let weekdays: IWeekDay[] = [];
 
@@ -131,39 +132,41 @@ function TabsWeekDays(props: Props) {
     };
   }
 
-  if (!props.schedule || props.schedule.length <= 1)
+  if (!props.schedule || props.schedule.length <= 1) {
     return <div>К сожалению, для этой группы нет расписания</div>;
+  }
 
   for (let s of props.schedule) {
     if (
       !s.Error &&
       (s.Odd === 0 || (parity && s.Odd === 2) || (!parity && s.Odd === 1))
-    )
+    ) {
       weekdays[s.WeekDay].lessons.push(s);
+    }
   }
 
   const tabsContent = weekdays.map((weekday, i) => {
-    if (weekday.lessons.length > 0)
-      return (
-        <TabPane tab={weekday.name} key={String(i)}>
-          <Table
-            dataSource={weekday.lessons}
-            columns={columns}
-            size="small"
-            className="Schedule"
-            showHeader={false}
-            pagination={false}
-            rowKey={(r) =>
-              r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
-            }
-          />
-        </TabPane>
-      );
-    else return null;
+    if (weekday.lessons.length === 0) return null;
+    return (
+      <TabPane tab={weekday.name} key={String(i)}>
+        <Table
+          dataSource={weekday.lessons}
+          columns={columns}
+          size="small"
+          className="Schedule"
+          showHeader={false}
+          pagination={false}
+          rowKey={(r) =>
+            r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
+          }
+        />
+      </TabPane>
+    );
   });
 
   return (
     <>
+      {/* TODO This block should be moved to it's own component `WeekParitySwitcher` */}
       <div className="switch-parity">
         Показать неделю: &nbsp;
         <Switch
@@ -171,6 +174,7 @@ function TabsWeekDays(props: Props) {
           unCheckedChildren="н"
           checked={parity}
           onChange={handleParityChange}
+          data-testid="week-parity-switcher"
         />
       </div>
       <Tabs

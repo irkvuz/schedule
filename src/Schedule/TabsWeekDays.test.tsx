@@ -1,0 +1,27 @@
+import React from 'react';
+import { render, cleanup, fireEvent } from '@testing-library/react';
+import TabsWeekDays from './TabsWeekDays';
+
+afterEach(cleanup);
+
+describe('<TabsWeekDays/>', () => {
+  test('Return spinner if `loading` is true', () => {
+    const wrapper = render(
+      <TabsWeekDays loading={true} schedule={[]} week_number={1} />
+    );
+    const loadingSpinner = wrapper.getByTestId('loading-spinner');
+    expect(loadingSpinner.className).toContain('ant-spin');
+  });
+
+  test('Parity switcher switch parity between `odd` and `even`', () => {
+    const schedule = require('../../public/data/schedule/1069/17854.json');
+    const wrapper = render(
+      <TabsWeekDays loading={false} schedule={schedule} week_number={1} />
+    );
+    // wrapper.debug();
+    const weekParitySwitcher = wrapper.getByTestId('week-parity-switcher');
+    expect(weekParitySwitcher.textContent).toBe('н');
+    fireEvent.click(weekParitySwitcher);
+    expect(weekParitySwitcher.textContent).toBe('ч');
+  });
+});

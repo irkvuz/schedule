@@ -27,14 +27,16 @@ function UniversalListPL(props: UniversalListProps) {
   };
   const itemsFiltred = items.filter((item) => {
     if ('Group' in item) return item.Group.match(new RegExp(searchValue, 'i'));
-    if ('FacultyName' in item)
+    if ('FacultyName' in item) {
       return item.FacultyName.match(new RegExp(searchValue, 'i'));
+    }
     throw new Error('Unknown data format (ot IGroupOld nor IFacultyOld)');
   });
   return (
     <>
       <h2>{title}</h2>
       <Input.Search
+        data-testid="input-search"
         onChange={handleSearch}
         placeholder="Начните вводить название..."
       />
@@ -61,10 +63,11 @@ function UniversalListPL(props: UniversalListProps) {
                 <Link to={`${item.IdFaculty}/`}>{item.FacultyName}</Link>
               </List.Item>
             );
-          } else
+          } else {
             throw new Error(
               'Unknown data format (ot IGroupOld nor IFacultyOld)'
             );
+          }
         }}
       />
     </>
@@ -122,4 +125,4 @@ function ListGroups(props: RouteComponentProps<MatchParams>) {
   );
 }
 
-export { ListFaculties, ListGroups };
+export { ListFaculties, ListGroups, UniversalListPL };
