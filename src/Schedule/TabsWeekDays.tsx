@@ -121,7 +121,7 @@ function TabsWeekDays(props: Props) {
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
-  if (props.loading) return <Spin />;
+  if (props.loading) return <Spin data-testid="loading-spinner" />;
 
   let weekdays: IWeekDay[] = [];
 
@@ -166,6 +166,7 @@ function TabsWeekDays(props: Props) {
 
   return (
     <>
+      {/* TODO This block should be moved to it's own component `WeekParitySwitcher` */}
       <div className="switch-parity">
         Показать неделю: &nbsp;
         <Switch
@@ -173,6 +174,7 @@ function TabsWeekDays(props: Props) {
           unCheckedChildren="н"
           checked={parity}
           onChange={handleParityChange}
+          data-testid="week-parity-switcher"
         />
       </div>
       <Tabs

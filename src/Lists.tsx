@@ -36,6 +36,7 @@ function UniversalListPL(props: UniversalListProps) {
     <>
       <h2>{title}</h2>
       <Input.Search
+        data-testid="input-search"
         onChange={handleSearch}
         placeholder="Начните вводить название..."
       />
@@ -124,4 +125,4 @@ function ListGroups(props: RouteComponentProps<MatchParams>) {
   );
 }
 
-export { ListFaculties, ListGroups };
+export { ListFaculties, ListGroups, UniversalListPL };
