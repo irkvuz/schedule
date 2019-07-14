@@ -75,11 +75,11 @@ export default function App() {
                     const facultyId = localStorage['facultyId'];
                     const groupId = localStorage['groupId'];
                     const postfix = props.location.search + props.location.hash;
-                    if (facultyId && groupId)
+                    if (facultyId && groupId) {
                       return (
                         <Redirect to={`/${facultyId}/${groupId}${postfix}`} />
                       );
-                    else return <Redirect to={'/faculties' + postfix} />;
+                    } else return <Redirect to={'/faculties' + postfix} />;
                   }}
                 />
               </Switch>

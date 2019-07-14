@@ -27,8 +27,9 @@ function UniversalListPL(props: UniversalListProps) {
   };
   const itemsFiltred = items.filter((item) => {
     if ('Group' in item) return item.Group.match(new RegExp(searchValue, 'i'));
-    if ('FacultyName' in item)
+    if ('FacultyName' in item) {
       return item.FacultyName.match(new RegExp(searchValue, 'i'));
+    }
     throw new Error('Unknown data format (ot IGroupOld nor IFacultyOld)');
   });
   return (
@@ -61,10 +62,11 @@ function UniversalListPL(props: UniversalListProps) {
                 <Link to={`${item.IdFaculty}/`}>{item.FacultyName}</Link>
               </List.Item>
             );
-          } else
+          } else {
             throw new Error(
               'Unknown data format (ot IGroupOld nor IFacultyOld)'
             );
+          }
         }}
       />
     </>

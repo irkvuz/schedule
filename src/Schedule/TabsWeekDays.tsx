@@ -132,35 +132,36 @@ function TabsWeekDays(props: Props) {
     };
   }
 
-  if (!props.schedule || props.schedule.length <= 1)
+  if (!props.schedule || props.schedule.length <= 1) {
     return <div>К сожалению, для этой группы нет расписания</div>;
+  }
 
   for (let s of props.schedule) {
     if (
       !s.Error &&
       (s.Odd === 0 || (parity && s.Odd === 2) || (!parity && s.Odd === 1))
-    )
+    ) {
       weekdays[s.WeekDay].lessons.push(s);
+    }
   }
 
   const tabsContent = weekdays.map((weekday, i) => {
-    if (weekday.lessons.length > 0)
-      return (
-        <TabPane tab={weekday.name} key={String(i)}>
-          <Table
-            dataSource={weekday.lessons}
-            columns={columns}
-            size="small"
-            className="Schedule"
-            showHeader={false}
-            pagination={false}
-            rowKey={(r) =>
-              r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
-            }
-          />
-        </TabPane>
-      );
-    else return null;
+    if (weekday.lessons.length === 0) return null;
+    return (
+      <TabPane tab={weekday.name} key={String(i)}>
+        <Table
+          dataSource={weekday.lessons}
+          columns={columns}
+          size="small"
+          className="Schedule"
+          showHeader={false}
+          pagination={false}
+          rowKey={(r) =>
+            r.WeekDay + r.StartTime + r.Odd + r.Lesson + r.LessonType + r.FIO
+          }
+        />
+      </TabPane>
+    );
   });
 
   return (
