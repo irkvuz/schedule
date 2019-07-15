@@ -20,8 +20,8 @@ describe('<TabsWeekDays/>', () => {
     );
     // wrapper.debug();
     const weekParitySwitcher = wrapper.getByTestId('week-parity-switcher');
-    expect(weekParitySwitcher.textContent).toBe('н');
+    const textBeforeClick = weekParitySwitcher.textContent;
     fireEvent.click(weekParitySwitcher);
-    expect(weekParitySwitcher.textContent).toBe('ч');
+    expect(weekParitySwitcher.textContent).not.toBe(textBeforeClick);
   });
 });
