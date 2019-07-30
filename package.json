@@ -46,7 +46,8 @@
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
     "serve": "serve -s build",
-    "pretest": "eslint src/ --ext .js,.jsx,.ts,.tsx",
+    "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
+    "pretest": "yarn lint",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts"
