@@ -1,11 +1,14 @@
-import { LocaleProvider } from 'antd';
-import ru_RU from 'antd/lib/locale-provider/ru_RU';
+import { ConfigProvider } from 'antd';
+import ru_RU from 'antd/lib/locale/ru_RU';
 import { Action, createBrowserHistory, Location } from 'history';
 import { Main } from 'Main';
+import moment from 'moment';
 import 'moment/locale/ru';
 import React from 'react';
 import { Router } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
+
+moment.locale('ru');
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -46,11 +49,11 @@ export default function App() {
           version="2"
         />
       )}
-      <LocaleProvider locale={ru_RU}>
+      <ConfigProvider locale={ru_RU}>
         <Router history={browserHistory}>
           <Main isProduction={isProduction} />
         </Router>
-      </LocaleProvider>
+      </ConfigProvider>
     </>
   );
 }
