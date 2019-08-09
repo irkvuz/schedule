@@ -1,12 +1,11 @@
-import { LocaleProvider, Menu } from 'antd';
+import { LocaleProvider } from 'antd';
 import ru_RU from 'antd/lib/locale-provider/ru_RU';
 import { Action, createBrowserHistory, Location } from 'history';
+import { Main } from 'Main';
 import 'moment/locale/ru';
 import React from 'react';
-import { Link, Redirect, Route, Router, Switch } from 'react-router-dom';
+import { Router } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
-import { ListFaculties, ListGroups } from './Lists';
-import Schedule from './Schedule/Schedule';
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -49,56 +48,7 @@ export default function App() {
       )}
       <LocaleProvider locale={ru_RU}>
         <Router history={browserHistory}>
-          <>
-            <header>
-              <Menu mode="horizontal" theme="dark">
-                <Menu.Item>
-                  <Link to="/faculties">Расписание БГУ</Link>
-                </Menu.Item>
-                {/* <Menu.Item>
-                  <Link to="/about">Об авторе</Link>
-                </Menu.Item> */}
-              </Menu>
-            </header>
-
-            <div className="content-wrapper">
-              <Switch>
-                <Route
-                  path="/:facultyId(\d+)/:groupId(\d+)"
-                  component={Schedule}
-                />
-                <Route path="/:facultyId(\d+)" component={ListGroups} />
-                <Route path="/faculties" component={ListFaculties} />
-                <Route
-                  path="/"
-                  render={(props: any) => {
-                    const facultyId = localStorage['facultyId'];
-                    const groupId = localStorage['groupId'];
-                    const postfix = props.location.search + props.location.hash;
-                    if (facultyId && groupId) {
-                      return (
-                        <Redirect to={`/${facultyId}/${groupId}${postfix}`} />
-                      );
-                    } else return <Redirect to={'/faculties' + postfix} />;
-                  }}
-                />
-              </Switch>
-            </div>
-
-            <footer>
-              Сделано с ❤{' '}
-              <a
-                href="https://vk.com/savinyurii"
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={(event) => {
-                  if (isProduction) ym('reachGoal', 'click_vk');
-                }}
-              >
-                в Иркутске
-              </a>
-            </footer>
-          </>
+          <Main isProduction={isProduction} />
         </Router>
       </LocaleProvider>
     </>
