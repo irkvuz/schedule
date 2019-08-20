@@ -63,7 +63,7 @@ function SelectGroup(props: Props) {
       size="large"
       defaultValue={[props.facultyId, props.groupId]}
       fieldNames={{ label: 'name', value: 'id', children: 'groups' }}
-      showSearch={{ filter: false ? filter : undefined }}
+      showSearch={{ filter: filter }}
     />
   );
 }
