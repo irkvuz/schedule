@@ -83,9 +83,6 @@ interface ILessonOld {
 const s: ILessonOld[] = require('./public/data/schedule/1069/17339.json');
 
 let day: Day | null = null;
-// let days: Day[] = [];
-let lesson: Lesson | null = null;
-let lessons: Lesson[];
 
 let schedule = new Schedule('ММен-17');
 
@@ -98,9 +95,9 @@ for (let i = 0; i < s.length; i++) {
     if (schedule.days[d].lessons) {
       let l0 = schedule.days[d].lessons[0];
       if (
-        l0.time_start == s[i].StartTime &&
-        l0.parity == s[i].Odd &&
-        l0.subject == s[i].Lesson
+        l0.time_start === s[i].StartTime &&
+        l0.parity === s[i].Odd &&
+        l0.subject === s[i].Lesson
       ) {
       }
     }
