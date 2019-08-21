@@ -1,6 +1,6 @@
 {
   "name": "bgu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Schedule of Baikal Stete University",
   "main": "src/index.js",
   "repository": "https://github.com/irkvuz/bgu.git",
@@ -40,6 +40,7 @@
     "ts-node": "8.3.0"
   },
   "scripts": {
+    "next": "yarn version --patch",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "yarn build",
