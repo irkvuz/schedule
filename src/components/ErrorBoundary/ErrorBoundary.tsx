@@ -1,4 +1,5 @@
 import React from 'react';
+import * as Sentry from '@sentry/browser';
 
 type Props = {};
 type State = {
@@ -19,6 +20,7 @@ export class ErrorBoundary extends React.Component<Props> {
       errorInfo: errorInfo,
     });
     // You can also log error messages to an error reporting service here
+    Sentry.captureException(error);
   }
 
   render() {
