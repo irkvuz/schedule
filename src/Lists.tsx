@@ -103,6 +103,10 @@ function UniversalListContainer(props: UniversalListContainerProps) {
 }
 
 function ListFaculties() {
+  if (document.location.search === '?throwError') {
+    throw new Error('ListFaculties throw some error!!1');
+  }
+
   return (
     <UniversalListContainer
       promise={api.getFaculties()}
