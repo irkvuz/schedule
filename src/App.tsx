@@ -7,6 +7,7 @@ import 'moment/locale/ru';
 import React from 'react';
 import { Router } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
+import { ErrorBoundary } from 'components/ErrorBoundary/ErrorBoundary';
 
 moment.locale('ru');
 
@@ -36,7 +37,7 @@ browserHistory.listen((location: Location, action: Action) => {
 
 export default function App() {
   return (
-    <>
+    <ErrorBoundary>
       {/* счетчик нужно инициализировать в начале а не в конце, иначе возникает ошибка при редиректе */}
       {isProduction && (
         <YMInitializer
@@ -54,6 +55,6 @@ export default function App() {
           <Main isProduction={isProduction} />
         </Router>
       </ConfigProvider>
-    </>
+    </ErrorBoundary>
   );
 }
