@@ -51,7 +51,8 @@
     "pretest": "yarn lint",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts"
+    "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts",
+    "findTrimesterId": "ts-node --project scripts/tsconfig.json scripts/findTrimesterId.ts"
   },
   "browserslist": {
     "production": [
