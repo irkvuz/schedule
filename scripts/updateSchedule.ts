@@ -7,6 +7,9 @@ import ProgressBar from 'progress';
 import { Faculty, Group } from './types';
 import api from './api';
 
+const TRIMESTER_ID_1 = 1117;
+const TRIMESTER_ID_2 = 1141;
+
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
 };
@@ -18,7 +21,7 @@ const json2file = (path: string, obj: any) => {
     // let trimesterId = trimesters[0].IdTrimester;
     // json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
     // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
-    let trimesterId = 1108;
+    let trimesterId = TRIMESTER_ID_1;
     let dirSchedule = `./public/data/schedule/${trimesterId}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
@@ -40,7 +43,7 @@ const json2file = (path: string, obj: any) => {
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         groups[i].hasSchedule = schedule.length > 1;
         if (schedule.length <= 1) {
-          schedule = await api.getSchedule(g.IdGroup, 1108);
+          schedule = await api.getSchedule(g.IdGroup, TRIMESTER_ID_2);
           groups[i].hasSchedule = schedule.length > 1;
         }
         if (groups[i].hasSchedule) {
