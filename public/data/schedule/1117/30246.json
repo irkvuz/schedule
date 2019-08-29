@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-402",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Высшая математика",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Высшая математика",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Колодин Виктор Семенович",
+    "FIOshort": "Колодин В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Колодин Виктор Семенович",
+    "FIOshort": "Колодин В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  }
+]

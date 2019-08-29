@@ -1,0 +1,123 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Казачкова Ольга Павловна",
+    "FIOshort": "Казачкова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-309",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-308",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Казачкова Ольга Павловна",
+    "FIOshort": "Казачкова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "География туризма",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация туристской индустрии",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  }
+]
