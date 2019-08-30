@@ -130,14 +130,14 @@
     "Group": "ИC(9)-19-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30470,
     "Group": "ИC(9)-19-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 18172,

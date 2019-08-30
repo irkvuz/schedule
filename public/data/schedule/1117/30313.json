@@ -110,6 +110,28 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Международная торговля",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Окромчедлидзе Наталья Геннадьевна",
+    "FIOshort": "Окромчедлидзе Н.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Международная торговля",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Эпова Наталья Рудольфовна",
+    "FIOshort": "Эпова Н.Р.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "19:15",
     "Odd": 2,

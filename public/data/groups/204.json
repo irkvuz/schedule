@@ -39,7 +39,7 @@
     "Group": "ГС(9)-19-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17679,
@@ -242,7 +242,7 @@
     "Group": "МО-18-3",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30227,
@@ -319,7 +319,7 @@
     "Group": "МЭК-18-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30229,
@@ -515,7 +515,7 @@
     "Group": "Т(9)-19-4",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17936,
@@ -697,7 +697,7 @@
     "Group": "ЭБ-16-4",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17204,

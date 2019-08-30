@@ -102,14 +102,14 @@
     "Group": "БУ(11)-19-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30485,
     "Group": "БУ(11)-19-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17447,
@@ -123,7 +123,7 @@
     "Group": "БУ(9)-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30364,
@@ -235,7 +235,7 @@
     "Group": "ДОУ(9)-19-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16733,

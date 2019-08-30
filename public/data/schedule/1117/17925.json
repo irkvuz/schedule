@@ -66,45 +66,45 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
+    "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 1,
     "Lesson": "Структура и типология экономических коммуникаций ",
     "LessonType": "л",
-    "Room": "2-209",
+    "Room": "1-210",
     "FIO": "Трофимова Татьяна Ивановна",
     "FIOshort": "Трофимова Т.И.",
     "Error": null
   },
   {
-    "WeekDay": 4,
+    "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Медиамаркетинг",
     "LessonType": "л",
-    "Room": "2-209",
+    "Room": "1-210",
     "FIO": "Трофимова Татьяна Ивановна",
     "FIOshort": "Трофимова Т.И.",
     "Error": null
   },
   {
-    "WeekDay": 4,
+    "WeekDay": 3,
     "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Структура и типология экономических коммуникаций ",
     "LessonType": "пр",
-    "Room": "2-209",
+    "Room": "1-210",
     "FIO": "Трофимова Татьяна Ивановна",
     "FIOshort": "Трофимова Т.И.",
     "Error": null
   },
   {
-    "WeekDay": 4,
+    "WeekDay": 3,
     "StartTime": "19:15",
     "Odd": 2,
     "Lesson": "Медиамаркетинг",
     "LessonType": "пр",
-    "Room": "2-209",
+    "Room": "1-210",
     "FIO": "Трофимова Татьяна Ивановна",
     "FIOshort": "Трофимова Т.И.",
     "Error": null

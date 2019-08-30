@@ -1,0 +1,24 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "",
+    "LessonType": "л",
+    "Room": "11-403",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  }
+]
