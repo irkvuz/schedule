@@ -52,6 +52,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts",
+    "commitSchedule": "git add public/data/ && git commit -m 'Update schedule'",
     "findTrimesterId": "ts-node --project scripts/tsconfig.json scripts/findTrimesterId.ts"
   },
   "browserslist": {
