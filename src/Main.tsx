@@ -45,7 +45,7 @@ export const Main: React.FC<Props> = ({ isProduction }) => {
       <footer>
         Сделано с ❤{' '}
         <a
-          href="https://vk.com/savinyurii"
+          href="https://vk.com/irkvuz"
           target="_blank"
           rel="noopener noreferrer"
           onClick={(event) => {
