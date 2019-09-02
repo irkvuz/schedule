@@ -25,7 +25,7 @@ const isInStandaloneMode = (): boolean => {
 };
 
 if (isIos() && isInStandaloneMode()) {
-  if (isProduction) ym('reachGoal', 'standalone');
+//   if (isProduction) ym('reachGoal', 'standalone');
 }
 
 const browserHistory = createBrowserHistory();
