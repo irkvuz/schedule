@@ -88,25 +88,14 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "12:00",
+    "WeekDay": 4,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Мерчендайзинг",
     "LessonType": "л",
     "Room": "3-903",
     "FIO": "Рыженков Алексей Геннадьевич",
     "FIOshort": "Рыженков А.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Управление конфликтами и ведение переговоров",
-    "LessonType": "л",
-    "Room": "3-602",
-    "FIO": "Баева Ольга Николаевна",
-    "FIOshort": "Баева О.Н.",
     "Error": null
   },
   {
@@ -118,6 +107,17 @@
     "Room": "3-603",
     "FIO": "Баганов Валерий Юрьевич",
     "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление конфликтами и ведение переговоров",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Баева Ольга Николаевна",
+    "FIOshort": "Баева О.Н.",
     "Error": null
   },
   {

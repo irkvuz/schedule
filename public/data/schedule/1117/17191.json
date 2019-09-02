@@ -5,17 +5,6 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "1-415",
-    "FIO": "Шитикова Юлия Александровна",
-    "FIOshort": "Шитикова Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
     "Room": "1-203",
     "FIO": "Юй Чанъэ",
     "FIOshort": "Юй Ч.",
@@ -41,17 +30,6 @@
     "Room": "1-401",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-415",
-    "FIO": "Шитикова Юлия Александровна",
-    "FIOshort": "Шитикова Ю.А.",
     "Error": null
   },
   {
@@ -155,17 +133,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-212",
-    "FIO": "Юй Чанъэ",
-    "FIOshort": "Юй Ч.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
@@ -198,23 +165,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-212",
-    "FIO": "Юй Чанъэ",
-    "FIOshort": "Юй Ч.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-210",
     "FIO": "Шитикова Юлия Александровна",
     "FIOshort": "Шитикова Ю.А.",
     "Error": null
@@ -222,10 +178,10 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "2-316",
+    "Room": "1-212",
     "FIO": "Юй Чанъэ",
     "FIOshort": "Юй Ч.",
     "Error": null
@@ -247,7 +203,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-414",
+    "Room": "1-307",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
     "Error": null
@@ -255,10 +211,10 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "1-210",
+    "Room": "1-212",
     "FIO": "Шитикова Юлия Александровна",
     "FIOshort": "Шитикова Ю.А.",
     "Error": null
@@ -266,10 +222,10 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "2-316",
+    "Room": "1-212",
     "FIO": "Юй Чанъэ",
     "FIOshort": "Юй Ч.",
     "Error": null

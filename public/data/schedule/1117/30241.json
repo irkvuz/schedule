@@ -33,12 +33,12 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "17:30",
+    "WeekDay": 3,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-207",
+    "Room": "1-402",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null

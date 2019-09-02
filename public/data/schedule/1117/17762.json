@@ -27,7 +27,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-417",
+    "Room": "1-307",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -55,28 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "5-514",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "5-514",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 2,
@@ -93,7 +71,7 @@
     "Odd": 1,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-413",
+    "Room": "1-303",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
     "Error": null
@@ -155,46 +133,24 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "6-308",
-    "FIO": "Сю Василий",
-    "FIOshort": "Сю В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "6-308",
-    "FIO": "Сю Василий",
-    "FIOshort": "Сю В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "5-314",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "5-314",
+    "Room": "1-212",
     "FIO": "Ван Сяомэй",
     "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Сю Василий",
+    "FIOshort": "Сю В.",
     "Error": null
   },
   {
@@ -203,7 +159,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-420",
+    "Room": "1-303",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
     "Error": null
@@ -214,7 +170,7 @@
     "Odd": 0,
     "Lesson": "Мировая экономика",
     "LessonType": "л",
-    "Room": "2-411",
+    "Room": "4-403",
     "FIO": "Рощупкина Елена Викторовна",
     "FIOshort": "Рощупкина Е.В.",
     "Error": null
@@ -253,36 +209,14 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-204",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-204",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "10-304",
-    "FIO": "Сю Василий",
-    "FIOshort": "Сю В.",
+    "Room": "10-204",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
     "Error": null
   },
   {
@@ -291,7 +225,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "10-304",
+    "Room": "10-204",
     "FIO": "Сю Василий",
     "FIOshort": "Сю В.",
     "Error": null

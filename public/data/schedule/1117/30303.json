@@ -1,5 +1,27 @@
 [
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Медиапроектирование",
+    "LessonType": "л",
+    "Room": "1-207",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Медиапроектирование",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 1,
@@ -35,29 +57,7 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Новейшая литература",
-    "LessonType": "пр",
-    "Room": "1-212",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
     "Odd": 2,
-    "Lesson": "Медиапроектирование",
-    "LessonType": "л",
-    "Room": "1-212",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 1,
     "Lesson": "Новейшая литература",
     "LessonType": "пр",
     "Room": "1-212",
@@ -69,7 +69,7 @@
     "WeekDay": 4,
     "StartTime": "19:15",
     "Odd": 2,
-    "Lesson": "Медиапроектирование",
+    "Lesson": "Новейшая литература",
     "LessonType": "пр",
     "Room": "1-212",
     "FIO": "Антипина Елена Сергеевна",

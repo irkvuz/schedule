@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -173,17 +184,6 @@
     "Room": "3-904",
     "FIO": "Баева Ольга Николаевна",
     "FIOshort": "Баева О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (второй)",
-    "LessonType": "пр",
-    "Room": "1-207",
-    "FIO": "Шитикова Юлия Александровна",
-    "FIOshort": "Шитикова Ю.А.",
     "Error": null
   },
   {

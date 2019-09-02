@@ -12,6 +12,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
@@ -39,17 +50,6 @@
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-207",
-    "FIO": "Луц Светлана Сергеевна",
-    "FIOshort": "Луц С.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-402",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
