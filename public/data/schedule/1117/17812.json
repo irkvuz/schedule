@@ -100,13 +100,35 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Базарова Норджюна Жаргаловна",
+    "FIOshort": "Базарова Н.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-211",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "FIO": "Базарова Норджюна Жаргаловна",
+    "FIOshort": "Базарова Н.Ж.",
     "Error": null
   },
   {
@@ -116,30 +138,8 @@
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-104",
-    "FIO": "Базарова Норджюна Жаргаловна",
-    "FIOshort": "Базарова Н.Ж.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "10-305",
     "FIO": "Ван Сяомэй",
     "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "10-204",
-    "FIO": "Базарова Норджюна Жаргаловна",
-    "FIOshort": "Базарова Н.Ж.",
     "Error": null
   },
   {

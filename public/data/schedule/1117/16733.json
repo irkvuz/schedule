@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (восточные языки)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Шалунова Мария Юрьевна",
+    "FIOshort": "Шалунова М.Ю.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -132,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2 для делового общения",
-    "LessonType": "пр",
-    "Room": "1-414",
-    "FIO": "Шалунова Мария Юрьевна",
-    "FIOshort": "Шалунова М.Ю.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -159,7 +159,7 @@
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "л",
-    "Room": "3-904",
+    "Room": "3-603",
     "FIO": "Григорьев Андрей Владимирович",
     "FIOshort": "Григорьев А.В.",
     "Error": null
@@ -170,7 +170,7 @@
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "пр",
-    "Room": "3-904",
+    "Room": "3-603",
     "FIO": "Григорьев Андрей Владимирович",
     "FIOshort": "Григорьев А.В.",
     "Error": null

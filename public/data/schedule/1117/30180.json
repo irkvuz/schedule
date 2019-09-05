@@ -3,33 +3,55 @@
     "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Теория и история дипломатии",
+    "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "1-310",
-    "FIO": "Лапыренок Роман Викторович",
-    "FIOshort": "Лапыренок Р.В.",
+    "Room": "1-419",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-211",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-211",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
     "Error": null
   },
   {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 1,
-    "Lesson": "Мировая экономика",
+    "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "2-316",
-    "FIO": "Рощупкина Елена Викторовна",
-    "FIOshort": "Рощупкина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Теория и история дипломатии",
-    "LessonType": "л",
-    "Room": "4-303",
-    "FIO": "Лапыренок Роман Викторович",
-    "FIOshort": "Лапыренок Р.В.",
+    "Room": "1-211",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
     "Error": null
   },
   {
@@ -74,6 +96,72 @@
     "Room": "2-217",
     "FIO": "Вахрушев Юрий Петрович",
     "FIOshort": "Вахрушев Ю.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория и история дипломатии",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Лапыренок Роман Викторович",
+    "FIOshort": "Лапыренок Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
     "Error": null
   },
   {
@@ -129,6 +217,39 @@
     "Room": "2-217",
     "FIO": "Цыкунов Григорий Александрович",
     "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
     "Error": null
   }
 ]

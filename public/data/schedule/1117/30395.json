@@ -35,6 +35,17 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "пр",
@@ -115,7 +126,7 @@
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "11-305",
+    "Room": "11-306",
     "FIO": "Карпова Ольга Разумовна",
     "FIOshort": "Карпова О.Р.",
     "Error": null
@@ -167,23 +178,12 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Астрономия",
     "LessonType": "пр",
     "Room": "11-005",
     "FIO": "Щербина Татьяна Анатольевна",
     "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-207",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {

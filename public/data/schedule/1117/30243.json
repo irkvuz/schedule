@@ -12,17 +12,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Правоведение",
@@ -60,7 +49,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-211",
+    "Room": "1-201",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -99,17 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "История",
-    "LessonType": "пр",
-    "Room": "5-514",
-    "FIO": "Майдачевский Дмитрий Ярославович",
-    "FIOshort": "Майдачевский Д.Я.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
@@ -140,6 +118,17 @@
     "Room": "5-513",
     "FIO": "Гусева Галина Викторовна",
     "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
     "Error": null
   },
   {

@@ -134,8 +134,19 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "12-408",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История",
     "LessonType": "пр",
     "Room": "12-408",
     "FIO": "Фомина Юлия Анатольевна",

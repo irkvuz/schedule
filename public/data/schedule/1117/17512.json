@@ -56,28 +56,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Социология",
-    "LessonType": "пр",
-    "Room": "4-205",
-    "FIO": "Соломеин Алексей Александрович",
-    "FIOshort": "Соломеин А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Социология",
-    "LessonType": "пр",
-    "Room": "4-205",
-    "FIO": "Соломеин Алексей Александрович",
-    "FIOshort": "Соломеин А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История экономических учений",
@@ -173,6 +151,28 @@
     "Room": "3-404",
     "FIO": "Мозулев Сергей Николаевич",
     "FIOshort": "Мозулев С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "5-513",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
     "Error": null
   }
 ]

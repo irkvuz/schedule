@@ -46,7 +46,7 @@
     "Group": "БД(9)-17-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17683,
@@ -575,10 +575,17 @@
   },
   {
     "IdGroup": 30410,
-    "Group": "Ф-16ф",
+    "Group": "Ф-16ф-1",
     "Course": 4,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30503,
+    "Group": "Ф-16ф-2",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
   },
   {
     "IdGroup": 17211,

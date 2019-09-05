@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Деньги, кредит, банки",
@@ -19,17 +30,6 @@
     "Room": "8-204",
     "FIO": "Степанова Марина Николаевна",
     "FIOshort": "Степанова М.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Деньги, кредит, банки",
-    "LessonType": "л",
-    "Room": "8-206",
-    "FIO": "Жилан Оксана Дмитриевна",
-    "FIOshort": "Жилан О.Д.",
     "Error": null
   },
   {
@@ -89,22 +89,22 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Эконометрика",
     "LessonType": "пр",
-    "Room": "2-106",
+    "Room": "3-407",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Эконометрика",
     "LessonType": "л",
-    "Room": "3-702",
+    "Room": "2-407",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null

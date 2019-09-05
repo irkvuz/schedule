@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Управление конфликтами и ведение переговоров",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Баева Ольга Николаевна",
+    "FIOshort": "Баева О.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -113,17 +124,6 @@
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 1,
-    "Lesson": "Управление конфликтами и ведение переговоров",
-    "LessonType": "л",
-    "Room": "3-603",
-    "FIO": "Баева Ольга Николаевна",
-    "FIOshort": "Баева О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 2,
     "Lesson": "Управление проектами",
     "LessonType": "пр",
     "Room": "3-603",

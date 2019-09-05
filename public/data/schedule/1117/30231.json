@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Психология личности и группы",
-    "LessonType": "пр",
-    "Room": "1-311",
-    "FIO": "Косяков Виталий Александрович",
-    "FIOshort": "Косяков В.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -144,35 +133,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Основы двустороннего устного перевода",
-    "LessonType": "пр",
-    "Room": "1-207",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "пр",
     "Room": "1-207",
     "FIO": "Торопов Виктор Дмитриевич",
     "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы двустороннего устного перевода",
+    "LessonType": "пр",
+    "Room": "1-203",
+    "FIO": "Косяков Виталий Александрович",
+    "FIOshort": "Косяков В.А.",
     "Error": null
   },
   {

@@ -67,7 +67,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Трудовой договор",
     "LessonType": "л",
@@ -78,7 +78,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Трудовой договор",
     "LessonType": "пр",

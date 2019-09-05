@@ -23,6 +23,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Мировая культура и искусство",
+    "LessonType": "л",
+    "Room": "1-104",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык (второй)",
@@ -52,17 +63,6 @@
     "Room": "2-402",
     "FIO": "Калинина Ирина Юрьевна",
     "FIOshort": "Калинина И.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Мировая культура и искусство",
-    "LessonType": "л",
-    "Room": "2-402",
-    "FIO": "Прохоренкова Светлана Александровна",
-    "FIOshort": "Прохоренкова С.А.",
     "Error": null
   },
   {
@@ -166,33 +166,33 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Маркетинг",
-    "LessonType": "л",
-    "Room": "1-211",
-    "FIO": "Шагина Екатерина Алексеевна",
-    "FIOshort": "Шагина Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Мировая культура и искусство",
     "LessonType": "пр",
-    "Room": "1-211",
+    "Room": "4-405",
     "FIO": "Прохоренкова Светлана Александровна",
     "FIOshort": "Прохоренкова С.А.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Маркетинг",
     "LessonType": "пр",
-    "Room": "1-211",
+    "Room": "4-405",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "4-405",
     "FIO": "Шагина Екатерина Алексеевна",
     "FIOshort": "Шагина Е.А.",
     "Error": null

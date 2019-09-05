@@ -45,10 +45,10 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Корпоративные финансы",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "2-416",
     "FIO": "Кислицына Лариса Викторовна",
     "FIOshort": "Кислицына Л.В.",
@@ -56,11 +56,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Корпоративные финансы",
-    "LessonType": "л",
-    "Room": "2-416",
+    "LessonType": "пр",
+    "Room": "2-414",
     "FIO": "Кислицына Лариса Викторовна",
     "FIOshort": "Кислицына Л.В.",
     "Error": null
