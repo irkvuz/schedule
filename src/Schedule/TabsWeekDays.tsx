@@ -107,8 +107,7 @@ function TabsWeekDays(props: Props) {
   useEffect(() => {
     if (props.schedule === undefined) return;
     const { minWeekday, parity } = findNearestDay({
-      // +15 - костыль для второго триместра 2019 (потому что отчёт должен вестись с начала года, а не с начала семестра)
-      week_number: props.week_number + 15,
+      week_number: props.week_number,
       weekday: moment().isoWeekday(),
       schedule: props.schedule,
     });
