@@ -5,7 +5,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "4-402",
+    "Room": "4-302",
     "FIO": "Черкашин Александр Витальевич",
     "FIOshort": "Черкашин А.В.",
     "Error": null
@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
-    "Room": "4-402",
+    "Room": "4-302",
     "FIO": "Тагаров Бато Жаргалович",
     "FIOshort": "Тагаров Б.Ж.",
     "Error": null
@@ -100,6 +100,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика в управлении",
@@ -133,13 +144,35 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-103",
     "FIO": "",
     "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

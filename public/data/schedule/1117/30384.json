@@ -46,7 +46,7 @@
   {
     "WeekDay": 2,
     "StartTime": "8:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "л",
     "Room": "11-112",
@@ -103,7 +103,7 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информатика",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "12-208",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
@@ -158,8 +158,8 @@
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "11-302",
+    "LessonType": "л",
+    "Room": "11-001",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
     "Error": null

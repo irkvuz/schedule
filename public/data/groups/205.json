@@ -585,7 +585,7 @@
     "Group": "Ф-16ф-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17211,

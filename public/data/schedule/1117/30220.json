@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Социология",
@@ -162,39 +173,6 @@
     "Room": "2-315",
     "FIO": "Мустафаева Лейла Шамистановна",
     "FIOshort": "Мустафаева Л.Ш.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-106",
-    "FIO": "Крючкова Ольга Александровна",
-    "FIOshort": "Крючкова О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Крючкова Ольга Александровна",
-    "FIOshort": "Крючкова О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Крючкова Ольга Александровна",
-    "FIOshort": "Крючкова О.А.",
     "Error": null
   }
 ]

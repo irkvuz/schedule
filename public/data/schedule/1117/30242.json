@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
@@ -99,8 +110,8 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
+    "WeekDay": 4,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Библиография",
     "LessonType": "пр",
@@ -113,11 +124,11 @@
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "3-509",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
     "Error": null
   },
   {
@@ -143,6 +154,28 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
@@ -162,17 +195,6 @@
     "Room": "4-412",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "2-209",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
     "Error": null
   }
 ]

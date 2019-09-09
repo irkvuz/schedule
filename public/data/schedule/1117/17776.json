@@ -111,22 +111,22 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Административное право",
-    "LessonType": "пр",
-    "Room": "5-215",
+    "LessonType": "л",
+    "Room": "5-303",
     "FIO": "Васильева Наталья Юрьевна",
     "FIOshort": "Васильева Н.Ю.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Административное право",
-    "LessonType": "л",
-    "Room": "5-303",
+    "LessonType": "пр",
+    "Room": "",
     "FIO": "Васильева Наталья Юрьевна",
     "FIOshort": "Васильева Н.Ю.",
     "Error": null

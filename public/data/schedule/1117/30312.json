@@ -68,7 +68,7 @@
   {
     "WeekDay": 3,
     "StartTime": "17:30",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Деловой иностранный язык",
     "LessonType": "пр",
     "Room": "1-402",
@@ -79,7 +79,7 @@
   {
     "WeekDay": 3,
     "StartTime": "19:15",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Деловой иностранный язык",
     "LessonType": "пр",
     "Room": "1-402",

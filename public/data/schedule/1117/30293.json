@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Китайский язык (курс по иероглифике)",
@@ -27,7 +38,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "4-402",
+    "Room": "4-302",
     "FIO": "Черкашин Александр Витальевич",
     "FIOshort": "Черкашин А.В.",
     "Error": null
@@ -38,7 +49,7 @@
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
-    "Room": "4-402",
+    "Room": "4-302",
     "FIO": "Тагаров Бато Жаргалович",
     "FIOshort": "Тагаров Б.Ж.",
     "Error": null
@@ -187,50 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-404",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -261,17 +228,6 @@
     "Room": "1-409",
     "FIO": "Сметанина Татьяна Витальевна",
     "FIOshort": "Сметанина Т.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   }
 ]

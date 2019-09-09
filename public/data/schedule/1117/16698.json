@@ -154,12 +154,23 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Международное частное право",
     "LessonType": "пр",
-    "Room": "5-502",
+    "Room": "5-513",
+    "FIO": "Сидорова Евгения Александровна",
+    "FIOshort": "Сидорова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Международное частное право",
+    "LessonType": "пр",
+    "Room": "5-513",
     "FIO": "Сидорова Евгения Александровна",
     "FIOshort": "Сидорова Е.А.",
     "Error": null

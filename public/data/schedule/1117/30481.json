@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "11-413",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Обществознание (включая экономику и право)",
@@ -71,7 +82,7 @@
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
-    "Room": "12-406",
+    "Room": "12-207",
     "FIO": "Макарова Лариса Вацлавовна",
     "FIOshort": "Макарова Л.В.",
     "Error": null
@@ -133,22 +144,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "География",
-    "LessonType": "л",
-    "Room": "12-305",
-    "FIO": "Мельникова Лариса Алексеевна",
-    "FIOshort": "Мельникова Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
-    "Room": "12-101",
+    "Room": "12-207",
     "FIO": "Макарова Лариса Вацлавовна",
     "FIOshort": "Макарова Л.В.",
     "Error": null

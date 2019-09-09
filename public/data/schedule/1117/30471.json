@@ -209,6 +209,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы алгоритмизации и программирования",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,

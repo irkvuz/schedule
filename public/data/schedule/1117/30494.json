@@ -147,21 +147,10 @@
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-304",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "",
-    "FIO": "",
-    "FIOshort": "",
+    "Room": "12-304",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
     "Error": null
   },
   {
@@ -195,6 +184,17 @@
     "Room": "12-305",
     "FIO": "Садиева Виктория Викторовна",
     "FIOshort": "Садиева В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-406",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
     "Error": null
   },
   {
