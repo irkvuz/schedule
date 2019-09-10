@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "10-302",
+    "FIO": "Дюг Анастасия Александровна",
+    "FIOshort": "Дюг А.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
@@ -217,17 +228,6 @@
     "Room": "3-702",
     "FIO": "Тимофеев Сергей Викторович",
     "FIOshort": "Тимофеев С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "10-205",
-    "FIO": "Дюг Анастасия Александровна",
-    "FIOshort": "Дюг А.А.",
     "Error": null
   }
 ]

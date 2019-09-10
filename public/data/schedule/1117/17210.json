@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Рынок ценных бумаг",
@@ -90,7 +101,7 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Рынок ценных бумаг",
     "LessonType": "л",
     "Room": "8-206",

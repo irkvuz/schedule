@@ -78,35 +78,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-404",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-404",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 1,
-    "Lesson": "Астрономия",
+    "Lesson": "Основы безопасности жизнедеятельности",
     "LessonType": "пр",
-    "Room": "12-308",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
+    "Room": "12-101",
+    "FIO": "Садиева Виктория Викторовна",
+    "FIOshort": "Садиева В.В.",
     "Error": null
   },
   {
@@ -144,17 +122,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-304",
-    "FIO": "Гомонова Ольга Михайловна",
-    "FIOshort": "Гомонова О.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Естествознание",
@@ -184,17 +151,6 @@
     "Room": "12-305",
     "FIO": "Садиева Виктория Викторовна",
     "FIOshort": "Садиева В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-406",
-    "FIO": "Гомонова Ольга Михайловна",
-    "FIOshort": "Гомонова О.М.",
     "Error": null
   },
   {

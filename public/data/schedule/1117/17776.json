@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "5-215",
+    "Room": "5-301",
     "FIO": "Немцева Анна Владимировна",
     "FIOshort": "Немцева А.В.",
     "Error": null
@@ -111,10 +111,10 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Административное право",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "5-303",
     "FIO": "Васильева Наталья Юрьевна",
     "FIOshort": "Васильева Н.Ю.",
@@ -122,11 +122,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Административное право",
-    "LessonType": "пр",
-    "Room": "",
+    "LessonType": "л",
+    "Room": "5-303",
     "FIO": "Васильева Наталья Юрьевна",
     "FIOshort": "Васильева Н.Ю.",
     "Error": null
