@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
@@ -88,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
@@ -118,6 +118,17 @@
     "Room": "1-309",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
     "Error": null
   },
   {

@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
@@ -63,17 +74,6 @@
     "Room": "2-208",
     "FIO": "Тагаров Бато Жаргалович",
     "FIOshort": "Тагаров Б.Ж.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {
@@ -107,6 +107,17 @@
     "Room": "2-215",
     "FIO": "Черкашин Александр Витальевич",
     "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
     "Error": null
   },
   {
@@ -154,6 +165,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -173,6 +195,17 @@
     "Room": "2-416",
     "FIO": "Зверева Ольга Юрьевна",
     "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
     "Error": null
   }
 ]

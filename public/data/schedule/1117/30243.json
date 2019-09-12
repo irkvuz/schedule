@@ -34,6 +34,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История",
@@ -184,6 +195,17 @@
     "Room": "4-412",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
     "Error": null
   }
 ]

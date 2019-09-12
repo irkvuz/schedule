@@ -200,7 +200,7 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Математика",
     "LessonType": "л",
     "Room": "12-302",

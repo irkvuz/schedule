@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
-    "LessonType": "пр",
-    "Room": "1-201",
-    "FIO": "Шабаева Сюзанна Валерьевна",
-    "FIOshort": "Шабаева С.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -49,7 +38,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-309",
+    "Room": "1-310",
     "FIO": "Семенова Ольга Фиофановна",
     "FIOshort": "Семенова О.Ф.",
     "Error": null
@@ -57,23 +46,45 @@
   {
     "WeekDay": 2,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Введение в специальность",
-    "LessonType": "пр",
-    "Room": "1-311",
+    "LessonType": "л",
+    "Room": "2-215",
     "FIO": "Башелханов Анатолий Юрьевич",
     "FIOshort": "Башелханов А.Ю.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-103",
     "FIO": "",
     "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
     "Error": null
   },
   {
@@ -127,19 +138,19 @@
     "Lesson": "Иностранный язык (китайский)",
     "LessonType": "пр",
     "Room": "10-204",
-    "FIO": "Шабаева Сюзанна Валерьевна",
-    "FIOshort": "Шабаева С.В.",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
     "Error": null
   },
   {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
+    "Lesson": "Китайский язык",
     "LessonType": "пр",
-    "Room": "1-204",
-    "FIO": "Шабаева Сюзанна Валерьевна",
-    "FIOshort": "Шабаева С.В.",
+    "Room": "10-205",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
     "Error": null
   },
   {
@@ -148,7 +159,7 @@
     "Odd": 0,
     "Lesson": "Введение в специальность",
     "LessonType": "л",
-    "Room": "1-210",
+    "Room": "4-211",
     "FIO": "Башелханов Анатолий Юрьевич",
     "FIOshort": "Башелханов А.Ю.",
     "Error": null
@@ -190,11 +201,11 @@
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
+    "Lesson": "Китайский язык",
     "LessonType": "пр",
     "Room": "10-204",
-    "FIO": "Шабаева Сюзанна Валерьевна",
-    "FIOshort": "Шабаева С.В.",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
     "Error": null
   }
 ]
