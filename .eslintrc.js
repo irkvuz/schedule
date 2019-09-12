@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'react-app',
+  extends: ['react-app'],
   rules: {
     curly: ['error', 'multi-line'],
   },
