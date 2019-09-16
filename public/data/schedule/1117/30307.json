@@ -2,12 +2,34 @@
   {
     "WeekDay": 1,
     "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Научные исследования в сфере социальной защиты населения",
     "LessonType": "пр",
     "Room": "2-112",
     "FIO": "Зимина Екатерина Викторовна",
     "FIOshort": "Зимина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {
@@ -118,6 +140,28 @@
     "Room": "1-309",
     "FIO": "Нефедьева Елена Ивановна",
     "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

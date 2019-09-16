@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "12-304",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История 1",

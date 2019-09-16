@@ -385,6 +385,20 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 17899,
+    "Group": "МТД-18-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30312,
+    "Group": "МТД-19-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 17858,
     "Group": "МУБ-18",
     "Course": 2,
@@ -469,6 +483,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30233,
+    "Group": "ПМЛ-19-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 16749,
     "Group": "РФф-16-1",
     "Course": 4,
@@ -485,6 +506,13 @@
   {
     "IdGroup": 17769,
     "Group": "РФф-18-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17936,
+    "Group": "ТБ-18-1",
     "Course": 2,
     "Error": null,
     "hasSchedule": true

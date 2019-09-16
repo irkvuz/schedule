@@ -152,5 +152,49 @@
     "FIO": "Щепина Светлана Владиславовна",
     "FIOshort": "Щепина С.В.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
   }
 ]

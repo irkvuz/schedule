@@ -27,7 +27,7 @@
     "Odd": 1,
     "Lesson": "Правовые основы работы СМИ",
     "LessonType": "пр",
-    "Room": "1-209",
+    "Room": "1-204",
     "FIO": "Кузнецова Ирина Альфредовна",
     "FIOshort": "Кузнецова И.А.",
     "Error": null
@@ -57,12 +57,34 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Новейшая литература",
     "LessonType": "пр",
     "Room": "1-212",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

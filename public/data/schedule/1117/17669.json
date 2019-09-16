@@ -46,7 +46,7 @@
   {
     "WeekDay": 2,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "11-301",
@@ -162,6 +162,17 @@
     "Room": "11-306",
     "FIO": "Ахмадеева Алла Абдулваровна",
     "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-308",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
     "Error": null
   },
   {

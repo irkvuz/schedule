@@ -266,20 +266,6 @@
     "hasSchedule": false
   },
   {
-    "IdGroup": 17899,
-    "Group": "МТД-18-1",
-    "Course": 2,
-    "Error": null,
-    "hasSchedule": true
-  },
-  {
-    "IdGroup": 30312,
-    "Group": "МТД-19-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": true
-  },
-  {
     "IdGroup": 16739,
     "Group": "МЭК-16-1",
     "Course": 4,
@@ -331,13 +317,6 @@
   {
     "IdGroup": 30491,
     "Group": "МЭК-19-2",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": true
-  },
-  {
-    "IdGroup": 30233,
-    "Group": "ПМЛ-19-1",
     "Course": 1,
     "Error": null,
     "hasSchedule": true
@@ -514,13 +493,6 @@
     "IdGroup": 30495,
     "Group": "Т(9)-19-4",
     "Course": 1,
-    "Error": null,
-    "hasSchedule": true
-  },
-  {
-    "IdGroup": 17936,
-    "Group": "ТБ-18-1",
-    "Course": 2,
     "Error": null,
     "hasSchedule": true
   },

@@ -99,39 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Крючкова Ольга Александровна",
-    "FIOshort": "Крючкова О.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
@@ -159,7 +126,7 @@
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "пр",
-    "Room": "5-513",
+    "Room": "6-312",
     "FIO": "Гусева Галина Викторовна",
     "FIOshort": "Гусева Г.В.",
     "Error": null

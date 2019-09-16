@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -52,6 +63,17 @@
     "Room": "12-001",
     "FIO": "Никиткина Виктория Владимировна",
     "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
     "Error": null
   },
   {
@@ -162,6 +184,28 @@
     "Room": "12-406",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
     "Error": null
   }
 ]
