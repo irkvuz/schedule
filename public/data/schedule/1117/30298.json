@@ -11,6 +11,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-215",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 1,

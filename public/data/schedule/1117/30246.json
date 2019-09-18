@@ -144,22 +144,22 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Современная научная картина мира",
-    "LessonType": "л",
-    "Room": "4-411",
+    "LessonType": "пр",
+    "Room": "3-705",
     "FIO": "Горбунова Ольга Ивановна",
     "FIOshort": "Горбунова О.И.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Современная научная картина мира",
-    "LessonType": "пр",
-    "Room": "4-411",
+    "LessonType": "л",
+    "Room": "3-705",
     "FIO": "Горбунова Ольга Ивановна",
     "FIOshort": "Горбунова О.И.",
     "Error": null

@@ -165,14 +165,25 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "8:30",
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Управление проектами",
     "LessonType": "пр",
-    "Room": "3-602",
+    "Room": "3-605",
     "FIO": "Баганов Валерий Юрьевич",
     "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (продвинутый уровень)",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Санжиева Цырма Пирангалаевна",
+    "FIOshort": "Санжиева Ц.П.",
     "Error": null
   },
   {
@@ -277,7 +288,7 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Анализ рыночных возможностей",
     "LessonType": "л",
     "Room": "3-903",

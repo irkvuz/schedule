@@ -159,7 +159,7 @@
     "Odd": 2,
     "Lesson": "Астрономия",
     "LessonType": "л",
-    "Room": "",
+    "Room": "11-210",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
     "Error": null
@@ -167,10 +167,21 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История 1",
     "LessonType": "пр",
     "Room": "11-207",
+    "FIO": "Шергина Наталья Алексеевна",
+    "FIOshort": "Шергина Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "11-310",
     "FIO": "Шергина Наталья Алексеевна",
     "FIOshort": "Шергина Н.А.",
     "Error": null

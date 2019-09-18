@@ -154,9 +154,20 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "11-207",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Экономический анализ",
     "LessonType": "л",
     "Room": "11-204",
