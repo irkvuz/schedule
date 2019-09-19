@@ -78,17 +78,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык для делового общения",
-    "LessonType": "пр",
-    "Room": "1-404",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Финансы",
@@ -210,17 +199,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык для делового общения",
-    "LessonType": "пр",
-    "Room": "1-404",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Эконометрика",
@@ -261,17 +239,6 @@
     "Room": "1-401",
     "FIO": "Боброва Екатерина Александровна",
     "FIOshort": "Боброва Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (профессиональный)",
-    "LessonType": "пр",
-    "Room": "1-413",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   },
   {

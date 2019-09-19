@@ -13,7 +13,18 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
+    "Lesson": "Психология труда",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Лутошлива Екатерина Станиславовна",
+    "FIOshort": "Лутошлива Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
     "Lesson": "Психология труда",
     "LessonType": "пр",
     "Room": "2-316",

@@ -122,6 +122,28 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-304",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Естествознание",
@@ -195,6 +217,28 @@
     "Room": "12-409",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Гомонова Ольга Михайловна",
+    "FIOshort": "Гомонова О.М.",
     "Error": null
   }
 ]

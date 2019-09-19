@@ -34,79 +34,79 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Деньги, кредит, банки",
-    "LessonType": "л",
-    "Room": "2-310",
-    "FIO": "Далбаева Валентина Юрьевна",
-    "FIOshort": "Далбаева В.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Бухгалтерский учёт",
-    "LessonType": "л",
-    "Room": "2-311",
-    "FIO": "Левченко Наталья Евгеньевна",
-    "FIOshort": "Левченко Н.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Бухгалтерский учёт",
-    "LessonType": "пр",
-    "Room": "2-311",
-    "FIO": "Левченко Наталья Евгеньевна",
-    "FIOshort": "Левченко Н.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Деньги, кредит, банки",
-    "LessonType": "пр",
-    "Room": "2-310",
-    "FIO": "Далбаева Валентина Юрьевна",
-    "FIOshort": "Далбаева В.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Мировая экономика",
-    "LessonType": "л",
-    "Room": "2-310",
-    "FIO": "Козырская Ирина Евгеньевна",
-    "FIOshort": "Козырская И.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Мировая экономика",
-    "LessonType": "пр",
-    "Room": "2-310",
-    "FIO": "Козырская Ирина Евгеньевна",
-    "FIOshort": "Козырская И.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-403",
     "FIO": "Максимова Наталия Владимировна",
     "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Козырская Ирина Евгеньевна",
+    "FIOshort": "Козырская И.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Козырская Ирина Евгеньевна",
+    "FIOshort": "Козырская И.Е.",
     "Error": null
   },
   {
@@ -133,17 +133,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2 для делового общения",
-    "LessonType": "пр",
-    "Room": "1-403",
-    "FIO": "Максимова Наталия Владимировна",
-    "FIOshort": "Максимова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык для делового общения",
@@ -162,6 +151,17 @@
     "Room": "2-414",
     "FIO": "Кулижская Жанна Сергеевна",
     "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2 для делового общения",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
     "Error": null
   },
   {

@@ -145,18 +145,7 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Бухгалтерский учет",
-    "LessonType": "пр",
-    "Room": "12-205",
-    "FIO": "Садиева Виктория Викторовна",
-    "FIOshort": "Садиева В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Бухгалтерский учет",
     "LessonType": "пр",
     "Room": "12-201",
