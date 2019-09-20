@@ -111,22 +111,22 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "л",
-    "Room": "2-314",
+    "Room": "8-206",
     "FIO": "Копылова Татьяна Ильинична",
     "FIOshort": "Копылова Т.И.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "пр",
-    "Room": "1-201",
+    "Room": "8-202",
     "FIO": "Копылова Татьяна Ильинична",
     "FIOshort": "Копылова Т.И.",
     "Error": null

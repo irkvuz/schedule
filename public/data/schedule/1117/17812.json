@@ -102,11 +102,11 @@
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
-    "Lesson": "Иностранный язык 2",
+    "Lesson": "Китайский язык",
     "LessonType": "пр",
-    "Room": "2-404",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "Room": "10-201(а)",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {
@@ -115,7 +115,7 @@
     "Odd": 0,
     "Lesson": "Китайский язык",
     "LessonType": "пр",
-    "Room": "2-402",
+    "Room": "10-201(а)",
     "FIO": "Ли Мин",
     "FIOshort": "Ли М.",
     "Error": null
@@ -126,7 +126,7 @@
     "Odd": 0,
     "Lesson": "Китайский язык",
     "LessonType": "пр",
-    "Room": "1-211",
+    "Room": "1-401",
     "FIO": "Ли Мин",
     "FIOshort": "Ли М.",
     "Error": null
@@ -135,11 +135,11 @@
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык 2",
+    "Lesson": "Китайский язык",
     "LessonType": "пр",
-    "Room": "1-104",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "Room": "1-401",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {

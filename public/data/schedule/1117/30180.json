@@ -17,8 +17,8 @@
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-211",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {
@@ -39,8 +39,8 @@
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-211",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {
@@ -96,28 +96,6 @@
     "Room": "2-217",
     "FIO": "Вахрушев Юрий Петрович",
     "FIOshort": "Вахрушев Ю.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "2-312",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "2-312",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
     "Error": null
   },
   {
@@ -188,9 +166,42 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Английский язык 1",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
     "Room": "1-409",
     "FIO": "Хуммель Лариса Алексеевна",
@@ -232,24 +243,24 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "10-202",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "Room": "10-205",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "10-202",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "Room": "10-205",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   }
 ]

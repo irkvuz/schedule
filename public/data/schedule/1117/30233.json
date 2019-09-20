@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Философия",
@@ -67,6 +78,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Правоведение",
@@ -85,6 +107,17 @@
     "Room": "5-303",
     "FIO": "Чигрина Елена Владимировна",
     "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {
