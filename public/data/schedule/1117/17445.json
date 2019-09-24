@@ -23,6 +23,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "11-005",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Логистика",
@@ -214,17 +225,6 @@
     "Odd": 0,
     "Lesson": "Логистика",
     "LessonType": "л",
-    "Room": "11-408",
-    "FIO": "Старухина Нина Эдуардовна",
-    "FIOshort": "Старухина Н.Э.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Маркетинг",
-    "LessonType": "пр",
     "Room": "11-408",
     "FIO": "Старухина Нина Эдуардовна",
     "FIOshort": "Старухина Н.Э.",
