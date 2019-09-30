@@ -67,28 +67,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "11-112",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "11-112",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Обществознание",
@@ -96,6 +74,28 @@
     "Room": "11-204",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "11-304",
+    "FIO": "Щербина Татьяна Анатольевна",
+    "FIOshort": "Щербина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Щербина Татьяна Анатольевна",
+    "FIOshort": "Щербина Т.А.",
     "Error": null
   },
   {

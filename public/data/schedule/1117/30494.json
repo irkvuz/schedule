@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "12-304",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История 1",
@@ -30,6 +19,17 @@
     "Room": "12-308",
     "FIO": "Майдачевский Дмитрий Ярославович",
     "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "12-304",
+    "FIO": "Щербина Татьяна Анатольевна",
+    "FIOshort": "Щербина Т.А.",
     "Error": null
   },
   {
@@ -79,17 +79,6 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "12-101",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
@@ -107,6 +96,17 @@
     "Room": "12-004",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Щербина Татьяна Анатольевна",
+    "FIOshort": "Щербина Т.А.",
     "Error": null
   },
   {
@@ -217,28 +217,6 @@
     "Room": "12-409",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "11-414",
-    "FIO": "Гомонова Ольга Михайловна",
-    "FIOshort": "Гомонова О.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-416",
-    "FIO": "Гомонова Ольга Михайловна",
-    "FIOshort": "Гомонова О.М.",
     "Error": null
   }
 ]
