@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Окладникова Любовь Вячеславовна",
+    "FIOshort": "Окладникова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Мировая экономика",
@@ -88,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-310",
-    "FIO": "Окладникова Любовь Вячеславовна",
-    "FIOshort": "Окладникова Л.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -107,6 +107,17 @@
     "Room": "1-420",
     "FIO": "Сметанина Татьяна Витальевна",
     "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Окладникова Любовь Вячеславовна",
+    "FIOshort": "Окладникова Л.В.",
     "Error": null
   },
   {

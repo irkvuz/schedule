@@ -44,28 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "5-413",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "17:30",
     "Odd": 0,
@@ -111,17 +89,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Градостроительное право",
@@ -129,17 +96,6 @@
     "Room": "3-901",
     "FIO": "Гладкова Оксана Николаевна",
     "FIOshort": "Гладкова О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 2,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

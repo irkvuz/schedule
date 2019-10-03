@@ -174,27 +174,5 @@
     "FIO": "Шалак Александр Васильевич",
     "FIOshort": "Шалак А.В.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-106",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
   }
 ]

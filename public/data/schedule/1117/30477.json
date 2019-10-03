@@ -67,6 +67,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-408",
+    "FIO": "Лисихина Оксана Юрьевна",
+    "FIOshort": "Лисихина О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика 1",
@@ -90,7 +101,7 @@
   {
     "WeekDay": 3,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-004",
@@ -112,9 +123,20 @@
   {
     "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
     "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
     "Room": "12-205",
     "FIO": "Лисихина Оксана Юрьевна",
     "FIOshort": "Лисихина О.Ю.",
@@ -136,8 +158,8 @@
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-205",
+    "LessonType": "пр",
+    "Room": "12-101",
     "FIO": "Лисихина Оксана Юрьевна",
     "FIOshort": "Лисихина О.Ю.",
     "Error": null

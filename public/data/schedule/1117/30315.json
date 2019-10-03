@@ -15,8 +15,8 @@
     "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-211",
+    "LessonType": "пр",
+    "Room": "2-201",
     "FIO": "Ермошкина Римма Леонидовна",
     "FIOshort": "Ермошкина Р.Л.",
     "Error": null
@@ -38,7 +38,7 @@
     "Odd": 2,
     "Lesson": "Библиография",
     "LessonType": "пр",
-    "Room": "2-405",
+    "Room": "2-201",
     "FIO": "Ермошкина Римма Леонидовна",
     "FIOshort": "Ермошкина Р.Л.",
     "Error": null
