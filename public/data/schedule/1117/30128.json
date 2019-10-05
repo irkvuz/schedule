@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Статистика",
@@ -74,17 +85,6 @@
     "Room": "2-404",
     "FIO": "Ступин Виталий Валерьевич",
     "FIOshort": "Ступин В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "3-804",
-    "FIO": "Рогачева Ольга Александровна",
-    "FIOshort": "Рогачева О.А.",
     "Error": null
   },
   {

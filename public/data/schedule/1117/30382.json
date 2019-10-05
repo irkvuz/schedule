@@ -145,21 +145,10 @@
   {
     "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Астрономия",
     "LessonType": "л",
     "Room": "11-005",
-    "FIO": "Мызникова Татьяна Иннокентьевна",
-    "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "11-210",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
     "Error": null

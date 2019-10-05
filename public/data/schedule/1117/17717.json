@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
