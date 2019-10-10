@@ -167,7 +167,18 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "12-201",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "пр",
     "Room": "12-306",

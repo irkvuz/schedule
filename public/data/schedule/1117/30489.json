@@ -112,7 +112,18 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "История 1",
     "LessonType": "л",
     "Room": "11-403",

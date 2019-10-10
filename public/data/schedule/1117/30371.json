@@ -1,6 +1,28 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-306",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "География",
@@ -41,6 +63,17 @@
     "Room": "11-204",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-306",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -156,12 +189,23 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
