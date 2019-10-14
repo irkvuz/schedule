@@ -1,22 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Риторика",
-    "LessonType": "пр",
-    "Room": "1-201",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Международная журналистика",
     "LessonType": "пр",
-    "Room": "1-201",
+    "Room": "4-202",
     "FIO": "Жаркова Татьяна Евгеньевна",
     "FIOshort": "Жаркова Т.Е.",
     "Error": null
@@ -195,6 +184,17 @@
     "Room": "2-312",
     "FIO": "Чигрина Елена Владимировна",
     "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Риторика",
+    "LessonType": "пр",
+    "Room": "5-514",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
     "Error": null
   },
   {

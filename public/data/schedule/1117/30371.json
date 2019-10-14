@@ -188,8 +188,8 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
