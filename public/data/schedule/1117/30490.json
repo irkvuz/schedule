@@ -22,6 +22,28 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-305",
+    "FIO": "Василенко Сергей Георгиевич",
+    "FIOshort": "Василенко С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Василенко Сергей Георгиевич",
+    "FIOshort": "Василенко С.Г.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -79,45 +101,12 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "История 1",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Василенко Сергей Георгиевич",
-    "FIOshort": "Василенко С.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Астрономия",
     "LessonType": "пр",
     "Room": "12-301",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "История 1",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "Василенко Сергей Георгиевич",
-    "FIOshort": "Василенко С.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "История 1",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "Василенко Сергей Георгиевич",
-    "FIOshort": "Василенко С.Г.",
     "Error": null
   },
   {

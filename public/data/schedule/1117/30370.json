@@ -113,17 +113,6 @@
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Основы экономической теории",
-    "LessonType": "л",
-    "Room": "11-202",
-    "FIO": "Перестюк Светлана Даниловна",
-    "FIOshort": "Перестюк С.Д.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
     "Lesson": "Основы философии",
     "LessonType": "л",
     "Room": "11-412",

@@ -144,6 +144,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История искусств",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Ермаков Артем Валерьевич",
+    "FIOshort": "Ермаков А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Правоведение",
@@ -167,7 +178,7 @@
   {
     "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "История искусств",
     "LessonType": "пр",
     "Room": "2-208",
