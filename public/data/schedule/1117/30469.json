@@ -144,17 +144,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-401",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика 1",
@@ -184,39 +173,6 @@
     "Room": "12-306",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-408",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
     "Error": null
   }
 ]

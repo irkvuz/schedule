@@ -88,17 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-401",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 1,
@@ -118,28 +107,6 @@
     "Room": "11-403",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "11-401",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-401",
-    "FIO": "Соколова Ирина Александровна",
-    "FIOshort": "Соколова И.А.",
     "Error": null
   },
   {

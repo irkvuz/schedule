@@ -207,27 +207,5 @@
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-301",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-301",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
   }
 ]

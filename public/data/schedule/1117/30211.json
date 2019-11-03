@@ -89,6 +89,28 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-505",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-505",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
