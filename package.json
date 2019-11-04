@@ -15,7 +15,7 @@
     "@types/react": "^16.8.0",
     "@types/react-dom": "^16.8.0",
     "@types/react-router-dom": "^5.0.0",
-    "antd": "3.24.3",
+    "antd": "3.25.0",
     "axios": "0.18.1",
     "eslint": "^6.1.0",
     "history": "4.10.1",
