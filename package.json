@@ -29,7 +29,7 @@
     "typescript": "3.5"
   },
   "devDependencies": {
-    "@testing-library/react": "8.0.9",
+    "@testing-library/react": "9.3.2",
     "@types/progress": "2.0.3",
     "eslint-plugin-jest": "23.0.2",
     "gh-pages": "2.1.1",
