@@ -1,4 +1,5 @@
 import message from 'antd/lib/message';
+import Spin from 'antd/lib/spin';
 import Switch from 'antd/lib/switch';
 import Table, { ColumnProps } from 'antd/lib/table';
 import Tabs, { TabsPosition } from 'antd/lib/tabs';
@@ -115,7 +116,7 @@ function TabsWeekDays(props: Props) {
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
-  // if (props.loading) return <Spin data-testid="loading-spinner" />;
+  if (props.loading) return <Spin data-testid="loading-spinner" />;
 
   let weekdays: IWeekDay[] = [];
 
