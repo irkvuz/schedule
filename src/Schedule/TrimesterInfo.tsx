@@ -1,5 +1,4 @@
 import Alert from 'antd/lib/alert';
-import Progress from 'antd/lib/progress';
 import moment from 'moment';
 import React from 'react';
 import { ITrimester, WEEK_DAY_NAMES } from '../constants';
@@ -18,16 +17,6 @@ export default function TrimesterInfo(props: Props) {
 
   const week_total = dateFinish.diff(dateStart, 'week');
 
-  /** Short for dates */
-  const d = {
-    today: today.valueOf(),
-    start: dateStart.valueOf(),
-    finish: dateFinish.valueOf(),
-  };
-  const trimesterProgress = Math.round(
-    ((d.today - d.start) / (d.finish - d.start)) * 100
-  );
-
   return (
     <>
       <div>
@@ -36,10 +25,6 @@ export default function TrimesterInfo(props: Props) {
         неделя в семестре {week_number} из {week_total} (
         {week_number % 2 === 0 ? 'Четная' : 'Нечетная'})
       </div>
-      <div>
-        Прогресс семестра ({dateStart.format('L')} - {dateFinish.format('L')}):
-      </div>
-      <Progress percent={trimesterProgress} />
       {week_number > week_total && (
         <Alert
           type="warning"
