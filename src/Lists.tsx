@@ -1,5 +1,4 @@
-import Input from 'antd/lib/input';
-import List from 'antd/lib/list';
+import { Input, List } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { Link, RouteComponentProps } from 'react-router-dom';
 import api from './api';

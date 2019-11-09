@@ -17,20 +17,25 @@
     "@types/react-router-dom": "^5.0.0",
     "antd": "3.25.0",
     "axios": "0.18.1",
+    "babel-plugin-import": "^1.12.2",
+    "customize-cra": "^0.8.0",
     "eslint": "^6.1.0",
     "history": "4.10.1",
     "moment": "2.24.0",
     "prop-types": "^15.7.2",
     "react": "16.8.6",
+    "react-app-rewired": "^2.1.5",
     "react-dom": "16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.2.0",
     "react-yandex-metrika": "2.5.1",
-    "typescript": "3.7"
+    "typescript": "^3.7.2"
   },
   "devDependencies": {
+    "@size-limit/preset-app": "^2.1.6",
     "@testing-library/react": "9.3.2",
     "@types/progress": "2.0.3",
+    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "23.0.3",
     "gh-pages": "2.1.1",
     "husky": "3.0.9",
@@ -38,19 +43,21 @@
     "prettier": "1.19.0",
     "pretty-quick": "2.0.1",
     "progress": "2.0.3",
+    "source-map-explorer": "^2.1.0",
     "ts-node": "8.4.1"
   },
   "scripts": {
     "next": "yarn version --patch",
     "postversion": "git push --tags && git push",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "size": "size-limit",
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "predeploy": "yarn build",
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
     "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
-    "pretest": "yarn lint",
-    "test": "react-scripts test",
+    "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts",
     "commitSchedule": "git add public/data/ && git commit -m 'Update schedule'",
@@ -79,5 +86,11 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "size-limit": [
+    {
+      "path": "build/static/js/*.js",
+      "limit": "6 s"
+    }
+  ]
 }

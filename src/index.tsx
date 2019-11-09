@@ -1,10 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
 // import { message, notification } from 'antd';
 import * as Sentry from '@sentry/browser';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import './index.css';
+import * as serviceWorker from './serviceWorker';
 
 Sentry.init({
   dsn: 'https://d8656cdb1f434597aecff05537459326@sentry.io/1537635',

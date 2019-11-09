@@ -5,8 +5,10 @@ cache:
   directories:
     - node_modules
 script:
+  - yarn lint
   - yarn test
   - yarn build
+  - yarn size
 
 deploy:
   provider: pages
