@@ -39,6 +39,7 @@
     "prettier": "1.18.2",
     "pretty-quick": "2.0.0",
     "progress": "2.0.3",
+    "source-map-explorer": "^2.1.0",
     "ts-node": "8.4.1"
   },
   "scripts": {
@@ -47,6 +48,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "size": "size-limit",
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "predeploy": "yarn build",
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
