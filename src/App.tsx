@@ -1,13 +1,13 @@
 import { ConfigProvider } from 'antd';
 import ru_RU from 'antd/lib/locale/ru_RU';
 import { Action, createBrowserHistory, Location } from 'history';
-import { Main } from 'Main';
 import moment from 'moment';
 import 'moment/locale/ru';
 import React from 'react';
 import { Router } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
-import { ErrorBoundary } from 'components/ErrorBoundary/ErrorBoundary';
+import { ErrorBoundary } from './components/ErrorBoundary/ErrorBoundary';
+import { Main } from './Main';
 
 moment.locale('ru');
 

@@ -1,8 +1,8 @@
 import { cleanup, fireEvent, render } from '@testing-library/react';
-import { UniversalListPL } from 'Lists';
 import React from 'react';
 import { MemoryRouter } from 'react-router-dom';
 import { IFacultyOld } from './constants';
+import { UniversalListPL } from './Lists';
 
 afterEach(cleanup);
 
