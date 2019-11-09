@@ -91,7 +91,7 @@
   "size-limit": [
     {
       "path": "build/static/js/*.js",
-      "limit": "8 s"
+      "limit": "6 s"
     }
   ]
 }
