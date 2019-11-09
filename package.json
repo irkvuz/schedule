@@ -46,6 +46,7 @@
     "postversion": "git push --tags && git push",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "size": "size-limit",
     "predeploy": "yarn build",
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
@@ -80,5 +81,11 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "size-limit": [
+    {
+      "path": "build/static/js/*.js",
+      "limit": "8 s"
+    }
+  ]
 }
