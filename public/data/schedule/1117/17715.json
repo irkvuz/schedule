@@ -45,22 +45,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Статистика и демография",
     "LessonType": "л",
-    "Room": "2-312",
+    "Room": "5-408",
     "FIO": "Малютина Светлана Анатольевна",
     "FIOshort": "Малютина С.А.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Статистика и демография",
     "LessonType": "пр",
-    "Room": "2-312",
+    "Room": "5-408",
     "FIO": "Малютина Светлана Анатольевна",
     "FIOshort": "Малютина С.А.",
     "Error": null
