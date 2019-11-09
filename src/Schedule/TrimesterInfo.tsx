@@ -1,4 +1,5 @@
-import { Alert, Progress } from 'antd';
+import Alert from 'antd/lib/alert';
+import Progress from 'antd/lib/progress';
 import moment from 'moment';
 import React from 'react';
 import { ITrimester, WEEK_DAY_NAMES } from '../constants';

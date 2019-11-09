@@ -1,11 +1,12 @@
-import { Icon, message, Spin, Switch, Table, Tabs } from 'antd';
-import { ColumnProps } from 'antd/lib/table';
-import { TabsPosition } from 'antd/lib/tabs';
+import message from 'antd/lib/message';
+import Switch from 'antd/lib/switch';
+import Table, { ColumnProps } from 'antd/lib/table';
+import Tabs, { TabsPosition } from 'antd/lib/tabs';
 import moment from 'moment';
 import React, { useEffect, useState } from 'react';
 import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
-import './TabsWeekDays.css';
 import { findNearestDay } from './findNearestDay';
+import './TabsWeekDays.css';
 
 const TabPane = Tabs.TabPane;
 
@@ -39,12 +40,8 @@ const columns: ColumnProps<ILessonOld>[] = [
     render: (text: any, record: ILessonOld, index: number) => {
       return (
         <React.Fragment>
-          <div className="StartTime">
-            <Icon type="clock-circle" /> {record.StartTime}
-          </div>
-          <div className="Room">
-            <Icon type="environment" /> {record.Room}
-          </div>
+          <div className="StartTime">{record.StartTime}</div>
+          <div className="Room">{record.Room}</div>
         </React.Fragment>
       );
     },
@@ -67,9 +64,7 @@ const columns: ColumnProps<ILessonOld>[] = [
             &nbsp;
             {record.Lesson}
           </div>
-          <div title={record.FIO}>
-            <Icon type="user" /> {record.FIO}
-          </div>
+          <div title={record.FIO}>{record.FIO}</div>
         </>
       );
     },
@@ -120,7 +115,7 @@ function TabsWeekDays(props: Props) {
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
   };
 
-  if (props.loading) return <Spin data-testid="loading-spinner" />;
+  // if (props.loading) return <Spin data-testid="loading-spinner" />;
 
   let weekdays: IWeekDay[] = [];
 

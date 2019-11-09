@@ -1,4 +1,4 @@
-import { message } from 'antd';
+import message from 'antd/lib/message';
 import moment from 'moment';
 import React, { useState, useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';

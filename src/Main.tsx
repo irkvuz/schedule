@@ -1,4 +1,4 @@
-import { Menu } from 'antd';
+import Menu from 'antd/lib/menu';
 import React from 'react';
 import { Link, Redirect, Route, Switch } from 'react-router-dom';
 import ym from 'react-yandex-metrika';
