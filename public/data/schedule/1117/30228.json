@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Введение в специальность",
-    "LessonType": "пр",
-    "Room": "3-602",
-    "FIO": "Башелханов Анатолий Юрьевич",
-    "FIOshort": "Башелханов А.Ю.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
