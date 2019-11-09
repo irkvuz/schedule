@@ -1,8 +1,5 @@
-import Cascader, {
-  CascaderOptionType,
-  FilledFieldNamesType,
-} from 'antd/lib/cascader';
-import Spin from 'antd/lib/spin';
+import { Cascader, Spin } from 'antd';
+import { CascaderOptionType, FilledFieldNamesType } from 'antd/lib/cascader';
 import React, { useEffect, useState } from 'react';
 import api from './api';
 import { IFacultyWithGroups } from './constants';
