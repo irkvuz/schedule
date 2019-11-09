@@ -1241,7 +1241,7 @@
   dependencies:
     size-limit "2.1.6"
 
-"@size-limit/preset-app@^2.1.6":
+"@size-limit/preset-app@2.1.6":
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/@size-limit/preset-app/-/preset-app-2.1.6.tgz#ecccc583d89cc9b8826ca6779a5222c296b7e79e"
   integrity sha512-ZnGXMdIYFWFaCtKRV2lgf68PFAwXBB8+eIXU4ngSjaTXp/LrFlztFeBIYKZh8gRg/LsuVJYaIrXVmhRjdBJ69A==
@@ -4225,7 +4225,7 @@ eslint-plugin-flowtype@3.13.0:
   dependencies:
     lodash "^4.17.15"
 
-eslint-plugin-import@2.18.2, eslint-plugin-import@^2.18.2:
+eslint-plugin-import@2.18.2:
   version "2.18.2"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.18.2.tgz#02f1180b90b077b33d447a17a2326ceb400aceb6"
   integrity sha512-5ohpsHAiUBRNaBWAF08izwUGlbrJoJJ+W9/TBwsGoR1MnlgfwMIKrFeSjWbt6moabiXW9xNvtFz+97KHRfI4HQ==
@@ -10790,7 +10790,7 @@ source-list-map@^2.0.0:
   resolved "https://registry.yarnpkg.com/source-list-map/-/source-list-map-2.0.1.tgz#3993bd873bfc48479cca9ea3a547835c7c154b34"
   integrity sha512-qnQ7gVMxGNxsiL4lEuJwe/To8UnK7fAnmbGEEH8RpLouuKbeEm0lhbQVFIrNSuB+G7tVrAlVsZgETT5nljf+Iw==
 
-source-map-explorer@^2.1.0:
+source-map-explorer@2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/source-map-explorer/-/source-map-explorer-2.1.0.tgz#d80e2a7fef0f15b3c9c1f57bc22bd1aabfaf2309"
   integrity sha512-VlOYrBo7gKT72E3IGMzK33ddEWIHGIdyraz8nmpxC7n0ZrzGWq08pWkB8FBxlJJCm9xmP3imlZ9ElUsGbKPpvQ==
