@@ -6,10 +6,12 @@ import App from './App';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
-Sentry.init({
-  dsn: 'https://d8656cdb1f434597aecff05537459326@sentry.io/1537635',
-  release: process.env.REACT_APP_VERSION,
-});
+if (process.env.NODE_ENV === 'production') {
+  Sentry.init({
+    dsn: 'https://d8656cdb1f434597aecff05537459326@sentry.io/1537635',
+    release: process.env.REACT_APP_VERSION,
+  });
+}
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
