@@ -9925,10 +9925,10 @@ react-slick@~0.25.2:
     lodash.debounce "^4.0.8"
     resize-observer-polyfill "^1.5.0"
 
-react-yandex-metrika@2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/react-yandex-metrika/-/react-yandex-metrika-2.5.1.tgz#9a2120e0a7e23eaa48e2032bf987efe62b437079"
-  integrity sha512-18fviX2Gf50a0Wz0Cfux26iDMKJdI1kx8X6Q6f4/eXTs5CaQWSRSvOxkKBpYYctjJbUO1NR0R3TC2NJsvf09Kw==
+react-yandex-metrika@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/react-yandex-metrika/-/react-yandex-metrika-2.6.0.tgz#9c935c8c7ea5505e34391b9b3e86deb6d50053c9"
+  integrity sha512-8K4wExsNZtY3DTxh1G8a+zWH9Pg8fw23MJcoJ4I/562qrHRnh7L5nteq3lnNL58dnNQbuuHIRoGgMjIo+r1GjA==
 
 react@16.11.0, react@^16.9.0:
   version "16.11.0"
