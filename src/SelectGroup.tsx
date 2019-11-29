@@ -45,9 +45,9 @@ function SelectGroup(props: Props) {
     path: CascaderOptionType[],
     names: FilledFieldNamesType
   ) => {
-    return path.some((option) =>
-      option.name.match(new RegExp(inputValue, 'i'))
-    );
+    return path.some((option) => {
+      return option.name.toLowerCase().indexOf(inputValue.toLowerCase()) > -1;
+    });
   };
 
   if (loading) return <Spin />;
