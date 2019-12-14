@@ -66,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "пр",
+    "Room": "5-212",
+    "FIO": "Тетерина Людмила Александровна",
+    "FIOshort": "Тетерина Л.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,

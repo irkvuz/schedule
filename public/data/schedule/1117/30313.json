@@ -112,34 +112,12 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "3-509",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Управление проектами",
     "LessonType": "пр",
     "Room": "4-211",
     "FIO": "Кубасова Татьяна Иннокентьевна",
     "FIOshort": "Кубасова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {
