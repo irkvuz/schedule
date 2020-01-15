@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы теории управления",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Белобородова Нина Анатольевна",
+    "FIOshort": "Белобородова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Государственная политика в социально-трудовой сфере",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Государственная политика в социально-трудовой сфере",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология управления",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Турганова Гульнара Эрмаматовна",
+    "FIOshort": "Турганова Г.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Межкультурная коммуникация",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Психология управления",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Турганова Гульнара Эрмаматовна",
+    "FIOshort": "Турганова Г.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы теории управления",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Белобородова Нина Анатольевна",
+    "FIOshort": "Белобородова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  }
+]

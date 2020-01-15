@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Политико-экономическая география мира",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Политико-экономическая география мира",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление человеческими ресурсами",
+    "LessonType": "л",
+    "Room": "2-312",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Ценообразование",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление человеческими ресурсами",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовый менеджмент",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Интернет - маркетинг",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Кузнецов Александр Евгеньевич",
+    "FIOshort": "Кузнецов А.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансовый менеджмент",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Глызина Ольга Петровна",
+    "FIOshort": "Глызина О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовый менеджмент",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  }
+]

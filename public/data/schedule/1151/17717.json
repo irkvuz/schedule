@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Товароведение и экспертиза в таможенном деле",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Товароведение и экспертиза в таможенном деле",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Общий и таможенный менеджмент",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Окладникова Любовь Вячеславовна",
+    "FIOshort": "Окладникова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общий и таможенный менеджмент",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Общая и таможенная статистика",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общая и таможенная статистика",
+    "LessonType": "л",
+    "Room": "4-203",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы гражданского права",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы гражданского права",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  }
+]

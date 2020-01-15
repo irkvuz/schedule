@@ -214,7 +214,7 @@
     "Group": "МЖ-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30303,
@@ -228,7 +228,7 @@
     "Group": "МИГН-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30304,
@@ -256,7 +256,7 @@
     "Group": "МИС-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30306,
@@ -270,7 +270,7 @@
     "Group": "МРС-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30307,
@@ -291,7 +291,7 @@
     "Group": "МСЭП-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30308,

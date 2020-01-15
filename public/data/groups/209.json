@@ -11,7 +11,7 @@
     "Group": "ЗемК-16-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17247,
@@ -214,7 +214,7 @@
     "Group": "МЗемК-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30314,
@@ -228,7 +228,7 @@
     "Group": "МЛД-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30315,
@@ -242,7 +242,7 @@
     "Group": "МНГК-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30316,
@@ -263,14 +263,14 @@
     "Group": "МСтр-19-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17828,
     "Group": "МУГД-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30318,
@@ -284,7 +284,7 @@
     "Group": "МЭПД-18",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30319,
@@ -501,7 +501,7 @@
     "Group": "УМБ-16-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16751,

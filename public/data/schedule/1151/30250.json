@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Константинова Лия Файтуловна",
+    "FIOshort": "Константинова Л.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Межкультурная коммуникация",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Смаколина Елена Викторовна",
+    "FIOshort": "Смаколина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "2-308",
+    "FIO": "Константинова Лия Файтуловна",
+    "FIOshort": "Константинова Л.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Микроэкономика",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математические и инструментальные средства в экономике",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Микроэкономика",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математические и инструментальные средства в экономике",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  }
+]

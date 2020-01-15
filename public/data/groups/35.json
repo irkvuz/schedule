@@ -151,7 +151,7 @@
     "Group": "МЛрки-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30328,
@@ -165,14 +165,14 @@
     "Group": "МЭКрк-16-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 16717,
     "Group": "МЭКрк-16-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17172,
@@ -305,7 +305,7 @@
     "Group": "Юрк-16",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17321,

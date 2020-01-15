@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История социальной работы",
+    "LessonType": "л",
+    "Room": "1-204",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Этика и деонтология социальной работы",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Смаколина Елена Викторовна",
+    "FIOshort": "Смаколина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Этика и деонтология социальной работы",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Этика и деонтология социальной работы",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Введение в профессию",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Введение в профессию",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История социальной работы",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  }
+]

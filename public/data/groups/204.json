@@ -158,7 +158,7 @@
     "Group": "МЛ-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30310,
@@ -193,7 +193,7 @@
     "Group": "ММЭК-18-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16730,
@@ -515,21 +515,21 @@
     "Group": "ТД-15-1",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 15962,
     "Group": "ТД-15-2",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16353,
     "Group": "ТД-15-3",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 16693,

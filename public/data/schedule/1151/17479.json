@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Ведерников Алексей Викторович",
+    "FIOshort": "Ведерников А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовое право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Сарибекян Анна Викторовна",
+    "FIOshort": "Сарибекян А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "4-203",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Ведерников Алексей Викторович",
+    "FIOshort": "Ведерников А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Полетаева Екатерина Леонидовна",
+    "FIOshort": "Полетаева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Морозова Надежда Сергеевна",
+    "FIOshort": "Морозова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  }
+]

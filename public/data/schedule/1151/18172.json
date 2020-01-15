@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Рыбалко Светлана Александровна",
+    "FIOshort": "Рыбалко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Рыбалко Светлана Александровна",
+    "FIOshort": "Рыбалко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "1-123",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "1-123",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "1-311",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Теория и методология гуманитарных наук",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Куценко Надежда Юрьевна",
+    "FIOshort": "Куценко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория и методология гуманитарных наук",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Куценко Надежда Юрьевна",
+    "FIOshort": "Куценко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "1-207",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Рыбалко Светлана Александровна",
+    "FIOshort": "Рыбалко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория музыки и литературы (динамические искусства)",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория музыки и литературы (динамические искусства)",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  }
+]
