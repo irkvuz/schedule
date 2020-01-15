@@ -7,8 +7,8 @@ import ProgressBar from 'progress';
 import { Faculty, Group } from './types';
 import api from './api';
 
-const TRIMESTER_ID_1 = 1117;
-const TRIMESTER_ID_2 = 1141;
+const TRIMESTER_ID_1 = 1151;
+const TRIMESTER_ID_2 = 1143;
 
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
