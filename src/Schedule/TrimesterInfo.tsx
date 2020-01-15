@@ -22,8 +22,9 @@ export default function TrimesterInfo(props: Props) {
       <div>
         Сегодня {WEEK_DAY_NAMES[today.isoWeekday() % 7]}, {today.format('LL')}{' '}
         {/* @TODO I need to do something with weeks and semesters */}
-        неделя в семестре {week_number} из {week_total} (
-        {week_number % 2 === 0 ? 'Четная' : 'Нечетная'})
+        неделя в семестре {week_number} из {week_total}, неделя в году{' '}
+        {week_number + 15} из {week_total + 15} (
+        {(week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
       </div>
       {week_number > week_total && (
         <Alert
