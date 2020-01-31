@@ -16,7 +16,7 @@
     "@types/react-dom": "^16.8.0",
     "@types/react-router-dom": "^5.0.0",
     "antd": "3.26.7",
-    "axios": "0.18.1",
+    "axios": "0.19.2",
     "babel-plugin-import": "^1.12.2",
     "customize-cra": "^0.8.0",
     "eslint": "^6.1.0",
