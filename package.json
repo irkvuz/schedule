@@ -32,7 +32,7 @@
     "typescript": "^3.7.2"
   },
   "devDependencies": {
-    "@size-limit/preset-app": "2.2.4",
+    "@size-limit/preset-app": "3.0.1",
     "@testing-library/react": "9.3.2",
     "@types/progress": "2.0.3",
     "eslint-plugin-import": "2.18.2",
