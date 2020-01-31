@@ -11,7 +11,7 @@
   "dependencies": {
     "@sentry/browser": "^5.6.2",
     "@types/jest": "^24.0.11",
-    "@types/node": "11.15.2",
+    "@types/node": "11.15.5",
     "@types/react": "^16.8.0",
     "@types/react-dom": "^16.8.0",
     "@types/react-router-dom": "^5.0.0",
