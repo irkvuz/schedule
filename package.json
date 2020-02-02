@@ -35,7 +35,7 @@
     "@size-limit/preset-app": "4.0.0",
     "@testing-library/react": "9.4.0",
     "@types/progress": "2.0.3",
-    "eslint-plugin-import": "2.20.0",
+    "eslint-plugin-import": "2.20.1",
     "eslint-plugin-jest": "23.6.0",
     "gh-pages": "2.2.0",
     "husky": "4.2.1",
