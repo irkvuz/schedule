@@ -1,4 +1,9 @@
-import { Icon, message, Spin, Switch, Table, Tabs } from 'antd';
+import {
+  ClockCircleOutlined,
+  EnvironmentOutlined,
+  UserOutlined,
+} from '@ant-design/icons';
+import { message, Spin, Switch, Table, Tabs } from 'antd';
 import { ColumnProps } from 'antd/lib/table';
 import { TabsPosition } from 'antd/lib/tabs';
 import moment from 'moment';
@@ -40,10 +45,10 @@ const columns: ColumnProps<ILessonOld>[] = [
       return (
         <React.Fragment>
           <div className="StartTime">
-            <Icon type="clock-circle" /> {record.StartTime}
+            <ClockCircleOutlined /> {record.StartTime}
           </div>
           <div className="Room">
-            <Icon type="environment" /> {record.Room}
+            <EnvironmentOutlined /> {record.Room}
           </div>
         </React.Fragment>
       );
@@ -68,7 +73,7 @@ const columns: ColumnProps<ILessonOld>[] = [
             {record.Lesson}
           </div>
           <div title={record.FIO}>
-            <Icon type="user" /> {record.FIO}
+            <UserOutlined /> {record.FIO}
           </div>
         </>
       );
