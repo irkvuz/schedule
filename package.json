@@ -11,7 +11,7 @@
   "dependencies": {
     "@sentry/browser": "^5.11.2",
     "@types/jest": "^25.1.1",
-    "@types/node": "13.5.3",
+    "@types/node": "13.7.4",
     "@types/react": "^16.9.19",
     "@types/react-dom": "^16.9.5",
     "@types/react-router-dom": "^5.0.0",
@@ -32,19 +32,19 @@
     "typescript": "^3.7.5"
   },
   "devDependencies": {
-    "@size-limit/preset-app": "4.0.0",
+    "@size-limit/preset-app": "4.0.2",
     "@testing-library/react": "9.4.0",
     "@types/progress": "2.0.3",
     "eslint-plugin-import": "2.20.1",
     "eslint-plugin-jest": "23.7.0",
     "gh-pages": "2.2.0",
-    "husky": "4.2.1",
+    "husky": "4.2.3",
     "lint-staged": "10.0.7",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",
     "progress": "2.0.3",
-    "size-limit": "4.0.0",
-    "source-map-explorer": "2.2.2",
+    "size-limit": "4.0.2",
+    "source-map-explorer": "2.3.1",
     "ts-node": "8.6.2"
   },
   "scripts": {
