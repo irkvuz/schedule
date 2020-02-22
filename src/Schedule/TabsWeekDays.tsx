@@ -10,7 +10,7 @@ import moment from 'moment';
 import React, { useEffect, useState } from 'react';
 import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
 import './TabsWeekDays.css';
-import { findNearestDay } from './findNearestDay';
+import { findNearestDay } from '../utils/findNearestDay';
 
 const TabPane = Tabs.TabPane;
 

@@ -4,7 +4,7 @@ import { RouteComponentProps } from 'react-router';
 import api from '../api';
 import { IScheduleOld, ITrimester } from '../constants';
 import SelectGroup from '../SelectGroup';
-import { getWeekNumber } from './getWeekNumber';
+import { getWeekNumber } from '../utils/getWeekNumber';
 import TabsWeekDays from './TabsWeekDays';
 import TrimesterInfo from './TrimesterInfo';
 
