@@ -1,10 +1,10 @@
 import { message } from 'antd';
-import moment from 'moment';
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import api from '../api';
-import { ITrimester, IScheduleOld } from '../constants';
+import { IScheduleOld, ITrimester } from '../constants';
 import SelectGroup from '../SelectGroup';
+import { getWeekNumber } from './getWeekNumber';
 import TabsWeekDays from './TabsWeekDays';
 import TrimesterInfo from './TrimesterInfo';
 
@@ -67,9 +67,7 @@ export default function Schedule(props: Props) {
         const t = await api.getTrimester();
         if (t) {
           setTrimester(t);
-          setWeekNumber(
-            moment().diff(moment(t.dateStart).startOf('week'), 'week') + 1
-          );
+          setWeekNumber(getWeekNumber(t.dateStart));
         }
       } catch (error) {}
     }
