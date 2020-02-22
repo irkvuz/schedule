@@ -1,26 +1,27 @@
 import { Alert } from 'antd';
-import moment from 'moment';
+import { differenceInWeeks, format, getISODay, parseJSON } from 'date-fns';
 import React from 'react';
 import { ITrimester, WEEK_DAY_NAMES } from '../constants';
+import { getWeekNumber } from '../utils/getWeekNumber';
 
 interface Props {
   trimester: ITrimester;
 }
 
 export default function TrimesterInfo(props: Props) {
-  const today = moment();
-  const dateStart = moment(props.trimester.dateStart);
-  const dateFinish = moment(props.trimester.dateFinish);
+  const today = new Date();
+  const dateStart = parseJSON(props.trimester.dateStart);
+  const dateFinish = parseJSON(props.trimester.dateFinish);
 
-  // clone fixes problem with mutability (https://stackoverflow.com/a/30979325/5700024)
-  const week_number = today.diff(dateStart.clone().startOf('week'), 'week') + 1;
+  const week_number = getWeekNumber(props.trimester.dateStart, today);
 
-  const week_total = dateFinish.diff(dateStart, 'week');
+  const week_total = differenceInWeeks(dateFinish, dateStart);
 
   return (
     <>
       <div>
-        Сегодня {WEEK_DAY_NAMES[today.isoWeekday() % 7]}, {today.format('LL')}{' '}
+        Сегодня {WEEK_DAY_NAMES[getISODay(today) % 7]},{' '}
+        {format(today, 'dd.MM.yyyy')},{' '}
         {/* @TODO I need to do something with weeks and semesters */}
         неделя в семестре {week_number} из {week_total}, неделя в году{' '}
         {week_number + 15} из {week_total + 15} (
