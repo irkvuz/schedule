@@ -11,7 +11,9 @@ script:
   - yarn size
 
 deploy:
-  provider: pages:git
-  token: $github_token
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
   local_dir: build
-  edge: true # opt in to dpl v2
+  on:
+    branch: master
