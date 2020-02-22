@@ -1,7 +1,7 @@
 import { ILessonOld } from '../constants/index';
 
 interface Params {
-  /** Номер текущей недели с начала семестра */
+  /** Number of current week in Semester OR Year (depends on method) */
   week_number: number;
   /** Текущий день недели, 0 - sunday, 1 - monday... */
   weekday: number;

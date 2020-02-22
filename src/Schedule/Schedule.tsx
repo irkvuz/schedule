@@ -1,10 +1,10 @@
 import { message } from 'antd';
-import moment from 'moment';
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import api from '../api';
-import { ITrimester, IScheduleOld } from '../constants';
+import { IScheduleOld, ITrimester } from '../constants';
 import SelectGroup from '../SelectGroup';
+import { getWeekNumber } from '../utils/getWeekNumber';
 import TabsWeekDays from './TabsWeekDays';
 import TrimesterInfo from './TrimesterInfo';
 
@@ -13,7 +13,9 @@ export interface MatchParams {
   groupId: string;
 }
 
-export interface Props extends RouteComponentProps<MatchParams> {}
+export interface Props extends RouteComponentProps<MatchParams> {
+  today: Date;
+}
 
 export default function Schedule(props: Props) {
   const [trimester, setTrimester] = useState<ITrimester | undefined>(undefined);
@@ -67,14 +69,12 @@ export default function Schedule(props: Props) {
         const t = await api.getTrimester();
         if (t) {
           setTrimester(t);
-          setWeekNumber(
-            moment().diff(moment(t.dateStart).startOf('week'), 'week') + 1
-          );
+          setWeekNumber(getWeekNumber(t.dateStart, props.today) + 15);
         }
       } catch (error) {}
     }
     loadTrimester();
-  }, []);
+  }, [props.today]);
 
   useEffect(() => {
     if (trimester) loadSchedule(facultyId, groupId, trimester);
@@ -95,12 +95,17 @@ export default function Schedule(props: Props) {
           onChange={handleGroupChange}
         />
       </div>
-      <div>{trimester && <TrimesterInfo trimester={trimester} />}</div>
+      <div>
+        {trimester && (
+          <TrimesterInfo trimester={trimester} today={props.today} />
+        )}
+      </div>
       <div>
         <TabsWeekDays
           loading={loading}
           schedule={schedule}
           week_number={weekNumber}
+          today={props.today}
         />
       </div>
     </>

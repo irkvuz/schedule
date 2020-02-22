@@ -10,6 +10,11 @@ type Props = {
 };
 
 export const Main: React.FC<Props> = ({ isProduction }) => {
+  const search = new URLSearchParams(document.location.search);
+  const today = search.has('today')
+    ? new Date(search.get('today') || '')
+    : new Date();
+
   return (
     <>
       <header>
@@ -25,7 +30,10 @@ export const Main: React.FC<Props> = ({ isProduction }) => {
 
       <div className="content-wrapper">
         <Switch>
-          <Route path="/:facultyId(\d+)/:groupId(\d+)" component={Schedule} />
+          <Route
+            path="/:facultyId(\d+)/:groupId(\d+)"
+            render={(props) => <Schedule {...props} today={today}></Schedule>}
+          />
           <Route path="/:facultyId(\d+)" component={ListGroups} />
           <Route path="/faculties" component={ListFaculties} />
           <Route

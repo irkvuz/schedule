@@ -6,11 +6,11 @@ import {
 import { message, Spin, Switch, Table, Tabs } from 'antd';
 import { ColumnProps } from 'antd/lib/table';
 import { TabsPosition } from 'antd/lib/tabs';
-import moment from 'moment';
+import { getISODay } from 'date-fns';
 import React, { useEffect, useState } from 'react';
 import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
+import { findNearestDay } from '../utils/findNearestDay';
 import './TabsWeekDays.css';
-import { findNearestDay } from './findNearestDay';
 
 const TabPane = Tabs.TabPane;
 
@@ -85,6 +85,7 @@ interface Props {
   loading: boolean;
   schedule?: ILessonOld[];
   week_number: number;
+  today: Date;
 }
 
 interface IWeekDay {
@@ -113,12 +114,12 @@ function TabsWeekDays(props: Props) {
     if (props.schedule === undefined) return;
     const { minWeekday, parity } = findNearestDay({
       week_number: props.week_number,
-      weekday: moment().isoWeekday(),
+      weekday: getISODay(props.today),
       schedule: props.schedule,
     });
     setDefaultActiveKey(String(minWeekday));
     setParity(parity);
-  }, [props.schedule, props.week_number]);
+  }, [props.schedule, props.week_number, props.today]);
 
   const handleParityChange = (parity: boolean) => {
     setParity(parity);
