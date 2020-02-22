@@ -69,7 +69,7 @@ export default function Schedule(props: Props) {
         const t = await api.getTrimester();
         if (t) {
           setTrimester(t);
-          setWeekNumber(getWeekNumber(t.dateStart, props.today));
+          setWeekNumber(getWeekNumber(t.dateStart, props.today) + 15);
         }
       } catch (error) {}
     }
