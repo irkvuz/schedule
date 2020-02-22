@@ -13,10 +13,21 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Информатика 1",
     "LessonType": "л",
     "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Информатика 1",
+    "LessonType": "л",
+    "Room": "12-306",
     "FIO": "Истомина Екатерина Владимировна",
     "FIOshort": "Истомина Е.В.",
     "Error": null

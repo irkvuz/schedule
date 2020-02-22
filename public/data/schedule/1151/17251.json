@@ -178,6 +178,17 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Семейное право",
     "LessonType": "пр",
