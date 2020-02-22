@@ -85,6 +85,7 @@ interface Props {
   loading: boolean;
   schedule?: ILessonOld[];
   week_number: number;
+  today: Date;
 }
 
 interface IWeekDay {
@@ -111,15 +112,14 @@ function TabsWeekDays(props: Props) {
 
   useEffect(() => {
     if (props.schedule === undefined) return;
-    const today = new Date();
     const { minWeekday, parity } = findNearestDay({
       week_number: props.week_number,
-      weekday: getISODay(today),
+      weekday: getISODay(props.today),
       schedule: props.schedule,
     });
     setDefaultActiveKey(String(minWeekday));
     setParity(parity);
-  }, [props.schedule, props.week_number]);
+  }, [props.schedule, props.week_number, props.today]);
 
   const handleParityChange = (parity: boolean) => {
     setParity(parity);

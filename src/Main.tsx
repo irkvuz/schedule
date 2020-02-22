@@ -25,7 +25,12 @@ export const Main: React.FC<Props> = ({ isProduction }) => {
 
       <div className="content-wrapper">
         <Switch>
-          <Route path="/:facultyId(\d+)/:groupId(\d+)" component={Schedule} />
+          <Route
+            path="/:facultyId(\d+)/:groupId(\d+)"
+            render={(props) => (
+              <Schedule {...props} today={new Date()}></Schedule>
+            )}
+          />
           <Route path="/:facultyId(\d+)" component={ListGroups} />
           <Route path="/faculties" component={ListFaculties} />
           <Route

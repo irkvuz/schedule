@@ -13,7 +13,9 @@ export interface MatchParams {
   groupId: string;
 }
 
-export interface Props extends RouteComponentProps<MatchParams> {}
+export interface Props extends RouteComponentProps<MatchParams> {
+  today: Date;
+}
 
 export default function Schedule(props: Props) {
   const [trimester, setTrimester] = useState<ITrimester | undefined>(undefined);
@@ -67,13 +69,12 @@ export default function Schedule(props: Props) {
         const t = await api.getTrimester();
         if (t) {
           setTrimester(t);
-          const today = new Date();
-          setWeekNumber(getWeekNumber(t.dateStart, today));
+          setWeekNumber(getWeekNumber(t.dateStart, props.today));
         }
       } catch (error) {}
     }
     loadTrimester();
-  }, []);
+  }, [props.today]);
 
   useEffect(() => {
     if (trimester) loadSchedule(facultyId, groupId, trimester);
@@ -94,12 +95,17 @@ export default function Schedule(props: Props) {
           onChange={handleGroupChange}
         />
       </div>
-      <div>{trimester && <TrimesterInfo trimester={trimester} />}</div>
+      <div>
+        {trimester && (
+          <TrimesterInfo trimester={trimester} today={props.today} />
+        )}
+      </div>
       <div>
         <TabsWeekDays
           loading={loading}
           schedule={schedule}
           week_number={weekNumber}
+          today={props.today}
         />
       </div>
     </>
