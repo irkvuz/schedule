@@ -29,7 +29,7 @@
     "react-router-dom": "5.0.0",
     "react-scripts": "3.4.0",
     "react-yandex-metrika": "2.6.0",
-    "typescript": "3.7.5"
+    "typescript": "3.8.2"
   },
   "devDependencies": {
     "@size-limit/preset-app": "4.0.2",
