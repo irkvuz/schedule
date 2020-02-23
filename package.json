@@ -20,7 +20,7 @@
     "babel-plugin-import": "1.12.2",
     "customize-cra": "0.9.1",
     "date-fns": "2.9.0",
-    "eslint": "6.1.0",
+    "eslint": "^6.1.0",
     "history": "4.10.1",
     "prop-types": "15.7.2",
     "react": "16.12.0",
