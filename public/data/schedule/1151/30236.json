@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-510",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
@@ -49,7 +38,7 @@
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "1-309",
+    "Room": "1-212",
     "FIO": "Рудяков Василий Анатольевич",
     "FIOshort": "Рудяков В.А.",
     "Error": null
@@ -78,17 +67,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "4-204",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Менеджмент",
@@ -107,17 +85,6 @@
     "Room": "5-514",
     "FIO": "Левченко Владимир Михайлович",
     "FIOshort": "Левченко В.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-201(а)",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {

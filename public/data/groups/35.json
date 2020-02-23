@@ -200,7 +200,7 @@
     "Group": "МЭКрк-18-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30254,

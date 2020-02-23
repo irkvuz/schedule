@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-510",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
@@ -67,17 +56,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "4-204",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Методы принятия решений",
@@ -107,17 +85,6 @@
     "Room": "1-210",
     "FIO": "Касаткина Галина Максимовна",
     "FIOshort": "Касаткина Г.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-201(а)",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {

@@ -34,17 +34,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Введение в профессию",
-    "LessonType": "л",
-    "Room": "5-314",
-    "FIO": "Артамонова Виктория Владимировна",
-    "FIOshort": "Артамонова В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
@@ -57,10 +46,21 @@
   {
     "WeekDay": 2,
     "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Смаколина Елена Викторовна",
+    "FIOshort": "Смаколина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Этика и деонтология социальной работы",
     "LessonType": "л",
-    "Room": "2-112",
+    "Room": "2-212",
     "FIO": "Нефедьева Елена Ивановна",
     "FIOshort": "Нефедьева Е.И.",
     "Error": null
@@ -99,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Деловые коммуникации",
-    "LessonType": "пр",
-    "Room": "10-305",
-    "FIO": "Маклакова Татьяна Борисовна",
-    "FIOshort": "Маклакова Т.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
@@ -145,7 +134,7 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Введение в профессию",
     "LessonType": "л",
     "Room": "2-112",

@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Экономика",
-    "LessonType": "л",
-    "Room": "12-307",
-    "FIO": "Костюк Анна Валерьевна",
-    "FIOshort": "Костюк А.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -162,6 +151,17 @@
     "Room": "12-207",
     "FIO": "Голубова Людмила Викторовна",
     "FIOshort": "Голубова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
     "Error": null
   },
   {

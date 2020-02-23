@@ -12,17 +12,6 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Экономика организации - 2",
-    "LessonType": "л",
-    "Room": "4-412",
-    "FIO": "Янков Юрий Петрович",
-    "FIOshort": "Янков Ю.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Экономика организации - 2",
@@ -155,17 +144,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Менеджмент",
-    "LessonType": "л",
-    "Room": "4-403",
-    "FIO": "Светник Тамара Васильевна",
-    "FIOshort": "Светник Т.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История экономических учений",
@@ -193,6 +171,17 @@
     "Lesson": "Менеджмент",
     "LessonType": "пр",
     "Room": "4-304",
+    "FIO": "Светник Тамара Васильевна",
+    "FIOshort": "Светник Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-412",
     "FIO": "Светник Тамара Васильевна",
     "FIOshort": "Светник Т.В.",
     "Error": null

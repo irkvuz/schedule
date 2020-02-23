@@ -110,17 +110,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Основы коммерческой деятельности",
-    "LessonType": "пр",
-    "Room": "3-703",
-    "FIO": "Астрахан Аркадий Борисович",
-    "FIOshort": "Астрахан А.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,

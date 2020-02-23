@@ -22,6 +22,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -74,17 +85,6 @@
     "Room": "10-103",
     "FIO": "Демина Елена Владимировна",
     "FIOshort": "Демина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Страноведение",
-    "LessonType": "пр",
-    "Room": "10-205",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {

@@ -112,21 +112,21 @@
   {
     "WeekDay": 3,
     "StartTime": "17:30",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Организация безналичных расчетов",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "11-207",
     "FIO": "Ощепкова Лилия Рафаэльевна",
     "FIOshort": "Ощепкова Л.Р.",
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "12:00",
+    "WeekDay": 3,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Организация безналичных расчетов",
-    "LessonType": "пр",
-    "Room": "12-403",
+    "LessonType": "л",
+    "Room": "11-207",
     "FIO": "Ощепкова Лилия Рафаэльевна",
     "FIOshort": "Ощепкова Л.Р.",
     "Error": null
@@ -178,21 +178,10 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
@@ -214,7 +203,7 @@
     "Odd": 0,
     "Lesson": "Учет кредитных операций банка",
     "LessonType": "пр",
-    "Room": "12-303",
+    "Room": "12-208",
     "FIO": "Ощепкова Лилия Рафаэльевна",
     "FIOshort": "Ощепкова Л.Р.",
     "Error": null

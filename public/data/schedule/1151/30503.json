@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Финансовые технологии",
@@ -69,20 +80,9 @@
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Оценка стоимости бизнеса",
-    "LessonType": "пр",
-    "Room": "8-204",
-    "FIO": "Кулижская Жанна Сергеевна",
-    "FIOshort": "Кулижская Ж.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
     "Lesson": "Финансовые технологии",
     "LessonType": "пр",
-    "Room": "2-404",
+    "Room": "8-204",
     "FIO": "Горчакова Мария Евгеньевна",
     "FIOshort": "Горчакова М.Е.",
     "Error": null

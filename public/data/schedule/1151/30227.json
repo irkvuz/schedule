@@ -156,7 +156,7 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-304",
@@ -195,17 +195,6 @@
     "Room": "4-212",
     "FIO": "Рудяков Василий Анатольевич",
     "FIOshort": "Рудяков В.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-304",
-    "FIO": "Маклакова Татьяна Борисовна",
-    "FIOshort": "Маклакова Т.Б.",
     "Error": null
   },
   {

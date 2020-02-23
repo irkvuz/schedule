@@ -700,23 +700,9 @@
     "hasSchedule": true
   },
   {
-    "IdGroup": 30602,
-    "Group": "Фб-17-1",
-    "Course": 3,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 17607,
     "Group": "Фс-16-1",
     "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30601,
-    "Group": "Фф-17-1",
-    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
