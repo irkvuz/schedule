@@ -46,18 +46,7 @@
   {
     "WeekDay": 2,
     "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-301",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Основы философии",
     "LessonType": "л",
     "Room": "11-405",
@@ -85,6 +74,17 @@
     "Room": "11-113",
     "FIO": "Глазова Екатерина Владимировна",
     "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
     "Error": null
   },
   {
@@ -200,31 +200,9 @@
   {
     "WeekDay": 5,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Основы философии",
-    "LessonType": "л",
-    "Room": "11-405",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Менеджмент",
     "LessonType": "л",
-    "Room": "11-405",
-    "FIO": "Лебедева Оксана Викторовна",
-    "FIOshort": "Лебедева О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 2,
-    "Lesson": "Менеджмент",
-    "LessonType": "пр",
     "Room": "11-405",
     "FIO": "Лебедева Оксана Викторовна",
     "FIOshort": "Лебедева О.В.",

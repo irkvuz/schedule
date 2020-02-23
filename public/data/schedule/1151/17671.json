@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Гражданское право",
-    "LessonType": "пр",
-    "Room": "5-404",
-    "FIO": "Пашина Светлана Борисовна",
-    "FIOshort": "Пашина С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 2,
@@ -116,6 +105,17 @@
     "Lesson": "Гражданское право",
     "LessonType": "л",
     "Room": "5-516",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "5-411",
     "FIO": "Пашина Светлана Борисовна",
     "FIOshort": "Пашина С.Б.",
     "Error": null

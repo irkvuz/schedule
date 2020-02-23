@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История (история России, всеобщая история)",
@@ -66,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -101,17 +123,6 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Деловые коммуникации",
-    "LessonType": "пр",
-    "Room": "4-410",
-    "FIO": "Смаколина Елена Викторовна",
-    "FIOshort": "Смаколина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Ботаника",
     "LessonType": "пр",
@@ -123,7 +134,7 @@
   {
     "WeekDay": 5,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "История (история России, всеобщая история)",
     "LessonType": "пр",
     "Room": "4-411",
