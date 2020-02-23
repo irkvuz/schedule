@@ -27,6 +27,10 @@ const json2file = (path: string, obj: any) => {
 
     let faculties = await api.getFaculties();
     json2file(`./public/data/faculties.json`, faculties);
+
+    const file: any = fs.readFileSync(`./public/data/lastUpdate.json`);
+    const lastUpdate = JSON.parse(file);
+
     let facultiesWithGroups: Faculty[] = [];
     for (let f of faculties) {
       let groups = await api.getGroups(f.IdFaculty);
@@ -54,6 +58,11 @@ const json2file = (path: string, obj: any) => {
             );
             return lesson;
           });
+          const file: any = fs.readFileSync(`${dirSchedule}/${g.IdGroup}.json`);
+          const oldSchedule = JSON.parse(file);
+          if (JSON.stringify(schedule) !== JSON.stringify(oldSchedule)) {
+            lastUpdate[g.IdGroup] = new Date();
+          }
           json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
           newFaculty.groups.push(new Group(g));
         }
@@ -63,6 +72,7 @@ const json2file = (path: string, obj: any) => {
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
     }
     json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
+    json2file(`./public/data/lastUpdate.json`, lastUpdate);
   } catch (error) {
     if (error.status) console.log('error.status', error.status);
     if (error.code) console.log('error.code', error.code);
