@@ -2,10 +2,21 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Бизнес-планирование",
     "LessonType": "пр",
-    "Room": "3-704",
+    "Room": "3-404",
+    "FIO": "Санина Людмила Валерьевна",
+    "FIOshort": "Санина Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Бизнес-планирование",
+    "LessonType": "пр",
+    "Room": "5-413",
     "FIO": "Санина Людмила Валерьевна",
     "FIOshort": "Санина Л.В.",
     "Error": null
@@ -63,6 +74,17 @@
     "Room": "4-202",
     "FIO": "Змановская Ольга Викторовна",
     "FIOshort": "Змановская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Антонова Светлана Геннадьевна",
+    "FIOshort": "Антонова С.Г.",
     "Error": null
   },
   {

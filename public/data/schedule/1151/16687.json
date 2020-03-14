@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Антонова Светлана Геннадьевна",
+    "FIOshort": "Антонова С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Аудит",
@@ -126,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Бизнес-планирование",
     "LessonType": "пр",
-    "Room": "3-703",
+    "Room": "3-509",
     "FIO": "Санина Людмила Валерьевна",
     "FIOshort": "Санина Л.В.",
     "Error": null

@@ -98,6 +98,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30791,
+    "Group": "БЛрки-19",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 30118,
     "Group": "Лрки-16",
     "Course": 4,

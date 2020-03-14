@@ -132,28 +132,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык (факультатив)",
-    "LessonType": "пр",
-    "Room": "10-101",
-    "FIO": "Немировская Елена Павловна",
-    "FIOshort": "Немировская Е.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык (факультатив)",
-    "LessonType": "пр",
-    "Room": "10-101",
-    "FIO": "Немировская Елена Павловна",
-    "FIOshort": "Немировская Е.П.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
