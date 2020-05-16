@@ -1,15 +1,11 @@
 import { Menu } from 'antd';
 import React from 'react';
 import { Link, Redirect, Route, Switch } from 'react-router-dom';
-import ym from 'react-yandex-metrika';
 import { ListFaculties, ListGroups } from './Lists';
 import Schedule from './Schedule/Schedule';
+import { reachGoal } from './utils/customYandexMetrika';
 
-type Props = {
-  isProduction: boolean;
-};
-
-export const Main: React.FC<Props> = ({ isProduction }) => {
+export const Main: React.FC = () => {
   const search = new URLSearchParams(document.location.search);
   const today = search.has('today')
     ? new Date(search.get('today') || '')
@@ -57,7 +53,7 @@ export const Main: React.FC<Props> = ({ isProduction }) => {
           target="_blank"
           rel="noopener noreferrer"
           onClick={(event) => {
-            if (isProduction) ym('reachGoal', 'click_vk');
+            reachGoal('click_vk');
           }}
         >
           в Иркутске

@@ -6,6 +6,7 @@ import { Router } from 'react-router-dom';
 import ym, { YMInitializer } from 'react-yandex-metrika';
 import { ErrorBoundary } from './components/ErrorBoundary/ErrorBoundary';
 import { Main } from './Main';
+import { reachGoal } from './utils/customYandexMetrika';
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -21,7 +22,7 @@ const isInStandaloneMode = (): boolean => {
 };
 
 if (isIos() && isInStandaloneMode()) {
-  //   if (isProduction) ym('reachGoal', 'standalone');
+  reachGoal('standalone');
 }
 
 const browserHistory = createBrowserHistory();
@@ -48,7 +49,7 @@ export default function App() {
       )}
       <ConfigProvider locale={ru_RU}>
         <Router history={browserHistory}>
-          <Main isProduction={isProduction} />
+          <Main />
         </Router>
       </ConfigProvider>
     </ErrorBoundary>
