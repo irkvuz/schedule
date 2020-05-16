@@ -9,6 +9,7 @@ import { TabsPosition } from 'antd/lib/tabs';
 import { getISODay } from 'date-fns';
 import React, { useEffect, useState } from 'react';
 import { ILessonOld, WEEK_DAY_NAMES } from '../constants';
+import { reachGoal } from '../utils/customYandexMetrika';
 import { findNearestDay } from '../utils/findNearestDay';
 import './TabsWeekDays.css';
 
@@ -124,6 +125,12 @@ function TabsWeekDays(props: Props) {
   const handleParityChange = (parity: boolean) => {
     setParity(parity);
     message.info(`Показана ${parity ? 'четная' : 'нечетная'} неделя`, 1);
+    reachGoal('toggle_parity');
+  };
+
+  const handleTabChange = (key: string) => {
+    console.log(key);
+    reachGoal('change_weekday');
   };
 
   if (props.loading) return <Spin data-testid="loading-spinner" />;
@@ -186,6 +193,7 @@ function TabsWeekDays(props: Props) {
         defaultActiveKey={defaultActiveKey}
         tabPosition={tabPosition}
         animated={false}
+        onChange={handleTabChange}
       >
         {tabsContent}
       </Tabs>

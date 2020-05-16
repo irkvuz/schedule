@@ -4,6 +4,7 @@ import { RouteComponentProps } from 'react-router';
 import api from '../api';
 import { IScheduleOld, ITrimester } from '../constants';
 import SelectGroup from '../SelectGroup';
+import { reachGoal } from '../utils/customYandexMetrika';
 import { getWeekNumber } from '../utils/getWeekNumber';
 import TabsWeekDays from './TabsWeekDays';
 import TrimesterInfo from './TrimesterInfo';
@@ -84,6 +85,7 @@ export default function Schedule(props: Props) {
     let [facultyId, groupId] = value;
     const url = `/${facultyId}/${groupId}`;
     props.history.push(url);
+    reachGoal('change_group_cascader');
   };
 
   return (
