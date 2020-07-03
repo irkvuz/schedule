@@ -43,7 +43,7 @@
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",
     "progress": "2.0.3",
-    "size-limit": "4.5.2",
+    "size-limit": "4.5.3",
     "source-map-explorer": "2.4.2",
     "ts-node": "8.10.1"
   },
