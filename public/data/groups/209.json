@@ -203,6 +203,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30860,
+    "Group": "ЛХ(9)-19-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 30459,
     "Group": "МВБ-19",
     "Course": 1,
