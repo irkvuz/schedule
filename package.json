@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@size-limit/preset-app": "4.5.4",
-    "@testing-library/react": "9.5.0",
+    "@testing-library/react": "10.4.8",
     "@types/progress": "2.0.3",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-jest": "23.20.0",
