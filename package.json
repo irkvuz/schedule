@@ -1,6 +1,6 @@
 {
   "name": "bgu",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Schedule of Baikal Stete University",
   "main": "src/index.js",
   "repository": "https://github.com/irkvuz/bgu.git",
@@ -15,7 +15,7 @@
     "@types/react": "16.9.43",
     "@types/react-dom": "16.9.8",
     "@types/react-router-dom": "5.1.5",
-    "antd": "4.1.4",
+    "antd": "4.5.4",
     "axios": "0.19.2",
     "babel-plugin-import": "1.13.0",
     "customize-cra": "0.9.1",
@@ -91,7 +91,7 @@
   "size-limit": [
     {
       "path": "build/static/js/*.js",
-      "limit": "250 KB"
+      "limit": "270 KB"
     }
   ]
 }
