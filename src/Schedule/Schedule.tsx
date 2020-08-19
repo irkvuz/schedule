@@ -1,4 +1,5 @@
 import { message } from 'antd';
+import { CascaderValueType } from 'antd/lib/cascader';
 import React, { useEffect, useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import api from '../api';
@@ -81,7 +82,10 @@ export default function Schedule(props: Props) {
     if (trimester) loadSchedule(facultyId, groupId, trimester);
   }, [facultyId, groupId, trimester]);
 
-  const handleGroupChange = (value: string[], selectedOptions?: any) => {
+  const handleGroupChange = (
+    value: CascaderValueType,
+    selectedOptions?: any
+  ) => {
     let [facultyId, groupId] = value;
     const url = `/${facultyId}/${groupId}`;
     props.history.push(url);

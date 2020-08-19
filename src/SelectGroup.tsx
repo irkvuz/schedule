@@ -1,11 +1,18 @@
 import { Cascader, Spin } from 'antd';
-import { CascaderOptionType, FilledFieldNamesType } from 'antd/lib/cascader';
+import {
+  CascaderOptionType,
+  FilledFieldNamesType,
+  CascaderValueType,
+} from 'antd/lib/cascader';
 import React, { useEffect, useState } from 'react';
 import api from './api';
 import { IFacultyWithGroups } from './constants';
 import { MatchParams } from './Schedule/Schedule';
 export interface Props extends MatchParams {
-  onChange: (value: string[], selectedOptions?: CascaderOptionType[]) => void;
+  onChange: (
+    value: CascaderValueType,
+    selectedOptions?: CascaderOptionType[]
+  ) => void;
 }
 
 function SelectGroup(props: Props) {
