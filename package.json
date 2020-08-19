@@ -91,7 +91,7 @@
   "size-limit": [
     {
       "path": "build/static/js/*.js",
-      "limit": "250 KB"
+      "limit": "270 KB"
     }
   ]
 }
