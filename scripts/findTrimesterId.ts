@@ -1,10 +1,18 @@
 import api from './api';
 
-(async function() {
+// @TODO fetch trimesters from bgu.ru instead of brutforcing
+// its availabe on page with schedule
+// http://bgu.ru/help/timetable/timetable.aspx
+// something, like:
+// <input type="hidden" name="ctl00$MainContent$HFids" id="MainContent_HFids" value="1079" />
+// <input type="hidden" name="ctl00$MainContent$HFids2" id="MainContent_HFids2" value="1108" />
+(async function () {
   try {
-    const groups = [30248, 30323];
-    const prevTrimesterId = 1117;
-    const max = 100;
+    // Insert here groups for which there is available schedule on bgu.ru
+    const groups = [17765];
+    const prevTrimesterId = 1342; // first 2020-2021
+    const max = 300;
+    let result = new Set();
 
     for (let groupId of groups) {
       for (
@@ -15,8 +23,12 @@ import api from './api';
         let schedule = await api.getSchedule(groupId, trimesterId);
         // if (schedule.length <= 1) continue;
         console.log(trimesterId, schedule.length);
+        if (schedule.length > 1) {
+          result.add(trimesterId);
+        }
       }
     }
+    console.log('RESULT: ', ...result);
   } catch (error) {
     console.log(error);
   }
