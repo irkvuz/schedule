@@ -32,7 +32,7 @@
     "typescript": "3.9.7"
   },
   "devDependencies": {
-    "@size-limit/preset-app": "4.5.4",
+    "@size-limit/preset-app": "^4.5.7",
     "@testing-library/react": "10.4.8",
     "@types/progress": "2.0.3",
     "eslint-plugin-import": "2.22.0",
@@ -43,7 +43,7 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "progress": "2.0.3",
-    "size-limit": "4.5.5",
+    "size-limit": "^4.5.7",
     "source-map-explorer": "2.4.2",
     "ts-node": "8.10.2"
   },
