@@ -3,6 +3,7 @@
   "packageRules": [
     {
       "updateTypes": ["minor", "patch", "pin", "digest"],
+      "schedule": ["every month"],
       "automerge": true
     }
   ]
