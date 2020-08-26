@@ -7,8 +7,10 @@ import ProgressBar from 'progress';
 import { Faculty, Group } from './types';
 import api from './api';
 
-const TRIMESTER_ID_1 = 1151;
-const TRIMESTER_ID_2 = 1143;
+const VERBOSE = true;
+
+const TRIMESTER_ID_1 = 1171;
+const TRIMESTER_ID_2 = undefined;
 
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
@@ -25,6 +27,7 @@ const json2file = (path: string, obj: any) => {
     let dirSchedule = `./public/data/schedule/${trimesterId}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
+    if (VERBOSE) console.log('Getting faculties');
     let faculties = await api.getFaculties();
     json2file(`./public/data/faculties.json`, faculties);
 
@@ -33,6 +36,9 @@ const json2file = (path: string, obj: any) => {
 
     let facultiesWithGroups: Faculty[] = [];
     for (let f of faculties) {
+      if (VERBOSE) {
+        console.log('Getting groups for', f.IdFaculty, f.FacultyAbbr);
+      }
       let groups = await api.getGroups(f.IdFaculty);
       let newFaculty = new Faculty(f);
       let bar = new ProgressBar(
@@ -46,7 +52,7 @@ const json2file = (path: string, obj: any) => {
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         groups[i].hasSchedule = schedule.length > 1;
-        if (schedule.length <= 1) {
+        if (TRIMESTER_ID_2 && schedule.length <= 1) {
           schedule = await api.getSchedule(g.IdGroup, TRIMESTER_ID_2);
           groups[i].hasSchedule = schedule.length > 1;
         }
@@ -58,12 +64,15 @@ const json2file = (path: string, obj: any) => {
             );
             return lesson;
           });
-          const file: any = fs.readFileSync(`${dirSchedule}/${g.IdGroup}.json`);
-          const oldSchedule = JSON.parse(file);
-          if (JSON.stringify(schedule) !== JSON.stringify(oldSchedule)) {
-            lastUpdate[g.IdGroup] = new Date();
+          const pathToScheduleFile = `${dirSchedule}/${g.IdGroup}.json`;
+          if (fs.existsSync(pathToScheduleFile)) {
+            const file: any = fs.readFileSync(pathToScheduleFile);
+            const oldSchedule = JSON.parse(file);
+            if (JSON.stringify(schedule) !== JSON.stringify(oldSchedule)) {
+              lastUpdate[g.IdGroup] = new Date();
+            }
           }
-          json2file(`${dirSchedule}/${g.IdGroup}.json`, schedule);
+          json2file(pathToScheduleFile, schedule);
           newFaculty.groups.push(new Group(g));
         }
         bar.tick();
@@ -74,8 +83,9 @@ const json2file = (path: string, obj: any) => {
     json2file(`./public/data/facultiesWithGroups.json`, facultiesWithGroups);
     json2file(`./public/data/lastUpdate.json`, lastUpdate);
   } catch (error) {
+    console.error(error);
     if (error.status) console.log('error.status', error.status);
     if (error.code) console.log('error.code', error.code);
-    if (error.config.url) console.log('error.config.url', error.config.url);
+    if (error.config?.url) console.log('error.config.url', error.config.url);
   }
 })();
