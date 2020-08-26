@@ -49,6 +49,7 @@ const json2file = (path: string, obj: any) => {
         }
       );
       for (let i = 0; i < groups.length; i++) {
+        bar.tick();
         let g = groups[i];
         let schedule = await api.getSchedule(g.IdGroup, trimesterId);
         groups[i].hasSchedule = schedule.length > 1;
@@ -71,11 +72,12 @@ const json2file = (path: string, obj: any) => {
             if (JSON.stringify(schedule) !== JSON.stringify(oldSchedule)) {
               lastUpdate[g.IdGroup] = new Date();
             }
+          } else {
+            lastUpdate[g.IdGroup] = new Date();
           }
           json2file(pathToScheduleFile, schedule);
           newFaculty.groups.push(new Group(g));
         }
-        bar.tick();
       }
       if (newFaculty.groups.length > 0) facultiesWithGroups.push(newFaculty);
       json2file(`./public/data/groups/${f.IdFaculty}.json`, groups);
