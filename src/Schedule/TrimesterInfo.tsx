@@ -13,9 +13,17 @@ export default function TrimesterInfo(props: Props) {
   const dateStart = parseJSON(props.trimester.dateStart);
   const dateFinish = parseJSON(props.trimester.dateFinish);
 
-  const week_number = getWeekNumber(props.trimester.dateStart, props.today);
-
-  const week_total = differenceInWeeks(dateFinish, dateStart);
+  const weekNumberInSemester = getWeekNumber(
+    props.trimester.dateStart,
+    props.today
+  );
+  const weeksInSemester = differenceInWeeks(dateFinish, dateStart);
+  /**
+   * In second semestr it shoud be equal to number of weeks in prev simester
+   */
+  const weeksInPrevSemester = 0;
+  const weekNumberInYear = weekNumberInSemester + weeksInPrevSemester;
+  const weeksInYear = weeksInSemester + weeksInPrevSemester;
 
   return (
     <>
@@ -23,15 +31,22 @@ export default function TrimesterInfo(props: Props) {
         Сегодня {WEEK_DAY_NAMES[getISODay(props.today) % 7]},{' '}
         {format(props.today, 'dd.MM.yyyy')},{' '}
         {/* @TODO I need to do something with weeks and semesters */}
-        {/* неделя в семестре {week_number} из {week_total},  */}
-        неделя в году {week_number + 15} из {week_total + 15} (
-        {(week_number + 15) % 2 === 0 ? 'Четная' : 'Нечетная'})
+        {weekNumberInSemester >= 1 && (
+          <>
+            неделя в {weeksInYear === weeksInSemester ? 'семестре' : 'году'}{' '}
+            {weekNumberInYear} из {weeksInYear} (
+            {weekNumberInYear % 2 === 0 ? 'Четная' : 'Нечетная'})
+          </>
+        )}
+        {weekNumberInSemester < 1 && (
+          <>семестр еще не начался, первая неделя будет нечетная</>
+        )}
       </div>
       <div>
         Семестр: {format(dateStart, 'dd.MM.yyyy')} -{' '}
         {format(dateFinish, 'dd.MM.yyyy')}
       </div>
-      {week_number > week_total && (
+      {weekNumberInSemester > weeksInSemester && (
         <Alert
           type="warning"
           showIcon
