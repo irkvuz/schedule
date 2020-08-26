@@ -30,12 +30,6 @@
     "Error": null
   },
   {
-    "IdFaculty": 30,
-    "FacultyName": "Информатики, учета и сервиса",
-    "FacultyAbbr": "ФИУС",
-    "Error": null
-  },
-  {
     "IdFaculty": 35,
     "FacultyName": "Международный",
     "FacultyAbbr": "РКФ",

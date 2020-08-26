@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информатика 1",
+    "LessonType": "л",
+    "Room": "11-302",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-413",
+    "FIO": "Классен Ирина Владимировна",
+    "FIOshort": "Классен И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Гаркуша Ольга Николаевна",
+    "FIOshort": "Гаркуша О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Классен Ирина Владимировна",
+    "FIOshort": "Классен И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "л",
+    "Room": "12-302",
+    "FIO": "Тюрюханова Татьяна Леонидовна",
+    "FIOshort": "Тюрюханова Т.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "12-302",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информатика 1",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-401",
+    "FIO": "Классен Ирина Владимировна",
+    "FIOshort": "Классен И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "12-306",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Классен Ирина Владимировна",
+    "FIOshort": "Классен И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Гаркуша Ольга Николаевна",
+    "FIOshort": "Гаркуша О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Тюрюханова Татьяна Леонидовна",
+    "FIOshort": "Тюрюханова Т.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Классен Ирина Владимировна",
+    "FIOshort": "Классен И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Информатика 1",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Информатика 1",
+    "LessonType": "л",
+    "Room": "12-208",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правовое регулирование управленческой деятельности",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Домнина Лилия Петровна",
+    "FIOshort": "Домнина Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Документационное обеспечение управления",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Организация секретарского обслуживания",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "11-403",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация секретарского обслуживания",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Документационное обеспечение управления",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "12-401",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Правовое регулирование управленческой деятельности",
+    "LessonType": "пр",
+    "Room": "12-401",
+    "FIO": "Домнина Лилия Петровна",
+    "FIOshort": "Домнина Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  }
+]

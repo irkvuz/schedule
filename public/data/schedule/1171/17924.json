@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Туристское регионоведение России",
+    "LessonType": "л",
+    "Room": "1-311",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Туристское регионоведение России",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Английский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономический анализ деятельности предприятий индустрии туризма и гостеприимства",
+    "LessonType": "л",
+    "Room": "1-310",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономический анализ деятельности предприятий индустрии туризма и гостеприимства",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Логистика в туризме",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Казачкова Ольга Павловна",
+    "FIOshort": "Казачкова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Логистика в туризме",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Казачкова Ольга Павловна",
+    "FIOshort": "Казачкова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Английский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Специфика протокола в индустрии гостеприимства",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Ржепка Элина Анатольевна",
+    "FIOshort": "Ржепка Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Специфика протокола в индустрии гостеприимства",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Ржепка Элина Анатольевна",
+    "FIOshort": "Ржепка Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организационное поведение",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Организационное поведение",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Корейский язык",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Шалунова Мария Юрьевна",
+    "FIOshort": "Шалунова М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Корейский язык",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Шалунова Мария Юрьевна",
+    "FIOshort": "Шалунова М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Человек и его потребности",
+    "LessonType": "л",
+    "Room": "Онлайн-10",
+    "FIO": "Даниленко Нина Николаевна",
+    "FIOshort": "Даниленко Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Человек и его потребности",
+    "LessonType": "пр",
+    "Room": "Онлайн-10",
+    "FIO": "Даниленко Нина Николаевна",
+    "FIOshort": "Даниленко Н.Н.",
+    "Error": null
+  }
+]

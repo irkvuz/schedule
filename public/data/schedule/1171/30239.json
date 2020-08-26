@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика землеустройства",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика землеустройства",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы риэлторской деятельности",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Гусак Анна Сергеевна",
+    "FIOshort": "Гусак А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы риэлторской деятельности",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Гусак Анна Сергеевна",
+    "FIOshort": "Гусак А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Почвоведение и гидрология",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Почвоведение и гидрология",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Картография",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Почвоведение и гидрология",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Картография",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Практический курс английского языка",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Косяков Виталий Александрович",
+    "FIOshort": "Косяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Практический курс английского языка",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы двустороннего устного перевода",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Введение в языкознание",
+    "LessonType": "л",
+    "Room": "6-409",
+    "FIO": "Баребина Наталья Сергеевна",
+    "FIOshort": "Баребина Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "6-409",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Введение в языкознание",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Баребина Наталья Сергеевна",
+    "FIOshort": "Баребина Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Практический курс английского языка",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Косяков Виталий Александрович",
+    "FIOshort": "Косяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Практический курс английского языка",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Почасовик Почасовик Почасовик",
+    "FIOshort": "Почасовик П.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Сю Василий Шаньлуевич",
+    "FIOshort": "Сю В.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Сю Василий Шаньлуевич",
+    "FIOshort": "Сю В.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Сю Василий Шаньлуевич",
+    "FIOshort": "Сю В.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Сю Василий Шаньлуевич",
+    "FIOshort": "Сю В.Ш.",
+    "Error": null
+  }
+]

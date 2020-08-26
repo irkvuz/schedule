@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Модели и методы прогнозирования",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Модели и методы прогнозирования",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Программирование в системе 1С: Предприятие",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Программирование в системе 1С: Предприятие",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Программирование в системе 1С: Предприятие",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информационная безопасность",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационная безопасность",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Исследование операций",
+    "LessonType": "пр",
+    "Room": "Онлайн-4",
+    "FIO": "Ованесян Сергей Суренович",
+    "FIOshort": "Ованесян С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Исследование операций",
+    "LessonType": "л",
+    "Room": "Онлайн-4",
+    "FIO": "Ованесян Сергей Суренович",
+    "FIOshort": "Ованесян С.С.",
+    "Error": null
+  }
+]

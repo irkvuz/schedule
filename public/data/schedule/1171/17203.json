@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Компьютерные информационные системы учета",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Гущина Ольга Геннадьевна",
+    "FIOshort": "Гущина О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Запреты и ограничения внешнеторговой деятельности",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Федотов Дмитрий Юрьевич",
+    "FIOshort": "Федотов Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Запреты и ограничения внешнеторговой деятельности",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Федотов Дмитрий Юрьевич",
+    "FIOshort": "Федотов Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Компьютерные информационные системы учета",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Гущина Ольга Геннадьевна",
+    "FIOshort": "Гущина О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и система платежей в бюджет государства",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Измайлова Мария Олеговна",
+    "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоги и система платежей в бюджет государства",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Измайлова Мария Олеговна",
+    "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "4-403",
+    "FIO": "Жмуров Дмитрий Витальевич",
+    "FIOshort": "Жмуров Д.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Жмуров Дмитрий Витальевич",
+    "FIOshort": "Жмуров Д.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "пр",
+    "Room": "4-406",
+    "FIO": "Гущина Ольга Геннадьевна",
+    "FIOshort": "Гущина О.Г.",
+    "Error": null
+  }
+]

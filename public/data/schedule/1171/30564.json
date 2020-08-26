@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История государства и права зарубежных стран",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Логика",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Корнакова Светлана Викторовна",
+    "FIOshort": "Корнакова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Специальная подготовка (часть 1)",
+    "LessonType": "пр",
+    "Room": "5-512",
+    "FIO": "Преловский Александр Александрович",
+    "FIOshort": "Преловский А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Логика",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Корнакова Светлана Викторовна",
+    "FIOshort": "Корнакова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История государства и права зарубежных стран",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Почасовик Почасовик Почасовик",
+    "FIOshort": "Почасовик П.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы теории национальной безопасности",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Егоров Юрий Николаевич",
+    "FIOshort": "Егоров Ю.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы теории национальной безопасности",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Егоров Юрий Николаевич",
+    "FIOshort": "Егоров Ю.Н.",
+    "Error": null
+  }
+]
