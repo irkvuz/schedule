@@ -2,7 +2,7 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
     "Room": "11-203",
@@ -33,17 +33,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-005",
-    "FIO": "Фаркова Ирина Анатольевна",
-    "FIOshort": "Фаркова И.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 1,
@@ -63,17 +52,6 @@
     "Room": "11-412",
     "FIO": "Молоцило Джамиля Яралиевна",
     "FIOshort": "Молоцило Д.Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "12-101",
-    "FIO": "Фаркова Ирина Анатольевна",
-    "FIOshort": "Фаркова И.А.",
     "Error": null
   },
   {
@@ -151,6 +129,28 @@
     "Room": "5-412",
     "FIO": "Галицкая Кристина Викторовна",
     "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Рябинина Анна Анатольевна",
+    "FIOshort": "Рябинина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Рябинина Анна Анатольевна",
+    "FIOshort": "Рябинина А.А.",
     "Error": null
   }
 ]

@@ -46,17 +46,6 @@
   {
     "WeekDay": 3,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Криминалистика",
-    "LessonType": "л",
-    "Room": "6-304",
-    "FIO": "Фойгель Елена Игоревна",
-    "FIOshort": "Фойгель Е.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Научно-исследовательский семинар",
     "LessonType": "пр",

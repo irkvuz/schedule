@@ -34,22 +34,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Мировая экономика",
-    "LessonType": "л",
-    "Room": "",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
     "Lesson": "Мировая экономика",
     "LessonType": "пр",
-    "Room": "",
+    "Room": "Онлайн-1",
     "FIO": "Кузьмин Юрий Васильевич",
     "FIOshort": "Кузьмин Ю.В.",
     "Error": null
@@ -74,6 +63,28 @@
     "Room": "2-414",
     "FIO": "Медик Ирина Николаевна",
     "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   },
   {
@@ -110,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-303",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
@@ -162,28 +162,6 @@
     "Room": "1-211",
     "FIO": "Федотов Андрей Николаевич",
     "FIOshort": "Федотов А.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-301",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Мировая экономика",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   }
 ]

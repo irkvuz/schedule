@@ -280,6 +280,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30886,
+    "Group": "НБ-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 30391,
     "Group": "ПСО(11)-19-1",
     "Course": 2,
@@ -378,6 +385,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30875,
+    "Group": "ПСО(11)-20-9",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17671,
     "Group": "ПСО(9)-18-1",
     "Course": 3,
@@ -457,6 +471,13 @@
   {
     "IdGroup": 30864,
     "Group": "ПСО(9)-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30876,
+    "Group": "ПСО(9)-20-6",
     "Course": 1,
     "Error": null,
     "hasSchedule": false
@@ -593,6 +614,20 @@
     "Course": 1,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30884,
+    "Group": "Ю-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30885,
+    "Group": "Ю-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   },
   {
     "IdGroup": 17176,

@@ -1,7 +1,29 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Пузикова Анастасия Витальевна",
+    "FIOshort": "Пузикова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
@@ -63,28 +85,6 @@
     "Room": "5-409",
     "FIO": "Корнакова Светлана Викторовна",
     "FIOshort": "Корнакова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Математика",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Лапаева Татьяна Николаевна",
-    "FIOshort": "Лапаева Т.Н.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -228,6 +217,17 @@
     "Room": "11-207",
     "FIO": "Медведева Олеся Васильевна",
     "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "11-204",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
     "Error": null
   }
 ]

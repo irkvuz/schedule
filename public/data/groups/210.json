@@ -70,6 +70,20 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30888,
+    "Group": "Ж-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30889,
+    "Group": "Ж-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 17432,
     "Group": "ИC(9)-17-1",
     "Course": 4,
@@ -140,6 +154,20 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30873,
+    "Group": "ИC(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30880,
+    "Group": "ИC(9)-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 18172,
     "Group": "ИГН-18-1",
     "Course": 3,
@@ -157,6 +185,13 @@
     "IdGroup": 30586,
     "Group": "ИГН-20-1",
     "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30222,
+    "Group": "ИЗИ-19-1",
+    "Course": 2,
     "Error": null,
     "hasSchedule": true
   },
@@ -229,6 +264,13 @@
     "Course": 1,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30874,
+    "Group": "ИС(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   },
   {
     "IdGroup": 30303,
@@ -390,5 +432,12 @@
     "Course": 1,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30887,
+    "Group": "РСО-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   }
 ]

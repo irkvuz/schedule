@@ -18,7 +18,7 @@
     "Group": "ГС(9)-18-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30380,
@@ -46,7 +46,7 @@
     "Group": "ГС(9)-20-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30381,
@@ -466,7 +466,7 @@
     "Group": "Т(9)-18-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30384,
@@ -600,6 +600,20 @@
     "Course": 1,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30882,
+    "Group": "ТД-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30883,
+    "Group": "ТД-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   },
   {
     "IdGroup": 17371,

@@ -22,6 +22,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -67,17 +78,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-409",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика 1",
@@ -96,6 +96,17 @@
     "Room": "11-409",
     "FIO": "Сулима Мария Яковлевна",
     "FIOshort": "Сулима М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-409",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
@@ -137,7 +148,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "12-101",
+    "Room": "12-205",
     "FIO": "Желан Ирина Викторовна",
     "FIOshort": "Желан И.В.",
     "Error": null
@@ -148,7 +159,7 @@
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "12-101",
+    "Room": "12-205",
     "FIO": "Лапаева Татьяна Николаевна",
     "FIOshort": "Лапаева Т.Н.",
     "Error": null
@@ -159,31 +170,9 @@
     "Odd": 2,
     "Lesson": "Астрономия",
     "LessonType": "л",
-    "Room": "12-101",
+    "Room": "12-409",
     "FIO": "Щербина Татьяна Анатольевна",
     "FIOshort": "Щербина Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "12-101",
-    "FIO": "Лапаева Татьяна Николаевна",
-    "FIOshort": "Лапаева Т.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-101",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
@@ -214,7 +203,18 @@
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-101",
+    "Room": "12-301",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-207",
     "FIO": "Вершинина Ирина Николаевна",
     "FIOshort": "Вершинина И.Н.",
     "Error": null

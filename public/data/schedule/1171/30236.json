@@ -143,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-303",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
@@ -176,12 +165,23 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
+    "WeekDay": 6,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "5-301",
+    "Room": "10-202",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-202",
     "FIO": "Волкова Светлана Борисовна",
     "FIOshort": "Волкова С.Б.",
     "Error": null

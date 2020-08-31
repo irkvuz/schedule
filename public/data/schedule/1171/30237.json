@@ -34,22 +34,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
     "Lesson": "Мировая экономика",
     "LessonType": "пр",
-    "Room": "",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Мировая экономика",
-    "LessonType": "л",
-    "Room": "",
+    "Room": "Онлайн-1",
     "FIO": "Кузьмин Юрий Васильевич",
     "FIOshort": "Кузьмин Ю.В.",
     "Error": null
@@ -74,6 +63,28 @@
     "Room": "2-315",
     "FIO": "Медик Ирина Николаевна",
     "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   },
   {
@@ -110,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-303",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
@@ -165,25 +165,25 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
+    "WeekDay": 6,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "5-301",
+    "Room": "10-202",
     "FIO": "Волкова Светлана Борисовна",
     "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Мировая экономика",
+    "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
+    "Room": "10-202",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
     "Error": null
   }
 ]

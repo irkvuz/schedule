@@ -143,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-303",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
@@ -187,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "5-301",
-    "FIO": "Волкова Светлана Борисовна",
-    "FIOshort": "Волкова С.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -217,28 +195,6 @@
     "Room": "Онлайн-8",
     "FIO": "Трофимов Евгений Александрович",
     "FIOshort": "Трофимов Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-15",
-    "FIO": "Курьянова Светлана Александровна",
-    "FIOshort": "Курьянова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-15",
-    "FIO": "Курьянова Светлана Александровна",
-    "FIOshort": "Курьянова С.А.",
     "Error": null
   }
 ]

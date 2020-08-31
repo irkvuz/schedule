@@ -121,23 +121,23 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 2,
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
     "Lesson": "Технология и организация сопровождения туристов",
     "LessonType": "пр",
-    "Room": "11-210",
+    "Room": "11-306",
     "FIO": "Казачкова Ольга Павловна",
     "FIOshort": "Казачкова О.П.",
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
     "Lesson": "Технология и организация сопровождения туристов",
     "LessonType": "пр",
-    "Room": "11-210",
+    "Room": "11-306",
     "FIO": "Казачкова Ольга Павловна",
     "FIOshort": "Казачкова О.П.",
     "Error": null

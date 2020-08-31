@@ -12,11 +12,33 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Пузикова Анастасия Витальевна",
+    "FIOshort": "Пузикова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "3-702",
+    "Room": "3-703",
     "FIO": "Сю Василий Шаньлуевич",
     "FIOshort": "Сю В.Ш.",
     "Error": null
@@ -27,7 +49,7 @@
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "пр",
-    "Room": "3-702",
+    "Room": "3-703",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
     "Error": null
@@ -38,7 +60,7 @@
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "3-702",
+    "Room": "3-703",
     "FIO": "Зверева Ольга Юрьевна",
     "FIOshort": "Зверева О.Ю.",
     "Error": null
