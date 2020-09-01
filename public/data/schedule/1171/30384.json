@@ -101,7 +101,7 @@
   {
     "WeekDay": 3,
     "StartTime": "8:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "12-402",
@@ -123,7 +123,7 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "12-402",
@@ -192,7 +192,7 @@
     "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "11-107",
+    "Room": "11-112",
     "FIO": "Кольцова Алла Викторовна",
     "FIOshort": "Кольцова А.В.",
     "Error": null

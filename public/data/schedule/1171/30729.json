@@ -58,11 +58,11 @@
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Lesson": "Естествознание",
     "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "",
-    "FIOshort": "",
+    "Room": "12-408",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
     "Error": null
   },
   {
@@ -199,28 +199,6 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "История 1",
-    "LessonType": "л",
-    "Room": "12-206",
-    "FIO": "Торшин Игорь Викторович",
-    "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "12-206",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Основы безопасности жизнедеятельности",
@@ -228,6 +206,28 @@
     "Room": "12-206",
     "FIO": "Баянова Елена Владимировна",
     "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
     "Error": null
   }
 ]

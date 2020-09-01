@@ -147,6 +147,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30890,
+    "Group": "КТ(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 17252,
     "Group": "Л-17-1",
     "Course": 4,
@@ -606,14 +613,14 @@
     "Group": "ТД-20-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30883,
     "Group": "ТД-20-4",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17371,

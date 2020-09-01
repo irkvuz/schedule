@@ -147,8 +147,8 @@
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Высшая математика",
-    "LessonType": "л",
-    "Room": "2-307",
+    "LessonType": "пр",
+    "Room": "2-412",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null
@@ -158,8 +158,8 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Высшая математика",
-    "LessonType": "пр",
-    "Room": "2-307",
+    "LessonType": "л",
+    "Room": "2-416",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null

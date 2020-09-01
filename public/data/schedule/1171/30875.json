@@ -1,0 +1,24 @@
+[
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Рымзина Светлана Борисовна",
+    "FIOshort": "Рымзина С.Б.",
+    "Error": null
+  }
+]
