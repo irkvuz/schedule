@@ -187,12 +187,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "19:15",
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык (профессиональный)",
     "LessonType": "пр",
-    "Room": "Онлайн-12",
+    "Room": "Онлайн-14",
     "FIO": "Латышева Валентина Александровна",
     "FIOshort": "Латышева В.А.",
     "Error": null
