@@ -33,36 +33,14 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-303",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "",
+    "Lesson": "Обществознание (включая экономику и право)",
     "LessonType": "л",
-    "Room": "",
-    "FIO": "",
-    "FIOshort": "",
+    "Room": "12-305",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
     "Error": null
   },
   {
@@ -78,24 +56,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-206",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "",
+    "Lesson": "Обществознание (включая экономику и право)",
     "LessonType": "л",
     "Room": "12-206",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
     "Error": null
   },
   {
@@ -104,7 +71,7 @@
     "Odd": 1,
     "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "12-206",
+    "Room": "",
     "FIO": "Головина Татьяна Александровна",
     "FIOshort": "Головина Т.А.",
     "Error": null
@@ -115,7 +82,7 @@
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-206",
+    "Room": "",
     "FIO": "Головина Татьяна Александровна",
     "FIOshort": "Головина Т.А.",
     "Error": null
@@ -134,23 +101,23 @@
   {
     "WeekDay": 4,
     "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
+    "Odd": 2,
+    "Lesson": "Обществознание (включая экономику и право)",
     "LessonType": "л",
     "Room": "11-001",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "пр",
     "Room": "11-001",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
     "Error": null
   },
   {
@@ -189,12 +156,12 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-302",
-    "FIO": "",
-    "FIOshort": "",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
     "Error": null
   }
 ]

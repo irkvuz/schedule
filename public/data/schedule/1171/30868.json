@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-404",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Естествознание",
@@ -45,39 +34,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
@@ -85,28 +41,6 @@
     "Room": "12-405",
     "FIO": "Рахвалова Юлия Анатольевна",
     "FIOshort": "Рахвалова Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "",
-    "LessonType": "л",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   },
   {

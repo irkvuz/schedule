@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "География туризма",
-    "LessonType": "пр",
-    "Room": "12-205",
-    "FIO": "Палкин Олег Юрьевич",
-    "FIOshort": "Палкин О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -118,6 +107,17 @@
     "Room": "12-205",
     "FIO": "Ефимцева Ирина Андреевна",
     "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "География туризма",
+    "LessonType": "пр",
+    "Room": "12-404",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
     "Error": null
   },
   {

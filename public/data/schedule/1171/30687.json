@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -217,17 +228,6 @@
     "Room": "5-502",
     "FIO": "Чигрина Елена Владимировна",
     "FIOshort": "Чигрина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Гражданское право",
-    "LessonType": "пр",
-    "Room": "5-502",
-    "FIO": "Хабдаев Александр Максимович",
-    "FIOshort": "Хабдаев А.М.",
     "Error": null
   },
   {

@@ -340,7 +340,7 @@
     "Group": "ПСО(11)-20-10",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30688,

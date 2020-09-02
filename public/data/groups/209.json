@@ -522,7 +522,7 @@
     "Group": "ТХ(9)-20-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17326,

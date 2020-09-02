@@ -45,17 +45,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Социология",
-    "LessonType": "л",
-    "Room": "2-307",
-    "FIO": "Седых Ольга Геннадьевна",
-    "FIOshort": "Седых О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Социология",
@@ -111,17 +100,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "л",
-    "Room": "2-416",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -157,11 +135,11 @@
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "История отечественной литературы",
-    "LessonType": "пр",
-    "Room": "2-217",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {
@@ -170,7 +148,7 @@
     "Odd": 0,
     "Lesson": "История отечественной литературы",
     "LessonType": "л",
-    "Room": "2-217",
+    "Room": "2-416",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
     "Error": null

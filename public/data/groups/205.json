@@ -35,6 +35,20 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30898,
+    "Group": "БД(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30899,
+    "Group": "БД(11)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 17683,
     "Group": "БД(9)-18-1",
     "Course": 3,
@@ -107,6 +121,13 @@
   {
     "IdGroup": 30727,
     "Group": "БУ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30896,
+    "Group": "БУ(11)-20-2",
     "Course": 1,
     "Error": null,
     "hasSchedule": true
@@ -600,6 +621,13 @@
     "Course": 1,
     "Error": null,
     "hasSchedule": true
+  },
+  {
+    "IdGroup": 30897,
+    "Group": "Ф(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   },
   {
     "IdGroup": 18176,

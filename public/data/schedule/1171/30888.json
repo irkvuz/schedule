@@ -1,0 +1,57 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы теории журналистики",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  }
+]

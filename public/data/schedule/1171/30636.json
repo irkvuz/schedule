@@ -13,56 +13,12 @@
   {
     "WeekDay": 2,
     "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
-    "LessonType": "пр",
-    "Room": "3-902",
-    "FIO": "Баева Ольга Николаевна",
-    "FIOshort": "Баева О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
-    "LessonType": "пр",
-    "Room": "3-902",
-    "FIO": "Казарина Лариса Анатольевна",
-    "FIOshort": "Казарина Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Стратегический менеджмент (Strategic Management)",
     "LessonType": "л",
     "Room": "3-902",
     "FIO": "Метелева Елена Растиславна",
     "FIOshort": "Метелева Е.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "19:15",
-    "Odd": 2,
-    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
-    "LessonType": "л",
-    "Room": "3-902",
-    "FIO": "Баева Ольга Николаевна",
-    "FIOshort": "Баева О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "19:15",
-    "Odd": 2,
-    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
-    "LessonType": "л",
-    "Room": "3-902",
-    "FIO": "Казарина Лариса Анатольевна",
-    "FIOshort": "Казарина Л.А.",
     "Error": null
   },
   {
@@ -173,6 +129,28 @@
     "Room": "3-804",
     "FIO": "Рыбалко Михаил Леонидович",
     "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
     "Error": null
   }
 ]

@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Оценка бизнеса",
-    "LessonType": "л",
-    "Room": "3-806",
-    "FIO": "Жижко Ирина Борисовна",
-    "FIOshort": "Жижко И.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Управление проектами",
@@ -30,6 +19,17 @@
     "Room": "3-806",
     "FIO": "Ковалевская Наталья Юрьевна",
     "FIOshort": "Ковалевская Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
     "Error": null
   },
   {

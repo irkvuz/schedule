@@ -61,8 +61,8 @@
     "Lesson": "Физическая культура",
     "LessonType": "л",
     "Room": "2-215",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {
@@ -111,13 +111,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Библиография",
     "LessonType": "л",
-    "Room": "4-302",
+    "Room": "",
     "FIO": "Ермошкина Римма Леонидовна",
     "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-307",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
     "Error": null
   },
   {
@@ -127,8 +138,8 @@
     "Lesson": "Философия",
     "LessonType": "л",
     "Room": "2-307",
-    "FIO": "Зверева Ольга Юрьевна",
-    "FIOshort": "Зверева О.Ю.",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
     "Error": null
   },
   {
@@ -184,28 +195,6 @@
     "Room": "Онлайн-7",
     "FIO": "Трофимов Евгений Александрович",
     "FIOshort": "Трофимов Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "2-313",
-    "FIO": "Зверева Ольга Юрьевна",
-    "FIOshort": "Зверева О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "2-313",
-    "FIO": "Зверева Ольга Юрьевна",
-    "FIOshort": "Зверева О.Ю.",
     "Error": null
   }
 ]

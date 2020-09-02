@@ -34,17 +34,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Черкашин Александр Витальевич",
-    "FIOshort": "Черкашин А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русский язык",
@@ -66,14 +55,14 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "11-401",
-    "FIO": "Головина Татьяна Александровна",
-    "FIOshort": "Головина Т.А.",
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
     "Error": null
   },
   {

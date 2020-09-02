@@ -99,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,

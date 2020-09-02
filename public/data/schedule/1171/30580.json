@@ -25,11 +25,11 @@
     "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Lesson": "Философия",
     "LessonType": "л",
     "Room": "4-412",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
     "Error": null
   },
   {
@@ -122,17 +122,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "л",
-    "Room": "4-411",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -167,6 +156,17 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "пр",

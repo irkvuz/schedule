@@ -74,7 +74,7 @@
     "Group": "КТ(11)-20-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 17678,
@@ -457,6 +457,13 @@
   {
     "IdGroup": 30706,
     "Group": "Т(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30895,
+    "Group": "Т(11)-20-3",
     "Course": 1,
     "Error": null,
     "hasSchedule": true
