@@ -123,10 +123,21 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Естествознание",
     "LessonType": "пр",
-    "Room": "11-107",
+    "Room": "11-305",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "11-414",
     "FIO": "Никиткина Виктория Владимировна",
     "FIOshort": "Никиткина В.В.",
     "Error": null
@@ -189,6 +200,17 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "л",
@@ -200,10 +222,21 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "л",
-    "Room": "12-205",
+    "Room": "12-004",
     "FIO": "Гусевская Ольга Анатольевна",
     "FIOshort": "Гусевская О.А.",
     "Error": null
