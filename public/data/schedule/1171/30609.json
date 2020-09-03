@@ -34,6 +34,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Рыков Виктор Михайлович",
+    "FIOshort": "Рыков В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Философия",
@@ -52,6 +63,17 @@
     "Room": "3-602",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "3-705",
+    "FIO": "Рыков Виктор Михайлович",
+    "FIOshort": "Рыков В.М.",
     "Error": null
   },
   {
@@ -93,7 +115,7 @@
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "л",
-    "Room": "3-705",
+    "Room": "1-207",
     "FIO": "Чигрина Елена Владимировна",
     "FIOshort": "Чигрина Е.В.",
     "Error": null
@@ -151,28 +173,6 @@
     "Room": "3-602",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "л",
-    "Room": "3-602",
-    "FIO": "Рыков Виктор Михайлович",
-    "FIOshort": "Рыков В.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "3-602",
-    "FIO": "Рыков Виктор Михайлович",
-    "FIOshort": "Рыков В.М.",
     "Error": null
   }
 ]

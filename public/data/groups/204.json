@@ -200,7 +200,7 @@
     "Group": "ММО-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true
   },
   {
     "IdGroup": 30613,

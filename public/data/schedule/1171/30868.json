@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-405",
+    "FIO": "Кадос Лариса Витальевна",
+    "FIOshort": "Кадос Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русский язык",
@@ -99,19 +110,8 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "12-306",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Естествознание",
     "LessonType": "пр",

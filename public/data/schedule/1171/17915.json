@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Политология",
-    "LessonType": "л",
-    "Room": "2-311",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -184,6 +173,17 @@
     "Room": "1-209",
     "FIO": "Кожевина Анна Павловна",
     "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
     "Error": null
   }
 ]

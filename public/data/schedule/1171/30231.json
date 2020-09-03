@@ -133,6 +133,28 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Практический курс китайского языка",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Практический курс китайского языка",
@@ -151,28 +173,6 @@
     "Room": "10-204",
     "FIO": "Шулунова Ольга Васильевна",
     "FIOshort": "Шулунова О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Практический курс китайского языка",
-    "LessonType": "пр",
-    "Room": "5-312",
-    "FIO": "Пяо Мэйшань",
-    "FIOshort": "Пяо М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Практический курс китайского языка",
-    "LessonType": "пр",
-    "Room": "5-312",
-    "FIO": "Пяо Мэйшань",
-    "FIOshort": "Пяо М.",
     "Error": null
   }
 ]

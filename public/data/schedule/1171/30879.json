@@ -89,13 +89,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "11-310",
     "FIO": "Кожевникова Анна Дмитриевна",
     "FIOshort": "Кожевникова А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
     "Error": null
   },
   {
@@ -110,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -118,6 +140,17 @@
     "Room": "11-414",
     "FIO": "Гусевская Ольга Анатольевна",
     "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "11-414",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
     "Error": null
   },
   {

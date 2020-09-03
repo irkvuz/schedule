@@ -55,17 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Информатика",
-    "LessonType": "л",
-    "Room": "5-413",
-    "FIO": "Дружинина Ирина Борисовна",
-    "FIOshort": "Дружинина И.Б.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -111,79 +100,46 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "11-412",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Естествознание",
-    "LessonType": "пр",
-    "Room": "11-412",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Дружинина Ирина Борисовна",
-    "FIOshort": "Дружинина И.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Информатика",
-    "LessonType": "л",
-    "Room": "11-202",
-    "FIO": "Дружинина Ирина Борисовна",
-    "FIOshort": "Дружинина И.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
-    "Room": "11-413",
+    "Room": "12-306",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "11-413",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
+    "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Информатика",
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-306",
+    "FIO": "Кадос Лариса Витальевна",
+    "FIOshort": "Кадос Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
     "LessonType": "пр",
-    "Room": "11-304",
-    "FIO": "Дружинина Ирина Борисовна",
-    "FIOshort": "Дружинина И.Б.",
+    "Room": "11-005",
+    "FIO": "Кадос Лариса Витальевна",
+    "FIOshort": "Кадос Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
     "Error": null
   },
   {

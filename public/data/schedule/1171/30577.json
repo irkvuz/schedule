@@ -34,6 +34,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Рыков Виктор Михайлович",
+    "FIOshort": "Рыков В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык для делового общения",
@@ -78,6 +89,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "3-705",
+    "FIO": "Рыков Виктор Михайлович",
+    "FIOshort": "Рыков В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
@@ -96,17 +118,6 @@
     "Room": "3-705",
     "FIO": "Арбатская Елена Анатольевна",
     "FIOshort": "Арбатская Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "3-603",
-    "FIO": "Зверева Ольга Юрьевна",
-    "FIOshort": "Зверева О.Ю.",
     "Error": null
   },
   {
@@ -155,6 +166,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -195,28 +217,6 @@
     "Room": "3-602",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "3-602",
-    "FIO": "Рыков Виктор Михайлович",
-    "FIOshort": "Рыков В.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "л",
-    "Room": "3-602",
-    "FIO": "Рыков Виктор Михайлович",
-    "FIOshort": "Рыков В.М.",
     "Error": null
   }
 ]
