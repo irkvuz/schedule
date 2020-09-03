@@ -1,6 +1,28 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Русский язык (продвинутый курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Русский язык (продвинутый курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Конфликтология",
@@ -8,6 +30,17 @@
     "Room": "10-104",
     "FIO": "Воронцова Евгения Геннадьевна",
     "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык (продвинутый курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
     "Error": null
   },
   {
@@ -24,34 +57,23 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык (продвинутый курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Конфликтология",
     "LessonType": "пр",
     "Room": "10-104",
     "FIO": "Воронцова Евгения Геннадьевна",
     "FIOshort": "Воронцова Е.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык (продвинутый курс)",
-    "LessonType": "пр",
-    "Room": "10-101",
-    "FIO": "Лидина Ирина Юрьевна",
-    "FIOshort": "Лидина И.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык (продвинутый курс)",
-    "LessonType": "пр",
-    "Room": "10-102",
-    "FIO": "Лидина Ирина Юрьевна",
-    "FIOshort": "Лидина И.Ю.",
     "Error": null
   },
   {

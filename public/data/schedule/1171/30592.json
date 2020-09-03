@@ -69,22 +69,22 @@
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "",
-    "FIOshort": "",
+    "Room": "1-310",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "12:00",
+    "WeekDay": 2,
+    "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
     "Error": null
   },
   {
@@ -140,6 +140,17 @@
     "Room": "5-214",
     "FIO": "Антипина Наталья Валерьевна",
     "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {

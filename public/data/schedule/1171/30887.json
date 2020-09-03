@@ -72,8 +72,8 @@
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-103",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
     "Error": null
   },
   {
@@ -99,12 +99,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "10:15",
+    "WeekDay": 4,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "2-404",
+    "Room": "2-405",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null

@@ -187,17 +187,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-405",
-    "FIO": "Кольцова Алла Викторовна",
-    "FIOshort": "Кольцова А.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 1,

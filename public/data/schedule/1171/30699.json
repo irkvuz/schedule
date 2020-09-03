@@ -121,12 +121,12 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 1,
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "12-306",
+    "Room": "11-413",
     "FIO": "Рахвалова Юлия Анатольевна",
     "FIOshort": "Рахвалова Ю.А.",
     "Error": null
@@ -140,17 +140,6 @@
     "Room": "12-403",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "12-403",
-    "FIO": "Рахвалова Юлия Анатольевна",
-    "FIOshort": "Рахвалова Ю.А.",
     "Error": null
   },
   {
@@ -176,23 +165,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
+    "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-001",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-001",
+    "Room": "12-206",
     "FIO": "Вершинина Ирина Николаевна",
     "FIOshort": "Вершинина И.Н.",
     "Error": null
