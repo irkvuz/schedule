@@ -23,22 +23,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русский язык и культура речи",
-    "LessonType": "л",
-    "Room": "2-209",
+    "LessonType": "пр",
+    "Room": "2-311",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Русский язык и культура речи",
-    "LessonType": "пр",
-    "Room": "2-209",
+    "LessonType": "л",
+    "Room": "2-311",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
     "Error": null

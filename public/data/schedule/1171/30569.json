@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Правоохранительные органы в РФ",
-    "LessonType": "пр",
-    "Room": "6-304",
-    "FIO": "Сизова Майя Сергеевна",
-    "FIOshort": "Сизова М.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 2,
@@ -118,6 +107,17 @@
     "Room": "5-308",
     "FIO": "Архипкин Игорь Валерьевич",
     "FIOshort": "Архипкин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "пр",
+    "Room": "6-401",
+    "FIO": "Сизова Майя Сергеевна",
+    "FIOshort": "Сизова М.С.",
     "Error": null
   },
   {

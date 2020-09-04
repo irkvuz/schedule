@@ -152,5 +152,27 @@
     "FIO": "Балиновская Дина Владимировна",
     "FIOshort": "Балиновская Д.В.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-19",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-19",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
   }
 ]

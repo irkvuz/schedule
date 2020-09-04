@@ -163,5 +163,27 @@
     "FIO": "Федотов Андрей Николаевич",
     "FIOshort": "Федотов А.Н.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
   }
 ]

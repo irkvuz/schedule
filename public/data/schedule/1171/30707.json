@@ -144,17 +144,6 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-207",
-    "FIO": "Вершинина Ирина Николаевна",
-    "FIOshort": "Вершинина И.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Физическая культура",

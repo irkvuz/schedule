@@ -1,39 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Основы бухгалтерского учета",
-    "LessonType": "л",
-    "Room": "5-404",
-    "FIO": "Юсупова Галина Валерьевна",
-    "FIOshort": "Юсупова Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Основы бухгалтерского учета",
-    "LessonType": "пр",
-    "Room": "5-404",
-    "FIO": "Юсупова Галина Валерьевна",
-    "FIOshort": "Юсупова Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Основы бухгалтерского учета",
-    "LessonType": "пр",
-    "Room": "5-404",
-    "FIO": "Юсупова Галина Валерьевна",
-    "FIOshort": "Юсупова Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Безопасность жизнедеятельности",

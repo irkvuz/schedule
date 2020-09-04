@@ -3,11 +3,22 @@
     "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык (профессиональный)",
+    "Lesson": "Английский язык (профессиональный)",
     "LessonType": "пр",
     "Room": "1-402",
     "FIO": "Глызина Вера Евгеньевна",
     "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-401",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -58,11 +69,22 @@
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык (профессиональный)",
+    "Lesson": "Английский язык (профессиональный)",
     "LessonType": "пр",
     "Room": "1-402",
     "FIO": "Глызина Вера Евгеньевна",
     "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -129,28 +151,6 @@
     "Room": "1-309",
     "FIO": "Прохоренкова Светлана Александровна",
     "FIOshort": "Прохоренкова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (второй)",
-    "LessonType": "пр",
-    "Room": "1-309",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (второй)",
-    "LessonType": "пр",
-    "Room": "1-309",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   }
 ]

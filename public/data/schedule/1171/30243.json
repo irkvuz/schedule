@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Деньги, кредит, банки",
@@ -121,14 +132,14 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
+    "WeekDay": 7,
+    "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "4-305",
-    "FIO": "Малютина Светлана Анатольевна",
-    "FIOshort": "Малютина С.А.",
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
     "Error": null
   }
 ]
