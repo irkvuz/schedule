@@ -199,24 +199,24 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-001",
-    "FIO": "Медведева Людмила Александровна",
-    "FIOshort": "Медведева Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Физика",
     "LessonType": "пр",
-    "Room": "12-001",
+    "Room": "11-005",
     "FIO": "Зарубина Татьяна Александровна",
     "FIOshort": "Зарубина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
     "Error": null
   },
   {

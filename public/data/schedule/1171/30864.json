@@ -2,10 +2,10 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "11-414",
+    "LessonType": "пр",
+    "Room": "11-308",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
     "Error": null
@@ -30,17 +30,6 @@
     "Room": "11-302",
     "FIO": "Деренко Марина Петровна",
     "FIOshort": "Деренко М.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-405",
-    "FIO": "Головина Татьяна Александровна",
-    "FIOshort": "Головина Т.А.",
     "Error": null
   },
   {
@@ -147,7 +136,7 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Астрономия",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "12-301",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",

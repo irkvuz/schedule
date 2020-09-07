@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -144,17 +155,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "л",
-    "Room": "4-211",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Правоохранительные органы в РФ",
@@ -167,12 +167,23 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "История",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
     "LessonType": "пр",
-    "Room": "4-204",
-    "FIO": "Курышов Андрей Михайлович",
-    "FIOshort": "Курышов А.М.",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

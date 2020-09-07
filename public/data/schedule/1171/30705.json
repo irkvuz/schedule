@@ -188,6 +188,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "География туризма",
@@ -212,17 +223,6 @@
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
-    "Lesson": "Экономическая теория",
-    "LessonType": "л",
-    "Room": "5-412",
-    "FIO": "Галицкая Кристина Викторовна",
-    "FIOshort": "Галицкая К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "5-412",
@@ -232,8 +232,19 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
     "Room": "5-411",

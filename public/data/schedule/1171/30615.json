@@ -12,6 +12,17 @@
   },
   {
     "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "6-311",
+    "FIO": "Райников Артем Сергеевич",
+    "FIOshort": "Райников А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Философия права",
@@ -19,6 +30,17 @@
     "Room": "5-409",
     "FIO": "Архипкин Игорь Валерьевич",
     "FIOshort": "Архипкин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "6-311",
+    "FIO": "Райников Артем Сергеевич",
+    "FIOshort": "Райников А.С.",
     "Error": null
   },
   {

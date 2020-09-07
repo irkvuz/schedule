@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Социология",
@@ -8,17 +19,6 @@
     "Room": "2-217",
     "FIO": "Седых Ольга Геннадьевна",
     "FIOshort": "Седых О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Современный русский язык",
-    "LessonType": "пр",
-    "Room": "2-208",
-    "FIO": "Антипина Елена Сергеевна",
-    "FIOshort": "Антипина Е.С.",
     "Error": null
   },
   {
@@ -63,6 +63,28 @@
     "Room": "11-103",
     "FIO": "",
     "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Пузикова Анастасия Витальевна",
+    "FIOshort": "Пузикова А.В.",
     "Error": null
   },
   {

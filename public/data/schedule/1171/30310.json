@@ -1,7 +1,7 @@
 [
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
+    "WeekDay": 1,
+    "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Основы научно-исследовательской деятельности",
     "LessonType": "пр",
@@ -11,7 +11,7 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
+    "WeekDay": 2,
     "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Основы научно-исследовательской деятельности",

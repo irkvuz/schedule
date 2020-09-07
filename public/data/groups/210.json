@@ -168,6 +168,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30902,
+    "Group": "ИC(9)-20-6",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 18172,
     "Group": "ИГН-18-1",
     "Course": 3,

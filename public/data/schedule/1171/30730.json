@@ -67,24 +67,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Естествознание",
     "LessonType": "пр",
-    "Room": "11-409",
+    "Room": "11-304",
     "FIO": "Никиткина Виктория Владимировна",
     "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "11-304",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
     "Error": null
   },
   {
@@ -96,6 +85,17 @@
     "Room": "11-409",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
     "Error": null
   },
   {
@@ -145,23 +145,12 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "История 1",
     "LessonType": "пр",
     "Room": "12-302",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "12-302",
-    "FIO": "Щербина Татьяна Анатольевна",
-    "FIOshort": "Щербина Т.А.",
     "Error": null
   },
   {
@@ -195,6 +184,17 @@
     "Room": "12-302",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
     "Error": null
   },
   {

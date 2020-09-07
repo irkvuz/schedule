@@ -5,7 +5,7 @@
     "Odd": 0,
     "Lesson": "Деловой английский язык (Business English)",
     "LessonType": "пр",
-    "Room": "",
+    "Room": "1-401",
     "FIO": "Боброва Екатерина Александровна",
     "FIOshort": "Боброва Е.А.",
     "Error": null
@@ -16,7 +16,7 @@
     "Odd": 1,
     "Lesson": "Стратегический менеджмент (Strategic Management)",
     "LessonType": "л",
-    "Room": "3-902",
+    "Room": "2-310",
     "FIO": "Метелева Елена Растиславна",
     "FIOshort": "Метелева Е.Р.",
     "Error": null
