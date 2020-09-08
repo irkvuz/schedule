@@ -33,12 +33,12 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
+    "WeekDay": 1,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Русский язык и культура делового общения",
     "LessonType": "пр",
-    "Room": "3-207",
+    "Room": "3-402",
     "FIO": "Карамышева Светлана Николаевна",
     "FIOshort": "Карамышева С.Н.",
     "Error": null

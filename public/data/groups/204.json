@@ -630,6 +630,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30906,
+    "Group": "ТД-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 17371,
     "Group": "ТП-17",
     "Course": 4,

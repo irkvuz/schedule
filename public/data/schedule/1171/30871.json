@@ -145,6 +145,17 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-414",
+    "FIO": "Головина Татьяна Александровна",
+    "FIOshort": "Головина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Астрономия",
     "LessonType": "пр",
@@ -179,11 +190,11 @@
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Обществознание",
-    "LessonType": "л",
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
     "Room": "12-308",
-    "FIO": "Гусевская Ольга Анатольевна",
-    "FIOshort": "Гусевская О.А.",
+    "FIO": "Головина Татьяна Александровна",
+    "FIOshort": "Головина Т.А.",
     "Error": null
   },
   {

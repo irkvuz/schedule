@@ -134,7 +134,18 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "11-005",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Математика 1",
     "LessonType": "пр",
     "Room": "11-405",

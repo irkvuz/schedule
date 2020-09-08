@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Математика",
-    "LessonType": "пр",
-    "Room": "5-307",
-    "FIO": "Аксенюшкина Елена Владимировна",
-    "FIOshort": "Аксенюшкина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Социология",
@@ -135,9 +124,20 @@
     "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "4-213",
+    "Room": "",
     "FIO": "Казанцев Леонид Викторович",
     "FIOshort": "Казанцев Л.В.",
     "Error": null
@@ -148,18 +148,7 @@
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "л",
-    "Room": "4-402",
-    "FIO": "Самойлова Жанна Владимировна",
-    "FIOshort": "Самойлова Ж.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "л",
-    "Room": "4-402",
+    "Room": "5-308",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
     "Error": null

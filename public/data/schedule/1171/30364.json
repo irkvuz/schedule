@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Экономика организации",
-    "LessonType": "л",
-    "Room": "5-403",
-    "FIO": "Колонович Елена Григорьевна",
-    "FIOshort": "Колонович Е.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 1,
@@ -176,6 +165,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
@@ -184,6 +184,17 @@
     "Room": "5-408",
     "FIO": "Баянова Елена Владимировна",
     "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "5-505",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
     "Error": null
   },
   {
