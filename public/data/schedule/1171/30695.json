@@ -44,17 +44,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-3",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 2,
@@ -99,12 +88,12 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
+    "WeekDay": 3,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "Онлайн-3",
+    "Room": "12-205",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
     "Error": null
@@ -144,6 +133,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-005",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Информатика 1",
@@ -151,17 +151,6 @@
     "Room": "11-311",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-413",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -206,6 +195,17 @@
     "Room": "11-301",
     "FIO": "Карпова Ольга Разумовна",
     "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
     "Error": null
   },
   {

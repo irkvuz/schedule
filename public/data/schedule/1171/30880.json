@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 2,

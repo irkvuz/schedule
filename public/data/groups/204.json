@@ -532,6 +532,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30907,
+    "Group": "Т(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 16693,
     "Group": "ТД-16-1",
     "Course": 5,
@@ -634,7 +641,7 @@
     "Group": "ТД-20-5",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17371,

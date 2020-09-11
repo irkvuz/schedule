@@ -66,28 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Пузикова Анастасия Витальевна",
-    "FIOshort": "Пузикова А.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
@@ -115,7 +93,7 @@
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "2-405",
+    "Room": "2-106",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null

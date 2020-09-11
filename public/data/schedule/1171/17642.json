@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-303",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Русский язык (факультатив)",
@@ -151,6 +162,28 @@
     "Room": "1-420",
     "FIO": "Юй Чанъэ",
     "FIOshort": "Юй Ч.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
     "Error": null
   },
   {

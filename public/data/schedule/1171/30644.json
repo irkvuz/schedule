@@ -89,11 +89,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "Онлайн-7",
+    "Room": "11-113",
     "FIO": "Шульгин Александр Владимирович",
     "FIOshort": "Шульгин А.В.",
     "Error": null
@@ -211,23 +211,23 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "пр",
     "Room": "12-308",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "Онлайн-10",
-    "FIO": "Шульгин Александр Владимирович",
-    "FIOshort": "Шульгин А.В.",
     "Error": null
   }
 ]

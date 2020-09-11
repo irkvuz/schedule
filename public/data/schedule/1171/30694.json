@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "11-107",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -110,12 +121,12 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "Онлайн-1",
+    "Room": "11-112",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
     "Error": null
@@ -155,11 +166,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "Онлайн-1",
+    "Room": "11-112",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
     "Error": null

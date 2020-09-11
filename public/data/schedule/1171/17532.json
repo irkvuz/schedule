@@ -144,6 +144,28 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Электронная коммерция",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Синица Эдуард Олегович",
+    "FIOshort": "Синица Э.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Таможенное дело",
+    "LessonType": "л",
+    "Room": "1-201",
+    "FIO": "Поклад Оксана Валерьевна",
+    "FIOshort": "Поклад О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Таможенное дело",

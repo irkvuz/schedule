@@ -37,8 +37,8 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Библиография",
-    "LessonType": "л",
-    "Room": "4-211",
+    "LessonType": "пр",
+    "Room": "3-408",
     "FIO": "Ермошкина Римма Леонидовна",
     "FIOshort": "Ермошкина Р.Л.",
     "Error": null
@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
@@ -126,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Математические и инструментальные средства в экономике",
     "LessonType": "л",
-    "Room": "4-406",
+    "Room": "4-412",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
     "Error": null

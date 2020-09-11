@@ -100,46 +100,68 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Основы безопасности жизнедеятельности",
     "LessonType": "пр",
-    "Room": "12-304",
+    "Room": "12-305",
     "FIO": "Черника Елена Яковлевна",
     "FIOshort": "Черника Е.Я.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "15:45",
     "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
     "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-304",
+    "Room": "12-205",
     "FIO": "Карпова Ольга Разумовна",
     "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "Онлайн-9",
-    "FIO": "Шульгин Александр Владимирович",
-    "FIOshort": "Шульгин А.В.",
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "12-205",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
     "Error": null
   },
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Астрономия",
     "LessonType": "л",
     "Room": "12-401",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
     "Error": null
   },
   {
@@ -173,6 +195,17 @@
     "Room": "12-301",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-301",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -217,17 +250,6 @@
     "Room": "12-208",
     "FIO": "Деренко Марина Петровна",
     "FIOshort": "Деренко М.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "Онлайн-9",
-    "FIO": "Шульгин Александр Владимирович",
-    "FIOshort": "Шульгин А.В.",
     "Error": null
   }
 ]

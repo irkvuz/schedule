@@ -11,6 +11,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-107",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -85,17 +96,6 @@
     "Room": "5-410",
     "FIO": "Свердлова Светлана Александровна",
     "FIOshort": "Свердлова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-4",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
     "Error": null
   },
   {

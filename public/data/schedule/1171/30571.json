@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
@@ -27,7 +38,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "4-205",
+    "Room": "4-204",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -88,6 +99,28 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -104,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Социология",
     "LessonType": "пр",
-    "Room": "4-206",
+    "Room": "1-209",
     "FIO": "Седых Ольга Геннадьевна",
     "FIOshort": "Седых О.Г.",
     "Error": null
@@ -122,22 +155,22 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Правоведение",
-    "LessonType": "л",
-    "Room": "5-308",
+    "LessonType": "пр",
+    "Room": "6-404",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Правоведение",
-    "LessonType": "пр",
-    "Room": "5-309",
+    "LessonType": "л",
+    "Room": "5-308",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
     "Error": null
