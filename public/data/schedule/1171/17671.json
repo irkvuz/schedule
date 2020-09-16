@@ -68,12 +68,12 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Профессиональная этика",
+    "Odd": 2,
+    "Lesson": "Статистика",
     "LessonType": "пр",
     "Room": "12-401",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
     "Error": null
   },
   {
@@ -228,17 +228,6 @@
     "Room": "12-405",
     "FIO": "Кузнецова Елена Владимировна",
     "FIOshort": "Кузнецова Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Профессиональная этика",
-    "LessonType": "пр",
-    "Room": "12-406",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   }
 ]

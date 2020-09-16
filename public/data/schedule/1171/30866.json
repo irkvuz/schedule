@@ -166,28 +166,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Черкашин Александр Витальевич",
-    "FIOshort": "Черкашин А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Гражданское право",
-    "LessonType": "пр",
-    "Room": "11-210",
-    "FIO": "Пашина Светлана Борисовна",
-    "FIOshort": "Пашина С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Правоохранительные органы в РФ",
@@ -231,6 +209,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -261,6 +250,17 @@
     "Room": "11-403",
     "FIO": "Спиридонова Юлия Владимировна",
     "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "11-408",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
     "Error": null
   }
 ]

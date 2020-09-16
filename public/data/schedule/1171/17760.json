@@ -165,6 +165,28 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (восточные языки)",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (восточные языки)",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
