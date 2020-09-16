@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка рисков",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Хитрова Елена Михайловна",
+    "FIOshort": "Хитрова Е.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -121,23 +132,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Оценка рисков",
-    "LessonType": "пр",
-    "Room": "1-204",
-    "FIO": "Хитрова Елена Михайловна",
-    "FIOshort": "Хитрова Е.М.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Государственный финансовый контроль",
     "LessonType": "л",
-    "Room": "Онлайн-1",
+    "Room": "2-215",
     "FIO": "Самаруха Виктор Иванович",
     "FIOshort": "Самаруха В.И.",
     "Error": null
@@ -148,7 +148,7 @@
     "Odd": 0,
     "Lesson": "Государственный финансовый контроль",
     "LessonType": "пр",
-    "Room": "Онлайн-1",
+    "Room": "2-217",
     "FIO": "Самаруха Виктор Иванович",
     "FIOshort": "Самаруха В.И.",
     "Error": null

@@ -1,21 +1,10 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "пр",
-    "Room": "4-411",
-    "FIO": "Гусева Галина Викторовна",
-    "FIOshort": "Гусева Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Математические и инструментальные средства в экономике",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "4-406",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
@@ -23,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Математические и инструментальные средства в экономике",
-    "LessonType": "л",
-    "Room": "4-406",
+    "LessonType": "пр",
+    "Room": "4-205",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
     "Error": null
@@ -47,20 +36,9 @@
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "История",
-    "LessonType": "пр",
-    "Room": "4-411",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "4-405",
+    "Room": "4-412",
     "FIO": "Огородникова Татьяна Владимировна",
     "FIOshort": "Огородникова Т.В.",
     "Error": null
@@ -71,9 +49,9 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "4-304",
-    "FIO": "Рыбалко Светлана Александровна",
-    "FIOshort": "Рыбалко С.А.",
+    "Room": "4-411",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -88,25 +66,14 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "8:30",
+    "WeekDay": 3,
+    "StartTime": "17:30",
     "Odd": 0,
-    "Lesson": "Библиография",
+    "Lesson": "История",
     "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
+    "Room": "4-412",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
     "Error": null
   },
   {
@@ -135,22 +102,33 @@
     "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Иностранный язык",
+    "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "4-405",
-    "FIO": "Рыбалко Светлана Александровна",
-    "FIOshort": "Рыбалко С.А.",
+    "Room": "4-404",
+    "FIO": "Доржиева Мария Лхамажаповна",
+    "FIOshort": "Доржиева М.Л.",
     "Error": null
   },
   {
     "WeekDay": 5,
     "StartTime": "17:30",
     "Odd": 0,
-    "Lesson": "Философия",
+    "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "4-405",
-    "FIO": "Доржиева Мария Лхамажаповна",
-    "FIOshort": "Доржиева М.Л.",
+    "Room": "4-404",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "4-406",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
     "Error": null
   },
   {

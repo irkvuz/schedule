@@ -45,6 +45,28 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Математика",

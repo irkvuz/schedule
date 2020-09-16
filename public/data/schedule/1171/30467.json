@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Голубова Людмила Викторовна",
+    "FIOshort": "Голубова Л.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -217,17 +228,6 @@
     "Room": "11-409",
     "FIO": "Пашина Светлана Борисовна",
     "FIOshort": "Пашина С.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-16",
-    "FIO": "Голубова Людмила Викторовна",
-    "FIOshort": "Голубова Л.В.",
     "Error": null
   }
 ]

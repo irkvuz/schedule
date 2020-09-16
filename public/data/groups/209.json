@@ -32,7 +32,7 @@
     "Group": "ЗемК-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30370,
@@ -277,7 +277,7 @@
     "Group": "МЗемК-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30315,
@@ -576,6 +576,13 @@
   {
     "IdGroup": 30580,
     "Group": "ЭОБ-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30920,
+    "Group": "ЭОБ-20-2",
     "Course": 1,
     "Error": null,
     "hasSchedule": true

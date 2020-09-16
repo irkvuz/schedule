@@ -121,8 +121,8 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Русский язык в деловой сфере общения",
     "LessonType": "пр",
@@ -132,8 +132,8 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
+    "WeekDay": 6,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Русский язык в деловой сфере общения",
     "LessonType": "пр",

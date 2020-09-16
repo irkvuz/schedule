@@ -79,6 +79,17 @@
   {
     "WeekDay": 2,
     "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "11-204",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
@@ -166,11 +177,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "Онлайн-3",
+    "Room": "12-302",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
     "Error": null
@@ -210,17 +221,6 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-16",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Обществознание",
@@ -250,6 +250,17 @@
     "Room": "12-205",
     "FIO": "Петров Николай Витальевич",
     "FIOshort": "Петров Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
     "Error": null
   }
 ]

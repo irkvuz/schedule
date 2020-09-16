@@ -2,34 +2,34 @@
   {
     "WeekDay": 2,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Мультимедийная журналистика",
-    "LessonType": "л",
-    "Room": "2-212",
+    "LessonType": "пр",
+    "Room": "2-215",
     "FIO": "Панфилова Маргарита Сергеевна",
     "FIOshort": "Панфилова М.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Язык СМИ",
-    "LessonType": "пр",
-    "Room": "2-209",
-    "FIO": "Красноярова Ольга Валентиновна",
-    "FIOshort": "Красноярова О.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
     "StartTime": "19:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Мультимедийная журналистика",
-    "LessonType": "пр",
-    "Room": "2-212",
+    "LessonType": "л",
+    "Room": "2-215",
     "FIO": "Панфилова Маргарита Сергеевна",
     "FIOshort": "Панфилова М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Язык СМИ",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Красноярова Ольга Валентиновна",
+    "FIOshort": "Красноярова О.В.",
     "Error": null
   },
   {

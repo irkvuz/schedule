@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика",
@@ -23,6 +34,17 @@
   },
   {
     "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
@@ -38,7 +60,7 @@
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "л",
-    "Room": "2-416",
+    "Room": "2-307",
     "FIO": "Майдачевский Дмитрий Ярославович",
     "FIOshort": "Майдачевский Д.Я.",
     "Error": null

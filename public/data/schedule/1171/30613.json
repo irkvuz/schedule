@@ -79,10 +79,10 @@
   {
     "WeekDay": 5,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Общая теория международных отношений",
-    "LessonType": "л",
-    "Room": "Онлайн-2",
+    "LessonType": "пр",
+    "Room": "6-106",
     "FIO": "Вахрушев Юрий Петрович",
     "FIOshort": "Вахрушев Ю.П.",
     "Error": null
@@ -90,10 +90,10 @@
   {
     "WeekDay": 5,
     "StartTime": "19:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Общая теория международных отношений",
-    "LessonType": "пр",
-    "Room": "Онлайн-2",
+    "LessonType": "л",
+    "Room": "6-106",
     "FIO": "Вахрушев Юрий Петрович",
     "FIOshort": "Вахрушев Ю.П.",
     "Error": null

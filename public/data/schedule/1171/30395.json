@@ -143,6 +143,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
@@ -188,11 +199,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
+    "StartTime": "14:00",
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "Онлайн-11",
+    "Room": "11-407",
     "FIO": "Латышева Валентина Александровна",
     "FIOshort": "Латышева В.А.",
     "Error": null

@@ -34,6 +34,28 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-107",
+    "FIO": "Рымзина Светлана Борисовна",
+    "FIOshort": "Рымзина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Рымзина Светлана Борисовна",
+    "FIOshort": "Рымзина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Математика",
@@ -122,17 +144,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Чмаркова Елена Гирадьевна",
-    "FIOshort": "Чмаркова Е.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Почвоведение",
@@ -179,22 +190,11 @@
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
     "Room": "11-308",
-    "FIO": "Кольцова Алла Викторовна",
-    "FIOshort": "Кольцова А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-006",
-    "FIO": "Кольцова Алла Викторовна",
-    "FIOshort": "Кольцова А.В.",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
     "Error": null
   },
   {
@@ -283,6 +283,17 @@
     "Room": "11-305",
     "FIO": "Крамынина Ирина Эдуардовна",
     "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
     "Error": null
   }
 ]

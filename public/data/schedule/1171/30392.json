@@ -45,24 +45,13 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Организация работы органов и учреждений социальной защиты населения, органов Пенсионного фонда РФ (ПФР)",
     "LessonType": "л",
     "Room": "12-307",
     "FIO": "Мадалиева Лола Музафаровна",
     "FIOshort": "Мадалиева Л.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Профессиональная этика",
-    "LessonType": "л",
-    "Room": "12-307",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   },
   {
@@ -188,6 +177,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Основы философии",
@@ -195,17 +195,6 @@
     "Room": "12-407",
     "FIO": "Фомина Юлия Анатольевна",
     "FIOshort": "Фомина Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Профессиональная этика",
-    "LessonType": "пр",
-    "Room": "12-404",
-    "FIO": "",
-    "FIOshort": "",
     "Error": null
   },
   {
@@ -222,7 +211,7 @@
   {
     "WeekDay": 6,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Информатика",
     "LessonType": "пр",
     "Room": "12-208",

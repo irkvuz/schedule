@@ -45,6 +45,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-412",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Основы индустрии гостеприимства",
@@ -93,7 +104,7 @@
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "л",
-    "Room": "12-302",
+    "Room": "12-301",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
     "Error": null
@@ -134,7 +145,7 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "12-402",

@@ -35,10 +35,32 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "4-204",
+    "Room": "1-209",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-209",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -133,6 +155,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Социология",
@@ -206,6 +239,17 @@
     "Room": "4-302",
     "FIO": "Казанцев Леонид Викторович",
     "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
     "Error": null
   }
 ]
