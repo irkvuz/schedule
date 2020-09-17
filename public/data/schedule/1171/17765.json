@@ -192,16 +192,16 @@
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "1-414",
-    "FIO": "Тардыбаева Евгения Васильевна",
-    "FIOshort": "Тардыбаева Е.В.",
+    "Room": "1-420",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
     "Error": null
   },
   {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Китайский язык",
+    "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-203",
     "FIO": "Ли Мин",
@@ -210,13 +210,24 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
-    "Room": "1-420",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
+    "Room": "1-203",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   },
   {
@@ -228,17 +239,6 @@
     "Room": "1-405",
     "FIO": "Иванова Кристина Олеговна",
     "FIOshort": "Иванова К.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Китайский язык",
-    "LessonType": "пр",
-    "Room": "1-203",
-    "FIO": "Ли Мин",
-    "FIOshort": "Ли М.",
     "Error": null
   },
   {

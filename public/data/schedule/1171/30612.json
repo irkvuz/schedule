@@ -46,21 +46,21 @@
   {
     "WeekDay": 3,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Философия и методология науки",
-    "LessonType": "пр",
-    "Room": "1-310",
+    "LessonType": "л",
+    "Room": "1-311",
     "FIO": "Куценко Надежда Юрьевна",
     "FIOshort": "Куценко Н.Ю.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "19:15",
     "Odd": 2,
     "Lesson": "Философия и методология науки",
-    "LessonType": "л",
-    "Room": "1-310",
+    "LessonType": "пр",
+    "Room": "1-311",
     "FIO": "Куценко Надежда Юрьевна",
     "FIOshort": "Куценко Н.Ю.",
     "Error": null

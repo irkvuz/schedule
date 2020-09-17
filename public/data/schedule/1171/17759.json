@@ -165,17 +165,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Французский язык (факультатив)",
-    "LessonType": "пр",
-    "Room": "1-413",
-    "FIO": "Почасовик Почасовик Почасовик",
-    "FIOshort": "Почасовик П.П.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,

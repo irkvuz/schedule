@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Статистика",
@@ -99,23 +110,12 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
+    "WeekDay": 4,
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык (базовый курс)",
     "LessonType": "пр",
-    "Room": "3-704",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "3-704",
+    "Room": "3-602",
     "FIO": "Ван Сяомэй",
     "FIOshort": "Ван С.",
     "Error": null

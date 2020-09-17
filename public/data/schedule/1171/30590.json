@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Правоведение",
@@ -195,17 +206,6 @@
     "Room": "1-401",
     "FIO": "Боброва Екатерина Александровна",
     "FIOshort": "Боброва Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Китайский язык для делового общения",
-    "LessonType": "пр",
-    "Room": "1-203",
-    "FIO": "Ван Сяомэй",
-    "FIOshort": "Ван С.",
     "Error": null
   },
   {

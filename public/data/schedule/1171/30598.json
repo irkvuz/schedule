@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "3-408",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -30,17 +19,6 @@
     "Room": "2-416",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {
