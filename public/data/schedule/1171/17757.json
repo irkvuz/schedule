@@ -211,7 +211,7 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-414",
@@ -222,7 +222,7 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Французский язык",
     "LessonType": "пр",
     "Room": "1-210",
@@ -255,7 +255,7 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык (профессиональный)",
     "LessonType": "пр",
     "Room": "1-416",
@@ -266,7 +266,7 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык (профессиональный)",
     "LessonType": "пр",
     "Room": "1-401",

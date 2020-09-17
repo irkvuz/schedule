@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-415",
-    "FIO": "Фаркова Ирина Анатольевна",
-    "FIOshort": "Фаркова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Трудовое право",
@@ -140,6 +129,28 @@
     "Room": "11-415",
     "FIO": "Мадалиева Лола Музафаровна",
     "FIOshort": "Мадалиева Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-107",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
     "Error": null
   },
   {
