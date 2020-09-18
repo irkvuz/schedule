@@ -112,7 +112,7 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-103",

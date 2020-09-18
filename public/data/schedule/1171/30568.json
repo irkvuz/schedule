@@ -68,34 +68,12 @@
   {
     "WeekDay": 2,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "пр",
     "Room": "5-313",
     "FIO": "Марасанова Анна Александровна",
     "FIOshort": "Марасанова А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

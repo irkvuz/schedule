@@ -24,7 +24,7 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Математика",
     "LessonType": "л",
     "Room": "11-204",
@@ -33,11 +33,33 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы индустрии гостеприимства",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Лесникова Марина Владимировна",
+    "FIOshort": "Лесникова М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Основы индустрии гостеприимства",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Лесникова Марина Владимировна",
+    "FIOshort": "Лесникова М.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Основы индустрии гостеприимства",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "11-408",
     "FIO": "Лесникова Марина Владимировна",
     "FIOshort": "Лесникова М.В.",
@@ -132,6 +154,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
@@ -178,7 +211,7 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Математика",
     "LessonType": "л",
     "Room": "11-301",
@@ -195,28 +228,6 @@
     "Room": "11-103",
     "FIO": "Балабаева Мария Валерьевна",
     "FIOshort": "Балабаева М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Основы индустрии гостеприимства",
-    "LessonType": "пр",
-    "Room": "11-301",
-    "FIO": "Лесникова Марина Владимировна",
-    "FIOshort": "Лесникова М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-301",
-    "FIO": "Рахвалова Юлия Анатольевна",
-    "FIOshort": "Рахвалова Ю.А.",
     "Error": null
   }
 ]

@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -68,7 +79,7 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Экология",
     "LessonType": "л",
     "Room": "11-210",

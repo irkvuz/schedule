@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -143,12 +154,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
+    "WeekDay": 5,
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "1-104",
+    "Room": "1-311",
     "FIO": "Чурина Марина Георгиевна",
     "FIOshort": "Чурина М.Г.",
     "Error": null

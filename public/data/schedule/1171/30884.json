@@ -79,17 +79,6 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "л",

@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,

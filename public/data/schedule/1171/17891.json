@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Общее языкознание",
+    "LessonType": "л",
+    "Room": "Онлайн-3",
+    "FIO": "Рогозная Нина Николаевна",
+    "FIOshort": "Рогозная Н.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,

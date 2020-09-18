@@ -179,22 +179,22 @@
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Японский язык",
+    "Lesson": "Иностранный язык (второй)",
     "LessonType": "пр",
     "Room": "1-405",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Козодой Ольга Андреевна",
+    "FIOshort": "Козодой О.А.",
     "Error": null
   },
   {
     "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Японский язык",
+    "Lesson": "Иностранный язык (второй)",
     "LessonType": "пр",
     "Room": "1-405",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Козодой Ольга Андреевна",
+    "FIOshort": "Козодой О.А.",
     "Error": null
   }
 ]

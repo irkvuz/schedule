@@ -166,17 +166,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Профессиональная этика",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Гражданский процесс",
