@@ -23,17 +23,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Китайский язык",
-    "LessonType": "пр",
-    "Room": "1-420",
-    "FIO": "Шитикова Юлия Александровна",
-    "FIOshort": "Шитикова Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Английский язык 1",
@@ -74,6 +63,28 @@
     "Room": "1-207",
     "FIO": "Зверева Ольга Юрьевна",
     "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "10-302",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
     "Error": null
   },
   {

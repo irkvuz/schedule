@@ -1,35 +1,13 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "3-509",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
     "Error": null
   },
   {
@@ -143,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "3-702",
-    "FIO": "Кутянина Елена Михайловна",
-    "FIOshort": "Кутянина Е.М.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
@@ -189,7 +156,7 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-413",
@@ -200,7 +167,7 @@
   {
     "WeekDay": 6,
     "StartTime": "14:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-413",

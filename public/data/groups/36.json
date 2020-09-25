@@ -14,6 +14,13 @@
     "hasSchedule": true
   },
   {
+    "IdGroup": 30938,
+    "Group": "МЮгр-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
     "IdGroup": 30300,
     "Group": "МЮм-19-1",
     "Course": 2,

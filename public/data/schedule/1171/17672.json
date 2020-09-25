@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "12-401",
-    "FIO": "Кузнецова Елена Владимировна",
-    "FIOshort": "Кузнецова Е.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -112,7 +101,7 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Трудовое право",
     "LessonType": "пр",
     "Room": "11-407",
@@ -178,12 +167,12 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Odd": 2,
+    "Lesson": "Основы философии",
     "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Балабаева Мария Валерьевна",
-    "FIOshort": "Балабаева М.В.",
+    "Room": "12-302",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
     "Error": null
   },
   {
@@ -210,30 +199,8 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Основы философии",
-    "LessonType": "л",
-    "Room": "12-407",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "Андреева Светлана Дмитриевна",
-    "FIOshort": "Андреева С.Д.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
     "Lesson": "Статистика",
     "LessonType": "пр",
     "Room": "12-406",
@@ -244,7 +211,7 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Трудовое право",
     "LessonType": "пр",
     "Room": "12-406",

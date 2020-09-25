@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Пузикова Анастасия Витальевна",
+    "FIOshort": "Пузикова А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -96,6 +107,17 @@
     "Room": "11-113",
     "FIO": "",
     "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Кутянина Елена Михайловна",
+    "FIOshort": "Кутянина Е.М.",
     "Error": null
   },
   {
@@ -184,6 +206,17 @@
     "Room": "4-302",
     "FIO": "Казанцев Леонид Викторович",
     "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Кутянина Елена Михайловна",
+    "FIOshort": "Кутянина Е.М.",
     "Error": null
   }
 ]

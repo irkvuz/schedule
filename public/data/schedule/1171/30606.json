@@ -2,17 +2,6 @@
   {
     "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-405",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Китайский язык (курс по иероглифике)",
     "LessonType": "пр",

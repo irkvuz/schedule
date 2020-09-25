@@ -44,6 +44,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Косяков Виталий Александрович",
+    "FIOshort": "Косяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Косяков Виталий Александрович",
+    "FIOshort": "Косяков В.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "15:45",
     "Odd": 0,
@@ -71,7 +93,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "2-307",
+    "Room": "2-416",
     "FIO": "Малеванный Андрей Александрович",
     "FIOshort": "Малеванный А.А.",
     "Error": null
@@ -105,8 +127,8 @@
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
     "Error": null
   },
   {

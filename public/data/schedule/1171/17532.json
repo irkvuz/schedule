@@ -167,6 +167,17 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Таможенное дело",
+    "LessonType": "л",
+    "Room": "1-123",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Электронная коммерция",
     "LessonType": "л",

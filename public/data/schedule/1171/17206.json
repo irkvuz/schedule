@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Экономический анализ",
-    "LessonType": "пр",
-    "Room": "2-309",
-    "FIO": "Змановская Ольга Викторовна",
-    "FIOshort": "Змановская О.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -99,6 +88,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Государственный финансовый контроль",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Самаруха Виктор Иванович",
+    "FIOshort": "Самаруха В.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -122,6 +122,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Змановская Ольга Викторовна",
+    "FIOshort": "Змановская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Государственный финансовый контроль",
@@ -140,17 +151,6 @@
     "Room": "2-404",
     "FIO": "Кулаков Вадим Валентинович",
     "FIOshort": "Кулаков В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Государственный финансовый контроль",
-    "LessonType": "пр",
-    "Room": "2-402",
-    "FIO": "Самаруха Виктор Иванович",
-    "FIOshort": "Самаруха В.И.",
     "Error": null
   }
 ]

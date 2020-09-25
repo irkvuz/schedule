@@ -154,17 +154,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Балабаева Мария Валерьевна",
-    "FIOshort": "Балабаева М.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,

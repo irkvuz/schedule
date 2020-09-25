@@ -198,17 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Чмаркова Елена Гирадьевна",
-    "FIOshort": "Чмаркова Е.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,

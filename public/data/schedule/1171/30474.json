@@ -45,55 +45,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Организация торговли",
-    "LessonType": "л",
-    "Room": "11-005",
-    "FIO": "Алексеева Любовь Алексеевна",
-    "FIOshort": "Алексеева Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Основы философии",
-    "LessonType": "пр",
-    "Room": "11-005",
-    "FIO": "Немцов Юрий Геннадьевич",
-    "FIOshort": "Немцов Ю.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Основы философии",
-    "LessonType": "л",
-    "Room": "11-005",
-    "FIO": "Немцов Юрий Геннадьевич",
-    "FIOshort": "Немцов Ю.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "История",
     "LessonType": "пр",
     "Room": "11-414",
-    "FIO": "Торшин Игорь Викторович",
-    "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "История",
-    "LessonType": "л",
-    "Room": "11-405",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
     "Error": null
@@ -107,6 +63,39 @@
     "Room": "11-006",
     "FIO": "Медведева Олеся Васильевна",
     "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "11-204",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
     "Error": null
   },
   {
@@ -204,6 +193,17 @@
     "Lesson": "Организация торговли",
     "LessonType": "пр",
     "Room": "11-409",
+    "FIO": "Алексеева Любовь Алексеевна",
+    "FIOshort": "Алексеева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация торговли",
+    "LessonType": "л",
+    "Room": "11-407",
     "FIO": "Алексеева Любовь Алексеевна",
     "FIOshort": "Алексеева Л.А.",
     "Error": null
