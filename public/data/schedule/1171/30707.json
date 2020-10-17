@@ -1,7 +1,18 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "5-413",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
@@ -12,13 +23,35 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
     "Room": "1-214",
     "FIO": "Рябинина Анна Анатольевна",
     "FIOshort": "Рябинина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-403",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
@@ -33,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-112",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
@@ -55,25 +99,14 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "11-409",
-    "FIO": "Лапаева Татьяна Николаевна",
-    "FIOshort": "Лапаева Т.Н.",
+    "Odd": 1,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
     "Error": null
   },
   {
@@ -88,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
@@ -110,20 +154,64 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "11-311",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "12-403",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-404",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-207",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
+    "Room": "12-207",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
     "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "пр",
     "Room": "12-207",

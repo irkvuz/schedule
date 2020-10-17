@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История 1",
@@ -55,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -88,28 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "11-414",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "11-204",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 1,
@@ -132,14 +110,14 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "8:30",
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "11-408",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-120",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -151,28 +129,6 @@
     "Room": "11-311",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-408",
-    "FIO": "Кожевникова Анна Дмитриевна",
-    "FIOshort": "Кожевникова А.Д.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "11-304",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
     "Error": null
   },
   {
@@ -198,17 +154,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-306",
-    "FIO": "Кожевникова Анна Дмитриевна",
-    "FIOshort": "Кожевникова А.Д.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -221,22 +166,22 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "12-307",
+    "Room": "Онлайн-134",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-210",
+    "Room": "Онлайн-122",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null

@@ -34,7 +34,7 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налогообложение юридических и физических лиц",
     "LessonType": "л",
@@ -45,24 +45,13 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Налогообложение юридических и физических лиц",
     "LessonType": "пр",
-    "Room": "2-212",
+    "Room": "2-317",
     "FIO": "Комарова Галина Петровна",
     "FIOshort": "Комарова Г.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Налоговый учет",
-    "LessonType": "л",
-    "Room": "2-212",
-    "FIO": "Одаховская Далья Ардалионовна",
-    "FIOshort": "Одаховская Д.А.",
     "Error": null
   },
   {
@@ -99,8 +88,19 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Налоговый учет",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Аудит",
     "LessonType": "л",
@@ -111,11 +111,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Аудит",
     "LessonType": "пр",
-    "Room": "2-212",
+    "Room": "2-314",
     "FIO": "Путырская Яна Владимировна",
     "FIOshort": "Путырская Я.В.",
     "Error": null

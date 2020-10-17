@@ -78,24 +78,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-007",
+    "Room": "Онлайн-115",
     "FIO": "Тигунцев Сергей Александрович",
     "FIOshort": "Тигунцев С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-414",
-    "FIO": "Фаркова Ирина Анатольевна",
-    "FIOshort": "Фаркова И.А.",
     "Error": null
   },
   {

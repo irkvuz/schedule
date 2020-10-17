@@ -1,0 +1,1087 @@
+[
+  {
+    "IdGroup": 30360,
+    "Group": "БД(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30361,
+    "Group": "БД(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30483,
+    "Group": "БД(11)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30718,
+    "Group": "БД(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30719,
+    "Group": "БД(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30898,
+    "Group": "БД(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30899,
+    "Group": "БД(11)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17683,
+    "Group": "БД(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30144,
+    "Group": "БД(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30362,
+    "Group": "БД(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30484,
+    "Group": "БД(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30494,
+    "Group": "БД(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30720,
+    "Group": "БД(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30721,
+    "Group": "БД(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30871,
+    "Group": "БД(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30363,
+    "Group": "БУ(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30485,
+    "Group": "БУ(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30727,
+    "Group": "БУ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30896,
+    "Group": "БУ(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17686,
+    "Group": "БУ(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30364,
+    "Group": "БУ(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30486,
+    "Group": "БУ(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30730,
+    "Group": "БУ(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30729,
+    "Group": "БУ(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30379,
+    "Group": "ГС(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30700,
+    "Group": "ГС(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17676,
+    "Group": "ГС(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30380,
+    "Group": "ГС(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30472,
+    "Group": "ГС(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30699,
+    "Group": "ГС(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30868,
+    "Group": "ГС(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30365,
+    "Group": "ДОУ(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30487,
+    "Group": "ДОУ(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30731,
+    "Group": "ДОУ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17689,
+    "Group": "ДОУ(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30366,
+    "Group": "ДОУ(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30490,
+    "Group": "ДОУ(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30732,
+    "Group": "ДОУ(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30370,
+    "Group": "ЗИО(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30479,
+    "Group": "ЗИО(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30710,
+    "Group": "ЗИО(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30711,
+    "Group": "ЗИО(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30893,
+    "Group": "ЗИО(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30894,
+    "Group": "ЗИО(11)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17668,
+    "Group": "ЗИО(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17669,
+    "Group": "ЗИО(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30371,
+    "Group": "ЗИО(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30480,
+    "Group": "ЗИО(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30481,
+    "Group": "ЗИО(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30712,
+    "Group": "ЗИО(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30713,
+    "Group": "ЗИО(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30872,
+    "Group": "ЗИО(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17432,
+    "Group": "ИC(9)-17-1",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17495,
+    "Group": "ИC(9)-17-2",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17690,
+    "Group": "ИC(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30137,
+    "Group": "ИC(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30389,
+    "Group": "ИC(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30469,
+    "Group": "ИC(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30470,
+    "Group": "ИC(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30694,
+    "Group": "ИC(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30695,
+    "Group": "ИC(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30696,
+    "Group": "ИC(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30873,
+    "Group": "ИC(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30880,
+    "Group": "ИC(9)-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30902,
+    "Group": "ИC(9)-20-6",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17691,
+    "Group": "ИС(11)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30390,
+    "Group": "ИС(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30471,
+    "Group": "ИС(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30697,
+    "Group": "ИС(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30698,
+    "Group": "ИС(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30874,
+    "Group": "ИС(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30892,
+    "Group": "ИС(11)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30381,
+    "Group": "КТ(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30473,
+    "Group": "КТ(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30701,
+    "Group": "КТ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30869,
+    "Group": "КТ(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17678,
+    "Group": "КТ(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30139,
+    "Group": "КТ(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30140,
+    "Group": "КТ(9)-18-3",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30382,
+    "Group": "КТ(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30462,
+    "Group": "КТ(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30474,
+    "Group": "КТ(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30489,
+    "Group": "КТ(9)-19-4",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30702,
+    "Group": "КТ(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30703,
+    "Group": "КТ(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30704,
+    "Group": "КТ(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30890,
+    "Group": "КТ(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30138,
+    "Group": "ЛХ(11)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30482,
+    "Group": "ЛХ(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30715,
+    "Group": "ЛХ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17431,
+    "Group": "ЛХ(9)-17-1",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17692,
+    "Group": "ЛХ(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30372,
+    "Group": "ЛХ(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30860,
+    "Group": "ЛХ(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30714,
+    "Group": "ЛХ(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30878,
+    "Group": "ЛХ(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30391,
+    "Group": "ПСО(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30392,
+    "Group": "ПСО(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30393,
+    "Group": "ПСО(11)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30465,
+    "Group": "ПСО(11)-19-4",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30466,
+    "Group": "ПСО(11)-19-5",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30493,
+    "Group": "ПСО(11)-19-6",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30687,
+    "Group": "ПСО(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30891,
+    "Group": "ПСО(11)-20-10",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30688,
+    "Group": "ПСО(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30690,
+    "Group": "ПСО(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30691,
+    "Group": "ПСО(11)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30692,
+    "Group": "ПСО(11)-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30865,
+    "Group": "ПСО(11)-20-6",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30866,
+    "Group": "ПСО(11)-20-7",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30867,
+    "Group": "ПСО(11)-20-8",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30875,
+    "Group": "ПСО(11)-20-9",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17671,
+    "Group": "ПСО(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17672,
+    "Group": "ПСО(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30394,
+    "Group": "ПСО(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30395,
+    "Group": "ПСО(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30467,
+    "Group": "ПСО(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30468,
+    "Group": "ПСО(9)-19-4",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30492,
+    "Group": "ПСО(9)-19-5",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30643,
+    "Group": "ПСО(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30644,
+    "Group": "ПСО(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30645,
+    "Group": "ПСО(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30646,
+    "Group": "ПСО(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30864,
+    "Group": "ПСО(9)-20-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30876,
+    "Group": "ПСО(9)-20-6",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30383,
+    "Group": "Т(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30475,
+    "Group": "Т(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30476,
+    "Group": "Т(11)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30705,
+    "Group": "Т(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30706,
+    "Group": "Т(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30895,
+    "Group": "Т(11)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17680,
+    "Group": "Т(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30141,
+    "Group": "Т(9)-18-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30384,
+    "Group": "Т(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30477,
+    "Group": "Т(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30478,
+    "Group": "Т(9)-19-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30495,
+    "Group": "Т(9)-19-4",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 30707,
+    "Group": "Т(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30708,
+    "Group": "Т(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30709,
+    "Group": "Т(9)-20-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30907,
+    "Group": "Т(9)-20-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30119,
+    "Group": "ТХ(11)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30373,
+    "Group": "ТХ(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30716,
+    "Group": "ТХ(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17435,
+    "Group": "ТХ(9)-17-1",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 17687,
+    "Group": "ТХ(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30374,
+    "Group": "ТХ(9)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30496,
+    "Group": "ТХ(9)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30717,
+    "Group": "ТХ(9)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30879,
+    "Group": "ТХ(9)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30367,
+    "Group": "Ф(11)-19-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30488,
+    "Group": "Ф(11)-19-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30733,
+    "Group": "Ф(11)-20-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 30897,
+    "Group": "Ф(11)-20-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true
+  },
+  {
+    "IdGroup": 18176,
+    "Group": "Ф(9)-18-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true
+  }
+]

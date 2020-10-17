@@ -110,17 +110,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "5-313",
-    "FIO": "Пузикова Анастасия Витальевна",
-    "FIOshort": "Пузикова А.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -170,31 +159,9 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-101",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
+    "Room": "Онлайн-33",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
     "Error": null
   },
   {

@@ -1,7 +1,18 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Операционные системы",
     "LessonType": "л",
@@ -11,34 +22,23 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
+    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Операционные системы",
+    "Lesson": "Модели и методы прогнозирования",
     "LessonType": "пр",
     "Room": "3-407",
-    "FIO": "Артамонов Иван Васильевич",
-    "FIOshort": "Артамонов И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Модели и методы прогнозирования",
-    "LessonType": "л",
-    "Room": "3-403",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Модели и методы прогнозирования",
-    "LessonType": "пр",
-    "Room": "3-407",
+    "LessonType": "л",
+    "Room": "3-402",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
     "Error": null

@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "л",
@@ -144,7 +144,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "пр",

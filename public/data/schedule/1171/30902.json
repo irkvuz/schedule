@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-207",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информатика 1",
@@ -24,17 +13,6 @@
   {
     "WeekDay": 1,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
@@ -45,11 +23,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-210",
+    "Room": "Онлайн-104",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
@@ -96,17 +74,6 @@
     "Room": "11-413",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "12-205",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
     "Error": null
   },
   {
@@ -115,29 +82,40 @@
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
-    "Room": "12-306",
+    "Room": "Онлайн-132",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экология",
     "LessonType": "л",
-    "Room": "12-306",
+    "Room": "12-407",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "Онлайн-105",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
@@ -151,17 +129,6 @@
     "Room": "11-311",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -184,17 +151,6 @@
     "Room": "11-301",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-301",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -221,11 +177,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "19:15",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "12-001",
+    "Room": "Онлайн-128",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null

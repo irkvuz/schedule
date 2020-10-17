@@ -79,6 +79,17 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-119",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
@@ -89,57 +100,35 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Экология",
     "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
+    "Room": "12-308",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
     "Error": null
   },
   {
     "WeekDay": 3,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-407",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "12-407",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Экология",
-    "LessonType": "пр",
-    "Room": "12-407",
-    "FIO": "Мызникова Татьяна Иннокентьевна",
-    "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Экология",
     "LessonType": "л",
-    "Room": "12-407",
+    "Room": "12-308",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-113",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -176,23 +165,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-210",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-113",
+    "Room": "Онлайн-120",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
@@ -206,28 +184,6 @@
     "Room": "11-107",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-308",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "12-401",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -250,6 +206,17 @@
     "Room": "12-201",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   }
 ]

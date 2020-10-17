@@ -34,11 +34,22 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-113",
+    "Room": "Онлайн-112",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-105",
     "FIO": "Кишинская Татьяна Александровна",
     "FIOshort": "Кишинская Т.А.",
     "Error": null
@@ -77,17 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -118,6 +118,17 @@
     "Room": "12-208",
     "FIO": "Истомина Екатерина Владимировна",
     "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
@@ -156,12 +167,45 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-301",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "л",
     "Room": "12-001",
     "FIO": "Никиткина Виктория Владимировна",
     "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-207",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {

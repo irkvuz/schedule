@@ -57,10 +57,10 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Основы алгоритмизации и программирования",
     "LessonType": "л",
-    "Room": "11-413",
+    "Room": "11-112",
     "FIO": "Аммосова Светлана Александровна",
     "FIOshort": "Аммосова С.А.",
     "Error": null
@@ -112,7 +112,7 @@
   {
     "WeekDay": 3,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "История",
     "LessonType": "л",
     "Room": "5-408",
@@ -221,17 +221,6 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Элементы высшей математики",
@@ -244,10 +233,21 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-408",
+    "FIO": "Ринчинов Артем Бэликтоевич",
+    "FIOshort": "Ринчинов А.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "19:15",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
+    "Room": "Онлайн-12",
     "FIO": "Кишинская Татьяна Александровна",
     "FIOshort": "Кишинская Т.А.",
     "Error": null

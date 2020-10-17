@@ -123,17 +123,6 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-413",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -276,11 +265,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
+    "Room": "Онлайн-123",
     "FIO": "Чмаркова Елена Гирадьевна",
     "FIOshort": "Чмаркова Е.Г.",
     "Error": null

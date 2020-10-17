@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Правоведение",
@@ -33,14 +44,14 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
+    "WeekDay": 2,
+    "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-204",
-    "FIO": "Пузикова Анастасия Витальевна",
-    "FIOshort": "Пузикова А.В.",
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "4-206",
+    "FIO": "Огородникова Татьяна Владимировна",
+    "FIOshort": "Огородникова Т.В.",
     "Error": null
   },
   {
@@ -66,14 +77,14 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
+    "WeekDay": 3,
+    "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Экономическая теория",
+    "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "4-405",
-    "FIO": "Огородникова Татьяна Владимировна",
-    "FIOshort": "Огородникова Т.В.",
+    "Room": "4-205",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {
@@ -91,11 +102,33 @@
     "WeekDay": 3,
     "StartTime": "15:45",
     "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Доржиева Мария Лхамажаповна",
+    "FIOshort": "Доржиева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
     "Lesson": "История",
-    "LessonType": "л",
-    "Room": "4-411",
+    "LessonType": "пр",
+    "Room": "4-412",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
     "Error": null
   },
   {
@@ -104,20 +137,9 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "",
-    "FIOshort": "",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "л",
-    "Room": "4-412",
-    "FIO": "Доржиева Мария Лхамажаповна",
-    "FIOshort": "Доржиева М.Л.",
+    "Room": "Онлайн-36",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {

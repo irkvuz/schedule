@@ -1,29 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Лесомелиорация ландшафтов",
-    "LessonType": "пр",
-    "Room": "4-410",
-    "FIO": "Балданова Лена Петровна",
-    "FIOshort": "Балданова Л.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Менеджмент",
-    "LessonType": "пр",
-    "Room": "4-405",
-    "FIO": "Кабанов Сергей Васильевич",
-    "FIOshort": "Кабанов С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Менеджмент",
     "LessonType": "л",
@@ -33,14 +11,25 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "8:30",
+    "WeekDay": 1,
+    "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Основы предпринимательской деятельности",
+    "Lesson": "Менеджмент",
     "LessonType": "пр",
-    "Room": "3-706",
-    "FIO": "Туренко Борис Григорьевич",
-    "FIOshort": "Туренко Б.Г.",
+    "Room": "4-406",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Лесомелиорация ландшафтов",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
     "Error": null
   },
   {
@@ -48,21 +37,21 @@
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Основы предпринимательской деятельности",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "3-706",
     "FIO": "Туренко Борис Григорьевич",
     "FIOshort": "Туренко Б.Г.",
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "8:30",
+    "WeekDay": 2,
+    "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Охотоведение",
-    "LessonType": "пр",
-    "Room": "4-410",
-    "FIO": "Лыков Олег Степанович",
-    "FIOshort": "Лыков О.С.",
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Туренко Борис Григорьевич",
+    "FIOshort": "Туренко Б.Г.",
     "Error": null
   },
   {
@@ -88,10 +77,21 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "8:30",
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Лесные культуры",
+    "Lesson": "Охотоведение",
+    "LessonType": "пр",
+    "Room": "4-406",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесомелиорация ландшафтов",
     "LessonType": "л",
     "Room": "4-411",
     "FIO": "Балданова Лена Петровна",
@@ -100,9 +100,9 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Лесомелиорация ландшафтов",
+    "Lesson": "Лесные культуры",
     "LessonType": "л",
     "Room": "4-411",
     "FIO": "Балданова Лена Петровна",

@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "Основы философии",
     "LessonType": "л",
-    "Room": "11-411",
+    "Room": "11-415",
     "FIO": "Немцов Юрий Геннадьевич",
     "FIOshort": "Немцов Ю.Г.",
     "Error": null
@@ -45,11 +45,33 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-117",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "История",
     "LessonType": "пр",
     "Room": "11-414",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-413",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
     "Error": null
@@ -89,17 +111,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "История",
-    "LessonType": "л",
-    "Room": "11-301",
-    "FIO": "Торшин Игорь Викторович",
-    "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Организация торговли",
@@ -123,17 +134,6 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-007",
-    "FIO": "Глазова Екатерина Владимировна",
-    "FIOshort": "Глазова Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Техническое оснащение торговых организаций и охрана труда",
     "LessonType": "л",

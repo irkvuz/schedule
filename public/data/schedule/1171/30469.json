@@ -56,6 +56,39 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Элементы высшей математики",
+    "LessonType": "пр",
+    "Room": "11-207",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-207",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-407",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Элементы высшей математики",
@@ -67,35 +100,13 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Элементы высшей математики",
-    "LessonType": "пр",
-    "Room": "11-207",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-007",
+    "Room": "Онлайн-104",
     "FIO": "Тигунцев Сергей Александрович",
     "FIOshort": "Тигунцев С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-310",
-    "FIO": "Ефимцева Ирина Андреевна",
-    "FIOshort": "Ефимцева И.А.",
     "Error": null
   },
   {
@@ -222,12 +233,23 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Элементы математической логики",
     "LessonType": "пр",
     "Room": "5-401",
     "FIO": "Абдуллин Владимир Рафаэлевич",
     "FIOshort": "Абдуллин В.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Элементы высшей математики",
+    "LessonType": "пр",
+    "Room": "5-401",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
     "Error": null
   },
   {

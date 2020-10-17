@@ -1,29 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Менеджмент",
-    "LessonType": "пр",
-    "Room": "4-405",
-    "FIO": "Кабанов Сергей Васильевич",
-    "FIOshort": "Кабанов С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Лесомелиорация ландшафтов",
-    "LessonType": "пр",
-    "Room": "4-410",
-    "FIO": "Балданова Лена Петровна",
-    "FIOshort": "Балданова Л.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Менеджмент",
     "LessonType": "л",
@@ -33,8 +11,30 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесомелиорация ландшафтов",
+    "LessonType": "пр",
+    "Room": "4-303",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Основы предпринимательской деятельности",
     "LessonType": "л",
@@ -45,11 +45,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Основы предпринимательской деятельности",
     "LessonType": "пр",
-    "Room": "3-706",
+    "Room": "3-704",
     "FIO": "Туренко Борис Григорьевич",
     "FIOshort": "Туренко Б.Г.",
     "Error": null
@@ -89,9 +89,9 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Лесные культуры",
+    "Lesson": "Лесомелиорация ландшафтов",
     "LessonType": "л",
     "Room": "4-411",
     "FIO": "Балданова Лена Петровна",
@@ -100,9 +100,9 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Лесомелиорация ландшафтов",
+    "Lesson": "Лесные культуры",
     "LessonType": "л",
     "Room": "4-411",
     "FIO": "Балданова Лена Петровна",

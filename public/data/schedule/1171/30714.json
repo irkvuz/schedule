@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "География",
     "LessonType": "л",
-    "Room": "11-415",
+    "Room": "11-411",
     "FIO": "Мельникова Лариса Алексеевна",
     "FIOshort": "Мельникова Л.А.",
     "Error": null
@@ -47,20 +47,9 @@
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Информатика 1",
-    "LessonType": "л",
-    "Room": "12-208",
-    "FIO": "Истомина Екатерина Владимировна",
-    "FIOshort": "Истомина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "Онлайн-120",
     "FIO": "Шульгин Александр Владимирович",
     "FIOshort": "Шульгин А.В.",
     "Error": null
@@ -77,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информатика 1",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 1,
@@ -176,12 +176,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 1,
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "Онлайн-120",
     "FIO": "Шульгин Александр Владимирович",
     "FIOshort": "Шульгин А.В.",
     "Error": null

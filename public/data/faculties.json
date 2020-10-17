@@ -30,6 +30,12 @@
     "Error": null
   },
   {
+    "IdFaculty": 211,
+    "FacultyName": "Колледж Байкальского государственного университета",
+    "FacultyAbbr": "КБГУ",
+    "Error": null
+  },
+  {
     "IdFaculty": 35,
     "FacultyName": "Международный",
     "FacultyAbbr": "РКФ",

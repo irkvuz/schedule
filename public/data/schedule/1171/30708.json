@@ -22,6 +22,28 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "5-514",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "5-410",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -44,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "5-411",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -58,11 +91,11 @@
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-401",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
     "Error": null
   },
   {
@@ -70,32 +103,54 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "12-001",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
+    "LessonType": "пр",
+    "Room": "12-201",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
     "Error": null
   },
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Естествознание",
+    "Odd": 1,
+    "Lesson": "Информатика",
     "LessonType": "пр",
-    "Room": "12-001",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
+    "Room": "12-207",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "12-207",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "12-001",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
+    "LessonType": "пр",
+    "Room": "12-201",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
     "Error": null
   },
   {
@@ -110,14 +165,36 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Дружинина Ирина Борисовна",
+    "FIOshort": "Дружинина И.Б.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "пр",
     "Room": "11-413",
-    "FIO": "Кадос Лариса Витальевна",
-    "FIOshort": "Кадос Л.В.",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
     "Error": null
   },
   {
@@ -133,11 +210,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-113",
+    "Room": "Онлайн-111",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null

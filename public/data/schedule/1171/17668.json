@@ -110,12 +110,23 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-210",
+    "Room": "Онлайн-121",
     "FIO": "Маслакова Виктория Викторовна",
     "FIOshort": "Маслакова В.В.",
     "Error": null
@@ -156,7 +167,7 @@
   {
     "WeekDay": 4,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Оценка недвижимого имущества",
     "LessonType": "пр",
     "Room": "12-308",

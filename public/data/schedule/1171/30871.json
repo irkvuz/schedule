@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-32",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Обществознание",
@@ -181,7 +192,7 @@
     "Odd": 1,
     "Lesson": "История 1",
     "LessonType": "л",
-    "Room": "12-308",
+    "Room": "12-409",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
     "Error": null
@@ -222,17 +233,6 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Естествознание",
     "LessonType": "л",
@@ -242,34 +242,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "л",
-    "Room": "12-004",
+    "Room": "12-205",
     "FIO": "Гусевская Ольга Анатольевна",
     "FIOshort": "Гусевская О.А.",
     "Error": null
@@ -277,7 +255,18 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "л",
     "Room": "12-205",
@@ -305,6 +294,17 @@
     "Room": "12-304",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-32",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
     "Error": null
   }
 ]

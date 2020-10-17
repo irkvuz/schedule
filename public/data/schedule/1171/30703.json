@@ -93,7 +93,7 @@
     "Odd": 0,
     "Lesson": "История 1",
     "LessonType": "л",
-    "Room": "12-207",
+    "Room": "12-001",
     "FIO": "Сулима Мария Яковлевна",
     "FIOshort": "Сулима М.Я.",
     "Error": null
@@ -111,22 +111,33 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Маслакова Виктория Викторовна",
-    "FIOshort": "Маслакова В.В.",
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "История 1",
     "LessonType": "пр",
-    "Room": "12-303",
+    "Room": "12-207",
     "FIO": "Сулима Мария Яковлевна",
     "FIOshort": "Сулима М.Я.",
     "Error": null
@@ -154,6 +165,28 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-111",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-207",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
@@ -167,10 +200,21 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "Онлайн-115",
     "FIO": "Маслакова Виктория Викторовна",
     "FIOshort": "Маслакова В.В.",
     "Error": null

@@ -11,17 +11,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "12-207",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -89,11 +78,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "12-409",
+    "Room": "Онлайн-139",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
@@ -124,22 +113,22 @@
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Физическая культура",
+    "Lesson": "История 1",
     "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Маслакова Виктория Викторовна",
-    "FIOshort": "Маслакова В.В.",
+    "Room": "12-303",
+    "FIO": "Сулима Мария Яковлевна",
+    "FIOshort": "Сулима М.Я.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
-    "Lesson": "История 1",
+    "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Сулима Мария Яковлевна",
-    "FIOshort": "Сулима М.Я.",
+    "Room": "Онлайн-120",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
     "Error": null
   },
   {
@@ -166,33 +155,33 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
-    "Room": "12-307",
+    "Room": "Онлайн-106",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "12-307",
+    "Room": "Онлайн-113",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "Онлайн-110",
     "FIO": "Маслакова Виктория Викторовна",
     "FIOshort": "Маслакова В.В.",
     "Error": null
@@ -210,17 +199,6 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "12-401",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Астрономия",
@@ -228,6 +206,17 @@
     "Room": "12-407",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
     "Error": null
   }
 ]

@@ -2,28 +2,6 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Аудит",
-    "LessonType": "л",
-    "Room": "2-310",
-    "FIO": "Измайлова Мария Олеговна",
-    "FIOshort": "Измайлова М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Аудит",
-    "LessonType": "пр",
-    "Room": "2-310",
-    "FIO": "Измайлова Мария Олеговна",
-    "FIOshort": "Измайлова М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Аудит",
     "LessonType": "пр",
@@ -33,14 +11,25 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "8:30",
+    "WeekDay": 1,
+    "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Бухгалтерский учет в секторе государственного управления",
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Измайлова Мария Олеговна",
+    "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Аудит",
     "LessonType": "л",
     "Room": "2-310",
-    "FIO": "Арбатская Татьяна Георгиевна",
-    "FIOshort": "Арбатская Т.Г.",
+    "FIO": "Измайлова Мария Олеговна",
+    "FIOshort": "Измайлова М.О.",
     "Error": null
   },
   {
@@ -57,7 +46,18 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 1,
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учет в секторе государственного управления",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Арбатская Татьяна Георгиевна",
+    "FIOshort": "Арбатская Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Бухгалтерский учет в секторе государственного управления",
     "LessonType": "пр",
     "Room": "2-310",
@@ -67,7 +67,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налогообложение организаций финансового сектора экономики",
     "LessonType": "л",
@@ -78,7 +78,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Налогообложение организаций финансового сектора экономики",
     "LessonType": "пр",
@@ -89,7 +89,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Правовое регулирование налоговых отношений",
     "LessonType": "л",
@@ -100,66 +100,66 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Налоговый учет и отчетность",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Орлова Елена Николаевна",
+    "FIOshort": "Орлова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Правовое регулирование налоговых отношений",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Орлова Елена Николаевна",
+    "FIOshort": "Орлова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правовое регулирование налоговых отношений",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Орлова Елена Николаевна",
+    "FIOshort": "Орлова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Практикум по методике исчисления и уплаты налогов и сборов",
     "LessonType": "пр",
-    "Room": "2-405",
+    "Room": "3-407",
     "FIO": "Комарова Галина Петровна",
     "FIOshort": "Комарова Г.П.",
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Налоговый учет и отчетность",
-    "LessonType": "пр",
-    "Room": "3-404",
-    "FIO": "Орлова Елена Николаевна",
-    "FIOshort": "Орлова Е.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Правовое регулирование налоговых отношений",
-    "LessonType": "пр",
-    "Room": "2-314",
-    "FIO": "Орлова Елена Николаевна",
-    "FIOshort": "Орлова Е.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Правовое регулирование налоговых отношений",
-    "LessonType": "пр",
-    "Room": "2-314",
-    "FIO": "Орлова Елена Николаевна",
-    "FIOshort": "Орлова Е.Н.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налоговый учет и отчетность",
     "LessonType": "л",
-    "Room": "2-310",
+    "Room": "2-414",
     "FIO": "Орлова Елена Николаевна",
     "FIOshort": "Орлова Е.Н.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Налоговый учет и отчетность",
     "LessonType": "пр",
-    "Room": "3-404",
+    "Room": "2-405",
     "FIO": "Орлова Елена Николаевна",
     "FIOshort": "Орлова Е.Н.",
     "Error": null

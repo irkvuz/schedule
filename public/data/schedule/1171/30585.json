@@ -44,36 +44,14 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
-    "FIO": "Черкашина Елена Владимировна",
-    "FIOshort": "Черкашина Е.В.",
+    "Room": "Онлайн-32",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
     "Error": null
   },
   {
