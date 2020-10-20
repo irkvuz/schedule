@@ -12,17 +12,6 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-207",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Физическая культура",

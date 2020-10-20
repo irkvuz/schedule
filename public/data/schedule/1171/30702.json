@@ -111,6 +111,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-207",
+    "FIO": "Филатова Татьяна Феофиловна",
+    "FIOshort": "Филатова Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "История 1",

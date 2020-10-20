@@ -34,17 +34,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "11-204",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информатика 1",
@@ -52,28 +41,6 @@
     "Room": "11-304",
     "FIO": "Лемзякова Алёна Игоревна",
     "FIOshort": "Лемзякова А.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "11-204",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
     "Error": null
   },
   {

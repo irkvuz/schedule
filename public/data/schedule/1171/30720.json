@@ -22,28 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "11-401",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-308",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,

@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Доржиева Мария Лхамажаповна",
+    "FIOshort": "Доржиева М.Л.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,

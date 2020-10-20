@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Основы индустрии гостеприимства",
-    "LessonType": "л",
-    "Room": "12-401",
-    "FIO": "Лесникова Марина Владимировна",
-    "FIOshort": "Лесникова М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История",
@@ -188,11 +177,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "11-411",
+    "Room": "11-409",
     "FIO": "Рахвалова Юлия Анатольевна",
     "FIOshort": "Рахвалова Ю.А.",
     "Error": null
