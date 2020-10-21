@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Управление проектами",
-    "LessonType": "пр",
-    "Room": "3-903",
-    "FIO": "Баганов Валерий Юрьевич",
-    "FIOshort": "Баганов В.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Управление проектами",
@@ -23,22 +12,33 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Управление проектами",
     "LessonType": "пр",
-    "Room": "3-903",
+    "Room": "Онлайн-143",
     "FIO": "Баганов Валерий Юрьевич",
     "FIOshort": "Баганов В.Ю.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "Онлайн-146",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
     "Odd": 0,
     "Lesson": "Операционный (производственный) менеджмент",
     "LessonType": "пр",
-    "Room": "3-903",
+    "Room": "Онлайн-142",
     "FIO": "Суранова Оксана Александровна",
     "FIOshort": "Суранова О.А.",
     "Error": null

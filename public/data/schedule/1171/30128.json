@@ -12,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Промышленный маркетинг",
     "LessonType": "пр",
-    "Room": "3-605",
+    "Room": "Онлайн-10",
     "FIO": "Сараева Оксана Николаевна",
     "FIOshort": "Сараева О.Н.",
     "Error": null
@@ -34,22 +34,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Управление рекламной деятельностью",
     "LessonType": "пр",
-    "Room": "3-509",
+    "Room": "Онлайн-131",
     "FIO": "Татаринов Константин Анатольевич",
     "FIOshort": "Татаринов К.А.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "17:30",
     "Odd": 1,
     "Lesson": "Управление проектами",
     "LessonType": "пр",
-    "Room": "3-603",
+    "Room": "Онлайн-105",
     "FIO": "Баганов Валерий Юрьевич",
     "FIOshort": "Баганов В.Ю.",
     "Error": null

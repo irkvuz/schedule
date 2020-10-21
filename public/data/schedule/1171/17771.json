@@ -12,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Рынок ценных бумаг",
     "LessonType": "пр",
-    "Room": "8-206",
+    "Room": "Онлайн-138",
     "FIO": "Тимофеева Анна Александровна",
     "FIOshort": "Тимофеева А.А.",
     "Error": null
@@ -34,22 +34,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Банковская деятельность",
     "LessonType": "пр",
-    "Room": "8-206",
+    "Room": "Онлайн-148",
     "FIO": "Татаринова Лариса Валентиновна",
     "FIOshort": "Татаринова Л.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Рынок ценных бумаг",
     "LessonType": "пр",
-    "Room": "8-206",
+    "Room": "Онлайн-136",
     "FIO": "Тимофеева Анна Александровна",
     "FIOshort": "Тимофеева А.А.",
     "Error": null

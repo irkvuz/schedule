@@ -88,50 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Естествознание",
-    "LessonType": "пр",
-    "Room": "11-112",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "История 1",
-    "LessonType": "пр",
-    "Room": "11-403",
-    "FIO": "Торшин Игорь Викторович",
-    "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Естествознание",
-    "LessonType": "л",
-    "Room": "11-308",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Основы безопасности жизнедеятельности",
-    "LessonType": "пр",
-    "Room": "11-305",
-    "FIO": "Баянова Елена Владимировна",
-    "FIOshort": "Баянова Е.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 1,

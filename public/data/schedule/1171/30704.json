@@ -89,17 +89,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-401",
-    "FIO": "Медведева Людмила Александровна",
-    "FIOshort": "Медведева Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История 1",

@@ -5,7 +5,7 @@
     "Odd": 0,
     "Lesson": "Проектирование информационных систем",
     "LessonType": "пр",
-    "Room": "3-404",
+    "Room": "Онлайн-135",
     "FIO": "Братищенко Владимир Владимирович",
     "FIOshort": "Братищенко В.В.",
     "Error": null
@@ -13,43 +13,43 @@
   {
     "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Проектирование информационных систем",
-    "LessonType": "л",
-    "Room": "3-404",
+    "LessonType": "пр",
+    "Room": "Онлайн-128",
     "FIO": "Братищенко Владимир Владимирович",
     "FIOshort": "Братищенко В.В.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
     "Lesson": "Проектирование информационных систем",
-    "LessonType": "пр",
-    "Room": "3-407",
+    "LessonType": "л",
+    "Room": "3-404",
     "FIO": "Братищенко Владимир Владимирович",
     "FIOshort": "Братищенко В.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информационный менеджмент",
-    "LessonType": "л",
-    "Room": "3-404",
+    "LessonType": "пр",
+    "Room": "Онлайн-131",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Информационный менеджмент",
-    "LessonType": "пр",
-    "Room": "3-404",
+    "LessonType": "л",
+    "Room": "3-407",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null
@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Интернет - маркетинг",
-    "LessonType": "пр",
-    "Room": "3-408",
-    "FIO": "Архипова Зоя Валентиновна",
-    "FIOshort": "Архипова З.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -96,6 +85,17 @@
     "Room": "Онлайн-140",
     "FIO": "Багайников Михаил Логинович",
     "FIOshort": "Багайников М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Интернет - маркетинг",
+    "LessonType": "пр",
+    "Room": "Онлайн-141",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
     "Error": null
   },
   {

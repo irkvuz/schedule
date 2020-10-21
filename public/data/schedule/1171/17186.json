@@ -12,22 +12,22 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Бухгалтерское дело",
     "LessonType": "пр",
-    "Room": "2-212",
+    "Room": "Онлайн-112",
     "FIO": "Распутина Алла Владимировна",
     "FIOshort": "Распутина А.В.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Бухгалтерское дело",
     "LessonType": "пр",
-    "Room": "2-212",
+    "Room": "Онлайн-114",
     "FIO": "Распутина Алла Владимировна",
     "FIOshort": "Распутина А.В.",
     "Error": null
@@ -45,11 +45,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Налогообложение юридических и физических лиц",
     "LessonType": "пр",
-    "Room": "2-317",
+    "Room": "Онлайн-146",
     "FIO": "Комарова Галина Петровна",
     "FIOshort": "Комарова Г.П.",
     "Error": null

@@ -12,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
-    "Room": "3-603",
+    "Room": "Онлайн-141",
     "FIO": "Кондрацкая Татьяна Алексеевна",
     "FIOshort": "Кондрацкая Т.А.",
     "Error": null
@@ -45,11 +45,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Инновационный менеджмент",
     "LessonType": "пр",
-    "Room": "3-902",
+    "Room": "Онлайн-142",
     "FIO": "Тарханова Елена Геннадьевна",
     "FIOshort": "Тарханова Е.Г.",
     "Error": null
@@ -115,7 +115,7 @@
     "Odd": 0,
     "Lesson": "International Marketing",
     "LessonType": "л",
-    "Room": "3-906",
+    "Room": "Онлайн-143",
     "FIO": "Хлебович Дарья Игоревна",
     "FIOshort": "Хлебович Д.И.",
     "Error": null
@@ -126,7 +126,7 @@
     "Odd": 0,
     "Lesson": "International Marketing",
     "LessonType": "пр",
-    "Room": "3-906",
+    "Room": "Онлайн-142",
     "FIO": "Хлебович Дарья Игоревна",
     "FIOshort": "Хлебович Д.И.",
     "Error": null

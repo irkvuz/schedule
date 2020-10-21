@@ -58,33 +58,11 @@
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Обществознание",
-    "LessonType": "л",
-    "Room": "11-107",
-    "FIO": "Клеофастова Ирина Ивановна",
-    "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
     "Lesson": "Естествознание",
     "LessonType": "пр",
-    "Room": "11-112",
+    "Room": "11-304",
     "FIO": "Никиткина Виктория Владимировна",
     "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
     "Error": null
   },
   {
@@ -96,17 +74,6 @@
     "Room": "12-207",
     "FIO": "Черника Елена Яковлевна",
     "FIOshort": "Черника Е.Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Обществознание",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Клеофастова Ирина Ивановна",
-    "FIOshort": "Клеофастова И.И.",
     "Error": null
   },
   {
