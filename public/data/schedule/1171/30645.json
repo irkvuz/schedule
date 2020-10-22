@@ -122,17 +122,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Обществознание",
-    "LessonType": "л",
-    "Room": "12-304",
-    "FIO": "Клеофастова Ирина Ивановна",
-    "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Обществознание",

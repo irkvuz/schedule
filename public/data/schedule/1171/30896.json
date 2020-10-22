@@ -209,17 +209,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Безопасность жизнедеятельности",
-    "LessonType": "л",
-    "Room": "5-408",
-    "FIO": "Баянова Елена Владимировна",
-    "FIOshort": "Баянова Е.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,
