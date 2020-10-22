@@ -89,22 +89,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Финансы холдингов",
-    "LessonType": "л",
-    "Room": "8-204",
-    "FIO": "Щукина Татьяна Владимировна",
-    "FIOshort": "Щукина Т.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Финансы холдингов",
-    "LessonType": "пр",
-    "Room": "8-204",
+    "LessonType": "л",
+    "Room": "Онлайн-146",
     "FIO": "Щукина Татьяна Владимировна",
     "FIOshort": "Щукина Т.В.",
     "Error": null
@@ -121,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы холдингов",
+    "LessonType": "пр",
+    "Room": "Онлайн-152",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -133,22 +133,22 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Инвестиции",
     "LessonType": "пр",
-    "Room": "8-204",
+    "Room": "Онлайн-152",
     "FIO": "Авдюшина Марина Анатольевна",
     "FIOshort": "Авдюшина М.А.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Оценка недвижимости",
     "LessonType": "пр",
-    "Room": "8-204",
+    "Room": "Онлайн-128",
     "FIO": "Кулижская Жанна Сергеевна",
     "FIOshort": "Кулижская Ж.С.",
     "Error": null

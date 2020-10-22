@@ -143,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Гражданское право",
-    "LessonType": "л",
-    "Room": "11-207",
-    "FIO": "Скуратова Наталья Юрьевна",
-    "FIOshort": "Скуратова Н.Ю.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 1,

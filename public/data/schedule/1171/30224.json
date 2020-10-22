@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Психология развития и возрастная психология",
-    "LessonType": "л",
-    "Room": "1-123",
+    "LessonType": "пр",
+    "Room": "Онлайн-150",
     "FIO": "Кожевина Анна Павловна",
     "FIOshort": "Кожевина А.П.",
     "Error": null
@@ -15,7 +15,7 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Психология развития и возрастная психология",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "1-123",
     "FIO": "Кожевина Анна Павловна",
     "FIOshort": "Кожевина А.П.",
@@ -23,22 +23,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Психодиагностика",
     "LessonType": "пр",
-    "Room": "2-106",
+    "Room": "Онлайн-154",
     "FIO": "Трофимова Елена Леонидовна",
     "FIOshort": "Трофимова Е.Л.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Психодиагностика",
     "LessonType": "пр",
-    "Room": "2-404",
+    "Room": "Онлайн-112",
     "FIO": "Трофимова Елена Леонидовна",
     "FIOshort": "Трофимова Е.Л.",
     "Error": null
@@ -56,22 +56,22 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Общая психология",
     "LessonType": "л",
-    "Room": "1-123",
+    "Room": "2-112",
     "FIO": "Никулина Татьяна Ивановна",
     "FIOshort": "Никулина Т.И.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Общая психология",
     "LessonType": "пр",
-    "Room": "1-123",
+    "Room": "Онлайн-148",
     "FIO": "Никулина Татьяна Ивановна",
     "FIOshort": "Никулина Т.И.",
     "Error": null

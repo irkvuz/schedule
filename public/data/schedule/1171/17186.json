@@ -56,33 +56,22 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Налоговый учет",
     "LessonType": "пр",
-    "Room": "2-212",
+    "Room": "Онлайн-150",
     "FIO": "Одаховская Далья Ардалионовна",
     "FIOshort": "Одаховская Д.А.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Налоговый учет",
     "LessonType": "пр",
-    "Room": "2-212",
-    "FIO": "Одаховская Далья Ардалионовна",
-    "FIOshort": "Одаховская Д.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Налоговый учет",
-    "LessonType": "л",
-    "Room": "2-212",
+    "Room": "Онлайн-125",
     "FIO": "Одаховская Далья Ардалионовна",
     "FIOshort": "Одаховская Д.А.",
     "Error": null
@@ -94,6 +83,17 @@
     "Lesson": "Налоговый учет",
     "LessonType": "л",
     "Room": "2-412",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Налоговый учет",
+    "LessonType": "л",
+    "Room": "2-212",
     "FIO": "Одаховская Далья Ардалионовна",
     "FIOshort": "Одаховская Д.А.",
     "Error": null
@@ -111,11 +111,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Аудит",
     "LessonType": "пр",
-    "Room": "2-314",
+    "Room": "Онлайн-130",
     "FIO": "Путырская Яна Владимировна",
     "FIOshort": "Путырская Я.В.",
     "Error": null

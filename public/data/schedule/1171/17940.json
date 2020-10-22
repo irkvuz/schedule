@@ -56,11 +56,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "пр",
-    "Room": "3-403",
+    "Room": "Онлайн-142",
     "FIO": "Юсупова Галина Валерьевна",
     "FIOshort": "Юсупова Г.В.",
     "Error": null

@@ -110,36 +110,14 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Теория государства и права",
-    "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Немцов Юрий Геннадьевич",
-    "FIOshort": "Немцов Ю.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "11-412",
     "FIO": "Фаркова Ирина Анатольевна",
     "FIOshort": "Фаркова И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Теория государства и права",
-    "LessonType": "пр",
-    "Room": "11-412",
-    "FIO": "Немцов Юрий Геннадьевич",
-    "FIOshort": "Немцов Ю.Г.",
     "Error": null
   },
   {
@@ -151,17 +129,6 @@
     "Room": "11-412",
     "FIO": "Бубаева Надежда Семеновна",
     "FIOshort": "Бубаева Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Гражданское право",
-    "LessonType": "л",
-    "Room": "11-207",
-    "FIO": "Скуратова Наталья Юрьевна",
-    "FIOshort": "Скуратова Н.Ю.",
     "Error": null
   },
   {
@@ -228,6 +195,17 @@
     "Room": "11-204",
     "FIO": "Мадалиева Лола Музафаровна",
     "FIOshort": "Мадалиева Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
     "Error": null
   }
 ]

@@ -55,17 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "Андреева Светлана Дмитриевна",
-    "FIOshort": "Андреева С.Д.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 1,

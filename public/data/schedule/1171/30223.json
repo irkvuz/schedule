@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Экономика и организация предприятия",
     "LessonType": "пр",
-    "Room": "3-408",
+    "Room": "Онлайн-149",
     "FIO": "Матусевич Дмитрий Сергеевич",
     "FIOshort": "Матусевич Д.С.",
     "Error": null
@@ -34,22 +34,33 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Программирование",
     "LessonType": "пр",
-    "Room": "3-408",
+    "Room": "Онлайн-147",
     "FIO": "Артамонов Иван Васильевич",
     "FIOshort": "Артамонов И.В.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "Онлайн-146",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Организация ЭВМ и систем",
     "LessonType": "пр",
-    "Room": "3-408",
+    "Room": "Онлайн-154",
     "FIO": "Сорокин Александр Васильевич",
     "FIOshort": "Сорокин А.В.",
     "Error": null
@@ -71,17 +82,6 @@
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "л",
-    "Room": "3-403",
-    "FIO": "Самойлова Жанна Владимировна",
-    "FIOshort": "Самойлова Ж.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "пр",
     "Room": "3-403",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",

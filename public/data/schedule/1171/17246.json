@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Управление проектами",
-    "LessonType": "л",
-    "Room": "3-806",
+    "LessonType": "пр",
+    "Room": "Онлайн-149",
     "FIO": "Ковалевская Наталья Юрьевна",
     "FIOshort": "Ковалевская Н.Ю.",
     "Error": null
@@ -15,7 +15,7 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Управление проектами",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "3-806",
     "FIO": "Ковалевская Наталья Юрьевна",
     "FIOshort": "Ковалевская Н.Ю.",

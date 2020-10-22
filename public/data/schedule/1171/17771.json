@@ -67,11 +67,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Корпоративные финансы",
     "LessonType": "пр",
-    "Room": "8-206",
+    "Room": "Онлайн-137",
     "FIO": "Кислицына Лариса Викторовна",
     "FIOshort": "Кислицына Л.В.",
     "Error": null
@@ -100,24 +100,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Отчетность и аудит",
-    "LessonType": "пр",
-    "Room": "8-206",
-    "FIO": "Щукина Татьяна Владимировна",
-    "FIOshort": "Щукина Т.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Социальное страхование",
     "LessonType": "пр",
-    "Room": "8-206",
+    "Room": "Онлайн-151",
     "FIO": "Агеева Евгения Валерьевна",
     "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "пр",
+    "Room": "Онлайн-157",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
     "Error": null
   },
   {
