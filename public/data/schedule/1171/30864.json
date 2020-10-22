@@ -23,17 +23,6 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "11-112",
-    "FIO": "Выборова Светлана Александровна",
-    "FIOshort": "Выборова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Информатика 1",

@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-413",
-    "FIO": "Кутянина Елена Михайловна",
-    "FIOshort": "Кутянина Е.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
@@ -133,22 +122,22 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-207",
+    "Room": "Онлайн-146",
     "FIO": "Максимова Наталия Владимировна",
     "FIOshort": "Максимова Н.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "17:30",
+    "StartTime": "19:15",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-207",
+    "Room": "Онлайн-154",
     "FIO": "Максимова Наталия Владимировна",
     "FIOshort": "Максимова Н.В.",
     "Error": null

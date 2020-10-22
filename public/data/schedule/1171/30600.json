@@ -23,6 +23,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-143",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История",
@@ -30,17 +41,6 @@
     "Room": "2-307",
     "FIO": "Майдачевский Дмитрий Ярославович",
     "FIOshort": "Майдачевский Д.Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-143",
-    "FIO": "Бреева Анна Павловна",
-    "FIOshort": "Бреева А.П.",
     "Error": null
   },
   {
