@@ -78,7 +78,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
@@ -89,7 +89,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Сравнительный менеджмент и этика международного бизнеса",
     "LessonType": "пр",

@@ -45,22 +45,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экономика фирмы",
-    "LessonType": "пр",
-    "Room": "Онлайн-145",
-    "FIO": "Матусевич Дмитрий Сергеевич",
-    "FIOshort": "Матусевич Д.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Менеджмент",
-    "LessonType": "пр",
-    "Room": "Онлайн-132",
+    "LessonType": "л",
+    "Room": "3-207",
     "FIO": "Матусевич Дмитрий Сергеевич",
     "FIOshort": "Матусевич Д.С.",
     "Error": null
@@ -70,7 +59,7 @@
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономика фирмы",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "3-404",
     "FIO": "Матусевич Дмитрий Сергеевич",
     "FIOshort": "Матусевич Д.С.",
@@ -83,6 +72,17 @@
     "Lesson": "Менеджмент",
     "LessonType": "л",
     "Room": "3-207",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-132",
     "FIO": "Матусевич Дмитрий Сергеевич",
     "FIOshort": "Матусевич Д.С.",
     "Error": null

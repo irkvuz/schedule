@@ -2,7 +2,7 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Внешнеэкономическая деятельность",
     "LessonType": "л",
     "Room": "4-411",
@@ -93,7 +93,7 @@
     "Odd": 0,
     "Lesson": "Маркетинг",
     "LessonType": "пр",
-    "Room": "4-410",
+    "Room": "Онлайн-162",
     "FIO": "Беликов Александр Юрьевич",
     "FIOshort": "Беликов А.Ю.",
     "Error": null
@@ -104,18 +104,18 @@
     "Odd": 0,
     "Lesson": "Маркетинг",
     "LessonType": "л",
-    "Room": "4-411",
+    "Room": "Онлайн-167",
     "FIO": "Беликов Александр Юрьевич",
     "FIOshort": "Беликов А.Ю.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Экология",
     "LessonType": "пр",
-    "Room": "3-603",
+    "Room": "Онлайн-148",
     "FIO": "Русецкая Генриетта Денисовна",
     "FIOshort": "Русецкая Г.Д.",
     "Error": null

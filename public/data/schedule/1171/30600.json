@@ -102,22 +102,22 @@
     "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "2-402",
-    "FIO": "Тагаров Бато Жаргалович",
-    "FIOshort": "Тагаров Б.Ж.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "л",
     "Room": "2-416",
     "FIO": "Жаркова Татьяна Евгеньевна",
     "FIOshort": "Жаркова Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "Онлайн-144",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
     "Error": null
   },
   {

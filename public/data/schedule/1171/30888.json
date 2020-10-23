@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Современный русский язык",
     "LessonType": "пр",
-    "Room": "2-208",
+    "Room": "Онлайн-149",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
     "Error": null

@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Политология",
-    "LessonType": "пр",
-    "Room": "Онлайн-145",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -63,6 +52,17 @@
     "Room": "Онлайн-115",
     "FIO": "Турганова Гульнара Эрмаматовна",
     "FIOshort": "Турганова Г.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Политология",
+    "LessonType": "пр",
+    "Room": "Онлайн-145",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
     "Error": null
   },
   {

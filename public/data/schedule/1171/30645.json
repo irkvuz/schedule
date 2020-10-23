@@ -34,6 +34,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Обществознание",
@@ -77,6 +88,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 1,
@@ -91,11 +113,11 @@
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 2,
-    "Lesson": "Астрономия",
+    "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-306",
-    "FIO": "Выборова Светлана Александровна",
-    "FIOshort": "Выборова С.А.",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -122,13 +144,24 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Обществознание",
+    "Lesson": "Русский язык",
     "LessonType": "л",
     "Room": "12-402",
-    "FIO": "Клеофастова Ирина Ивановна",
-    "FIOshort": "Клеофастова И.И.",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -195,17 +228,6 @@
     "Room": "12-206",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   }
 ]

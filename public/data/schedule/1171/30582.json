@@ -1,22 +1,22 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Современный русский язык",
     "LessonType": "пр",
-    "Room": "2-208",
+    "Room": "Онлайн-135",
     "FIO": "Антипина Елена Сергеевна",
     "FIOshort": "Антипина Е.С.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Основы теории журналистики",
     "LessonType": "пр",
-    "Room": "2-209",
+    "Room": "Онлайн-157",
     "FIO": "Изместьева Екатерина Сергеевна",
     "FIOshort": "Изместьева Е.С.",
     "Error": null

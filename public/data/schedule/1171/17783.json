@@ -25,31 +25,20 @@
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
-    "Lesson": "Малый бизнес",
-    "LessonType": "л",
-    "Room": "4-412",
-    "FIO": "Мозулев Сергей Николаевич",
-    "FIOshort": "Мозулев С.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
     "Lesson": "Теория организации",
     "LessonType": "пр",
-    "Room": "4-305",
+    "Room": "Онлайн-154",
     "FIO": "Бисикало Елена Эдуардовна",
     "FIOshort": "Бисикало Е.Э.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Малый бизнес",
     "LessonType": "пр",
-    "Room": "3-509",
+    "Room": "Онлайн-162",
     "FIO": "Мозулев Сергей Николаевич",
     "FIOshort": "Мозулев С.Н.",
     "Error": null
@@ -85,6 +74,17 @@
     "Room": "4-412",
     "FIO": "Юшков Олег Александрович",
     "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Малый бизнес",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Мозулев Сергей Николаевич",
+    "FIOshort": "Мозулев С.Н.",
     "Error": null
   },
   {

@@ -45,6 +45,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Обществознание",
@@ -52,6 +63,17 @@
     "Room": "Онлайн-115",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -74,6 +96,17 @@
     "Room": "Онлайн-114",
     "FIO": "Деренко Марина Петровна",
     "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -121,6 +154,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 1,
@@ -140,6 +184,17 @@
     "Room": "Онлайн-110",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-131",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {

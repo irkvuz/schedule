@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Основы риэлторской деятельности",
     "LessonType": "пр",
-    "Room": "3-804",
+    "Room": "Онлайн-161",
     "FIO": "Гусак Анна Сергеевна",
     "FIOshort": "Гусак А.С.",
     "Error": null
@@ -26,19 +26,19 @@
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Управление затратами",
-    "LessonType": "л",
-    "Room": "3-804",
+    "LessonType": "пр",
+    "Room": "Онлайн-171",
     "FIO": "Грушина Ольга Валерьевна",
     "FIOshort": "Грушина О.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Управление затратами",
-    "LessonType": "пр",
-    "Room": "3-804",
+    "LessonType": "л",
+    "Room": "Онлайн-174",
     "FIO": "Грушина Ольга Валерьевна",
     "FIOshort": "Грушина О.В.",
     "Error": null

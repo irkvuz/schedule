@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Социология",
-    "LessonType": "пр",
-    "Room": "Онлайн-115",
-    "FIO": "Седых Ольга Геннадьевна",
-    "FIOshort": "Седых О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -30,6 +19,17 @@
     "Room": "Онлайн-130",
     "FIO": "Федосеев Александр Алексеевич",
     "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "Онлайн-115",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
     "Error": null
   },
   {

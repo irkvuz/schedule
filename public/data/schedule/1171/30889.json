@@ -1,24 +1,35 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Основы теории журналистики",
     "LessonType": "пр",
-    "Room": "2-316",
+    "Room": "Онлайн-152",
     "FIO": "Изместьева Екатерина Сергеевна",
     "FIOshort": "Изместьева Е.С.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "2-106",
+    "Room": "Онлайн-160",
     "FIO": "Кузнецова Ирина Альфредовна",
     "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "Онлайн-115",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
     "Error": null
   },
   {
@@ -28,17 +39,6 @@
     "Lesson": "Социология",
     "LessonType": "л",
     "Room": "2-217",
-    "FIO": "Седых Ольга Геннадьевна",
-    "FIOshort": "Седых О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Социология",
-    "LessonType": "пр",
-    "Room": "2-313",
     "FIO": "Седых Ольга Геннадьевна",
     "FIOshort": "Седых О.Г.",
     "Error": null
