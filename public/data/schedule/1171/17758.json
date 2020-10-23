@@ -33,12 +33,12 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
+    "WeekDay": 2,
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Корпоративные финансы",
     "LessonType": "пр",
-    "Room": "1-311",
+    "Room": "Онлайн-158",
     "FIO": "Кислицына Лариса Викторовна",
     "FIOshort": "Кислицына Л.В.",
     "Error": null

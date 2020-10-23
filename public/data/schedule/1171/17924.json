@@ -1,22 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Туристское регионоведение России",
-    "LessonType": "л",
-    "Room": "1-311",
-    "FIO": "Палкин Олег Юрьевич",
-    "FIOshort": "Палкин О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Туристское регионоведение России",
     "LessonType": "пр",
-    "Room": "1-311",
+    "Room": "Онлайн-204",
     "FIO": "Палкин Олег Юрьевич",
     "FIOshort": "Палкин О.Ю.",
     "Error": null
