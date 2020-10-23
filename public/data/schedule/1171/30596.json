@@ -1,11 +1,11 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "2-404",
+    "Room": "Онлайн-184",
     "FIO": "Казанцев Леонид Викторович",
     "FIOshort": "Казанцев Л.В.",
     "Error": null
@@ -22,12 +22,12 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
+    "WeekDay": 2,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "2-314",
+    "Room": "Онлайн-184",
     "FIO": "Бимакова Руфина Рашидовна",
     "FIOshort": "Бимакова Р.Р.",
     "Error": null

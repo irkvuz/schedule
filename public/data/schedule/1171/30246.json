@@ -27,7 +27,7 @@
     "Odd": 0,
     "Lesson": "Внешнеэкономическая деятельность",
     "LessonType": "пр",
-    "Room": "4-305",
+    "Room": "Онлайн-179",
     "FIO": "Бирюкова Анастасия Ивановна",
     "FIOshort": "Бирюкова А.И.",
     "Error": null
@@ -38,20 +38,42 @@
     "Odd": 0,
     "Lesson": "Химия",
     "LessonType": "пр",
-    "Room": "4-410",
+    "Room": "Онлайн-182",
     "FIO": "Горбунова Ольга Ивановна",
     "FIOshort": "Горбунова О.И.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Химия",
     "LessonType": "л",
     "Room": "4-411",
     "FIO": "Горбунова Ольга Ивановна",
     "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-171",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "пр",
+    "Room": "Онлайн-148",
+    "FIO": "Русецкая Генриетта Денисовна",
+    "FIOshort": "Русецкая Г.Д.",
     "Error": null
   },
   {
@@ -68,17 +90,6 @@
   {
     "WeekDay": 3,
     "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Анализ хозяйственной деятельности",
-    "LessonType": "пр",
-    "Room": "3-605",
-    "FIO": "Давыдова Галина Васильевна",
-    "FIOshort": "Давыдова Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Экология",
     "LessonType": "л",
@@ -113,20 +124,9 @@
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
-    "Lesson": "Экология",
-    "LessonType": "пр",
-    "Room": "Онлайн-148",
-    "FIO": "Русецкая Генриетта Денисовна",
-    "FIOshort": "Русецкая Г.Д.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
     "Lesson": "Организация, нормирование и оплата труда",
     "LessonType": "пр",
-    "Room": "3-605",
+    "Room": "Онлайн-159",
     "FIO": "Войникова Галина Николаевна",
     "FIOshort": "Войникова Г.Н.",
     "Error": null

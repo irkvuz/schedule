@@ -12,7 +12,7 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "17:30",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Контрактная система в сфере закупок",
     "LessonType": "пр",
@@ -23,7 +23,7 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "19:15",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Рекламная деятельность",
     "LessonType": "пр",

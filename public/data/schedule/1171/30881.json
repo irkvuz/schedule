@@ -104,7 +104,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "3-403",
+    "Room": "Онлайн-168",
     "FIO": "Косова Юлия Борисовна",
     "FIOshort": "Косова Ю.Б.",
     "Error": null
@@ -115,7 +115,7 @@
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",
-    "Room": "3-404",
+    "Room": "Онлайн-163",
     "FIO": "Сорокин Александр Васильевич",
     "FIOshort": "Сорокин А.В.",
     "Error": null
@@ -125,19 +125,19 @@
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Геодезия",
-    "LessonType": "л",
-    "Room": "3-901",
+    "LessonType": "пр",
+    "Room": "Онлайн-163",
     "FIO": "Клевцов Евгений Валерьевич",
     "FIOshort": "Клевцов Е.В.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Геодезия",
-    "LessonType": "пр",
-    "Room": "3-901",
+    "LessonType": "л",
+    "Room": "3-806",
     "FIO": "Клевцов Евгений Валерьевич",
     "FIOshort": "Клевцов Е.В.",
     "Error": null

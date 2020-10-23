@@ -1,11 +1,22 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Управление проектами",
     "LessonType": "л",
     "Room": "3-903",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "Онлайн-146",
     "FIO": "Баганов Валерий Юрьевич",
     "FIOshort": "Баганов В.Ю.",
     "Error": null
@@ -24,17 +35,6 @@
   {
     "WeekDay": 1,
     "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Управление проектами",
-    "LessonType": "пр",
-    "Room": "Онлайн-146",
-    "FIO": "Баганов Валерий Юрьевич",
-    "FIOshort": "Баганов В.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "19:15",
     "Odd": 0,
     "Lesson": "Операционный (производственный) менеджмент",
     "LessonType": "пр",

@@ -2,45 +2,23 @@
   {
     "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "4-205",
-    "FIO": "Луц Светлана Сергеевна",
-    "FIOshort": "Луц С.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "л",
-    "Room": "4-212",
+    "Room": "4-302",
     "FIO": "Астраханцева Арина Сергеевна",
     "FIOshort": "Астраханцева А.С.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Информационные технологии",
     "LessonType": "л",
-    "Room": "4-212",
+    "Room": "4-302",
     "FIO": "Казанцев Леонид Викторович",
     "FIOshort": "Казанцев Л.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Основы таможенного дела",
-    "LessonType": "пр",
-    "Room": "5-312",
-    "FIO": "Короткова Светлана Николаевна",
-    "FIOshort": "Короткова С.Н.",
     "Error": null
   },
   {
@@ -85,6 +63,17 @@
     "Room": "Онлайн-21",
     "FIO": "Малеванный Андрей Александрович",
     "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-172",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
     "Error": null
   },
   {
@@ -133,11 +122,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
     "Lesson": "Основы таможенного дела",
     "LessonType": "пр",
-    "Room": "5-307",
+    "Room": "",
     "FIO": "Короткова Светлана Николаевна",
     "FIOshort": "Короткова С.Н.",
     "Error": null

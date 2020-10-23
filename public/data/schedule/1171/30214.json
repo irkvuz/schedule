@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Гражданское право (Общая часть)",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Старицын Алексей Юрьевич",
-    "FIOshort": "Старицын А.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Конституционное право",

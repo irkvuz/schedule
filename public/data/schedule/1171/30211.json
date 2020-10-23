@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Зверева Ольга Юрьевна",
-    "FIOshort": "Зверева О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Конституционное право",
