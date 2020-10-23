@@ -88,6 +88,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
