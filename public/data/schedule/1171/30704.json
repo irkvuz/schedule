@@ -1,5 +1,16 @@
 [
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-164",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -56,7 +67,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
@@ -111,7 +122,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "л",
@@ -122,11 +133,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Математика 1",
     "LessonType": "пр",
-    "Room": "Онлайн-113",
+    "Room": "Онлайн-106",
     "FIO": "Абалакова Людмила Михайловна",
     "FIOshort": "Абалакова Л.М.",
     "Error": null
@@ -155,6 +166,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Астрономия",
@@ -162,17 +184,6 @@
     "Room": "Онлайн-152",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-120",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
     "Error": null
   }
 ]

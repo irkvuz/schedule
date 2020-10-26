@@ -79,6 +79,17 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-113",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Экология",
     "LessonType": "пр",
@@ -89,24 +100,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Экология",
     "LessonType": "л",
     "Room": "Онлайн-175",
     "FIO": "Мызникова Татьяна Иннокентьевна",
     "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "Онлайн-113",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -166,6 +166,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История 1",
@@ -184,17 +195,6 @@
     "Room": "Онлайн-162",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-133",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
     "Error": null
   }
 ]

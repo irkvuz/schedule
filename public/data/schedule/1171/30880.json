@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-180",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Русский язык",
@@ -107,17 +118,6 @@
     "Room": "Онлайн-175",
     "FIO": "Кожевникова Анна Дмитриевна",
     "FIOshort": "Кожевникова А.Д.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "Онлайн-120",
-    "FIO": "Абалакова Людмила Михайловна",
-    "FIOshort": "Абалакова Л.М.",
     "Error": null
   },
   {
@@ -177,7 +177,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика 1",
     "LessonType": "пр",
