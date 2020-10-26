@@ -27,7 +27,7 @@
     "Odd": 0,
     "Lesson": "Business Communications in Cross-Cultural Environment",
     "LessonType": "л",
-    "Room": "3-902",
+    "Room": "Онлайн-179",
     "FIO": "Китова Елена Борисовна",
     "FIOshort": "Китова Е.Б.",
     "Error": null
@@ -38,14 +38,14 @@
     "Odd": 0,
     "Lesson": "Инновационный менеджмент",
     "LessonType": "л",
-    "Room": "3-902",
+    "Room": "Онлайн-200",
     "FIO": "Тарханова Елена Геннадьевна",
     "FIOshort": "Тарханова Е.Г.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "17:30",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Инновационный менеджмент",
     "LessonType": "пр",
@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "л",
@@ -148,7 +148,7 @@
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "пр",
-    "Room": "3-603",
+    "Room": "Онлайн-147",
     "FIO": "Григорьев Андрей Владимирович",
     "FIOshort": "Григорьев А.В.",
     "Error": null

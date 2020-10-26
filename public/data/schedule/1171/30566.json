@@ -67,11 +67,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Социология",
     "LessonType": "л",
-    "Room": "3-403",
+    "Room": "",
     "FIO": "Артамонова Виктория Владимировна",
     "FIOshort": "Артамонова В.В.",
     "Error": null

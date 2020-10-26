@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-155",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математика",
@@ -16,18 +27,18 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-207",
+    "Room": "Онлайн-134",
     "FIO": "Семенова Ольга Фиофановна",
     "FIOshort": "Семенова О.Ф.",
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
+    "WeekDay": 2,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "Онлайн-149",
+    "Room": "Онлайн-177",
     "FIO": "Дорошенко Наталия Сергеевна",
     "FIOshort": "Дорошенко Н.С.",
     "Error": null

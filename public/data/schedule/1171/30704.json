@@ -1,16 +1,5 @@
 [
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "Онлайн-161",
-    "FIO": "Медведева Людмила Александровна",
-    "FIOshort": "Медведева Л.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,

@@ -56,7 +56,7 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Математика для менеджеров",
     "LessonType": "л",
@@ -100,7 +100,7 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Математика для менеджеров",
     "LessonType": "пр",
@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "л",
@@ -144,11 +144,22 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Самоменеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-186",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "1-311",
+    "Room": "Онлайн-185",
     "FIO": "Зверева Ольга Юрьевна",
     "FIOshort": "Зверева О.Ю.",
     "Error": null
@@ -173,17 +184,6 @@
     "Room": "Онлайн-159",
     "FIO": "Бимакова Руфина Рашидовна",
     "FIOshort": "Бимакова Р.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Самоменеджмент",
-    "LessonType": "пр",
-    "Room": "1-210",
-    "FIO": "Арбатская Елена Анатольевна",
-    "FIOshort": "Арбатская Е.А.",
     "Error": null
   },
   {
