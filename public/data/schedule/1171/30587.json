@@ -56,7 +56,7 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -176,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "пр",
-    "Room": "Онлайн-51",
-    "FIO": "Самойлова Жанна Владимировна",
-    "FIOshort": "Самойлова Ж.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
@@ -206,6 +195,17 @@
     "Room": "Онлайн-131",
     "FIO": "Рудяков Василий Анатольевич",
     "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "Онлайн-51",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
     "Error": null
   }
 ]

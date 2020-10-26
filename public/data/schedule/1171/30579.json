@@ -89,7 +89,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
@@ -100,11 +100,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "4-405",
+    "Room": "4-412",
     "FIO": "Огородникова Татьяна Владимировна",
     "FIOshort": "Огородникова Т.В.",
     "Error": null

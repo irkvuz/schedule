@@ -89,11 +89,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "19:15",
     "Odd": 1,
     "Lesson": "Экономическая политика",
-    "LessonType": "пр",
-    "Room": "Онлайн-46",
+    "LessonType": "л",
+    "Room": "Онлайн-27",
     "FIO": "Шавкунова Ирина Сергеевна",
     "FIOshort": "Шавкунова И.С.",
     "Error": null
@@ -101,10 +101,10 @@
   {
     "WeekDay": 3,
     "StartTime": "19:15",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Экономическая политика",
-    "LessonType": "л",
-    "Room": "Онлайн-27",
+    "LessonType": "пр",
+    "Room": "Онлайн-46",
     "FIO": "Шавкунова Ирина Сергеевна",
     "FIOshort": "Шавкунова И.С.",
     "Error": null

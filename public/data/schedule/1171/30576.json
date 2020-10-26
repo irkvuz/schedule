@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "Онлайн-154",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
@@ -105,17 +116,6 @@
     "Lesson": "Философия",
     "LessonType": "л",
     "Room": "2-307",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "Онлайн-154",
     "FIO": "Немцева Анна Владимировна",
     "FIOshort": "Немцева А.В.",
     "Error": null

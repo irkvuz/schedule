@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "Онлайн-134",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
@@ -166,18 +177,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "Онлайн-134",
-    "FIO": "Тагаров Бато Жаргалович",
-    "FIOshort": "Тагаров Б.Ж.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "л",

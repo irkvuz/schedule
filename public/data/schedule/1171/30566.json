@@ -1,8 +1,8 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Анатомия и физиология ЦНС",
     "LessonType": "л",
     "Room": "2-112",
@@ -67,11 +67,22 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-189",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Социология",
-    "LessonType": "л",
-    "Room": "",
+    "LessonType": "пр",
+    "Room": "Онлайн-185",
     "FIO": "Артамонова Виктория Владимировна",
     "FIOshort": "Артамонова В.В.",
     "Error": null
@@ -111,17 +122,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-416",
-    "FIO": "Хуммель Лариса Алексеевна",
-    "FIOshort": "Хуммель Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Физическая культура",
@@ -136,8 +136,8 @@
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Социология",
-    "LessonType": "пр",
-    "Room": "2-311",
+    "LessonType": "л",
+    "Room": "2-212",
     "FIO": "Артамонова Виктория Владимировна",
     "FIOshort": "Артамонова В.В.",
     "Error": null
@@ -155,11 +155,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Общая психология",
     "LessonType": "пр",
-    "Room": "1-104",
+    "Room": "Онлайн-156",
     "FIO": "Никулина Татьяна Ивановна",
     "FIOshort": "Никулина Т.И.",
     "Error": null

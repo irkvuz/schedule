@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "Онлайн-144",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
@@ -110,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "Онлайн-144",
-    "FIO": "Тагаров Бато Жаргалович",
-    "FIOshort": "Тагаров Б.Ж.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -132,11 +132,11 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "8:30",
+    "WeekDay": 5,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Правоведение",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "4-306",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
@@ -144,11 +144,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Правоведение",
-    "LessonType": "л",
-    "Room": "4-306",
+    "LessonType": "пр",
+    "Room": "Онлайн-162",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
     "Error": null

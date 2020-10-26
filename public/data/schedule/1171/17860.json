@@ -67,7 +67,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономико-правовое регулирование социально-трудовых отношений",
     "LessonType": "пр",
@@ -78,7 +78,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Конфликтология",
     "LessonType": "пр",
