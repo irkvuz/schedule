@@ -111,7 +111,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "л",
@@ -122,7 +122,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "пр",

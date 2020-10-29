@@ -90,17 +90,6 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Брендинг",
-    "LessonType": "пр",
-    "Room": "3-903",
-    "FIO": "Шагина Екатерина Алексеевна",
-    "FIOshort": "Шагина Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Брендинг",
     "LessonType": "л",
@@ -115,7 +104,18 @@
     "Odd": 0,
     "Lesson": "Брендинг",
     "LessonType": "пр",
-    "Room": "3-903",
+    "Room": "Онлайн-201",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Брендинг",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
     "FIO": "Шагина Екатерина Алексеевна",
     "FIOshort": "Шагина Е.А.",
     "Error": null
@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Оценка состояния конкурентной среды",
     "LessonType": "пр",
@@ -144,7 +144,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Оценка состояния конкурентной среды",
     "LessonType": "пр",

@@ -155,7 +155,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "л",
@@ -181,7 +181,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "4-412",
+    "Room": "4-302",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null

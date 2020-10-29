@@ -35,18 +35,7 @@
   {
     "WeekDay": 2,
     "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Бухгалтерский учет",
-    "LessonType": "л",
-    "Room": "5-401",
-    "FIO": "Пушко Ольга Евгеньевна",
-    "FIOshort": "Пушко О.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Выполнение работ по профессии \"Агент банка\"",
     "LessonType": "л",
     "Room": "Онлайн-145",
@@ -56,22 +45,11 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
-    "Lesson": "Бухгалтерский учет",
-    "LessonType": "л",
-    "Room": "5-401",
-    "FIO": "Пушко Ольга Евгеньевна",
-    "FIOshort": "Пушко О.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 1,
     "Lesson": "Выполнение работ по профессии \"Агент банка\"",
     "LessonType": "л",
-    "Room": "Онлайн-145",
+    "Room": "5-401",
     "FIO": "Горчакова Мария Евгеньевна",
     "FIOshort": "Горчакова М.Е.",
     "Error": null

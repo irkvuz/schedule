@@ -5,7 +5,7 @@
     "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "л",
-    "Room": "4-302",
+    "Room": "4-412",
     "FIO": "Астраханцева Арина Сергеевна",
     "FIOshort": "Астраханцева А.С.",
     "Error": null
@@ -88,8 +88,8 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
+    "WeekDay": 4,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Социология",
     "LessonType": "пр",
@@ -100,18 +100,18 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика",
     "LessonType": "пр",
-    "Room": "2-315",
+    "Room": "Онлайн-171",
     "FIO": "Аксенюшкина Елена Владимировна",
     "FIOshort": "Аксенюшкина Е.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информационные технологии",
     "LessonType": "пр",

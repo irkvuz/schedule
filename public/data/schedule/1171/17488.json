@@ -133,18 +133,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Таможенные платежи",
-    "LessonType": "пр",
-    "Room": "Онлайн-173",
-    "FIO": "Гущина Ольга Геннадьевна",
-    "FIOshort": "Гущина О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Уголовное право",
     "LessonType": "пр",
@@ -155,13 +144,24 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налоги и система платежей в бюджет государства",
     "LessonType": "пр",
     "Room": "Онлайн-178",
     "FIO": "Измайлова Мария Олеговна",
     "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "пр",
+    "Room": "Онлайн-173",
+    "FIO": "Гущина Ольга Геннадьевна",
+    "FIOshort": "Гущина О.Г.",
     "Error": null
   }
 ]

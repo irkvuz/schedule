@@ -110,8 +110,8 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
+    "WeekDay": 4,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Уголовное право (Общая часть)",
     "LessonType": "пр",
@@ -126,7 +126,7 @@
     "Odd": 0,
     "Lesson": "Административное право",
     "LessonType": "пр",
-    "Room": "4-206",
+    "Room": "Онлайн-135",
     "FIO": "Кирьянова Ольга Викторовна",
     "FIOshort": "Кирьянова О.В.",
     "Error": null

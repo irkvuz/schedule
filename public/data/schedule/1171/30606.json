@@ -5,14 +5,14 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "2-209",
+    "Room": "Онлайн-140",
     "FIO": "Хабдаева Аюна Константиновна",
     "FIOshort": "Хабдаева А.К.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "19:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
@@ -122,11 +122,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "л",
-    "Room": "2-217",
+    "Room": "Онлайн-158",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
     "Error": null

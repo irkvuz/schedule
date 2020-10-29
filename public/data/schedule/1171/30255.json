@@ -38,7 +38,7 @@
     "Odd": 0,
     "Lesson": "Китайский язык для делового общения",
     "LessonType": "пр",
-    "Room": "1-302",
+    "Room": "Онлайн-133",
     "FIO": "Сю Василий Шаньлуевич",
     "FIOshort": "Сю В.Ш.",
     "Error": null
@@ -177,13 +177,24 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Китайский язык для делового общения",
     "LessonType": "пр",
-    "Room": "2-402",
+    "Room": "Онлайн-185",
     "FIO": "Сю Василий Шаньлуевич",
     "FIOshort": "Сю В.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "Онлайн-202",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
     "Error": null
   },
   {
@@ -198,23 +209,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Финансы",
-    "LessonType": "пр",
-    "Room": "2-412",
-    "FIO": "Авдюшина Марина Анатольевна",
-    "FIOshort": "Авдюшина М.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Английский язык",
     "LessonType": "пр",
-    "Room": "1-416",
+    "Room": "Онлайн-170",
     "FIO": "Китова Елена Борисовна",
     "FIOshort": "Китова Е.Б.",
     "Error": null
@@ -225,7 +225,7 @@
     "Odd": 0,
     "Lesson": "Английский язык",
     "LessonType": "пр",
-    "Room": "1-416",
+    "Room": "Онлайн-158",
     "FIO": "Китова Елена Борисовна",
     "FIOshort": "Китова Е.Б.",
     "Error": null

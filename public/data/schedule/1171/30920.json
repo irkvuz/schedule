@@ -45,17 +45,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-168",
-    "FIO": "Косова Юлия Борисовна",
-    "FIOshort": "Косова Ю.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История",
@@ -63,6 +52,17 @@
     "Room": "Онлайн-156",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-168",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
     "Error": null
   },
   {
@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "Онлайн-194",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
@@ -89,11 +100,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "4-405",
+    "Room": "Онлайн-190",
     "FIO": "Косова Юлия Борисовна",
     "FIOshort": "Косова Ю.Б.",
     "Error": null
@@ -103,17 +114,6 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "4-404",
-    "FIO": "Доржиева Мария Лхамажаповна",
-    "FIOshort": "Доржиева М.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Философия",
     "LessonType": "л",
     "Room": "4-412",
     "FIO": "Доржиева Мария Лхамажаповна",
@@ -121,14 +121,14 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "8:30",
+    "WeekDay": 5,
+    "StartTime": "19:15",
     "Odd": 0,
-    "Lesson": "Правоведение",
+    "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "4-406",
-    "FIO": "Гусева Галина Викторовна",
-    "FIOshort": "Гусева Г.В.",
+    "Room": "Онлайн-141",
+    "FIO": "Доржиева Мария Лхамажаповна",
+    "FIOshort": "Доржиева М.Л.",
     "Error": null
   },
   {
@@ -148,7 +148,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "4-412",
+    "Room": "4-302",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null

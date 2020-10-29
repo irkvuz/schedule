@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Криминалистика",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Асатрян Хачатур Ашотович",
-    "FIOshort": "Асатрян Х.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -88,12 +77,34 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Валютное регулирование и валютный контроль",
+    "LessonType": "пр",
+    "Room": "Онлайн-190",
+    "FIO": "Федотов Дмитрий Юрьевич",
+    "FIOshort": "Федотов Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-128",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Валютное регулирование и валютный контроль",
     "LessonType": "л",
-    "Room": "",
+    "Room": "2-215",
     "FIO": "Федотов Дмитрий Юрьевич",
     "FIOshort": "Федотов Д.Ю.",
     "Error": null
@@ -104,7 +115,7 @@
     "Odd": 0,
     "Lesson": "Контроль и ревизия",
     "LessonType": "л",
-    "Room": "",
+    "Room": "2-215",
     "FIO": "Деревцова Ирина Валерьевна",
     "FIOshort": "Деревцова И.В.",
     "Error": null
@@ -115,9 +126,20 @@
     "Odd": 0,
     "Lesson": "Стратегический менеджмент",
     "LessonType": "л",
-    "Room": "",
+    "Room": "2-215",
     "FIO": "Солодков Михаил Викторович",
     "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Таможенное право",
+    "LessonType": "пр",
+    "Room": "Онлайн-134",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
     "Error": null
   },
   {
@@ -133,7 +155,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Стратегический менеджмент",
     "LessonType": "пр",

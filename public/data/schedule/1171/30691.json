@@ -55,6 +55,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "Онлайн-141",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
