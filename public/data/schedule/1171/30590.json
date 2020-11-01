@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "Онлайн-29",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Русский язык",
@@ -100,33 +111,11 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "пр",
-    "Room": "Онлайн-29",
-    "FIO": "Гусева Галина Викторовна",
-    "FIOshort": "Гусева Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
     "Room": "Онлайн-140",
-    "FIO": "Чурина Марина Георгиевна",
-    "FIOshort": "Чурина М.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Экономическая теория",
-    "LessonType": "пр",
-    "Room": "Онлайн-23",
     "FIO": "Чурина Марина Георгиевна",
     "FIOshort": "Чурина М.Г.",
     "Error": null
@@ -236,7 +225,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "Онлайн-135",
+    "Room": "2-215",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null
