@@ -1,22 +1,22 @@
 [
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Социальное страхование",
     "LessonType": "л",
-    "Room": "Онлайн-20",
+    "Room": "2-402",
     "FIO": "Степанова Марина Николаевна",
     "FIOshort": "Степанова М.Н.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Социальное страхование",
-    "LessonType": "пр",
-    "Room": "Онлайн-22",
+    "LessonType": "л",
+    "Room": "2-402",
     "FIO": "Степанова Марина Николаевна",
     "FIOshort": "Степанова М.Н.",
     "Error": null
@@ -35,10 +35,10 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Социальное страхование",
-    "LessonType": "л",
-    "Room": "Онлайн-117",
+    "LessonType": "пр",
+    "Room": "Онлайн-22",
     "FIO": "Степанова Марина Николаевна",
     "FIOshort": "Степанова М.Н.",
     "Error": null

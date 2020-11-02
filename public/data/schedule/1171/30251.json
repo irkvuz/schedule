@@ -34,7 +34,7 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "л",
@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Финансы",
@@ -96,17 +107,6 @@
     "Room": "Онлайн-137",
     "FIO": "Левченко Наталья Евгеньевна",
     "FIOshort": "Левченко Н.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Финансы",
-    "LessonType": "л",
-    "Room": "Онлайн-135",
-    "FIO": "Щербакова Ирина Николаевна",
-    "FIOshort": "Щербакова И.Н.",
     "Error": null
   },
   {
