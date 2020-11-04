@@ -1,18 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Рынок ценных бумаг",
-    "LessonType": "л",
-    "Room": "8-206",
-    "FIO": "Звягинцева Наталья Александровна",
-    "FIOshort": "Звягинцева Н.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Рынок ценных бумаг",
     "LessonType": "пр",
@@ -22,12 +11,23 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "л",
+    "Room": "Онлайн-212",
+    "FIO": "Звягинцева Наталья Александровна",
+    "FIOshort": "Звягинцева Н.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Банковская деятельность",
     "LessonType": "л",
-    "Room": "8-206",
+    "Room": "Онлайн-225",
     "FIO": "Татаринова Лариса Валентиновна",
     "FIOshort": "Татаринова Л.В.",
     "Error": null
@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "пр",
+    "Room": "Онлайн-157",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Бюджет и бюджетная система",
@@ -99,23 +110,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Отчетность и аудит",
-    "LessonType": "пр",
-    "Room": "Онлайн-157",
-    "FIO": "Щукина Татьяна Владимировна",
-    "FIOshort": "Щукина Т.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Социальное страхование",
     "LessonType": "л",
-    "Room": "8-206",
+    "Room": "Онлайн-220",
     "FIO": "Агеева Евгения Валерьевна",
     "FIOshort": "Агеева Е.В.",
     "Error": null
@@ -126,7 +126,7 @@
     "Odd": 2,
     "Lesson": "Отчетность и аудит",
     "LessonType": "л",
-    "Room": "8-206",
+    "Room": "Онлайн-212",
     "FIO": "Щукина Татьяна Владимировна",
     "FIOshort": "Щукина Т.В.",
     "Error": null
@@ -137,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Бюджет и бюджетная система",
     "LessonType": "л",
-    "Room": "8-206",
+    "Room": "Онлайн-163",
     "FIO": "Ковтун Лира Раисовна",
     "FIOshort": "Ковтун Л.Р.",
     "Error": null

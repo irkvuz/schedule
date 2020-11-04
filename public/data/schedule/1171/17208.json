@@ -1,18 +1,18 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Экономический анализ",
     "LessonType": "л",
-    "Room": "3-902",
+    "Room": "Онлайн-179",
     "FIO": "Кондрацкая Татьяна Алексеевна",
     "FIOshort": "Кондрацкая Т.А.",
     "Error": null
   },
   {
     "WeekDay": 1,
-    "StartTime": "17:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
@@ -133,18 +133,18 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "л",
-    "Room": "3-903",
+    "Room": "Онлайн-192",
     "FIO": "Григорьев Андрей Владимирович",
     "FIOshort": "Григорьев А.В.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Лидерство",
     "LessonType": "пр",

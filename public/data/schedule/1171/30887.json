@@ -67,17 +67,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Современный русский язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-33",
-    "FIO": "Изместьева Екатерина Сергеевна",
-    "FIOshort": "Изместьева Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Маркетинг",
@@ -100,13 +89,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Маркетинг",
     "LessonType": "л",
     "Room": "Онлайн-110",
     "FIO": "Поляков Владимир Владимирович",
     "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-33",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
     "Error": null
   },
   {
@@ -144,7 +144,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История отечественной литературы",
     "LessonType": "л",

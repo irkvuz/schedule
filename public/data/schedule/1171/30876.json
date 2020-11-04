@@ -166,17 +166,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "Онлайн-161",
-    "FIO": "Выборова Светлана Александровна",
-    "FIOshort": "Выборова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Обществознание",

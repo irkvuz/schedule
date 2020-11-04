@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-196",
-    "FIO": "Луц Светлана Сергеевна",
-    "FIOshort": "Луц С.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -34,11 +23,22 @@
   },
   {
     "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-196",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "2-416",
+    "Room": "Онлайн-149",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null
@@ -56,24 +56,24 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "Онлайн-208",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "пр",
     "Room": "Онлайн-202",
     "FIO": "Самойлова Жанна Владимировна",
     "FIOshort": "Самойлова Ж.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "История",
-    "LessonType": "л",
-    "Room": "2-307",
-    "FIO": "Майдачевский Дмитрий Ярославович",
-    "FIOshort": "Майдачевский Д.Я.",
     "Error": null
   },
   {
@@ -122,13 +122,24 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
-    "Room": "2-416",
+    "Room": "Онлайн-203",
     "FIO": "Тагаров Бато Жаргалович",
     "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "Онлайн-157",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
     "Error": null
   },
   {
@@ -137,20 +148,9 @@
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "л",
-    "Room": "2-416",
+    "Room": "Онлайн-148",
     "FIO": "Жаркова Татьяна Евгеньевна",
     "FIOshort": "Жаркова Т.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Математика",
-    "LessonType": "л",
-    "Room": "2-416",
-    "FIO": "Сорокина Полина Геннадьевна",
-    "FIOshort": "Сорокина П.Г.",
     "Error": null
   },
   {
@@ -166,6 +166,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "Онлайн-216",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
@@ -173,17 +184,6 @@
     "Room": "Онлайн-145",
     "FIO": "Жаркова Татьяна Евгеньевна",
     "FIOshort": "Жаркова Т.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Правоведение",
-    "LessonType": "л",
-    "Room": "4-212",
-    "FIO": "Самойлова Жанна Владимировна",
-    "FIOshort": "Самойлова Ж.В.",
     "Error": null
   },
   {

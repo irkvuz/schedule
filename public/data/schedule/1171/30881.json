@@ -1,7 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Инженерная геология",
     "LessonType": "пр",
@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "Инженерная геология",
     "LessonType": "л",
-    "Room": "2-309",
+    "Room": "Онлайн-184",
     "FIO": "Осипова Ольга Петровна",
     "FIOshort": "Осипова О.П.",
     "Error": null
@@ -45,7 +45,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -56,7 +56,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Русский язык и культура делового общения",
     "LessonType": "пр",
@@ -71,15 +71,15 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "2-215",
+    "Room": "Онлайн-172",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "пр",
     "Room": "Онлайн-152",
@@ -93,20 +93,9 @@
     "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
     "LessonType": "л",
-    "Room": "2-215",
+    "Room": "Онлайн-272",
     "FIO": "Астраханцева Арина Сергеевна",
     "FIOshort": "Астраханцева А.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "Онлайн-168",
-    "FIO": "Косова Юлия Борисовна",
-    "FIOshort": "Косова Ю.Б.",
     "Error": null
   },
   {
@@ -124,6 +113,17 @@
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-168",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
     "Lesson": "Геодезия",
     "LessonType": "пр",
     "Room": "Онлайн-163",
@@ -137,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Геодезия",
     "LessonType": "л",
-    "Room": "3-806",
+    "Room": "Онлайн-132",
     "FIO": "Клевцов Евгений Валерьевич",
     "FIOshort": "Клевцов Е.В.",
     "Error": null

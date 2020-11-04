@@ -201,11 +201,11 @@
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Логистика",
+    "Lesson": "Маркетинг",
     "LessonType": "пр",
-    "Room": "Онлайн-207",
-    "FIO": "Малецкая Марина Борисовна",
-    "FIOshort": "Малецкая М.Б.",
+    "Room": "Онлайн-109",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
     "Error": null
   },
   {
@@ -231,23 +231,23 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Маркетинг",
-    "LessonType": "пр",
-    "Room": "Онлайн-109",
-    "FIO": "Рыженков Алексей Геннадьевич",
-    "FIOshort": "Рыженков А.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Логистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-207",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Логистика",
     "LessonType": "л",
-    "Room": "3-906",
+    "Room": "Онлайн-202",
     "FIO": "Малецкая Марина Борисовна",
     "FIOshort": "Малецкая М.Б.",
     "Error": null

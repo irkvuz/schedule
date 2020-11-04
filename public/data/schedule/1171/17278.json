@@ -34,22 +34,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Информационный менеджмент",
-    "LessonType": "пр",
-    "Room": "Онлайн-21",
+    "LessonType": "л",
+    "Room": "Онлайн-138",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информационный менеджмент",
-    "LessonType": "л",
-    "Room": "Онлайн-138",
+    "LessonType": "пр",
+    "Room": "Онлайн-21",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null

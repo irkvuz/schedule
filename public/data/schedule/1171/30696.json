@@ -56,17 +56,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-185",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Физическая культура",

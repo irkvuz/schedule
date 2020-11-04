@@ -12,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "17:30",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Математические и инструментальные средства в экономике",
     "LessonType": "л",
-    "Room": "4-412",
+    "Room": "Онлайн-163",
     "FIO": "Леонова Ольга Васильевна",
     "FIOshort": "Леонова О.В.",
     "Error": null
@@ -27,7 +27,7 @@
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "л",
-    "Room": "4-412",
+    "Room": "Онлайн-236",
     "FIO": "Огородникова Татьяна Владимировна",
     "FIOshort": "Огородникова Т.В.",
     "Error": null
@@ -38,25 +38,14 @@
     "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "4-412",
+    "Room": "Онлайн-151",
     "FIO": "Огородникова Татьяна Владимировна",
     "FIOshort": "Огородникова Т.В.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "История",
-    "LessonType": "пр",
-    "Room": "Онлайн-156",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -70,8 +59,19 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "Онлайн-156",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
     "LessonType": "л",
-    "Room": "4-306",
+    "Room": "Онлайн-176",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
     "Error": null
@@ -99,8 +99,8 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
+    "WeekDay": 4,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -115,14 +115,14 @@
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "л",
-    "Room": "4-412",
+    "Room": "Онлайн-179",
     "FIO": "Доржиева Мария Лхамажаповна",
     "FIOshort": "Доржиева М.Л.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "19:15",
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "пр",
@@ -137,7 +137,7 @@
     "Odd": 0,
     "Lesson": "Правоведение",
     "LessonType": "л",
-    "Room": "4-406",
+    "Room": "Онлайн-198",
     "FIO": "Гусева Галина Викторовна",
     "FIOshort": "Гусева Г.В.",
     "Error": null
@@ -148,7 +148,7 @@
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "4-302",
+    "Room": "Онлайн-181",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null

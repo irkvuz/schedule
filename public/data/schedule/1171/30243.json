@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "Онлайн-168",
-    "FIO": "Малютина Светлана Анатольевна",
-    "FIOshort": "Малютина С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Деньги, кредит, банки",
@@ -30,6 +19,17 @@
     "Room": "Онлайн-148",
     "FIO": "Зорина Елена Сергеевна",
     "FIOshort": "Зорина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-168",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
     "Error": null
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "л",

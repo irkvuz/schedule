@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Экологические основы природопользования",
-    "LessonType": "л",
-    "Room": "11-412",
-    "FIO": "Тирских Лариса Анатольевна",
-    "FIOshort": "Тирских Л.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 2,

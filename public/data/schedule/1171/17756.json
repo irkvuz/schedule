@@ -68,28 +68,6 @@
   {
     "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Налогообложение физических лиц",
-    "LessonType": "л",
-    "Room": "2-415",
-    "FIO": "Комарова Галина Петровна",
-    "FIOshort": "Комарова Г.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Налогообложение физических лиц",
-    "LessonType": "л",
-    "Room": "2-415",
-    "FIO": "Комарова Галина Петровна",
-    "FIOshort": "Комарова Г.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Налогообложение физических лиц",
     "LessonType": "пр",
@@ -100,7 +78,29 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "17:30",
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Налогообложение физических лиц",
+    "LessonType": "л",
+    "Room": "Онлайн-21",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налогообложение физических лиц",
+    "LessonType": "л",
+    "Room": "Онлайн-206",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Налогообложение физических лиц",
     "LessonType": "пр",
@@ -111,18 +111,18 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Налоговые системы зарубежных стран",
     "LessonType": "л",
-    "Room": "1-309",
+    "Room": "Онлайн-159",
     "FIO": "Ярунина Анна Германовна",
     "FIOshort": "Ярунина А.Г.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Налоговые системы зарубежных стран",
     "LessonType": "пр",

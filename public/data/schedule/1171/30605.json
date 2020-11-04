@@ -12,17 +12,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика для менеджеров",
-    "LessonType": "пр",
-    "Room": "Онлайн-144",
-    "FIO": "Сорокина Полина Геннадьевна",
-    "FIOshort": "Сорокина П.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -45,11 +34,22 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "17:30",
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика для менеджеров",
+    "LessonType": "пр",
+    "Room": "Онлайн-144",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Математика для менеджеров",
     "LessonType": "л",
-    "Room": "Онлайн-123",
+    "Room": "Онлайн-143",
     "FIO": "Сорокина Полина Геннадьевна",
     "FIOshort": "Сорокина П.Г.",
     "Error": null
@@ -144,24 +144,13 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "История",
     "LessonType": "л",
     "Room": "Онлайн-145",
     "FIO": "Распопина Алена Александровна",
     "FIOshort": "Распопина А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "Онлайн-162",
-    "FIO": "Пяо Мэйшань",
-    "FIOshort": "Пяо М.",
     "Error": null
   },
   {
@@ -188,11 +177,22 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "Онлайн-162",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "л",
-    "Room": "Онлайн-157",
+    "Room": "Онлайн-158",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
     "Error": null
