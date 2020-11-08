@@ -166,22 +166,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "11-107",
-    "FIO": "Терлецкая Ольга Ивановна",
-    "FIOshort": "Терлецкая О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-107",
+    "Room": "Онлайн-181",
     "FIO": "Терлецкая Ольга Ивановна",
     "FIOshort": "Терлецкая О.И.",
     "Error": null

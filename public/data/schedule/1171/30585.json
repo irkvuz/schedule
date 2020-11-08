@@ -23,6 +23,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "Онлайн-117",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Социология",
@@ -41,17 +52,6 @@
     "Room": "Онлайн-111",
     "FIO": "Седых Ольга Геннадьевна",
     "FIOshort": "Седых О.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Правоведение",
-    "LessonType": "л",
-    "Room": "Онлайн-117",
-    "FIO": "Чигрина Елена Владимировна",
-    "FIOshort": "Чигрина Е.В.",
     "Error": null
   },
   {

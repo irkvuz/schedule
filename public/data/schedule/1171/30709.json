@@ -176,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Естествознание",
-    "LessonType": "пр",
-    "Room": "Онлайн-106",
-    "FIO": "Тирских Лариса Анатольевна",
-    "FIOshort": "Тирских Л.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,

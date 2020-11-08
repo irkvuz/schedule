@@ -1,7 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
@@ -66,8 +66,8 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "14:00",
+    "WeekDay": 4,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Компьютерные информационные системы налогового и бухгалтерского учета",
     "LessonType": "пр",
@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Средства и методы контроля",
     "LessonType": "пр",
@@ -144,7 +144,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Государственный финансовый контроль",
     "LessonType": "пр",

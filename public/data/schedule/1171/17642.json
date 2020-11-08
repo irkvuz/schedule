@@ -34,6 +34,17 @@
   },
   {
     "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-168",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Русский язык (факультатив)",
@@ -149,17 +160,6 @@
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
     "Room": "Онлайн-188",
-    "FIO": "Бреева Анна Павловна",
-    "FIOshort": "Бреева А.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-168",
     "FIO": "Бреева Анна Павловна",
     "FIOshort": "Бреева А.П.",
     "Error": null

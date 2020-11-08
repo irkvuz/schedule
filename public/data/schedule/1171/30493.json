@@ -234,20 +234,9 @@
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 2,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "Кузнецова Елена Владимировна",
-    "FIOshort": "Кузнецова Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 0,
     "Lesson": "Информатика",
     "LessonType": "пр",
-    "Room": "12-406",
+    "Room": "12-208",
     "FIO": "Деренко Марина Петровна",
     "FIOshort": "Деренко М.П.",
     "Error": null

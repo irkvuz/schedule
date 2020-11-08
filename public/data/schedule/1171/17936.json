@@ -67,18 +67,18 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Рынок потребительских товаров",
     "LessonType": "л",
-    "Room": "3-902",
+    "Room": "Онлайн-218",
     "FIO": "Щепина Светлана Владиславовна",
     "FIOshort": "Щепина С.В.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Рынок потребительских товаров",
     "LessonType": "пр",

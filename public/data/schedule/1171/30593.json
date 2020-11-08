@@ -2,6 +2,17 @@
   {
     "WeekDay": 1,
     "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-180",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Информатика",
     "LessonType": "л",
@@ -118,6 +129,17 @@
     "Room": "Онлайн-172",
     "FIO": "Якимов Константин Викторович",
     "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-180",
+    "FIO": "Бреева Анна Павловна",
+    "FIOshort": "Бреева А.П.",
     "Error": null
   },
   {

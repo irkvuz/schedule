@@ -34,7 +34,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Поведение потребителей",
     "LessonType": "л",
@@ -45,7 +45,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Поведение потребителей",
     "LessonType": "пр",
@@ -56,7 +56,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Инвестиционный анализ",
     "LessonType": "пр",

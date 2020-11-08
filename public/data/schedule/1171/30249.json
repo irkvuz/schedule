@@ -60,14 +60,14 @@
     "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "л",
-    "Room": "2-412",
+    "Room": "Онлайн-215",
     "FIO": "Малютина Светлана Анатольевна",
     "FIOshort": "Малютина С.А.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Рынок труда и занятость населения",
     "LessonType": "пр",
@@ -78,7 +78,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "пр",
@@ -90,7 +90,7 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Психология труда",
     "LessonType": "л",
     "Room": "Онлайн-202",
@@ -101,7 +101,7 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Психология труда",
     "LessonType": "пр",
     "Room": "Онлайн-150",
@@ -111,7 +111,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "15:45",
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Психология труда",
     "LessonType": "пр",
@@ -159,7 +159,7 @@
     "Odd": 2,
     "Lesson": "Управление персоналом организации",
     "LessonType": "л",
-    "Room": "2-411",
+    "Room": "Онлайн-176",
     "FIO": "Козлова Олеся Владимировна",
     "FIOshort": "Козлова О.В.",
     "Error": null

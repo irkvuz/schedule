@@ -79,6 +79,17 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Валютное регулирование и валютный контроль",
     "LessonType": "пр",
