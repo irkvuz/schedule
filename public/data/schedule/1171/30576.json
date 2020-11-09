@@ -67,22 +67,22 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "15:45",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "История",
-    "LessonType": "л",
-    "Room": "Онлайн-146",
+    "LessonType": "пр",
+    "Room": "Онлайн-145",
     "FIO": "Левченко Владимир Михайлович",
     "FIOshort": "Левченко В.М.",
     "Error": null
   },
   {
     "WeekDay": 3,
-    "StartTime": "17:30",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История",
-    "LessonType": "пр",
-    "Room": "Онлайн-145",
+    "LessonType": "л",
+    "Room": "Онлайн-146",
     "FIO": "Левченко Владимир Михайлович",
     "FIOshort": "Левченко В.М.",
     "Error": null
