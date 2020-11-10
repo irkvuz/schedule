@@ -13,6 +13,17 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-308",
+    "FIO": "Воронина Надежда Георгиевна",
+    "FIOshort": "Воронина Н.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Математика",
     "LessonType": "л",

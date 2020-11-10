@@ -22,17 +22,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Математика",
-    "LessonType": "л",
-    "Room": "11-305",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -63,17 +52,6 @@
     "Room": "Онлайн-120",
     "FIO": "Балабаева Мария Валерьевна",
     "FIOshort": "Балабаева М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Математика",
-    "LessonType": "пр",
-    "Room": "12-303",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
     "Error": null
   },
   {

@@ -79,18 +79,18 @@
   {
     "WeekDay": 3,
     "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Статистика",
+    "Odd": 1,
+    "Lesson": "Трудовое право",
     "LessonType": "л",
     "Room": "11-205",
-    "FIO": "Кузнецова Елена Владимировна",
-    "FIOshort": "Кузнецова Е.В.",
+    "FIO": "Андреева Светлана Дмитриевна",
+    "FIOshort": "Андреева С.Д.",
     "Error": null
   },
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Трудовое право",
     "LessonType": "л",
     "Room": "11-205",
