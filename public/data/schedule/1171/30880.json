@@ -143,6 +143,28 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-142",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-142",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,

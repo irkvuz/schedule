@@ -189,7 +189,7 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Статистика",
     "LessonType": "л",
     "Room": "11-309",

@@ -221,6 +221,28 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "Онлайн-159",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-156",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "История 1",

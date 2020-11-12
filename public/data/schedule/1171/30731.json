@@ -244,7 +244,7 @@
   {
     "WeekDay": 6,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Математика",
     "LessonType": "пр",
     "Room": "12-301",

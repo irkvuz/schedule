@@ -99,6 +99,28 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "Онлайн-196",
+    "FIO": "Скуратова Елена Александровна",
+    "FIOshort": "Скуратова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "Онлайн-151",
+    "FIO": "Скуратова Елена Александровна",
+    "FIOshort": "Скуратова Е.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 1,
@@ -129,6 +151,17 @@
     "Room": "Онлайн-217",
     "FIO": "Фаркова Ирина Анатольевна",
     "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "Онлайн-208",
+    "FIO": "Скуратова Елена Александровна",
+    "FIOshort": "Скуратова Е.А.",
     "Error": null
   },
   {

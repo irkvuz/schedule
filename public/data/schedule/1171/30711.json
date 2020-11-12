@@ -78,6 +78,17 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Основы экономической теории",
@@ -281,17 +292,6 @@
     "Lesson": "Математика",
     "LessonType": "л",
     "Room": "12-409",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Математика",
-    "LessonType": "пр",
-    "Room": "12-306",
     "FIO": "Ахмадеева Алла Абдулваровна",
     "FIOshort": "Ахмадеева А.А.",
     "Error": null
