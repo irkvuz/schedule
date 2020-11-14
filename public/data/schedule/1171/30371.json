@@ -288,17 +288,6 @@
   {
     "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Математика",
-    "LessonType": "л",
-    "Room": "12-407",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Основы философии",
     "LessonType": "пр",

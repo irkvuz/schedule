@@ -177,6 +177,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-202",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "История",
@@ -184,17 +195,6 @@
     "Room": "11-408",
     "FIO": "Ринчинов Артем Бэликтоевич",
     "FIOshort": "Ринчинов А.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-403",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
     "Error": null
   },
   {

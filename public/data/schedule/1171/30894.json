@@ -299,6 +299,17 @@
   {
     "WeekDay": 6,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физика 2",
+    "LessonType": "пр",
+    "Room": "12-307",
+    "FIO": "Зарубина Татьяна Александровна",
+    "FIOshort": "Зарубина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Основы философии",
     "LessonType": "пр",
