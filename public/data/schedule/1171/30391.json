@@ -198,17 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "12-403",
-    "FIO": "Калиновская Дарья Сергеевна",
-    "FIOshort": "Калиновская Д.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,

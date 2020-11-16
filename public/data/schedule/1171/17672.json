@@ -188,6 +188,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Трудовое право",

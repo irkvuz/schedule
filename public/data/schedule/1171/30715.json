@@ -12,6 +12,28 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Математика",
