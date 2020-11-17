@@ -44,6 +44,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Закупки отдельными видами юридических лиц",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
@@ -57,7 +79,18 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Финансы организаций",
+    "LessonType": "л",
+    "Room": "11-207",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Закупки отдельными видами юридических лиц",
     "LessonType": "л",
     "Room": "11-207",

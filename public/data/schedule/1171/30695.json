@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-148",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Информатика 1",
@@ -8,6 +19,28 @@
     "Room": "Онлайн-182",
     "FIO": "Широкова Наталья Владимировна",
     "FIOshort": "Широкова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-17",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-187",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
@@ -121,6 +154,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -140,6 +184,17 @@
     "Room": "Онлайн-183",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-152",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
