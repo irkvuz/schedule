@@ -220,6 +220,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-154",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 2,

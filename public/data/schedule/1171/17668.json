@@ -121,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -210,6 +221,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "12-405",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Организация оценки земли и имущества",
@@ -228,6 +250,17 @@
     "Room": "12-408",
     "FIO": "Диденко Людмила Васильевна",
     "FIOshort": "Диденко Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "12-408",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
     "Error": null
   }
 ]

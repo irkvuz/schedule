@@ -177,6 +177,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Элементы высшей математики",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "История",

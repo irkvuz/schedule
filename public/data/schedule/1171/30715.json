@@ -1,6 +1,39 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Математика",
@@ -199,10 +232,32 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Дендрология и лесоведение",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "11-305",
     "FIO": "Тирских Лариса Анатольевна",
     "FIOshort": "Тирских Л.А.",

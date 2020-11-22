@@ -178,6 +178,17 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Информатика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Информатика 1",
     "LessonType": "л",
@@ -217,17 +228,6 @@
     "Room": "Онлайн-154",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Информатика 1",
-    "LessonType": "пр",
-    "Room": "Онлайн-147",
-    "FIO": "Деренко Марина Петровна",
-    "FIOshort": "Деренко М.П.",
     "Error": null
   }
 ]

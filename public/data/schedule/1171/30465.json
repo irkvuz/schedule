@@ -90,23 +90,12 @@
   {
     "WeekDay": 3,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "л",
     "Room": "11-205",
     "FIO": "Кузнецова Елена Владимировна",
     "FIOshort": "Кузнецова Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Трудовое право",
-    "LessonType": "л",
-    "Room": "11-205",
-    "FIO": "Андреева Светлана Дмитриевна",
-    "FIOshort": "Андреева С.Д.",
     "Error": null
   },
   {
@@ -118,6 +107,17 @@
     "Room": "11-205",
     "FIO": "Андреева Светлана Дмитриевна",
     "FIOshort": "Андреева С.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
     "Error": null
   },
   {
@@ -165,6 +165,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-402",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 1,
@@ -206,17 +217,6 @@
     "Room": "12-405",
     "FIO": "Табагари Илона Игоревна",
     "FIOshort": "Табагари И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Основы философии",
-    "LessonType": "пр",
-    "Room": "12-405",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
     "Error": null
   },
   {

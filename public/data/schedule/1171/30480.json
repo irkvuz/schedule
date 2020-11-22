@@ -66,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
@@ -203,20 +214,9 @@
     "Odd": 1,
     "Lesson": "Основы экономической теории",
     "LessonType": "пр",
-    "Room": "11-204",
+    "Room": "11-210",
     "FIO": "Петров Николай Витальевич",
     "FIOshort": "Петров Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Основы философии",
-    "LessonType": "пр",
-    "Room": "11-309",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
     "Error": null
   },
   {
@@ -294,6 +294,17 @@
     "Room": "12-401",
     "FIO": "Диденко Людмила Васильевна",
     "FIOshort": "Диденко Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
     "Error": null
   },
   {
