@@ -68,17 +68,6 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Основы философии",
-    "LessonType": "л",
-    "Room": "12-409",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "История",
     "LessonType": "л",
@@ -140,17 +129,6 @@
     "Room": "11-205",
     "FIO": "Истомина Екатерина Владимировна",
     "FIOshort": "Истомина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Математика",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Ахмадеева Алла Абдулваровна",
-    "FIOshort": "Ахмадеева А.А.",
     "Error": null
   },
   {

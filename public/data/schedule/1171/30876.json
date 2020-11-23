@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-142",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
