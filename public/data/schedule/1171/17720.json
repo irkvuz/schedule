@@ -57,7 +57,7 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Уголовное право",
     "LessonType": "л",
     "Room": "Онлайн-156",

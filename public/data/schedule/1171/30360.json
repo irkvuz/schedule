@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Организация кредитной работы",
-    "LessonType": "пр",
-    "Room": "11-415",
-    "FIO": "Журавлева Анна Ивановна",
-    "FIOshort": "Журавлева А.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
