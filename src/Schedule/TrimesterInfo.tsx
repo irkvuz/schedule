@@ -17,7 +17,7 @@ export default function TrimesterInfo(props: Props) {
     props.trimester.dateStart,
     props.today
   );
-  const weeksInSemester = differenceInWeeks(dateFinish, dateStart);
+  const weeksInSemester = differenceInWeeks(dateFinish, dateStart) + 1;
   /**
    * In second semestr it shoud be equal to number of weeks in prev simester
    */
