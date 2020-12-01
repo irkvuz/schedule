@@ -9,7 +9,7 @@
   "homepage": "https://bgu.irkvuz.ru",
   "private": false,
   "dependencies": {
-    "@sentry/browser": "5.27.2",
+    "@sentry/browser": "5.27.6",
     "@types/jest": "26.0.15",
     "@types/node": "13.13.30",
     "@types/react": "16.9.55",
