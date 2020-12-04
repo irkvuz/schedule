@@ -9,11 +9,11 @@
   "homepage": "https://bgu.irkvuz.ru",
   "private": false,
   "dependencies": {
-    "@sentry/browser": "5.27.2",
+    "@sentry/browser": "5.27.6",
     "@types/jest": "26.0.15",
-    "@types/node": "13.13.30",
-    "@types/react": "16.9.55",
-    "@types/react-dom": "16.9.8",
+    "@types/node": "13.13.34",
+    "@types/react": "16.14.2",
+    "@types/react-dom": "16.9.10",
     "@types/react-router-dom": "5.1.5",
     "antd": "4.6.6",
     "axios": "0.20.0",
@@ -32,8 +32,8 @@
     "typescript": "4.0.2"
   },
   "devDependencies": {
-    "@size-limit/preset-app": "4.7.0",
-    "@testing-library/react": "11.1.0",
+    "@size-limit/preset-app": "4.9.0",
+    "@testing-library/react": "11.2.2",
     "@types/progress": "2.0.3",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-jest": "24.0.2",
