@@ -88,6 +88,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "Онлайн-138",
+    "FIO": "Малютина Мария Вячеславовна",
+    "FIOshort": "Малютина М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "Онлайн-170",
+    "FIO": "Малютина Мария Вячеславовна",
+    "FIOshort": "Малютина М.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -118,28 +140,6 @@
     "Room": "Онлайн-178",
     "FIO": "Тирских Лариса Анатольевна",
     "FIOshort": "Тирских Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "Онлайн-138",
-    "FIO": "Малютина Мария Вячеславовна",
-    "FIOshort": "Малютина М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Информатика",
-    "LessonType": "л",
-    "Room": "Онлайн-170",
-    "FIO": "Малютина Мария Вячеславовна",
-    "FIOshort": "Малютина М.В.",
     "Error": null
   },
   {

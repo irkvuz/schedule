@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -85,6 +96,17 @@
     "Room": "12-305",
     "FIO": "Торшин Игорь Викторович",
     "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
     "Error": null
   },
   {
