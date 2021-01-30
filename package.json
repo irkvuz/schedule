@@ -16,7 +16,7 @@
     "@types/react-dom": "16.9.10",
     "@types/react-router-dom": "5.1.7",
     "antd": "4.9.4",
-    "axios": "0.20.0",
+    "axios": "0.21.1",
     "babel-plugin-import": "1.13.0",
     "customize-cra": "1.0.0",
     "date-fns": "2.15.0",
