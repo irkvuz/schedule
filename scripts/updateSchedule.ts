@@ -4,13 +4,16 @@
 
 import fs from 'fs';
 import ProgressBar from 'progress';
-import { Faculty, Group } from './types';
+import { IScheduleOld } from '../src/constants';
 import api from './api';
+import { Faculty, Group } from './types';
 
 const VERBOSE = true;
 
-const TRIMESTER_ID_1 = 1171;
-const TRIMESTER_ID_2 = undefined;
+const TRIMESTER_ID_1 = 1219;
+const TRIMESTER_ID_2 = 1228;
+
+const trimesterIds = [TRIMESTER_ID_1, TRIMESTER_ID_2];
 
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
@@ -23,8 +26,7 @@ const json2file = (path: string, obj: any) => {
     // let trimesterId = trimesters[0].IdTrimester;
     // json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
     // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
-    let trimesterId = TRIMESTER_ID_1;
-    let dirSchedule = `./public/data/schedule/${trimesterId}`;
+    let dirSchedule = `./public/data/schedule/${trimesterIds[0]}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
     if (VERBOSE) console.log('Getting faculties');
@@ -51,11 +53,15 @@ const json2file = (path: string, obj: any) => {
       for (let i = 0; i < groups.length; i++) {
         bar.tick();
         let g = groups[i];
-        let schedule = await api.getSchedule(g.IdGroup, trimesterId);
-        groups[i].hasSchedule = schedule.length > 1;
-        if (TRIMESTER_ID_2 && schedule.length <= 1) {
-          schedule = await api.getSchedule(g.IdGroup, TRIMESTER_ID_2);
-          groups[i].hasSchedule = schedule.length > 1;
+        groups[i].hasSchedule = false;
+        let schedule: IScheduleOld;
+        for (let trimesterId of trimesterIds) {
+          schedule = await api.getSchedule(g.IdGroup, trimesterId);
+          if (schedule.length > 1) {
+            groups[i].hasSchedule = true;
+            groups[i].trimesterId = trimesterId;
+            break;
+          }
         }
         if (groups[i].hasSchedule) {
           schedule = schedule.map((lesson) => {
