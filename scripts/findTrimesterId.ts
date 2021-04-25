@@ -9,8 +9,10 @@ import api from './api';
 (async function () {
   try {
     // Insert here groups for which there is available schedule on bgu.ru
-    const groups = [17765];
-    const prevTrimesterId = 1342; // first 2020-2021
+    const groups = [
+      30605, // МЕНрк-20-1
+    ];
+    const prevTrimesterId = 1219; // second 2020-2021
     const max = 300;
     let result = new Set();
 
