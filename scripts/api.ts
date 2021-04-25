@@ -1,6 +1,10 @@
 import axios from 'axios';
-import { IGroupOld, IFacultyOld } from '../src/constants';
-import { ITrimesterOld, ILessonOld } from './types';
+import {
+  IGroupOld,
+  IFacultyOld,
+  ILessonOld,
+  ITrimesterOld,
+} from '../src/constants';
 
 const DEBUG = false;
 if (DEBUG) {

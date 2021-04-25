@@ -7,6 +7,14 @@ export interface ITrimester {
   Error: string;
 }
 
+export interface ITrimesterOld {
+  IdTrimester: number;
+  uYear: string;
+  dateStart: Date;
+  dateFinish: Date;
+  week: number;
+  Error: string;
+}
 export interface ILessonOld {
   WeekDay: number;
   StartTime: string;
@@ -43,6 +51,7 @@ export interface IGroupOld {
   Course: number;
   Error: string;
   hasSchedule: boolean;
+  trimesterId: number;
 }
 
 export interface IFacultyOld {
