@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Интеллектуальные информационные системы",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория систем и системный анализ",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Интернет вещей",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Блокчейн технологии в экономике",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Блокчейн технологии в экономике",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интеллектуальные информационные системы",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория систем и системный анализ",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Абдуллин Владимир Рафаэлевич",
+    "FIOshort": "Абдуллин В.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Анализ больших данных",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет-программирование",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Абдуллин Владимир Рафаэлевич",
+    "FIOshort": "Абдуллин В.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет-программирование",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ больших данных",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет вещей",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  }
+]

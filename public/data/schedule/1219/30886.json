@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Огородникова Анна Владимировна",
+    "FIOshort": "Огородникова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Отечественная история",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Судебная система РФ",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История государства и права России",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Коломинов Вячеслав Валентинович",
+    "FIOshort": "Коломинов В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История государства и права России",
+    "LessonType": "пр",
+    "Room": "5-514",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы теории национальной безопасности",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Егоров Юрий Николаевич",
+    "FIOshort": "Егоров Ю.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-514",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Судебная система РФ",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Отечественная история",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы теории национальной безопасности",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Егоров Юрий Николаевич",
+    "FIOshort": "Егоров Ю.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Специальная подготовка (часть 1)",
+    "LessonType": "пр",
+    "Room": "5-512",
+    "FIO": "Преловский Александр Александрович",
+    "FIOshort": "Преловский А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  }
+]

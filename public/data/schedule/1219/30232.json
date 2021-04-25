@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Гостиничное хозяйство",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Калинина Ирина Юрьевна",
+    "FIOshort": "Калинина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент в туризме",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономика организации индустрии туризма",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Козодой Ольга Андреевна",
+    "FIOshort": "Козодой О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гостиничное хозяйство",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Калинина Ирина Юрьевна",
+    "FIOshort": "Калинина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации индустрии туризма",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Менеджмент в туризме",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Зарубежное туристское страноведение",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Ржепка Элина Анатольевна",
+    "FIOshort": "Ржепка Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Козодой Ольга Андреевна",
+    "FIOshort": "Козодой О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Зарубежное туристское страноведение",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Ржепка Элина Анатольевна",
+    "FIOshort": "Ржепка Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-214",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (второй)",
+    "LessonType": "пр",
+    "Room": "1-214",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  }
+]

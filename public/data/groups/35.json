@@ -11,7 +11,8 @@
     "Group": "ББЛрки-18-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30127,
@@ -25,49 +26,54 @@
     "Group": "ББЛрки-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30603,
     "Group": "ББЛрки-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 17532,
     "Group": "ББМЭК-17",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17910,
     "Group": "ББМЭК-18",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 17533,
     "Group": "ББТ-17",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17829,
     "Group": "ББТ-18",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30463,
     "Group": "ББТ-19",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30604,
@@ -88,21 +94,23 @@
     "Group": "БЛрки-17",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30409,
     "Group": "БЛрки-18",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30791,
     "Group": "БЛрки-19",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 18135,
@@ -130,14 +138,15 @@
     "Group": "МЕНрк-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30605,
     "Group": "МЕНрк-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30133,
@@ -151,21 +160,21 @@
     "Group": "МЛрки-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30610,
     "Group": "МЛрки-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30611,
     "Group": "МЛряп-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 17172,
@@ -200,49 +209,54 @@
     "Group": "МЭКрк-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30255,
     "Group": "МЭКрк-19-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30606,
     "Group": "МЭКрк-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30607,
     "Group": "МЭКрк-20-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30294,
     "Group": "ПМЛрк-19-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": false
   },
   {
     "IdGroup": 30608,
     "Group": "ПМЛрк-20-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30813,
     "Group": "ПФрки-20 вкл-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30814,
@@ -263,7 +277,8 @@
     "Group": "ПФрки-20 линг-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true
+    "hasSchedule": true,
+    "trimesterId": 1219
   },
   {
     "IdGroup": 30809,
