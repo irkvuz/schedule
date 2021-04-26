@@ -1,21 +1,21 @@
-import { IGroupOld, IFacultyOld } from '../src/constants';
+import { IFaculty, IFacultyOld, IGroup, IGroupOld } from '../src/constants';
 
-export class Group {
-  public id: number;
+export class Group implements IGroup {
+  public id: string;
   public name: string;
   constructor(obj: IGroupOld) {
-    this.id = obj.IdGroup;
+    this.id = String(obj.IdGroup); // Cascader requires `id` as a String
     this.name = obj.Group;
   }
 }
 
-export class Faculty {
-  public id: number;
+export class Faculty implements IFaculty {
+  public id: string;
   public name: string;
   public fullName: string;
   public groups: Group[];
   constructor(obj: IFacultyOld) {
-    this.id = obj.IdFaculty;
+    this.id = String(obj.IdFaculty); // Cascader requires `id` as a String
     this.name = obj.FacultyAbbr;
     this.fullName = obj.FacultyName;
     this.groups = [];

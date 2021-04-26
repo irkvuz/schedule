@@ -31,7 +31,7 @@ export type IScheduleOld = ILessonOld[];
 
 /** Universal item with `id` and `name` fields */
 export interface IItem {
-  id: string;
+  id: string; // Cascader requires `id` as a String
   name: string;
 }
 
