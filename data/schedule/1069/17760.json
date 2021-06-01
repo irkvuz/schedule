@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Кузнецова Наталья Михайловна",
+    "FIOshort": "Кузнецова Н.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Кузнецова Наталья Михайловна",
+    "FIOshort": "Кузнецова Н.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История зарубежной журналистики",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Красноярова Ольга Валентиновна",
+    "FIOshort": "Красноярова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История зарубежной журналистики",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Красноярова Ольга Валентиновна",
+    "FIOshort": "Красноярова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Бялоус Нина Ивановна",
+    "FIOshort": "Бялоус Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-212",
+    "FIO": "Бялоус Нина Ивановна",
+    "FIOshort": "Бялоус Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы теории журналистики",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Мустафаева Лейла Шамистановна",
+    "FIOshort": "Мустафаева Л.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы теории журналистики",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Мустафаева Лейла Шамистановна",
+    "FIOshort": "Мустафаева Л.Ш.",
+    "Error": null
+  }
+]

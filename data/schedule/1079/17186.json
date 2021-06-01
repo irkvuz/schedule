@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "4-210",
+    "FIO": "Содномова Светлана Константиновна",
+    "FIOshort": "Содномова С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Содномова Светлана Константиновна",
+    "FIOshort": "Содномова С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация бухгалтерского учета в секторе государственного управления",
+    "LessonType": "л",
+    "Room": "2-408",
+    "FIO": "Арбатская Татьяна Георгиевна",
+    "FIOshort": "Арбатская Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация бухгалтерского учета в секторе государственного управления",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Арбатская Татьяна Георгиевна",
+    "FIOshort": "Арбатская Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Регулирование бухгалтерского учета",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Алганаева Марина Петровна",
+    "FIOshort": "Алганаева М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Регулирование бухгалтерского учета",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Алганаева Марина Петровна",
+    "FIOshort": "Алганаева М.П.",
+    "Error": null
+  }
+]

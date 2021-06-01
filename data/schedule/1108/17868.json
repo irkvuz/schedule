@@ -1,0 +1,134 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (Business English)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Интенсивный курс английского языка (Supplementary English Course)",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Методы исследований в менеджменте (Empirical Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бахматова Татьяна Георгиевна",
+    "FIOshort": "Бахматова Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Методы исследований в менеджменте (Empirical Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Методы исследований в менеджменте (Empirical Research Methods in Management)",
+    "LessonType": "л",
+    "Room": "3-407",
+    "FIO": "Бахматова Татьяна Георгиевна",
+    "FIOshort": "Бахматова Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "л",
+    "Room": "5-312",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык как средство профессионального общения (English)",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы (Corporate Finance)",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  }
+]

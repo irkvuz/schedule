@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономика строительного предприятия",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Торгашина Ирина Геннадьевна",
+    "FIOshort": "Торгашина И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика строительного предприятия",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Торгашина Ирина Геннадьевна",
+    "FIOshort": "Торгашина И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  }
+]

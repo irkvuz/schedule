@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Ковалевская Валентина Георгиевна",
+    "FIOshort": "Ковалевская В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Ковалевская Валентина Георгиевна",
+    "FIOshort": "Ковалевская В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "2-106",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-302",
+    "FIO": "Самойленко Элина Викторовна",
+    "FIOshort": "Самойленко Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Самойленко Элина Викторовна",
+    "FIOshort": "Самойленко Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Самойленко Элина Викторовна",
+    "FIOshort": "Самойленко Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Самойленко Элина Викторовна",
+    "FIOshort": "Самойленко Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Самойленко Элина Викторовна",
+    "FIOshort": "Самойленко Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Ковалевская Валентина Георгиевна",
+    "FIOshort": "Ковалевская В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Ковалевская Валентина Георгиевна",
+    "FIOshort": "Ковалевская В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "10-103",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "10-202",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "10-101",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  }
+]

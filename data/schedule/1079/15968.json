@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансы внешнеэкономической деятельности",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы внешнеэкономической деятельности",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса",
+    "LessonType": "л",
+    "Room": "2-402",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса",
+    "LessonType": "пр",
+    "Room": "2-402",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Региональные финансы",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Региональные финансы",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Реструктуризация предприятий",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Реструктуризация предприятий",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Отчетность в бюджетном секторе",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Отчетность в бюджетном секторе",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансовые технологии",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансовые технологии",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Поседко Анна Евгеньевна",
+    "FIOshort": "Поседко А.Е.",
+    "Error": null
+  }
+]

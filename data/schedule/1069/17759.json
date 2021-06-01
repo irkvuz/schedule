@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Курс специализации по французскому языку",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Быкова Нина Николаевна",
+    "FIOshort": "Быкова Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "1-123",
+    "FIO": "Горев Владимир Петрович",
+    "FIOshort": "Горев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Горев Владимир Петрович",
+    "FIOshort": "Горев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Горев Владимир Петрович",
+    "FIOshort": "Горев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Курс специализации по французскому языку",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Французский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Право",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Съемщиков Сергей Евгеньевич",
+    "FIOshort": "Съемщиков С.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Право",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Съемщиков Сергей Евгеньевич",
+    "FIOshort": "Съемщиков С.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Французский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Быкова Нина Николаевна",
+    "FIOshort": "Быкова Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  }
+]

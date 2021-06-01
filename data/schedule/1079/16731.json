@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Технология работы с клиентами",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Демиденко Сергей Владимирович",
+    "FIOshort": "Демиденко С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Технология работы с клиентами",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Демиденко Сергей Владимирович",
+    "FIOshort": "Демиденко С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Анализ маркетинговой информации",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Анализ маркетинговой информации",
+    "LessonType": "л",
+    "Room": "3-408",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет - маркетинг",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Маркетинговые исследования",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Полякова Нина Владимировна",
+    "FIOshort": "Полякова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Маркетинговые исследования",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Полякова Нина Владимировна",
+    "FIOshort": "Полякова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Управление рекламной деятельностью",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Ценообразование",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Ценообразование",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Маркетинг в отраслях и сферах деятельности",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Маркетинг в отраслях и сферах деятельности",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление рекламной деятельностью",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление рекламной деятельностью",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Маркетинговая логистика",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Маркетинговая логистика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  }
+]

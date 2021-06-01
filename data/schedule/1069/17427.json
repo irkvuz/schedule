@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура 2",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Жигулина Людмила Александровна",
+    "FIOshort": "Жигулина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Жигулина Людмила Александровна",
+    "FIOshort": "Жигулина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Жигулина Людмила Александровна",
+    "FIOshort": "Жигулина Л.А.",
+    "Error": null
+  }
+]

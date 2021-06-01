@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Почвоведение",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Широкова Наталья Владимировна",
+    "FIOshort": "Широкова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура 2",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Балабаева Мария Валерьевна",
+    "FIOshort": "Балабаева М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "11-416",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "11-416",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "пр",
+    "Room": "11-414",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "11-302",
+    "FIO": "Широкова Наталья Владимировна",
+    "FIOshort": "Широкова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-416",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-416",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "11-416",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  }
+]

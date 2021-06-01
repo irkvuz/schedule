@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "1-204",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Автоматизированные системы обработки информации ",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "История искусств",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История искусств",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Семиотика",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Рогозная Нина Николаевна",
+    "FIOshort": "Рогозная Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бурдуковская Анна Валерьевна",
+    "FIOshort": "Бурдуковская А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бурдуковская Анна Валерьевна",
+    "FIOshort": "Бурдуковская А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Семиотика",
+    "LessonType": "л",
+    "Room": "1-417",
+    "FIO": "Рогозная Нина Николаевна",
+    "FIOshort": "Рогозная Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Культурология",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Ткачев Валерий Сысоевич",
+    "FIOshort": "Ткачев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Культурология",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Ткачев Валерий Сысоевич",
+    "FIOshort": "Ткачев В.С.",
+    "Error": null
+  }
+]

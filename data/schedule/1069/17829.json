@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык и культура речи",
+    "LessonType": "л",
+    "Room": "10-201(б)",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Русский язык и культура речи",
+    "LessonType": "пр",
+    "Room": "10-201(б)",
+    "FIO": "Лидина Ирина Юрьевна",
+    "FIOshort": "Лидина И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "1-203",
+    "FIO": "Шавкунова Ирина Сергеевна",
+    "FIOshort": "Шавкунова И.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "1-203",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "1-203",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "1-203",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "2-312",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Сидоренкова Ольга Германовна",
+    "FIOshort": "Сидоренкова О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Сидоренкова Ольга Германовна",
+    "FIOshort": "Сидоренкова О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Концепции современного естествознания",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Концепции современного естествознания",
+    "LessonType": "л",
+    "Room": "1-302",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "1-203",
+    "FIO": "Шавкунова Ирина Сергеевна",
+    "FIOshort": "Шавкунова И.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "1-201",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "1-310",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  }
+]

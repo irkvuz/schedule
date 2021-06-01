@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Этика",
+    "LessonType": "л",
+    "Room": "1-309",
+    "FIO": "Атанов Андрей Алексеевич",
+    "FIOshort": "Атанов А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Информатика и информационные процессы",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бурдуковская Анна Валерьевна",
+    "FIOshort": "Бурдуковская А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Этика",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Атанов Андрей Алексеевич",
+    "FIOshort": "Атанов А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Информатика и информационные процессы",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Бурдуковская Анна Валерьевна",
+    "FIOshort": "Бурдуковская А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Эстетика",
+    "LessonType": "л",
+    "Room": "1-405",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Современные теории и технологии социально-практической деятельности",
+    "LessonType": "л",
+    "Room": "1-203",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Эстетика",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Современные теории и технологии социально-практической деятельности",
+    "LessonType": "пр",
+    "Room": "1-203",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Психология управления",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Геранюшкина Галина Петровна",
+    "FIOshort": "Геранюшкина Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Психология управления",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Геранюшкина Галина Петровна",
+    "FIOshort": "Геранюшкина Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Сравнительная культурология",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Ткачев Валерий Сысоевич",
+    "FIOshort": "Ткачев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Сравнительная культурология",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Ткачев Валерий Сысоевич",
+    "FIOshort": "Ткачев В.С.",
+    "Error": null
+  }
+]

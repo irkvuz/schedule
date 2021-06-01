@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесоводство",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Технология и оборудование рубок лесных насаждений",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Зырянов Василий Николаевич",
+    "FIOshort": "Зырянов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесное товароведение с основами древесиноведения",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Дендрология",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таксация леса",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Лесная пирология",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесное товароведение с основами древесиноведения",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Технология и оборудование рубок лесных насаждений",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Зырянов Василий Николаевич",
+    "FIOshort": "Зырянов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесоводство",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Дендрология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Технология и оборудование рубок лесных насаждений",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Зырянов Василий Николаевич",
+    "FIOshort": "Зырянов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Таксация леса",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесная пирология",
+    "LessonType": "пр",
+    "Room": "3-705",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  }
+]

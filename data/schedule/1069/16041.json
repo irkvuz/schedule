@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Тюкавкин-Плотников Алексей Александрович",
+    "FIOshort": "Тюкавкин-Плотников А",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковское право",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Непомнящая Екатерина Анатольевна",
+    "FIOshort": "Непомнящая Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Деликтное право",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Деликтное право",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Афанасьева Татьяна Ивановна",
+    "FIOshort": "Афанасьева Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Авторское право",
+    "LessonType": "пр",
+    "Room": "6-302",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Авторское право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Афанасьева Татьяна Ивановна",
+    "FIOshort": "Афанасьева Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Алыпова Анастасия Владимировна",
+    "FIOshort": "Алыпова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "6-405",
+    "FIO": "Тагиров Дамир Шаукатович",
+    "FIOshort": "Тагиров Д.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковское право",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Непомнящая Екатерина Анатольевна",
+    "FIOshort": "Непомнящая Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Тагиров Дамир Шаукатович",
+    "FIOshort": "Тагиров Д.Ш.",
+    "Error": null
+  }
+]

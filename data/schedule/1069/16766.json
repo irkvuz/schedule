@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Средства поддержки программирования",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информационное право",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационное право",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Рынки ИКТ и организация продаж ",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Рынки ИКТ и организация продаж ",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Средства поддержки программирования",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Архитектура предприятия ",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Архитектура предприятия ",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  }
+]

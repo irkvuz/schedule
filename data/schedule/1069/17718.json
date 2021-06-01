@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Сметанина-Крушевски Наталья Викторовна",
+    "FIOshort": "Сметанина-Крушевски ",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История таможенного дела и таможенной политики",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Содномова Светлана Константиновна",
+    "FIOshort": "Содномова С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Рыбалко Светлана Александровна",
+    "FIOshort": "Рыбалко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "4-203",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "4-203",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы экономики",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Максимов Игорь Борисович",
+    "FIOshort": "Максимов И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы экономики",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Максимов Игорь Борисович",
+    "FIOshort": "Максимов И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История таможенного дела и таможенной политики",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Содномова Светлана Константиновна",
+    "FIOshort": "Содномова С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Сафонов Михаил Александрович",
+    "FIOshort": "Сафонов М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы таможенного дела",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "5-301",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы таможенного дела",
+    "LessonType": "пр",
+    "Room": "5-301",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Рыбалко Светлана Александровна",
+    "FIOshort": "Рыбалко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Сметанина-Крушевски Наталья Викторовна",
+    "FIOshort": "Сметанина-Крушевски ",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Володина Наталья Юрьевна",
+    "FIOshort": "Володина Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Володина Наталья Юрьевна",
+    "FIOshort": "Володина Н.Ю.",
+    "Error": null
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика (Линейная алгебра)",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Французский язык",
+    "LessonType": "пр",
+    "Room": "1-213",
+    "FIO": "Горбунова Инна Владимировна",
+    "FIOshort": "Горбунова И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика (Линейная алгебра)",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Леонова Ольга Васильевна",
+    "FIOshort": "Леонова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика (Линейная алгебра)",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Завьялова Алина Геннадьевна",
+    "FIOshort": "Завьялова А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Ткачева Марина Львовна",
+    "FIOshort": "Ткачева М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Завьялова Алина Геннадьевна",
+    "FIOshort": "Завьялова А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Французский язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Горбунова Инна Владимировна",
+    "FIOshort": "Горбунова И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "1-213",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Муньков Евгений Александрович",
+    "FIOshort": "Муньков Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Культурология",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Ткачев Валерий Сысоевич",
+    "FIOshort": "Ткачев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "15-1-01",
+    "FIO": "Муньков Евгений Александрович",
+    "FIOshort": "Муньков Е.А.",
+    "Error": null
+  }
+]

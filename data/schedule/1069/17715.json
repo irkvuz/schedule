@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Профессиональные компетенции в государственном и муниципальном управлении",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Бахтаирова Елена Александровна",
+    "FIOshort": "Бахтаирова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Тарабан Ольга Вячеславовна",
+    "FIOshort": "Тарабан О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математический анализ",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математический анализ",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Профессиональные компетенции в государственном и муниципальном управлении",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Бахтаирова Елена Александровна",
+    "FIOshort": "Бахтаирова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Сафонов Михаил Александрович",
+    "FIOshort": "Сафонов М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психология управления",
+    "LessonType": "л",
+    "Room": "4-205",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психология управления",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  }
+]

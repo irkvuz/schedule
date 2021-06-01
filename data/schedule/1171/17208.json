@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "Онлайн-179",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "Онлайн-141",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Business Communications in Cross-Cultural Environment",
+    "LessonType": "л",
+    "Room": "Онлайн-179",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Инновационный менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-200",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Инновационный менеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-142",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "Онлайн-117",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "Онлайн-116",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Сравнительный менеджмент и этика международного бизнеса",
+    "LessonType": "л",
+    "Room": "Онлайн-215",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Сравнительный менеджмент и этика международного бизнеса",
+    "LessonType": "пр",
+    "Room": "Онлайн-132",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Business Communications in Cross-Cultural Environment",
+    "LessonType": "пр",
+    "Room": "Онлайн-150",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "International Marketing",
+    "LessonType": "л",
+    "Room": "Онлайн-143",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "International Marketing",
+    "LessonType": "пр",
+    "Room": "Онлайн-142",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лидерство",
+    "LessonType": "л",
+    "Room": "Онлайн-192",
+    "FIO": "Григорьев Андрей Владимирович",
+    "FIOshort": "Григорьев А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лидерство",
+    "LessonType": "пр",
+    "Room": "Онлайн-147",
+    "FIO": "Григорьев Андрей Владимирович",
+    "FIOshort": "Григорьев А.В.",
+    "Error": null
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Лесные культуры",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Охотоведение",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Туренко Борис Григорьевич",
+    "FIOshort": "Туренко Б.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Туренко Борис Григорьевич",
+    "FIOshort": "Туренко Б.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Технология лесозащиты",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Охотоведение",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Технология лесозащиты",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Лыков Олег Степанович",
+    "FIOshort": "Лыков О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесомелиорация ландшафтов",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Хадеева Екатерина Романовна",
+    "FIOshort": "Хадеева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесомелиорация ландшафтов",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Хадеева Екатерина Романовна",
+    "FIOshort": "Хадеева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гидротехнические мелиорации лесных земель",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Хадеева Екатерина Романовна",
+    "FIOshort": "Хадеева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Гидротехнические мелиорации лесных земель",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Хадеева Екатерина Романовна",
+    "FIOshort": "Хадеева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  }
+]

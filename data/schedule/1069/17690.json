@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура 1",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-301",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-303",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-303",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "пр",
+    "Room": "12-407",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура 1",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  }
+]

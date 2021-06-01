@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление рисками в инвестиционно-строительной сфере",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Кельберг Елена Игоревна",
+    "FIOshort": "Кельберг Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Ковалевская Наталья Юрьевна",
+    "FIOshort": "Ковалевская Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "3-509",
+    "FIO": "Ковалевская Наталья Юрьевна",
+    "FIOshort": "Ковалевская Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Ковалевская Наталья Юрьевна",
+    "FIOshort": "Ковалевская Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовый менеджмент",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовый менеджмент",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "л",
+    "Room": "5-314",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Бедин Борис Михайлович",
+    "FIOshort": "Бедин Б.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Бедин Борис Михайлович",
+    "FIOshort": "Бедин Б.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление рисками в инвестиционно-строительной сфере",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Кельберг Елена Игоревна",
+    "FIOshort": "Кельберг Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности строительных организаций",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности строительных организаций",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Девелопмент",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Гусак Анна Сергеевна",
+    "FIOshort": "Гусак А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Девелопмент",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Гусак Анна Сергеевна",
+    "FIOshort": "Гусак А.С.",
+    "Error": null
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Технологии управления качеством",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы оценки компании",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Винокурова Мария Викторовна",
+    "FIOshort": "Винокурова М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Планирование и бюджетирование деятельности компаний",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Планирование и бюджетирование деятельности компаний",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Павлова Наталия Юрьевна",
+    "FIOshort": "Павлова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международный бизнес",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Павлова Наталия Юрьевна",
+    "FIOshort": "Павлова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Павлова Наталия Юрьевна",
+    "FIOshort": "Павлова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психология бизнеса",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы оценки компании",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Винокурова Мария Викторовна",
+    "FIOshort": "Винокурова М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Павлова Наталия Юрьевна",
+    "FIOshort": "Павлова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Технологии управления качеством",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психология бизнеса",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международный бизнес",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  }
+]

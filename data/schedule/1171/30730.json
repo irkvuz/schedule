@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "Онлайн-159",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-135",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "Онлайн-164",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-163",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-137",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-170",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-135",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "Онлайн-153",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-171",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-160",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-132",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-110",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-138",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-136",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "Онлайн-155",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "Онлайн-151",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-151",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-161",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-125",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  }
+]

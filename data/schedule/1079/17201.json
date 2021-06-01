@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление организациями",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Хохлова Наталья Сергеевна",
+    "FIOshort": "Хохлова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление организациями",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Хохлова Наталья Сергеевна",
+    "FIOshort": "Хохлова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "6-302",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы государственного и муниципального управления",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Соколова Лариса Георгиевна",
+    "FIOshort": "Соколова Л.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Основы государственного и муниципального управления",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Соколова Лариса Георгиевна",
+    "FIOshort": "Соколова Л.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организаций",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Ануфриева Алена Александровна",
+    "FIOshort": "Ануфриева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в управлении",
+    "LessonType": "пр",
+    "Room": "5-413",
+    "FIO": "Шестаков Сергей Семенович",
+    "FIOshort": "Шестаков С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организаций",
+    "LessonType": "л",
+    "Room": "5-301",
+    "FIO": "Ануфриева Алена Александровна",
+    "FIOshort": "Ануфриева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в управлении",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Шестаков Сергей Семенович",
+    "FIOshort": "Шестаков С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Троценко Елена Геннадьевна",
+    "FIOshort": "Троценко Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Деловой этикет и культура речи",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Рогова Елена Геннадьевна",
+    "FIOshort": "Рогова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Основы делопроизводства",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Бронникова Татьяна Анатольевна",
+    "FIOshort": "Бронникова Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Деловой этикет и культура речи",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Рогова Елена Геннадьевна",
+    "FIOshort": "Рогова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы делопроизводства",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Бронникова Татьяна Анатольевна",
+    "FIOshort": "Бронникова Т.А.",
+    "Error": null
+  }
+]

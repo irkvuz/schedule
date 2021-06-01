@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Учет в бюджетном секторе",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Острикова Людмила Николаевна",
+    "FIOshort": "Острикова Л.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Учет в бюджетном секторе",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Острикова Людмила Николаевна",
+    "FIOshort": "Острикова Л.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "10-102",
+    "FIO": "Федосеев Александр Алексеевич",
+    "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансы холдингов",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы холдингов",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Федосеев Александр Алексеевич",
+    "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Инвестиции",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Федосеев Александр Алексеевич",
+    "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Инвестиции",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  }
+]

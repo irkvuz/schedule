@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-415",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "11-415",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "л",
+    "Room": "11-407",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "5-404",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "5-404",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "л",
+    "Room": "5-404",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-403",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Геодезия",
+    "LessonType": "пр",
+    "Room": "12-402",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "пр",
+    "Room": "12-402",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-202",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "5-202",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Крамынина Ирина Эдуардовна",
+    "FIOshort": "Крамынина И.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Тирских Лариса Анатольевна",
+    "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Балабаева Мария Валерьевна",
+    "FIOshort": "Балабаева М.В.",
+    "Error": null
+  }
+]

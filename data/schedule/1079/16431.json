@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-407",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-407",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Компьютерные сети",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационная безопасность",
+    "LessonType": "л",
+    "Room": "11-304",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Правовое обеспечение профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Домнина Лилия Петровна",
+    "FIOshort": "Домнина Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Правовое обеспечение профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Домнина Лилия Петровна",
+    "FIOshort": "Домнина Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Правовое обеспечение профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Домнина Лилия Петровна",
+    "FIOshort": "Домнина Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Компьютерные сети",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Компьютерные сети",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "12-404",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Информационная безопасность",
+    "LessonType": "л",
+    "Room": "11-407",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "11-415",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Информационная безопасность",
+    "LessonType": "пр",
+    "Room": "11-311",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Баянова Елена Владимировна",
+    "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Балабаева Мария Валерьевна",
+    "FIOshort": "Балабаева М.В.",
+    "Error": null
+  }
+]

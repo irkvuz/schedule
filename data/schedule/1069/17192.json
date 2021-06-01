@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Французский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Балашова Мария Александровна",
+    "FIOshort": "Балашова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Микроэкономика 1 (на французском языке)",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Чупрова Оксана Георгиевна",
+    "FIOshort": "Чупрова О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Французский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Балашова Мария Александровна",
+    "FIOshort": "Балашова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Французский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Английский язык",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Кузнецова Надежда Васильевна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Макроэкономика 1 ( на французском языке)",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Старицына Светлана Владимировна",
+    "FIOshort": "Старицына С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Кузнецова Надежда Васильевна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Колодин Виктор Семенович",
+    "FIOshort": "Колодин В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Колодин Виктор Семенович",
+    "FIOshort": "Колодин В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Лесоведение",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Лесоведение",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Недревесная продукция леса",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Недревесная продукция леса",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  }
+]

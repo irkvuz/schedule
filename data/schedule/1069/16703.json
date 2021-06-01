@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Татаринова Лариса Валентиновна",
+    "FIOshort": "Татаринова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Татаринова Лариса Валентиновна",
+    "FIOshort": "Татаринова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бюджет и бюджетная система",
+    "LessonType": "пр",
+    "Room": "8-206",
+    "FIO": "Орлова Екатерина Владимировна",
+    "FIOshort": "Орлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бюджет и бюджетная система",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Орлова Екатерина Владимировна",
+    "FIOshort": "Орлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ценные бумаги",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Ценные бумаги",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Крикун Екатерина Станиславовна",
+    "FIOshort": "Крикун Е.С.",
+    "Error": null
+  }
+]

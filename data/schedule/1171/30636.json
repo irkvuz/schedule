@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (Business English)",
+    "LessonType": "пр",
+    "Room": "Онлайн-24",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "л",
+    "Room": "Онлайн-136",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований (Contemporary Research Methodology)",
+    "LessonType": "л",
+    "Room": "Онлайн-35",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Командообразование (Teambuilding)",
+    "LessonType": "л",
+    "Room": "Онлайн-25",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований (Contemporary Research Methodology)",
+    "LessonType": "пр",
+    "Room": "Онлайн-140",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Командообразование (Teambuilding)",
+    "LessonType": "пр",
+    "Room": "Онлайн-130",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "Онлайн-21",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экономика России (Russian Economy)",
+    "LessonType": "л",
+    "Room": "Онлайн-109",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "Онлайн-139",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Экономика России (Russian Economy)",
+    "LessonType": "пр",
+    "Room": "Онлайн-113",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "Онлайн-2",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "Онлайн-135",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "Онлайн-138",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "Онлайн-41",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  }
+]

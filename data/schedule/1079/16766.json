@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Моделирование бизнес процессов",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Моделирование бизнес процессов",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Интеллектуальные системы",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интеллектуальные системы",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Интернет-программирование",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет-программирование",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Мультимедиа технологии",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Мультимедиа технологии",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Интернет - маркетинг",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Интернет - маркетинг",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Распределенные системы",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Распределенные системы",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  }
+]

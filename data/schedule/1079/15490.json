@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Тетерина Людмила Александровна",
+    "FIOshort": "Тетерина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Судебная бухгалтерия",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Методика научной работы",
+    "LessonType": "пр",
+    "Room": "5-413",
+    "FIO": "Санина Людмила Валерьевна",
+    "FIOshort": "Санина Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Кадровая безопасность организации",
+    "LessonType": "пр",
+    "Room": "2-305",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Профессиональная этика государственного служащего",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Кадровая безопасность организации",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Малахаева Светлана Карловна",
+    "FIOshort": "Малахаева С.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Профессиональная этика государственного служащего",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Дунаева Марина Сергеевна",
+    "FIOshort": "Дунаева М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Судебная бухгалтерия",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Безопасность электронного документооборота",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Методика научной работы",
+    "LessonType": "пр",
+    "Room": "5-413",
+    "FIO": "Санина Людмила Валерьевна",
+    "FIOshort": "Санина Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Безопасность электронного документооборота",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  }
+]

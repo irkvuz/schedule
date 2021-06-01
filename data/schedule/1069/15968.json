@@ -1,0 +1,134 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимости",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Инвестиции",
+    "LessonType": "л",
+    "Room": "8-202",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Инвестиции",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика предприятий",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика предприятий",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансы холдингов",
+    "LessonType": "л",
+    "Room": "8-204",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансы холдингов",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Учет в бюджетном секторе",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Острикова Людмила Николаевна",
+    "FIOshort": "Острикова Л.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Учет в бюджетном секторе",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Острикова Людмила Николаевна",
+    "FIOshort": "Острикова Л.Н.",
+    "Error": null
+  }
+]

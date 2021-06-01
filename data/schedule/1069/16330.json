@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы лесопаркового хозяйства",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы лесопаркового хозяйства",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Государственное управление лесами",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Лесоустройство",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Лесоустройство",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесоустройство",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Государственное управление лесами",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы лесопаркового хозяйства",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Машины и механизмы в лесном и лесопарковом хозяйстве",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Машины и механизмы в лесном и лесопарковом хозяйстве",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Лесные культуры",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Петров Александр Николаевич",
+    "FIOshort": "Петров А.Н.",
+    "Error": null
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учет и налогообложение",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Копылова Екатерина Константиновна",
+    "FIOshort": "Копылова Е.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учет и налогообложение",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Копылова Екатерина Константиновна",
+    "FIOshort": "Копылова Е.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "пр",
+    "Room": "2-308",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "2-402",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "2-402",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "л",
+    "Room": "2-402",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Персональный менеджмент",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Персональный менеджмент",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Лутошлива Екатерина Станиславовна",
+    "FIOshort": "Лутошлива Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "л",
+    "Room": "2-315",
+    "FIO": "Лутошлива Екатерина Станиславовна",
+    "FIOshort": "Лутошлива Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "л",
+    "Room": "2-315",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  }
+]

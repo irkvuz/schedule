@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "Онлайн-115",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "Онлайн-160",
+    "FIO": "Кузнецова Ирина Альфредовна",
+    "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "Онлайн-142",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы теории журналистики",
+    "LessonType": "пр",
+    "Room": "Онлайн-152",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-31",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы теории журналистики",
+    "LessonType": "л",
+    "Room": "Онлайн-212",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-198",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "л",
+    "Room": "Онлайн-188",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык и культура делового общения",
+    "LessonType": "пр",
+    "Room": "Онлайн-163",
+    "FIO": "Федосеев Александр Алексеевич",
+    "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-111",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-208",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-165",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "пр",
+    "Room": "Онлайн-181",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-186",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  }
+]

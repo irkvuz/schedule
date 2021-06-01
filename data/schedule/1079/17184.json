@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия нефтегазового комплекса",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия нефтегазового комплекса",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия нефтегазового комплекса",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Богомолова Евгения Юрьевна",
+    "FIOshort": "Богомолова Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Богомолова Евгения Юрьевна",
+    "FIOshort": "Богомолова Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия нефтегазового комплекса",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Багайников Михаил Логинович",
+    "FIOshort": "Багайников М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Багайников Михаил Логинович",
+    "FIOshort": "Багайников М.Л.",
+    "Error": null
+  }
+]

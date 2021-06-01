@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Лепа Татьяна Павловна",
+    "FIOshort": "Лепа Т.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "Онлайн-190",
+    "FIO": "Китаева Валентина Николаевна",
+    "FIOshort": "Китаева В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "Онлайн-234",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "Онлайн-242",
+    "FIO": "Христюк Анна Александровна",
+    "FIOshort": "Христюк А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "Онлайн-209",
+    "FIO": "Белькова Елена Геннадьевна",
+    "FIOshort": "Белькова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "Онлайн-163",
+    "FIO": "Христюк Анна Александровна",
+    "FIOshort": "Христюк А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "Онлайн-160",
+    "FIO": "Захарова Ольга Николаевна",
+    "FIOshort": "Захарова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "Онлайн-164",
+    "FIO": "Белькова Елена Геннадьевна",
+    "FIOshort": "Белькова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-134",
+    "FIO": "Китаева Валентина Николаевна",
+    "FIOshort": "Китаева В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "Онлайн-183",
+    "FIO": "Лепа Татьяна Павловна",
+    "FIOshort": "Лепа Т.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "Онлайн-218",
+    "FIO": "Захарова Ольга Николаевна",
+    "FIOshort": "Захарова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "Онлайн-224",
+    "FIO": "Тетерина Людмила Александровна",
+    "FIOshort": "Тетерина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "Онлайн-222",
+    "FIO": "Морозова Надежда Сергеевна",
+    "FIOshort": "Морозова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "Онлайн-11",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "Онлайн-11",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  }
+]

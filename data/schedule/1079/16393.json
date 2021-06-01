@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информационные системы управления производственной компанией",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Артамонов Иван Васильевич",
+    "FIOshort": "Артамонов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информационные системы управления производственной компанией",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "ИТ-консалтинг",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "ИТ-консалтинг",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Разработка приложений для мобильных устройств",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Разработка приложений для мобильных устройств",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "ИТ-консалтинг",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Дорошенко Наталия Сергеевна",
+    "FIOshort": "Дорошенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "ИТ-консалтинг",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  }
+]

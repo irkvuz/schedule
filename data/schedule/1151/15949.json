@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Сарибекян Анна Викторовна",
+    "FIOshort": "Сарибекян А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Сарибекян Анна Викторовна",
+    "FIOshort": "Сарибекян А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Кадровая безопасность организации",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Лисовская Наталья Валерьевна",
+    "FIOshort": "Лисовская Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Профессиональная этика государственного служащего",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Кузнецова Ирина Альфредовна",
+    "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-301",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-301",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Профессиональная этика государственного служащего",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Кузнецова Ирина Альфредовна",
+    "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Кадровая безопасность организации",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Лисовская Наталья Валерьевна",
+    "FIOshort": "Лисовская Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Дунаева Марина Сергеевна",
+    "FIOshort": "Дунаева М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Методика научной работы",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Санина Людмила Валерьевна",
+    "FIOshort": "Санина Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Методика научной работы",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Санина Людмила Валерьевна",
+    "FIOshort": "Санина Л.В.",
+    "Error": null
+  }
+]

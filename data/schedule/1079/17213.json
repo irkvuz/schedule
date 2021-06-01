@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История экономических учений",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Светник Тамара Васильевна",
+    "FIOshort": "Светник Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Светник Тамара Васильевна",
+    "FIOshort": "Светник Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История экономических учений",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономика организации - 2",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации - 2",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономика организации - 2",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации - 2",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  }
+]

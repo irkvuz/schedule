@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Никитина Елизавета Владиславовна",
+    "FIOshort": "Никитина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Система и типология СМИ",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Крючкова Ольга Александровна",
+    "FIOshort": "Крючкова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Королёва Ирина Борисовна",
+    "FIOshort": "Королёва И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Деловые коммуникации",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Маклакова Татьяна Борисовна",
+    "FIOshort": "Маклакова Т.Б.",
+    "Error": null
+  }
+]

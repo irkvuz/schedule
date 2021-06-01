@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "10-204",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "10-204",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-102",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-102",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-102",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "3-407",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  }
+]

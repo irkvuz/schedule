@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Business Communications in Cross-Cultural Environment  ",
+    "LessonType": "л",
+    "Room": "1-416",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "3-902",
+    "FIO": "Кондрацкая Татьяна Алексеевна",
+    "FIOshort": "Кондрацкая Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "International Marketing ",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "International Marketing ",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Personal Leadership",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "International Accounting Standarts",
+    "LessonType": "л",
+    "Room": "2-212",
+    "FIO": "Слободняк Илья Анатольевич",
+    "FIOshort": "Слободняк И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "International Accounting Standarts",
+    "LessonType": "пр",
+    "Room": "2-212",
+    "FIO": "Слободняк Илья Анатольевич",
+    "FIOshort": "Слободняк И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Сравнительный менеджмент и этика международного бизнеса",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Personal Leadership",
+    "LessonType": "л",
+    "Room": "1-412",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Business Communications in Cross-Cultural Environment  ",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Сравнительный менеджмент и этика международного бизнеса",
+    "LessonType": "л",
+    "Room": "4-304",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Операционный (производственный) менеджмент",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Рупосов Виталий Леонидович",
+    "FIOshort": "Рупосов В.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Операционный (производственный) менеджмент",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рупосов Виталий Леонидович",
+    "FIOshort": "Рупосов В.Л.",
+    "Error": null
+  }
+]

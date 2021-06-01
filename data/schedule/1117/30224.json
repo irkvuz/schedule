@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "2-402",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-402",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Введение в профессию (Основы компетенций и компетентности психолога)",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Введение в профессию (Основы компетенций и компетентности психолога)",
+    "LessonType": "л",
+    "Room": "2-408",
+    "FIO": "Фонталова Наталья Сергеевна",
+    "FIOshort": "Фонталова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "5-312",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Профессиональная этика и служебный этикет",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "л",
+    "Room": "1-210",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Профессиональная этика и служебный этикет",
+    "LessonType": "л",
+    "Room": "1-210",
+    "FIO": "Нефедьева Елена Ивановна",
+    "FIOshort": "Нефедьева Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Сорокин Александр Васильевич",
+    "FIOshort": "Сорокин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  }
+]
