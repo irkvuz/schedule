@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Абуздина Светлана Геннадьевна",
+    "FIOshort": "Абуздина С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Абуздина Светлана Геннадьевна",
+    "FIOshort": "Абуздина С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Инженерная геология",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Инженерная геология",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика землеустройства",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономика землеустройства",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Картография",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экономика землеустройства",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Картография",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Картография",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  }
+]

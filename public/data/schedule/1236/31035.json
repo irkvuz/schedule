@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Турымов Дмитрий Абдазимович",
+    "FIOshort": "Турымов Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Турымов Дмитрий Абдазимович",
+    "FIOshort": "Турымов Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-115",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Бабкинова Лидия Валерьевна",
+    "FIOshort": "Бабкинова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "5-515",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "пр",
+    "Room": "5-515",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  }
+]

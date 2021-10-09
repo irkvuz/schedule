@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Багайников Михаил Логинович",
+    "FIOshort": "Багайников М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Багайников Михаил Логинович",
+    "FIOshort": "Багайников М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Чаликова-Уханова Мария Васильевна",
+    "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общий и предпринимательский менеджмент в организациях народного хозяйства",
+    "LessonType": "пр",
+    "Room": "4-412",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общий и предпринимательский менеджмент в организациях народного хозяйства",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  }
+]

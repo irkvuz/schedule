@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Исследование рынков  (Market Research and Analytics)",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Исследование рынков  (Market Research and Analytics)",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Киреенко Анна Павловна",
+    "FIOshort": "Киреенко А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "3-605",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "3-605",
+    "FIO": "Киреенко Анна Павловна",
+    "FIOshort": "Киреенко А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "3-605",
+    "FIO": "Богодельникова Любовь Александровна",
+    "FIOshort": "Богодельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Кураторство в арт-индустрии",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Жаркова Татьяна Евгеньевна",
+    "FIOshort": "Жаркова Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Кураторство в арт-индустрии",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Жаркова Татьяна Евгеньевна",
+    "FIOshort": "Жаркова Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Деловая этика",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Культура устной и письменной речи ",
+    "LessonType": "л",
+    "Room": "10-201(в)",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Культура устной и письменной речи ",
+    "LessonType": "пр",
+    "Room": "10-201(в)",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория киноискусства и видео-арта в системе гуманитарного знания ",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория киноискусства и видео-арта в системе гуманитарного знания ",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Брендинг",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Брендинг",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Политология",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Этика",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Этика",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Деловая этика",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  }
+]

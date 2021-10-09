@@ -1,5 +1,11 @@
 [
   {
+    "IdFaculty": 20,
+    "FacultyName": "Государственного права и национальной безопасности",
+    "FacultyAbbr": "ГПиНБ",
+    "Error": null
+  },
+  {
     "IdFaculty": 36,
     "FacultyName": "Институт государства и права",
     "FacultyAbbr": "ИГП",
@@ -30,6 +36,12 @@
     "Error": null
   },
   {
+    "IdFaculty": 212,
+    "FacultyName": "Институт юстиции",
+    "FacultyAbbr": "ИЮ",
+    "Error": null
+  },
+  {
     "IdFaculty": 211,
     "FacultyName": "Колледж Байкальского государственного университета",
     "FacultyAbbr": "КБГУ",
@@ -37,7 +49,7 @@
   },
   {
     "IdFaculty": 35,
-    "FacultyName": "Международный",
+    "FacultyName": "Международный факультет",
     "FacultyAbbr": "РКФ",
     "Error": null
   }

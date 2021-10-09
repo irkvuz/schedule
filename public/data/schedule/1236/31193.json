@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-312",
+    "FIO": "Абдуллин Рафаэль Зинатович",
+    "FIOshort": "Абдуллин Р.З.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы, денежное обращение и кредит",
+    "LessonType": "л",
+    "Room": "11-312",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация и технология торговли",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Алексеева Любовь Алексеевна",
+    "FIOshort": "Алексеева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "11-204",
+    "FIO": "Абдуллин Рафаэль Зинатович",
+    "FIOshort": "Абдуллин Р.З.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы бухгалтерского учета",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Саяпина Екатерина Николаевна",
+    "FIOshort": "Саяпина Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы бухгалтерского учета",
+    "LessonType": "пр",
+    "Room": "11-309",
+    "FIO": "Саяпина Екатерина Николаевна",
+    "FIOshort": "Саяпина Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Организация и технология торговли",
+    "LessonType": "пр",
+    "Room": "12-306",
+    "FIO": "Алексеева Любовь Алексеевна",
+    "FIOshort": "Алексеева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "л",
+    "Room": "12-308",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "11-409",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Финансы, денежное обращение и кредит",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  }
+]

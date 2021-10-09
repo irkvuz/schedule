@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Богомолова Евгения Юрьевна",
+    "FIOshort": "Богомолова Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Богомолова Евгения Юрьевна",
+    "FIOshort": "Богомолова Е.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Русецкая Генриетта Денисовна",
+    "FIOshort": "Русецкая Г.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Русецкая Генриетта Денисовна",
+    "FIOshort": "Русецкая Г.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация, нормирование и оплата труда",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Войникова Галина Николаевна",
+    "FIOshort": "Войникова Г.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация, нормирование и оплата труда",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Войникова Галина Николаевна",
+    "FIOshort": "Войникова Г.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  }
+]

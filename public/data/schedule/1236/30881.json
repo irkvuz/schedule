@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Строительная индустрия",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Зорина Елена Сергеевна",
+    "FIOshort": "Зорина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Техника и технология строительного производства",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Организация строительного производства",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Техника и технология строительного производства",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика строительной организации ",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика строительной организации ",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Грушина Ольга Валерьевна",
+    "FIOshort": "Грушина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Строительная индустрия",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Зорина Елена Сергеевна",
+    "FIOshort": "Зорина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Зорина Елена Сергеевна",
+    "FIOshort": "Зорина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Зорина Елена Сергеевна",
+    "FIOshort": "Зорина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Организация строительного производства",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Организация строительного производства",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Батоева Элеонора Валентиновна",
+    "FIOshort": "Батоева Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы природопользования",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы природопользования",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Осипова Ольга Петровна",
+    "FIOshort": "Осипова О.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Инженерная графика",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Инженерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Инженерная графика",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  }
+]
