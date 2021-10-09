@@ -10,8 +10,9 @@ import { Faculty, Group } from './types';
 
 const VERBOSE = true;
 
-const TRIMESTER_ID_1 = 1219;
-const TRIMESTER_ID_2 = 1228;
+// @TODO store trimesterds in data folder
+const TRIMESTER_ID_1 = 1236;
+const TRIMESTER_ID_2 = 1259;
 
 const trimesterIds = [TRIMESTER_ID_1, TRIMESTER_ID_2];
 
