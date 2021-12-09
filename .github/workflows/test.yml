@@ -26,6 +26,12 @@ jobs:
       - name: Lint, test, build and measuer size
         run: |
           yarn lint
-          yarn test
+          yarn test:coverage
           yarn build
           yarn size
+
+      - name: Codecov
+        uses: codecov/codecov-action@v2
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          flags: unittests

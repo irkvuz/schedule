@@ -59,6 +59,7 @@
     "deploy": "yarn upload",
     "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
     "test": "react-app-rewired test",
+    "test:coverage": "react-app-rewired test --coverage",
     "eject": "react-scripts eject",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts",
     "commitSchedule": "git add public/data/ && git commit -m 'Update schedule'",
@@ -93,5 +94,13 @@
       "path": "build/static/js/*.js",
       "limit": "270 KB"
     }
-  ]
+  ],
+  "jest": {
+    "coverageReporters": [
+      "clover",
+      "json",
+      "lcov",
+      "text"
+    ]
+  }
 }
