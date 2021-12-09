@@ -2,7 +2,7 @@ name: Update schedule
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,14 +16,11 @@ jobs:
           node-version: 16
           cache: yarn
 
-      # - name: Install all dependencies
-      #   run: yarn install --frozen-lockfile
+      - name: Install all dependencies
+        run: yarn install --frozen-lockfile
 
-      # - name: Update schedule
-      #   run: yarn updateSchedule
-
-      - name: tst
-        run: echo tst > public/data/tst.txt
+      - name: Update schedule
+        run: yarn updateSchedule
 
       - name: Set cridentials
         run: |
