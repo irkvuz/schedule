@@ -1,0 +1,26 @@
+name: Update schedule
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: yarn
+
+      - name: Install all dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Update schedule
+        run: yarn updateSchedule
+
+      - name: Commit schedule
+        run: yarn commitSchedule
