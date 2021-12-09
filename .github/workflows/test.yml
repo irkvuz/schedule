@@ -1,0 +1,28 @@
+name: Test
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build_test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: yarn
+
+      - name: Install all dependencies
+        run: yarn install --frozen-lockfile
+      - name: Lint, test, build and measuer size
+        run: |
+          yarn lint
+          yarn test
+          yarn build
+          yarn size
