@@ -211,7 +211,8 @@
     "Group": "БУ(9)-21-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1259
   },
   {
     "IdGroup": 30700,
@@ -920,7 +921,8 @@
     "Group": "ПСО(11)-21-10",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1259
   },
   {
     "IdGroup": 31227,

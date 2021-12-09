@@ -405,5 +405,13 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1236
+  },
+  {
+    "IdGroup": 31597,
+    "Group": "Э(ФиК)-19-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1236
   }
 ]

@@ -143,28 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Теория права",
-    "LessonType": "л",
-    "Room": "6-410",
-    "FIO": "Минникес Ирина Викторовна",
-    "FIOshort": "Минникес И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 2,
-    "Lesson": "Гражданское право",
-    "LessonType": "л",
-    "Room": "6-311",
-    "FIO": "Епифанцева Татьяна Юрьевна",
-    "FIOshort": "Епифанцева Т.Ю.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "17:30",
     "Odd": 1,
@@ -195,28 +173,6 @@
     "Room": "6-304",
     "FIO": "Праскова Светлана Васильевна",
     "FIOshort": "Праскова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   }
 ]

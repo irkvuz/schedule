@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-104",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Безопасность жизнедеятельности",
@@ -89,13 +100,13 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
     "LessonType": "пр",
-    "Room": "Онлайн-104",
-    "FIO": "Якимов Константин Викторович",
-    "FIOshort": "Якимов К.В.",
+    "Room": "10-104",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
     "Error": null
   },
   {
@@ -222,7 +233,7 @@
   {
     "WeekDay": 6,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
@@ -233,7 +244,18 @@
   {
     "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
@@ -244,7 +266,18 @@
   {
     "WeekDay": 6,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
