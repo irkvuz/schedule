@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Основы проектирования баз данных",
+    "LessonType": "л",
+    "Room": "11-311",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Устройство и функционирование информационной системы",
+    "LessonType": "л",
+    "Room": "11-311",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Распределенные системы обработки информации",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Распределенные системы обработки информации",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мультимедиа технологии",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-309",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "11-408",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-408",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы проектирования баз данных",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Устройство и функционирование информационной системы",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы проектирования баз данных",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Аммосова Светлана Александровна",
+    "FIOshort": "Аммосова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Распределенные системы обработки информации",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Мультимедиа технологии",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Распределенные системы обработки информации",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Мультимедиа технологии",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Распределенные системы обработки информации",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Пинигина Людмила Анатольевна",
+    "FIOshort": "Пинигина Л.А.",
+    "Error": null
+  }
+]

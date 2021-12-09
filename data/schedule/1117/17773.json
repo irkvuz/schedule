@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Кравченко Ирина Олеговна",
+    "FIOshort": "Кравченко И.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "6-405",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экологическое право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Слободчикова Светлана Николаевна",
+    "FIOshort": "Слободчикова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Слободчикова Светлана Николаевна",
+    "FIOshort": "Слободчикова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экологическое право",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  }
+]

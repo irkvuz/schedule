@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Светник Тамара Васильевна",
+    "FIOshort": "Светник Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Светник Тамара Васильевна",
+    "FIOshort": "Светник Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономика организаций АПК",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг продовольственного рынка",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Корнилова Дарима Дылык-Нимаевна",
+    "FIOshort": "Корнилова Д.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Маркетинг продовольственного рынка",
+    "LessonType": "л",
+    "Room": "4-305",
+    "FIO": "Корнилова Дарима Дылык-Нимаевна",
+    "FIOshort": "Корнилова Д.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Зайцева Татьяна Евгеньевна",
+    "FIOshort": "Зайцева Т.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Практикум по экономике организаций АПК",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономика организаций АПК",
+    "LessonType": "л",
+    "Room": "4-405",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономика организаций АПК",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  }
+]

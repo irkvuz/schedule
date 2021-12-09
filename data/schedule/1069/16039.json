@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Тюкавкин-Плотников Алексей Александрович",
+    "FIOshort": "Тюкавкин-Плотников А",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Прокурорский надзор",
+    "LessonType": "л",
+    "Room": "5-309",
+    "FIO": "Андриянов Валерий Николаевич",
+    "FIOshort": "Андриянов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Алыпова Анастасия Владимировна",
+    "FIOshort": "Алыпова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Афанасьева Татьяна Ивановна",
+    "FIOshort": "Афанасьева Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Муниципальное право",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Ширяева Елена Анатольевна",
+    "FIOshort": "Ширяева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Прокурорский надзор",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Андриянов Валерий Николаевич",
+    "FIOshort": "Андриянов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Таможенное право",
+    "LessonType": "л",
+    "Room": "5-313",
+    "FIO": "Лепа Татьяна Павловна",
+    "FIOshort": "Лепа Т.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таможенное право",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Лепа Татьяна Павловна",
+    "FIOshort": "Лепа Т.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Тагиров Дамир Шаукатович",
+    "FIOshort": "Тагиров Д.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Муниципальное право",
+    "LessonType": "л",
+    "Room": "6-304",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  }
+]

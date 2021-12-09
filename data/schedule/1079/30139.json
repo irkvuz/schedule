@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Перестюк Светлана Даниловна",
+    "FIOshort": "Перестюк С.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Тигунцев Сергей Александрович",
+    "FIOshort": "Тигунцев С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Литература",
+    "LessonType": "л",
+    "Room": "12-209",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Литература",
+    "LessonType": "пр",
+    "Room": "12-209",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "12-206",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Тигунцев Сергей Александрович",
+    "FIOshort": "Тигунцев С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Перестюк Светлана Даниловна",
+    "FIOshort": "Перестюк С.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Литература",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "11-412",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Латышева Валентина Александровна",
+    "FIOshort": "Латышева В.А.",
+    "Error": null
+  }
+]

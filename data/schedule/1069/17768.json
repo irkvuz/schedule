@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Бабтракинова Ольга Ивановна",
+    "FIOshort": "Бабтракинова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "3-806",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "3-806",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физика",
+    "LessonType": "л",
+    "Room": "4-405",
+    "FIO": "Боровский Андрей Викторович",
+    "FIOshort": "Боровский А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физика",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Боровский Андрей Викторович",
+    "FIOshort": "Боровский А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы землеустройства",
+    "LessonType": "л",
+    "Room": "3-901",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Бабтракинова Ольга Ивановна",
+    "FIOshort": "Бабтракинова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Основы землеустройства",
+    "LessonType": "пр",
+    "Room": "3-901",
+    "FIO": "Клевцов Евгений Валерьевич",
+    "FIOshort": "Клевцов Е.В.",
+    "Error": null
+  }
+]

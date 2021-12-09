@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "Онлайн-124",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-16",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "л",
+    "Room": "Онлайн-195",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-119",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "Онлайн-190",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-21",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-169",
+    "FIO": "Гаркуша Ольга Николаевна",
+    "FIOshort": "Гаркуша О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-169",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-169",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "л",
+    "Room": "Онлайн-221",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-169",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-184",
+    "FIO": "Гаркуша Ольга Николаевна",
+    "FIOshort": "Гаркуша О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-177",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-115",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "пр",
+    "Room": "Онлайн-165",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-174",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "Онлайн-168",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-153",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Обществознание (включая экономику и право)",
+    "LessonType": "л",
+    "Room": "Онлайн-149",
+    "FIO": "Гусевская Ольга Анатольевна",
+    "FIOshort": "Гусевская О.А.",
+    "Error": null
+  }
+]

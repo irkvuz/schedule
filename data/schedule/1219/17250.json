@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Микова Ева Борисовна",
+    "FIOshort": "Микова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Бондарева Эльвира Степановна",
+    "FIOshort": "Бондарева Э.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы организационно-управленческой деятельности",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Микова Ева Борисовна",
+    "FIOshort": "Микова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы организационно-управленческой деятельности",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Степаненко Диана Аркадьевна",
+    "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-405",
+    "FIO": "Коломинов Вячеслав Валентинович",
+    "FIOshort": "Коломинов В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "пр",
+    "Room": "6-405",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Коломинов Вячеслав Валентинович",
+    "FIOshort": "Коломинов В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Бондарева Эльвира Степановна",
+    "FIOshort": "Бондарева Э.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Микова Ева Борисовна",
+    "FIOshort": "Микова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  }
+]

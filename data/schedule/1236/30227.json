@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы международной безопасности",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История международных отношений",
+    "LessonType": "л",
+    "Room": "5-307",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История международных отношений",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Международная интеграция и международные организации",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международная интеграция и международные организации",
+    "LessonType": "л",
+    "Room": "1-310",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "1-310",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Политология",
+    "LessonType": "пр",
+    "Room": "2-308",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Основы международной безопасности",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "5-307",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  }
+]

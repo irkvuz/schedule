@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Общий психологический практикум",
+    "LessonType": "пр",
+    "Room": "2-313",
+    "FIO": "Пуляевская Ольга Владимировна",
+    "FIOshort": "Пуляевская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Введение в профессию",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Бисикало Елена Эдуардовна",
+    "FIOshort": "Бисикало Е.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Введение в профессию",
+    "LessonType": "л",
+    "Room": "2-313",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Бисикало Елена Эдуардовна",
+    "FIOshort": "Бисикало Е.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Общий психологический практикум",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Пуляевская Ольга Владимировна",
+    "FIOshort": "Пуляевская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Кузнецова Наталья Михайловна",
+    "FIOshort": "Кузнецова Н.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-12",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Паульзен Наталья Сергеевна",
+    "FIOshort": "Паульзен Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "л",
+    "Room": "2-315",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  }
+]

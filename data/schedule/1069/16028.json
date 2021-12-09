@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление имиджем",
+    "LessonType": "пр",
+    "Room": "3-902",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Брендинг",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Брендинг",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Мерчендайзинг",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Мерчендайзинг",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление маркетингом",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление маркетингом",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка состояния конкурентной среды",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Инвестиционный анализ",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Оценка состояния конкурентной среды",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Инвестиционный анализ",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление имиджем",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  }
+]

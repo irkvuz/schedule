@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Язык делового общения",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Язык делового общения",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Краснюк Ирина Николаевна",
+    "FIOshort": "Краснюк И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Туризм",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Туризм",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Аудиовизуальный курс русского языка",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Транспортное обеспечение торговой деятельности",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Транспортное обеспечение торговой деятельности",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-305",
+    "FIO": "Махтина Галина Ивановна",
+    "FIOshort": "Махтина Г.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория и практика перевода",
+    "LessonType": "пр",
+    "Room": "10-201(в)",
+    "FIO": "Ван Сяомэй",
+    "FIOshort": "Ван С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Язык художественного текста",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Хамаева Ольга Лопсоновна",
+    "FIOshort": "Хамаева О.Л.",
+    "Error": null
+  }
+]

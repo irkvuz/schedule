@@ -1,0 +1,90 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Современные проблемы программирования",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Современные проблемы программирования",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Системный анализ",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Кузнецова Ирина Альфредовна",
+    "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Хохлова Наталья Сергеевна",
+    "FIOshort": "Хохлова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Психология делового общения",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Трофимова Елена Леонидовна",
+    "FIOshort": "Трофимова Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Хохлова Наталья Сергеевна",
+    "FIOshort": "Хохлова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Системный анализ",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Кузнецова Ирина Альфредовна",
+    "FIOshort": "Кузнецова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Баребина Наталья Сергеевна",
+    "FIOshort": "Баребина Н.С.",
+    "Error": null
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "Онлайн-148",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "Онлайн-189",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Рынок труда и занятость населения",
+    "LessonType": "л",
+    "Room": "Онлайн-183",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Информационные технологии в менеджменте",
+    "LessonType": "пр",
+    "Room": "Онлайн-143",
+    "FIO": "Ступин Виталий Валерьевич",
+    "FIOshort": "Ступин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Информационные технологии в менеджменте",
+    "LessonType": "пр",
+    "Room": "Онлайн-111",
+    "FIO": "Ступин Виталий Валерьевич",
+    "FIOshort": "Ступин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "Онлайн-215",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Рынок труда и занятость населения",
+    "LessonType": "пр",
+    "Room": "Онлайн-107",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-143",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология труда",
+    "LessonType": "л",
+    "Room": "Онлайн-202",
+    "FIO": "Казанцева Ирина Игоревна",
+    "FIOshort": "Казанцева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Психология труда",
+    "LessonType": "пр",
+    "Room": "Онлайн-150",
+    "FIO": "Казанцева Ирина Игоревна",
+    "FIOshort": "Казанцева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Психология труда",
+    "LessonType": "пр",
+    "Room": "Онлайн-150",
+    "FIO": "Казанцева Ирина Игоревна",
+    "FIOshort": "Казанцева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Эргономика",
+    "LessonType": "л",
+    "Room": "Онлайн-174",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "л",
+    "Room": "Онлайн-162",
+    "FIO": "Козлова Олеся Владимировна",
+    "FIOshort": "Козлова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "пр",
+    "Room": "Онлайн-147",
+    "FIO": "Козлова Олеся Владимировна",
+    "FIOshort": "Козлова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "л",
+    "Room": "Онлайн-176",
+    "FIO": "Козлова Олеся Владимировна",
+    "FIOshort": "Козлова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Эргономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-147",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "пр",
+    "Room": "Онлайн-116",
+    "FIO": "Козлова Олеся Владимировна",
+    "FIOshort": "Козлова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Эргономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  }
+]

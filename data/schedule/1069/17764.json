@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правовые основы управленческой деятельности",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Правовые основы управленческой деятельности",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Хуммель Лариса Алексеевна",
+    "FIOshort": "Хуммель Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правовые основы управленческой деятельности",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шереметьева Анна Алексеевна",
+    "FIOshort": "Шереметьева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Артамонова Виктория Владимировна",
+    "FIOshort": "Артамонова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Организация документооборота",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Правовые основы управленческой деятельности",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Организация документооборота",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  }
+]

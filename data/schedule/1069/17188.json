@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Шерстянкина Нина Павловна",
+    "FIOshort": "Шерстянкина Н.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "пр",
+    "Room": "4-210",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Хамаганова Людмила Даниловна",
+    "FIOshort": "Хамаганова Л.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Хамаганова Людмила Даниловна",
+    "FIOshort": "Хамаганова Л.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "1-210",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деньги, кредит, банки",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  }
+]

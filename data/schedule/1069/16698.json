@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Финансовое право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Тагиров Дамир Шаукатович",
+    "FIOshort": "Тагиров Д.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Белоусов Владимир Николаевич",
+    "FIOshort": "Белоусов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Тагиров Дамир Шаукатович",
+    "FIOshort": "Тагиров Д.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Криминология",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Васильева Мария Константиновна",
+    "FIOshort": "Васильева М.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Белоусов Владимир Николаевич",
+    "FIOshort": "Белоусов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминология",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Судакова Татьяна Михайловна",
+    "FIOshort": "Судакова Т.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Корягина Светлана Анатольевна",
+    "FIOshort": "Корягина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Практикум по подготовке к следственной деятельности",
+    "LessonType": "пр",
+    "Room": "6-202",
+    "FIO": "Буфетова Марьям Шамильевна",
+    "FIOshort": "Буфетова М.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "6-401",
+    "FIO": "Морозова Надежда Сергеевна",
+    "FIOshort": "Морозова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Гнатко Елена Александровна",
+    "FIOshort": "Гнатко Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Гнатко Елена Александровна",
+    "FIOshort": "Гнатко Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  }
+]

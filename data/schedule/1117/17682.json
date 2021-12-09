@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Степанченко Арина Владимировна",
+    "FIOshort": "Степанченко А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Степанченко Арина Владимировна",
+    "FIOshort": "Степанченко А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "11-405",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Степанченко Арина Владимировна",
+    "FIOshort": "Степанченко А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Степанченко Арина Владимировна",
+    "FIOshort": "Степанченко А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка качества товаров и основы экспертизы",
+    "LessonType": "пр",
+    "Room": "11-309",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-405",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-202",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "11-405",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление структурным подразделением",
+    "LessonType": "пр",
+    "Room": "11-107",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление структурным подразделением",
+    "LessonType": "л",
+    "Room": "11-405",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "11-407",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "11-407",
+    "FIO": "Колонович Елена Григорьевна",
+    "FIOshort": "Колонович Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "11-415",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  }
+]

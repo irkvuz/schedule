@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "л",
+    "Room": "Онлайн-179",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "Онлайн-193",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "пр",
+    "Room": "Онлайн-179",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "Онлайн-182",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "Онлайн-138",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "пр",
+    "Room": "Онлайн-148",
+    "FIO": "Русецкая Генриетта Денисовна",
+    "FIOshort": "Русецкая Г.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-183",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "Онлайн-177",
+    "FIO": "Русецкая Генриетта Денисовна",
+    "FIOshort": "Русецкая Г.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анализ хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-171",
+    "FIO": "Давыдова Галина Васильевна",
+    "FIOshort": "Давыдова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "Онлайн-167",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "Онлайн-161",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация, нормирование и оплата труда",
+    "LessonType": "л",
+    "Room": "Онлайн-157",
+    "FIO": "Войникова Галина Николаевна",
+    "FIOshort": "Войникова Г.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Организация, нормирование и оплата труда",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Войникова Галина Николаевна",
+    "FIOshort": "Войникова Г.Н.",
+    "Error": null
+  }
+]

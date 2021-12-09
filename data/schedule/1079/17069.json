@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Коммерческое право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Горковенко Маргарита Леонидовна",
+    "FIOshort": "Горковенко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Коммерческое право",
+    "LessonType": "пр",
+    "Room": "6-302",
+    "FIO": "Горковенко Маргарита Леонидовна",
+    "FIOshort": "Горковенко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Корпоративное право",
+    "LessonType": "л",
+    "Room": "4-205",
+    "FIO": "Алыпова Анастасия Владимировна",
+    "FIOshort": "Алыпова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Корпоративное право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Алыпова Анастасия Владимировна",
+    "FIOshort": "Алыпова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Конкурсное право",
+    "LessonType": "л",
+    "Room": "6-106",
+    "FIO": "Пахаруков Александр Анатольевич",
+    "FIOshort": "Пахаруков А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Конкурсное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Алыпова Анастасия Владимировна",
+    "FIOshort": "Алыпова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Исполнительное производство",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Бадакшанова Алина Ринатовна",
+    "FIOshort": "Бадакшанова А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Жилищное право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Мариненко Ольга Игоревна",
+    "FIOshort": "Мариненко О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Исполнительное производство",
+    "LessonType": "л",
+    "Room": "4-204",
+    "FIO": "Гнатко Елена Александровна",
+    "FIOshort": "Гнатко Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Жилищное право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Захарова Ольга Николаевна",
+    "FIOshort": "Захарова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Жилищное право",
+    "LessonType": "пр",
+    "Room": "6-302",
+    "FIO": "Мариненко Ольга Игоревна",
+    "FIOshort": "Мариненко О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура 1",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-304",
+    "FIO": "Кожевникова Анна Дмитриевна",
+    "FIOshort": "Кожевникова А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-302",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-302",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Кожевникова Анна Дмитриевна",
+    "FIOshort": "Кожевникова А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-304",
+    "FIO": "Кожевникова Анна Дмитриевна",
+    "FIOshort": "Кожевникова А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Лапаева Татьяна Николаевна",
+    "FIOshort": "Лапаева Т.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Кожевникова Анна Дмитриевна",
+    "FIOshort": "Кожевникова А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-209",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура 1",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Истомина Екатерина Владимировна",
+    "FIOshort": "Истомина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  }
+]

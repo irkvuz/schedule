@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-131",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "Онлайн-130",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "Онлайн-111",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Современный русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-127",
+    "FIO": "Антипина Елена Сергеевна",
+    "FIOshort": "Антипина Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-133",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-32",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-34",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-135",
+    "FIO": "Кутянина Елена Михайловна",
+    "FIOshort": "Кутянина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "Онлайн-114",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "Онлайн-110",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-212",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-38",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-138",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "Онлайн-52",
+    "FIO": "Седых Ольга Геннадьевна",
+    "FIOshort": "Седых О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "л",
+    "Room": "Онлайн-133",
+    "FIO": "Власова Мария Александровна",
+    "FIOshort": "Власова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История отечественной литературы",
+    "LessonType": "пр",
+    "Room": "Онлайн-57",
+    "FIO": "Власова Мария Александровна",
+    "FIOshort": "Власова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык и культура делового общения",
+    "LessonType": "пр",
+    "Room": "Онлайн-124",
+    "FIO": "Карамышева Светлана Николаевна",
+    "FIOshort": "Карамышева С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-109",
+    "FIO": "Кутянина Елена Михайловна",
+    "FIOshort": "Кутянина Е.М.",
+    "Error": null
+  }
+]

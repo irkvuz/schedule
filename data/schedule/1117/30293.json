@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Китайский язык (курс по иероглифике)",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Санжиева ЦырмаПирангалаевна",
+    "FIOshort": "Санжиева Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык (аудиовизуальный курс)",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Сю Василий",
+    "FIOshort": "Сю В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика для менеджеров",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (аудиовизуальный курс)",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Сю Василий",
+    "FIOshort": "Сю В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Самоменеджмент",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Самоменеджмент",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык (курс по иероглифике)",
+    "LessonType": "пр",
+    "Room": "10-002",
+    "FIO": "Санжиева ЦырмаПирангалаевна",
+    "FIOshort": "Санжиева Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика для менеджеров",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Дюг Анастасия Александровна",
+    "FIOshort": "Дюг А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Дюг Анастасия Александровна",
+    "FIOshort": "Дюг А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "IdGroup": 17772,
+    "Group": "Ю-18-1",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17773,
+    "Group": "Ю-18-2",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17774,
+    "Group": "Ю-18-3",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17775,
+    "Group": "Ю-18-4",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17776,
+    "Group": "Ю-18-5",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 17777,
+    "Group": "Ю-18-6",
+    "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  }
+]

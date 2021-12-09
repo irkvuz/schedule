@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Химия",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "л",
+    "Room": "11-006",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физиология питания",
+    "LessonType": "л",
+    "Room": "11-001",
+    "FIO": "Макарова Елена Валентиновна",
+    "FIOshort": "Макарова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "л",
+    "Room": "11-006",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "11-302",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "11-112",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "11-112",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "лаб",
+    "Room": "11-115",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "лаб",
+    "Room": "11-115",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "лаб",
+    "Room": "11-115",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Организация хранения и контроль запасов и сырья",
+    "LessonType": "л",
+    "Room": "11-408",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Повар\"",
+    "LessonType": "л",
+    "Room": "11-006",
+    "FIO": "Медведева Олеся Васильевна",
+    "FIOshort": "Медведева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Организация хранения и контроль запасов и сырья",
+    "LessonType": "пр",
+    "Room": "11-408",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Организация хранения и контроль запасов и сырья",
+    "LessonType": "л",
+    "Room": "11-115",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация хранения и контроль запасов и сырья",
+    "LessonType": "пр",
+    "Room": "11-408",
+    "FIO": "Левина Елена Анатольевна",
+    "FIOshort": "Левина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физиология питания",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Макарова Елена Валентиновна",
+    "FIOshort": "Макарова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информационные технологии в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Универсалюк Елена Александровна",
+    "FIOshort": "Универсалюк Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "",
+    "FIOshort": "",
+    "Error": null
+  }
+]

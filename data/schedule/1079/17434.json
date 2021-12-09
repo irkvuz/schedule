@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация безналичных расчетов",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Ощепкова Лилия Рафаэльевна",
+    "FIOshort": "Ощепкова Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Пушко Ольга Евгеньевна",
+    "FIOshort": "Пушко О.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация безналичных расчетов",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Ощепкова Лилия Рафаэльевна",
+    "FIOshort": "Ощепкова Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация кредитной работы",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Пушко Ольга Евгеньевна",
+    "FIOshort": "Пушко О.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Организация кредитной работы",
+    "LessonType": "пр",
+    "Room": "11-202",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Организация безналичных расчетов",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Ощепкова Лилия Рафаэльевна",
+    "FIOshort": "Ощепкова Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Организация кредитной работы",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Пушко Ольга Евгеньевна",
+    "FIOshort": "Пушко О.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Организация кредитной работы",
+    "LessonType": "пр",
+    "Room": "11-407",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Терлецкая Ольга Ивановна",
+    "FIOshort": "Терлецкая О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Пушко Ольга Евгеньевна",
+    "FIOshort": "Пушко О.Е.",
+    "Error": null
+  }
+]

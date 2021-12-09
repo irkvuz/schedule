@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Юридическая психология",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Сизова Майя Сергеевна",
+    "FIOshort": "Сизова М.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Вассерман Наталья Владимировна",
+    "FIOshort": "Вассерман Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экологическое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Кравченко Ирина Олеговна",
+    "FIOshort": "Кравченко И.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Вассерман Наталья Владимировна",
+    "FIOshort": "Вассерман Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Минакова Ксения Владимировна",
+    "FIOshort": "Минакова К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Виниченко Юлия Вараздатовна",
+    "FIOshort": "Виниченко Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Юридическая психология",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Фойгель Елена Игоревна",
+    "FIOshort": "Фойгель Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экологическое право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Минакова Ксения Владимировна",
+    "FIOshort": "Минакова К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  }
+]

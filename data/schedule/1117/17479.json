@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Китаева Валентина Николаевна",
+    "FIOshort": "Китаева В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Сарибекян Анна Викторовна",
+    "FIOshort": "Сарибекян А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Полетаева Екатерина Леонидовна",
+    "FIOshort": "Полетаева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Загвозкина Марина Яковлевна",
+    "FIOshort": "Загвозкина М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Морозова Надежда Сергеевна",
+    "FIOshort": "Морозова Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Тетерина Людмила Александровна",
+    "FIOshort": "Тетерина Л.А.",
+    "Error": null
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Бялоус Нина Ивановна",
+    "FIOshort": "Бялоус Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Бялоус Нина Ивановна",
+    "FIOshort": "Бялоус Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Деловой этикет и культура речи",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Огдонова Цырена Цыцыковна",
+    "FIOshort": "Огдонова Ц.Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Бялоус Нина Ивановна",
+    "FIOshort": "Бялоус Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Социология",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Бахматова Татьяна Георгиевна",
+    "FIOshort": "Бахматова Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Социология",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Бахматова Татьяна Георгиевна",
+    "FIOshort": "Бахматова Т.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Психология управления",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Турганова Гульнара Эрмаматовна",
+    "FIOshort": "Турганова Г.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Психология управления",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Турганова Гульнара Эрмаматовна",
+    "FIOshort": "Турганова Г.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "2-305",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математический анализ",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математический анализ",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-405",
+    "FIO": "Тардыбаева Евгения Васильевна",
+    "FIOshort": "Тардыбаева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-312",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-317",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  }
+]

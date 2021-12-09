@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация продаж гостиничного продукта",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Здания и инженерные системы гостиниц",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация продаж гостиничного продукта",
+    "LessonType": "пр",
+    "Room": "11-309",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Балабаева Мария Валерьевна",
+    "FIOshort": "Балабаева М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-305",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы индустрии гостеприимства",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Лесникова Марина Владимировна",
+    "FIOshort": "Лесникова М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Этика и психология общения в ситуациях гостеприимства",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Здания и инженерные системы гостиниц",
+    "LessonType": "пр",
+    "Room": "11-305",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Здания и инженерные системы гостиниц",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Этика и психология общения в ситуациях гостеприимства",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Ахмадеева Алла Абдулваровна",
+    "FIOshort": "Ахмадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы индустрии гостеприимства",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Лесникова Марина Владимировна",
+    "FIOshort": "Лесникова М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы индустрии гостеприимства",
+    "LessonType": "пр",
+    "Room": "Онлайн-1",
+    "FIO": "Лесникова Марина Владимировна",
+    "FIOshort": "Лесникова М.В.",
+    "Error": null
+  }
+]

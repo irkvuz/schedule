@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Внешнеторговая документация",
+    "LessonType": "пр",
+    "Room": "Онлайн-152",
+    "FIO": "Эпова Наталья Рудольфовна",
+    "FIOshort": "Эпова Н.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Общая и таможенная статистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "л",
+    "Room": "Онлайн-133",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Внешнеторговая документация",
+    "LessonType": "л",
+    "Room": "Онлайн-146",
+    "FIO": "Эпова Наталья Рудольфовна",
+    "FIOshort": "Эпова Н.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "Онлайн-154",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Общий и таможенный менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-152",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы",
+    "LessonType": "пр",
+    "Room": "Онлайн-137",
+    "FIO": "Щербакова Ирина Николаевна",
+    "FIOshort": "Щербакова И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "пр",
+    "Room": "Онлайн-136",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Товароведение и экспертиза в таможенном деле",
+    "LessonType": "л",
+    "Room": "Онлайн-154",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общая и таможенная статистика",
+    "LessonType": "л",
+    "Room": "Онлайн-144",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-1",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Товароведение и экспертиза в таможенном деле",
+    "LessonType": "пр",
+    "Room": "Онлайн-146",
+    "FIO": "Федотов Андрей Николаевич",
+    "FIOshort": "Федотов А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общий и таможенный менеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-145",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Мировая экономика",
+    "LessonType": "пр",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Мировая экономика",
+    "LessonType": "л",
+    "Room": "Онлайн-7",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-175",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-142",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  }
+]

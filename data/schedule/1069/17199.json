@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория менеджмента",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные системы и базы данных",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Ступин Виталий Валерьевич",
+    "FIOshort": "Ступин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экономика предприятия",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рой Оксана Юрьевна",
+    "FIOshort": "Рой О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика предприятия",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансовый учёт",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Рой Оксана Юрьевна",
+    "FIOshort": "Рой О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Теория менеджмента",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  }
+]

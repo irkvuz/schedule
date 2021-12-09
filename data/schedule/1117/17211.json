@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бюджет и бюджетная система",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Татаринова Лариса Валентиновна",
+    "FIOshort": "Татаринова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Татаринова Лариса Валентиновна",
+    "FIOshort": "Татаринова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бюджет и бюджетная система",
+    "LessonType": "пр",
+    "Room": "8-204",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "пр",
+    "Room": "8-206",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "пр",
+    "Room": "8-202",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Рынок ценных бумаг",
+    "LessonType": "пр",
+    "Room": "8-206",
+    "FIO": "Алексеева Ирина Анатольевна",
+    "FIOshort": "Алексеева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Социальное страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Отчетность и аудит",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  }
+]

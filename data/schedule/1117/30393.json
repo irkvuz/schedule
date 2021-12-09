@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Романенко Никита Сергеевич",
+    "FIOshort": "Романенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Ошмарина Ксения Андреевна",
+    "FIOshort": "Ошмарина К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Справочно-правовые системы в профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Справочно-правовые системы в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Романенко Никита Сергеевич",
+    "FIOshort": "Романенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Романенко Никита Сергеевич",
+    "FIOshort": "Романенко Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "пр",
+    "Room": "11-413",
+    "FIO": "Ошмарина Ксения Андреевна",
+    "FIOshort": "Ошмарина К.А.",
+    "Error": null
+  }
+]

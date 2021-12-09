@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налогообложение юридических и физических лиц",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налогообложение юридических и физических лиц",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговый учет",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоговый учет",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Контроль и ревизия",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Контроль и ревизия",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Юсупова Галина Валерьевна",
+    "FIOshort": "Юсупова Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Налоговый учет",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Налоговый учет",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Одаховская Далья Ардалионовна",
+    "FIOshort": "Одаховская Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Бухгалтерское дело",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Сергеев Сергей Николевич",
+    "FIOshort": "Сергеев С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский (управленческий) учет",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Власова Наталья Владимировна",
+    "FIOshort": "Власова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерское дело",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Сергеев Сергей Николевич",
+    "FIOshort": "Сергеев С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский (управленческий) учет",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Власова Наталья Владимировна",
+    "FIOshort": "Власова Н.В.",
+    "Error": null
+  }
+]

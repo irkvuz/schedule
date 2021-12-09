@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-114",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Доржиева Долгорма Цырендашиевна",
+    "FIOshort": "Доржиева Д.Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Доржиева Долгорма Цырендашиевна",
+    "FIOshort": "Доржиева Д.Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы таможенного дела",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История таможенного дела и таможенной политики",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Завьялова Екатерина Олеговна",
+    "FIOshort": "Завьялова Е.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Максимова Наталия Владимировна",
+    "FIOshort": "Максимова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История таможенного дела и таможенной политики",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Завьялова Екатерина Олеговна",
+    "FIOshort": "Завьялова Е.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы таможенного дела",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Короткова Светлана Николаевна",
+    "FIOshort": "Короткова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-505",
+    "FIO": "Доржиева Долгорма Цырендашиевна",
+    "FIOshort": "Доржиева Д.Ц.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Копылова Наталия Юрьевна",
+    "FIOshort": "Копылова Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "5-213",
+    "FIO": "Непомнящих Екатерина Александровна",
+    "FIOshort": "Непомнящих Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "пр",
+    "Room": "5-213",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  }
+]

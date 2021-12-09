@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-167",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-164",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "Онлайн-195",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-194",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-176",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-168",
+    "FIO": "Сулима Мария Яковлевна",
+    "FIOshort": "Сулима М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-182",
+    "FIO": "Сулима Мария Яковлевна",
+    "FIOshort": "Сулима М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-170",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-139",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-189",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-170",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-185",
+    "FIO": "Сулима Мария Яковлевна",
+    "FIOshort": "Сулима М.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-177",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-167",
+    "FIO": "Медведева Людмила Александровна",
+    "FIOshort": "Медведева Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "Онлайн-106",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-106",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-110",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-146",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-120",
+    "FIO": "Абалакова Людмила Михайловна",
+    "FIOshort": "Абалакова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "Онлайн-152",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  }
+]

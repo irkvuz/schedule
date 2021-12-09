@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "Онлайн-167",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-168",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-149",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-164",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "Онлайн-135",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-171",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-162",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-164",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "Онлайн-163",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "Онлайн-160",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы безопасности жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "Онлайн-169",
+    "FIO": "Черника Елена Яковлевна",
+    "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-171",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-23",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Естествознание",
+    "LessonType": "пр",
+    "Room": "Онлайн-159",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "Онлайн-149",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "Онлайн-154",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "Онлайн-157",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "Онлайн-32",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "Онлайн-138",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Естествознание",
+    "LessonType": "л",
+    "Room": "Онлайн-143",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "Онлайн-133",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Ермошкина Римма Леонидовна",
+    "FIOshort": "Ермошкина Р.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Программные средства офисного назначения",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Программные средства офисного назначения",
+    "LessonType": "л",
+    "Room": "2-405",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "4-210",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "2-204",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Яковлева Елена Анатольевна",
+    "FIOshort": "Яковлева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Яковлева Елена Анатольевна",
+    "FIOshort": "Яковлева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Теоретические основы товароведения",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теоретические основы товароведения",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Общая теория логистики",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Шавкунова Ирина Сергеевна",
+    "FIOshort": "Шавкунова И.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Шавкунова Ирина Сергеевна",
+    "FIOshort": "Шавкунова И.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Общая теория логистики",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  }
+]

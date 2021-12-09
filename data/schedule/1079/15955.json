@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международный маркетинг",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международный маркетинг",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международные стандарты финансовой отчетности",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международный бизнес",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международный бизнес",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международные стандарты финансовой отчетности",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международное частное право",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Оценка бизнеса",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Жижко Ирина Борисовна",
+    "FIOshort": "Жижко И.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международный туризм",
+    "LessonType": "л",
+    "Room": "1-210",
+    "FIO": "Урбанович Ирина Анатольевна",
+    "FIOshort": "Урбанович И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Международный туризм",
+    "LessonType": "пр",
+    "Room": "1-302",
+    "FIO": "Урбанович Ирина Анатольевна",
+    "FIOshort": "Урбанович И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Управление качеством на базе международных стандартов",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление качеством на базе международных стандартов",
+    "LessonType": "л",
+    "Room": "1-210",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  }
+]

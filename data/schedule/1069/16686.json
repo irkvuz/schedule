@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "пр",
+    "Room": "5-312",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Эконометрика",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Эконометрика",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "5-301",
+    "FIO": "Касаткина Галина Максимовна",
+    "FIOshort": "Касаткина Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление организацией (предприятием)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Управление организацией (предприятием)",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Страхование",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Степанова Марина Николаевна",
+    "FIOshort": "Степанова М.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Специальная подготовка",
+    "LessonType": "пр",
+    "Room": "15-1-01",
+    "FIO": "Пинчук Александр Николаевич",
+    "FIOshort": "Пинчук А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "15-1-01",
+    "FIO": "Гасилов Александр Сергеевич",
+    "FIOshort": "Гасилов А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "15-1-01",
+    "FIO": "Гасилов Александр Сергеевич",
+    "FIOshort": "Гасилов А.С.",
+    "Error": null
+  }
+]

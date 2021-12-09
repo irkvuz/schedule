@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Баребина Наталья Сергеевна",
+    "FIOshort": "Баребина Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Майдачевский Дмитрий Ярославович",
+    "FIOshort": "Майдачевский Д.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Право",
+    "LessonType": "пр",
+    "Room": "5-303",
+    "FIO": "Сафонов Михаил Александрович",
+    "FIOshort": "Сафонов М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Яковлева Елена Анатольевна",
+    "FIOshort": "Яковлева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Съемщиков Сергей Евгеньевич",
+    "FIOshort": "Съемщиков С.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Яковлева Елена Анатольевна",
+    "FIOshort": "Яковлева Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Съемщиков Сергей Евгеньевич",
+    "FIOshort": "Съемщиков С.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Право",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "3-207",
+    "FIO": "Трофимов Евгений Александрович",
+    "FIOshort": "Трофимов Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-217",
+    "FIO": "Трофимов Евгений Александрович",
+    "FIOshort": "Трофимов Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Трофимов Евгений Александрович",
+    "FIOshort": "Трофимов Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Баребина Наталья Сергеевна",
+    "FIOshort": "Баребина Н.С.",
+    "Error": null
+  }
+]

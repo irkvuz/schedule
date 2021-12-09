@@ -1,0 +1,134 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Боброва Екатерина Александровна",
+    "FIOshort": "Боброва Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Международная политэкономия и финансы (International Political Economy and Finance)",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Макроэкономика (Economics Tutorial)",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Международная политэкономия и финансы (International Political Economy and Finance)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Макроэкономика (Economics Tutorial)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Курганский Сергей Александрович",
+    "FIOshort": "Курганский С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Современные тенденции и инновации в международных финансах (Current Issues and Innovation in International Finance)",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Математические методы и инновационные бизнес-модели (Bussiness Model Challenge)",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Современные тенденции и инновации в международных финансах (Current Issues and Innovation in International Finance)",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Математические методы и инновационные бизнес-модели (Bussiness Model Challenge)",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  }
+]

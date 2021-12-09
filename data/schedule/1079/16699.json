@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Гнатко Елена Александровна",
+    "FIOshort": "Гнатко Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Гнатко Елена Александровна",
+    "FIOshort": "Гнатко Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Финансовое право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Практикум по подготовке к следственной деятельности",
+    "LessonType": "пр",
+    "Room": "6-202",
+    "FIO": "Буфетова Марьям Шамильевна",
+    "FIOshort": "Буфетова М.Ш.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Ведерников Алексей Викторович",
+    "FIOshort": "Ведерников А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Непомнящая Екатерина Анатольевна",
+    "FIOshort": "Непомнящая Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Коломинов Вячеслав Валентинович",
+    "FIOshort": "Коломинов В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Гармышев Ярослав Владимирович",
+    "FIOshort": "Гармышев Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Белоусов Владимир Николаевич",
+    "FIOshort": "Белоусов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Финансовое право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Батрамеева Надежда Владиславовна",
+    "FIOshort": "Батрамеева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Литвинцева Наталья Юрьевна",
+    "FIOshort": "Литвинцева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Полетаева Екатерина Леонидовна",
+    "FIOshort": "Полетаева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "6-409",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  }
+]

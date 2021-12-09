@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковская деятельность",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Страховое дело",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Кузнецова Надежда Васильевна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Социальное страхование",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Корпоративные финансы",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Ценные бумаги",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Тимофеева Анна Александровна",
+    "FIOshort": "Тимофеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Организация деятельности Банка России",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Ценные бумаги",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Тимофеева Анна Александровна",
+    "FIOshort": "Тимофеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Организация деятельности Банка России",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Организация деятельности Банка России",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Страховое дело",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Кузнецова Надежда Васильевна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Страховое дело",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Кузнецова Надежда Васильевна",
+    "FIOshort": "Кузнецова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Ценные бумаги",
+    "LessonType": "л",
+    "Room": "5-208",
+    "FIO": "Тимофеева Анна Александровна",
+    "FIOshort": "Тимофеева А.А.",
+    "Error": null
+  }
+]

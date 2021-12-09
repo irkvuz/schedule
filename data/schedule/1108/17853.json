@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление марочным капиталом",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент",
+    "LessonType": "л",
+    "Room": "3-904",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Управление марочным капиталом",
+    "LessonType": "пр",
+    "Room": "3-904",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык как средство профессионального общения",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Управленческая экономика",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управленческая экономика",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Казарина Лариса Анатольевна",
+    "FIOshort": "Казарина Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Методы исследований в менеджменте",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Даниленко Нина Николаевна",
+    "FIOshort": "Даниленко Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Методы исследований в менеджменте",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Даниленко Нина Николаевна",
+    "FIOshort": "Даниленко Н.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "3-802",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "3-802",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  }
+]

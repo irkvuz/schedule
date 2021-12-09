@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Лавыгина Ирина Васильевна",
+    "FIOshort": "Лавыгина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Васильева Наталья Юрьевна",
+    "FIOshort": "Васильева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Гармышев Ярослав Владимирович",
+    "FIOshort": "Гармышев Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Васильева Наталья Юрьевна",
+    "FIOshort": "Васильева Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Шастина Анжелика Размиковна",
+    "FIOshort": "Шастина А.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  }
+]

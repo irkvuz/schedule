@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Курс специализации по французскому языку",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт (элективные дисциплины)",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Семенов Леонид Владимирович",
+    "FIOshort": "Семенов Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Курс специализации по французскому языку",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Баклашкина Олеся Николаевна",
+    "FIOshort": "Баклашкина О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Французский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура и спорт",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-305",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "1-123",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "1-123",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Право",
+    "LessonType": "пр",
+    "Room": "5-305",
+    "FIO": "Криволуцкая Яна Анатольевна",
+    "FIOshort": "Криволуцкая Я.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Французский язык (профессиональный)",
+    "LessonType": "пр",
+    "Room": "1-307",
+    "FIO": "Лавриненко Эльвира Андреевна",
+    "FIOshort": "Лавриненко Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Право",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Атанов Андрей Алексеевич",
+    "FIOshort": "Атанов А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Рощупкина Елена Викторовна",
+    "FIOshort": "Рощупкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  }
+]

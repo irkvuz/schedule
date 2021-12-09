@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Академическое письмо (Academic Writing)",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Давыдова Татьяна Александровна",
+    "FIOshort": "Давыдова Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Мировая банковская система (World Banking System)",
+    "LessonType": "пр",
+    "Room": "8-206",
+    "FIO": "Оношко Ольга Юрьевна",
+    "FIOshort": "Оношко О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Академическое письмо (Academic Writing)",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Давыдова Татьяна Александровна",
+    "FIOshort": "Давыдова Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Мировая банковская система (World Banking System)",
+    "LessonType": "пр",
+    "Room": "8-206",
+    "FIO": "Оношко Ольга Юрьевна",
+    "FIOshort": "Оношко О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Лидерство (Leadership)",
+    "LessonType": "л",
+    "Room": "1-403",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Лидерство (Leadership)",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Международное налогообложение (International Taxation)",
+    "LessonType": "пр",
+    "Room": "3-207",
+    "FIO": "Быков Степан Сергеевич",
+    "FIOshort": "Быков С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Современный стратегический анализ (Contemporary Strategy analysis)",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Современный стратегический анализ (Contemporary Strategy analysis)",
+    "LessonType": "л",
+    "Room": "3-603",
+    "FIO": "Исупов Илья Владимирович",
+    "FIOshort": "Исупов И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (Business English)",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Мельгунова Анастасия Геннадьевна",
+    "FIOshort": "Мельгунова А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Интенсивный курс английского языка (Supplementary English Course)",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Мельгунова Анастасия Геннадьевна",
+    "FIOshort": "Мельгунова А.Г.",
+    "Error": null
+  }
+]

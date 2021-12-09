@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Атанов Андрей Алексеевич",
+    "FIOshort": "Атанов А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Николаева Ирина Ивановна",
+    "FIOshort": "Николаева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Козыдло Маргарита Владимировна",
+    "FIOshort": "Козыдло М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Козыдло Маргарита Владимировна",
+    "FIOshort": "Козыдло М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Технологии нефтегазового комплекса",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Технологии нефтегазового комплекса",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Теория вероятностей",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Математический анализ",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Теория вероятностей",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математический анализ",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Микроэкономика",
+    "LessonType": "пр",
+    "Room": "2-317",
+    "FIO": "Горев Владимир Петрович",
+    "FIOshort": "Горев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Микроэкономика",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Горев Владимир Петрович",
+    "FIOshort": "Горев В.П.",
+    "Error": null
+  }
+]

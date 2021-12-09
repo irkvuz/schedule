@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление территориями и недвижимым имуществом",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Диденко Людмила Васильевна",
+    "FIOshort": "Диденко Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физика 2",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Зарубина Татьяна Александровна",
+    "FIOshort": "Зарубина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физика 2",
+    "LessonType": "пр",
+    "Room": "5-502",
+    "FIO": "Зарубина Татьяна Александровна",
+    "FIOshort": "Зарубина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Управление территориями и недвижимым имуществом",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Диденко Людмила Васильевна",
+    "FIOshort": "Диденко Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Балабаева Мария Валерьевна",
+    "FIOshort": "Балабаева М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Лисихина Оксана Юрьевна",
+    "FIOshort": "Лисихина О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "11-412",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Оценка недвижимого имущества",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Кобелева Александра Николаевна",
+    "FIOshort": "Кобелева А.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Психология",
+    "LessonType": "пр",
+    "Room": "11-405",
+    "FIO": "Лисихина Оксана Юрьевна",
+    "FIOshort": "Лисихина О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление территориями и недвижимым имуществом",
+    "LessonType": "пр",
+    "Room": "11-415",
+    "FIO": "Диденко Людмила Васильевна",
+    "FIOshort": "Диденко Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физика 2",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Зарубина Татьяна Александровна",
+    "FIOshort": "Зарубина Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология",
+    "LessonType": "л",
+    "Room": "11-309",
+    "FIO": "Лисихина Оксана Юрьевна",
+    "FIOshort": "Лисихина О.Ю.",
+    "Error": null
+  }
+]

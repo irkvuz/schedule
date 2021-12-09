@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "л",
+    "Room": "2-402",
+    "FIO": "Солодова Наталия Германовна",
+    "FIOshort": "Солодова Н.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "1-204",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Донцова Юлия Анатольевна",
+    "FIOshort": "Донцова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психология труда",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология труда",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Паткина Елена Григорьевна",
+    "FIOshort": "Паткина Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "пр",
+    "Room": "2-313",
+    "FIO": "Васильева Анастасия Андреевна",
+    "FIOshort": "Васильева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "2-313",
+    "FIO": "Макаренко Светлана Александровна",
+    "FIOshort": "Макаренко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Налоги и налоговая система",
+    "LessonType": "л",
+    "Room": "2-313",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Макаренко Светлана Александровна",
+    "FIOshort": "Макаренко С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Налоги и налоговая система",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Медик Ирина Николаевна",
+    "FIOshort": "Медик И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Рынок труда и занятость населения",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Рынок труда и занятость населения",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "л",
+    "Room": "5-513",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  }
+]

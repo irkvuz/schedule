@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Немировская Елена Павловна",
+    "FIOshort": "Немировская Е.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Юридическая психология",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Фойгель Елена Игоревна",
+    "FIOshort": "Фойгель Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Кравченко Ирина Олеговна",
+    "FIOshort": "Кравченко И.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Слободчикова Светлана Николаевна",
+    "FIOshort": "Слободчикова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Слободчикова Светлана Николаевна",
+    "FIOshort": "Слободчикова С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Казарина Марина Игоревна",
+    "FIOshort": "Казарина М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-409",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Земельное право",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Юридическая психология",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Огородникова Анна Владимировна",
+    "FIOshort": "Огородникова А.В.",
+    "Error": null
+  }
+]
