@@ -16,11 +16,14 @@ jobs:
           node-version: 16
           cache: yarn
 
-      - name: Install all dependencies
-        run: yarn install --frozen-lockfile
+      # - name: Install all dependencies
+      #   run: yarn install --frozen-lockfile
 
-      - name: Update schedule
-        run: yarn updateSchedule
+      # - name: Update schedule
+      #   run: yarn updateSchedule
+
+      - name: tst
+        run: echo tst > public/data/tst.txt
 
       - name: Set cridentials
         run: |
@@ -29,3 +32,6 @@ jobs:
 
       - name: Commit schedule
         run: yarn commitSchedule
+
+      - name: Push changes
+        run: git push
