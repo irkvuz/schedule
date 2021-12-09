@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - 'lts/*'
+cache:
+  directories:
+    - node_modules
+script:
+  - yarn lint
+  - yarn test
+  - yarn build
+  - yarn size
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
+  local_dir: build
+  on:
+    branch: master
