@@ -31,4 +31,6 @@ jobs:
         run: yarn commitSchedule
 
       - name: Push changes
-        run: git push
+        run: |
+          git pull --rebase
+          git push
