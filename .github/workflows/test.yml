@@ -3,6 +3,9 @@ name: Test
 on:
   push:
     branches: [master]
+    paths:
+      - 'src/**'
+      - 'package.json'
   pull_request:
     branches: [master]
 
