@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  update_schedule:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,6 +21,11 @@ jobs:
 
       - name: Update schedule
         run: yarn updateSchedule
+
+      - name: Set cridentials
+        run: |
+          git config --global user.name 'Automated Updater'
+          git config --global user.email 'baitun@users.noreply.github.com'
 
       - name: Commit schedule
         run: yarn commitSchedule
