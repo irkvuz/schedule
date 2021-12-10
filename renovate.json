@@ -1,5 +1,5 @@
 {
-  "extends": ["config:base"],
+  "extends": ["config:base", ":semanticCommitTypeAll(chore)"],
   "packageRules": [
     {
       "updateTypes": ["minor", "patch", "pin", "digest"],
