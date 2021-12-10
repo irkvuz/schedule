@@ -12,7 +12,7 @@
     "@sentry/browser": "5.30.0",
     "@types/jest": "27.0.3",
     "@types/node": "13.13.51",
-    "@types/react": "16.14.8",
+    "@types/react": "17.0.37",
     "@types/react-dom": "17.0.11",
     "@types/react-router-dom": "5.1.7",
     "antd": "4.15.1",
