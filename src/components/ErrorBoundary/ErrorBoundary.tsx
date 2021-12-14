@@ -11,7 +11,7 @@ export class ErrorBoundary extends React.Component<Props> {
   state: State = {
     error: null,
     errorInfo: null,
-  };
+  }
 
   componentDidCatch(error: any, errorInfo: any) {
     // Catch errors in any components below and re-render with error message
@@ -31,7 +31,7 @@ export class ErrorBoundary extends React.Component<Props> {
           <p>
             Пожалуйста, сообщи об ошибке{' '}
             <a href="https://vk.com/savinyurii">мне в ВК</a> или{' '}
-            <a href="https://tele.click/savinyurii">в Telegram</a>, я сделаю всё
+            <a href="https://t.me/yurasvn">в Telegram</a>, я сделаю всё
             от меня зависящее чтобы исправить :)
           </p>
           <div style={{ whiteSpace: 'pre-wrap' }}>
