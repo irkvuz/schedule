@@ -1,4 +1,4 @@
-name: All tests
+name: Checks
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
     branches: [master]
 
 jobs:
-  tests:
+  lint:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,14 +23,46 @@ jobs:
 
       - name: Install all dependencies
         run: yarn install --frozen-lockfile
-      - name: Lint, test and build
-        run: |
-          yarn lint
-          yarn test:coverage
-          yarn build
+      
+      - name: Linting
+        run: yarn lint
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: yarn
+
+      - name: Install all dependencies
+        run: yarn install --frozen-lockfile
+      
+      - name: Build
+        run: yarn build
 
       - name: Size limit
         run: yarn size
+      
+  unit_tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: yarn
+
+      - name: Install all dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Unit tests
+        run: yarn test:coverage
 
       - name: Codecov
         uses: codecov/codecov-action@v2
