@@ -39,7 +39,7 @@ export default function Schedule(props: Props) {
 
       setSchedule(schedule);
       setLoading(false);
-    } catch (error) {
+    } catch (error: any) {
       setLoading(false);
       setSchedule([]);
       if (error.response) {
