@@ -15,7 +15,7 @@ export const Main: React.FC = () => {
     <>
       <header>
         <Menu mode="horizontal" theme="dark">
-          <Menu.Item>
+          <Menu.Item key="faculties">
             <Link to="/faculties">Расписание БГУ</Link>
           </Menu.Item>
           {/* <Menu.Item>
