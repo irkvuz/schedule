@@ -100,6 +100,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Основы теории журналистики",
@@ -232,8 +243,30 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
@@ -244,7 +277,18 @@
   {
     "WeekDay": 6,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",

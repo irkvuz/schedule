@@ -60,7 +60,7 @@
     "Odd": 0,
     "Lesson": "История (история России, всеобщая история)",
     "LessonType": "пр",
-    "Room": "5-202",
+    "Room": "5-208",
     "FIO": "Майдачевский Дмитрий Ярославович",
     "FIOshort": "Майдачевский Д.Я.",
     "Error": null
@@ -100,6 +100,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-104",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
@@ -124,7 +135,7 @@
     "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 2,
-    "Lesson": "Английский язык",
+    "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "1-416",
     "FIO": "Максимова Наталия Владимировна",
@@ -210,7 +221,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
@@ -222,7 +233,7 @@
   {
     "WeekDay": 6,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
@@ -233,7 +244,18 @@
   {
     "WeekDay": 6,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",
@@ -244,7 +266,18 @@
   {
     "WeekDay": 6,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-103",
+    "FIO": "Заболотняя Дарья Юрьевна",
+    "FIOshort": "Заболотняя Д.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "пр",
     "Room": "10-103",

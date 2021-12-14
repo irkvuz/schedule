@@ -22,6 +22,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Таможенные операции",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Балиновская Дина Владимировна",
+    "FIOshort": "Балиновская Д.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 1,
@@ -162,17 +173,6 @@
     "Room": "2-308",
     "FIO": "Козлова Анна Валерьевна",
     "FIOshort": "Козлова А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Таможенные операции",
-    "LessonType": "пр",
-    "Room": "2-416",
-    "FIO": "Балиновская Дина Владимировна",
-    "FIOshort": "Балиновская Д.В.",
     "Error": null
   },
   {

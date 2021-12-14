@@ -16,7 +16,7 @@
     "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-413",
+    "Room": "1-415",
     "FIO": "Меньшикова Екатерина Евгеньевна",
     "FIOshort": "Меньшикова Е.Е.",
     "Error": null
@@ -166,6 +166,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Меньшикова Екатерина Евгеньевна",
+    "FIOshort": "Меньшикова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Иностранный язык",
@@ -178,28 +189,17 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "1-404",
-    "FIO": "Меньшикова Екатерина Евгеньевна",
-    "FIOshort": "Меньшикова Е.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "пр",
-    "Room": "3-902",
+    "Room": "5-215",
     "FIO": "Доржиева Мария Лхамажаповна",
     "FIOshort": "Доржиева М.Л.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Философия",
     "LessonType": "л",
