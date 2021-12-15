@@ -77,17 +77,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Химия",
-    "LessonType": "л",
-    "Room": "11-112",
-    "FIO": "Черника Елена Яковлевна",
-    "FIOshort": "Черника Е.Я.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -192,17 +181,6 @@
     "Odd": 1,
     "Lesson": "Химия",
     "LessonType": "пр",
-    "Room": "11-112",
-    "FIO": "Черника Елена Яковлевна",
-    "FIOshort": "Черника Е.Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Химия",
-    "LessonType": "л",
     "Room": "11-112",
     "FIO": "Черника Елена Яковлевна",
     "FIOshort": "Черника Е.Я.",
