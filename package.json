@@ -94,6 +94,9 @@
     }
   ],
   "jest": {
+    "testPathIgnorePatterns": [
+      "<rootDir>/src/serviceWorker.*"
+    ],
     "coverageReporters": [
       "clover",
       "json",
