@@ -43,7 +43,7 @@
     "progress": "2.0.3",
     "size-limit": "7.0.4",
     "source-map-explorer": "2.5.2",
-    "ts-node": "9.0.0"
+    "ts-node": "10.4.0"
   },
   "scripts": {
     "next": "yarn version --patch",
