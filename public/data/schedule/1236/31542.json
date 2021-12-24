@@ -90,7 +90,7 @@
   {
     "WeekDay": 5,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Правовая аналитика",
     "LessonType": "л",
     "Room": "5-308",
