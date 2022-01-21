@@ -3,7 +3,7 @@ import { CascaderValueType } from 'antd/lib/cascader';
 import React, { useEffect, useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import api from '../api';
-import { IScheduleOld, ITrimester } from '../constants';
+import { IScheduleOld, ITrimesterOld } from '../constants';
 import SelectGroup from '../SelectGroup';
 import { reachGoal } from '../utils/customYandexMetrika';
 import { getWeekNumber } from '../utils/getWeekNumber';
@@ -20,7 +20,7 @@ export interface Props extends RouteComponentProps<MatchParams> {
 }
 
 export default function Schedule(props: Props) {
-  const [trimester, setTrimester] = useState<ITrimester | undefined>(undefined);
+  const [trimester, setTrimester] = useState<ITrimesterOld | undefined>(undefined);
   const [schedule, setSchedule] = useState<IScheduleOld>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [weekNumber, setWeekNumber] = useState<number>(0);
@@ -28,7 +28,7 @@ export default function Schedule(props: Props) {
   const loadSchedule = async (
     facultyId: string,
     groupId: string,
-    trimester: ITrimester
+    trimester: ITrimesterOld
   ) => {
     setLoading(true);
     try {

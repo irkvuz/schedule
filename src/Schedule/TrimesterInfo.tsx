@@ -1,11 +1,11 @@
 import { Alert } from 'antd';
 import { differenceInWeeks, format, getISODay, parseJSON } from 'date-fns';
 import React from 'react';
-import { ITrimester, WEEK_DAY_NAMES } from '../constants';
+import { ITrimesterOld, WEEK_DAY_NAMES } from '../constants';
 import { getWeekNumber } from '../utils/getWeekNumber';
 
 interface Props {
-  trimester: ITrimester;
+  trimester: ITrimesterOld;
   today: Date;
 }
 

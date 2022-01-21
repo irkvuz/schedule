@@ -1,19 +1,10 @@
-export interface ITrimester {
+export interface ITrimesterOld {
   IdTrimester: number;
   uYear: string;
   dateStart: string;
   dateFinish: string;
-  week: number;
-  Error: string;
-}
-
-export interface ITrimesterOld {
-  IdTrimester: number;
-  uYear: string;
-  dateStart: Date;
-  dateFinish: Date;
-  week: number;
-  Error: string;
+  week?: number;
+  Error?: string;
 }
 export interface ILessonOld {
   WeekDay: number;
