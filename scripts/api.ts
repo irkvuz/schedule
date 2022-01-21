@@ -31,8 +31,15 @@ const methods = {
     JSON.parse((await axios.get(`/`)).data.substr(1)),
   getGroups: async (facultyId: number): Promise<IGroupOld[]> =>
     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
-  getTrimesters: async (): Promise<ITrimesterOld[]> =>
-    JSON.parse((await axios.get(`/?mode=2`)).data.substr(1)),
+  getTrimesters: async (): Promise<ITrimesterOld[]> => {
+    const originalTrimesters:ITrimesterOld[] = JSON.parse((await axios.get(`/?mode=2`)).data.substr(1));
+    const niceTrimesters = originalTrimesters.map(trimester=>{
+      delete trimester.week;
+      delete trimester.Error;
+      return trimester;
+    })
+    return niceTrimesters;
+  },
   getSchedule: async (
     groupId: number,
     trimesterId: number
