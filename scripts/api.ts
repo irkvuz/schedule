@@ -25,7 +25,7 @@ if (DEBUG) {
 }
 
 axios.defaults.baseURL = 'http://mobile.bgu.ru/timetableJson.ashx';
-export default {
+const methods = {
   // substr(1) is needed because response from api contains `@` signn as a first symbol
   getFaculties: async (): Promise<IFacultyOld[]> =>
     JSON.parse((await axios.get(`/`)).data.substr(1)),
@@ -43,3 +43,5 @@ export default {
       ).data.substr(1)
     ),
 };
+
+export default methods;
