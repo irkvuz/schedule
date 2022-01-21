@@ -12,8 +12,8 @@ import api from './api';
     const groups = [
       30605, // МЕНрк-20-1
     ];
-    const prevTrimesterId = 1219; // second 2020-2021
-    const max = 300;
+    const prevTrimesterId = 1282; // second 2021-2022
+    const max = 100;
     let result = new Set();
 
     for (let groupId of groups) {

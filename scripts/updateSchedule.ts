@@ -11,10 +11,7 @@ import { Faculty, Group } from './types';
 const VERBOSE = true;
 
 // @TODO store trimesterds in data folder
-const TRIMESTER_ID_1 = 1236;
-const TRIMESTER_ID_2 = 1259;
-
-const trimesterIds = [TRIMESTER_ID_1, TRIMESTER_ID_2];
+const trimesterIds = [1282, 1286, 1287, 1290, 1291, 1294, 1295];
 
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
