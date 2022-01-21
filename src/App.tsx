@@ -22,7 +22,9 @@ const isInStandaloneMode = (): boolean => {
 };
 
 if (isIos() && isInStandaloneMode()) {
-  reachGoal('standalone');
+  setTimeout(()=>{
+     reachGoal('standalone');
+  }, 5*1000);
 }
 
 const browserHistory = createBrowserHistory();
