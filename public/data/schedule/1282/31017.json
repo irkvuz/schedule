@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Инклюзивная компетентность",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "4-404",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Вычислительные системы, сети и телекоммуникации",
+    "LessonType": "л",
+    "Room": "4-211",
+    "FIO": "Сорокин Александр Васильевич",
+    "FIOshort": "Сорокин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Алгоритмизация",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные системы и технологии",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Куулар Эдита Канкиевна",
+    "FIOshort": "Куулар Э.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Вычислительные системы, сети и телекоммуникации",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Сорокин Александр Васильевич",
+    "FIOshort": "Сорокин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Алгоритмизация",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Непомнящих Екатерина Александровна",
+    "FIOshort": "Непомнящих Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  }
+]

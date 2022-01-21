@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Якимов Константин Викторович",
+    "FIOshort": "Якимов К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 2",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Инклюзивная компетентность",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Микро и макроэкономика",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Трофимов Евгений Александрович",
+    "FIOshort": "Трофимов Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-413",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Межкультурное взаимодействие",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Микро и макроэкономика",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Трофимов Евгений Александрович",
+    "FIOshort": "Трофимов Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Товароведение",
+    "LessonType": "л",
+    "Room": "3-705",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика 2",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Карамышева Светлана Николаевна",
+    "FIOshort": "Карамышева С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Товароведение",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Бимакова Руфина Рашидовна",
+    "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  }
+]

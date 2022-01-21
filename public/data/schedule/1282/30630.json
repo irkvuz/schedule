@@ -1,0 +1,90 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Индустриальное рыбоводство",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Искусственное воспроизводство рыбных ресурсов",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Индустриальное рыбоводство",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Искусственное воспроизводство рыбных ресурсов",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Ихтиопатология",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Лососеводство",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Ихтиопатология",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Лососеводство",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  }
+]

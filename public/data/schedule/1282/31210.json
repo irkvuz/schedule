@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "12-203",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-208",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "12-403",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "12-207",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "12-407",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Геодезия",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "12-301",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Геодезия",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "пр",
+    "Room": "12-307",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы древесиноведения и лесного товароведения",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Психофизиология",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "2-204",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Педагогическая психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Социальная психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология личности",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Психология развития и возрастная психология",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Психофизиология",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Педагогическая психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Социальная психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Психология развития и возрастная психология",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Психология личности",
+    "LessonType": "л",
+    "Room": "2-112",
+    "FIO": "Кожевина Анна Павловна",
+    "FIOshort": "Кожевина А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Математические методы в психологии",
+    "LessonType": "л",
+    "Room": "3-509",
+    "FIO": "Леонова Ольга Васильевна",
+    "FIOshort": "Леонова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математические методы в психологии",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Леонова Ольга Васильевна",
+    "FIOshort": "Леонова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "2-112",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Математические методы в психологии",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Леонова Ольга Васильевна",
+    "FIOshort": "Леонова О.В.",
+    "Error": null
+  }
+]

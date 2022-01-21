@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Английский язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Меньшикова Екатерина Евгеньевна",
+    "FIOshort": "Меньшикова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Английский язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-419",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Лещук Светлана Ивановна",
+    "FIOshort": "Лещук С.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Лещук Светлана Ивановна",
+    "FIOshort": "Лещук С.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Аксенюшкина Елена Владимировна",
+    "FIOshort": "Аксенюшкина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Меньшикова Екатерина Евгеньевна",
+    "FIOshort": "Меньшикова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Английский язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-412",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История (история России, всеобщая история)",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы экономики",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "4-406",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы экономики",
+    "LessonType": "пр",
+    "Room": "2-217",
+    "FIO": "Козлова Анна Валерьевна",
+    "FIOshort": "Козлова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "4-204",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  }
+]

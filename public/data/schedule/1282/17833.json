@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ больших данных",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ больших данных",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ больших данных",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет вещей",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Интернет вещей",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Интернет вещей",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Бусько Михаил Михайлович",
+    "FIOshort": "Бусько М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление инвестициями и инновациями",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информационные системы поддержки бизнеса",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационный менеджмент",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление инвестициями и инновациями",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информационный менеджмент",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информационные системы поддержки бизнеса",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Хитрова Татьяна Исхаковна",
+    "FIOshort": "Хитрова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационный менеджмент",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Управление инвестициями и инновациями",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  }
+]

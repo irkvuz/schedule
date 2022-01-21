@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Русская литература",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русская литература",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-302",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-204",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Страноведение",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Волкова Светлана Борисовна",
+    "FIOshort": "Волкова С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русская литература",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практическая грамматика)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (научный стиль речи)",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Аудио-визуальный курс русского языка",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Аудио-визуальный курс русского языка",
+    "LessonType": "пр",
+    "Room": "10-205",
+    "FIO": "Терских Татьяна Филипповна",
+    "FIOshort": "Терских Т.Ф.",
+    "Error": null
+  }
+]
