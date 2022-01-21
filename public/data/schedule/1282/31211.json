@@ -38,7 +38,7 @@
     "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "12-302",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null
@@ -188,17 +188,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Химия",
-    "LessonType": "л",
-    "Room": "12-001",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "История 1",
@@ -264,23 +253,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Химия",
-    "LessonType": "пр",
-    "Room": "12-001",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-004",
+    "Room": "12-208",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
     "Error": null

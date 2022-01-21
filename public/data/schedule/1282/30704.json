@@ -176,6 +176,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
