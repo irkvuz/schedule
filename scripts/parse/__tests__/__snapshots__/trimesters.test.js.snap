@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getCurrentTrimesters should parse and return ids 1`] = `
+Array [
+  1282,
+  1286,
+  1287,
+  1290,
+  1291,
+  1294,
+  1295,
+]
+`;
