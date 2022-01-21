@@ -1,6 +1,6 @@
 import axios from 'axios';
 import {
-  ITrimester,
+  ITrimesterOld,
   ILessonOld,
   IFacultyWithGroups,
   IFacultyOld,
@@ -19,7 +19,7 @@ let api = {
     get<IFacultyWithGroups[]>(`/data/facultiesWithGroups.json`),
   getGroups: (facultyId: string) =>
     get<IGroupOld[]>(`/data/groups/${facultyId}.json`),
-  getTrimester: () => get<ITrimester>(`/data/trimesters/current.json`),
+  getTrimester: () => get<ITrimesterOld>(`/data/trimesters/current.json`),
   getSchedule: (groupId: string, trimesterId: string | number) =>
     get<ILessonOld[]>(`/data/schedule/${trimesterId}/${groupId}.json`),
 };
