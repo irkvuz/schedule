@@ -42,7 +42,7 @@ export interface IGroupOld {
   Course: number;
   Error: string;
   hasSchedule: boolean;
-  trimesterId: number;
+  trimesterId?: number;
 }
 
 export interface IFacultyOld {
