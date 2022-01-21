@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ликвидность коммерческого банка",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковский менеджмент",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Банковский маркетинг",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Горчакова Мария Евгеньевна",
+    "FIOshort": "Горчакова М.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ликвидность коммерческого банка",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковский менеджмент",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Жилан Оксана Дмитриевна",
+    "FIOshort": "Жилан О.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Расчетно-кассовое обслуживание в коммерческом банке",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Резервирование в коммерческих банках",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Расчетно-кассовое обслуживание в коммерческом банке",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Банковский маркетинг",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Горчакова Мария Евгеньевна",
+    "FIOshort": "Горчакова М.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Банковский маркетинг",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Горчакова Мария Евгеньевна",
+    "FIOshort": "Горчакова М.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Резервирование в коммерческих банках",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Платёжные системы",
+    "LessonType": "л",
+    "Room": "8-105",
+    "FIO": "Плотникова Вера Алексеевна",
+    "FIOshort": "Плотникова В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Платёжные системы",
+    "LessonType": "пр",
+    "Room": "8-105",
+    "FIO": "Плотникова Вера Алексеевна",
+    "FIOshort": "Плотникова В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-304",
+    "FIO": "Демина Елена Владимировна",
+    "FIOshort": "Демина Е.В.",
+    "Error": null
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-514",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык в сфере юриспруденции",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Английский язык в сфере юриспруденции",
+    "LessonType": "пр",
+    "Room": "5-213",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "5-213",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Малеванный Андрей Александрович",
+    "FIOshort": "Малеванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Тимофеева Анна Александровна",
+    "FIOshort": "Тимофеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Английский язык в сфере юриспруденции",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Английский язык в сфере юриспруденции",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Логика",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Корнакова Светлана Викторовна",
+    "FIOshort": "Корнакова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Судебная медицина и судебная психиатрия",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Жмуров Дмитрий Витальевич",
+    "FIOshort": "Жмуров Д.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Тимофеева Анна Александровна",
+    "FIOshort": "Тимофеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История государства и права России",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История государства и права России",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Федосеев Александр Алексеевич",
+    "FIOshort": "Федосеев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Логика",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Корнакова Светлана Викторовна",
+    "FIOshort": "Корнакова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Инклюзивная компетентность",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Воронцова Евгения Геннадьевна",
+    "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Шагина Екатерина Алексеевна",
+    "FIOshort": "Шагина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Римское право",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Судебная медицина и судебная психиатрия",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Жмуров Дмитрий Витальевич",
+    "FIOshort": "Жмуров Д.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Римское право",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  }
+]

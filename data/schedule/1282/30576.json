@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Ларионова Лариса Александровна",
+    "FIOshort": "Ларионова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учет и налогообложение",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Профессиональная диагностика",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Ларионова Лариса Александровна",
+    "FIOshort": "Ларионова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учет и налогообложение",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Персональный менеджмент",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Бахматов Сергей Александрович",
+    "FIOshort": "Бахматов С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "2-415",
+    "FIO": "Бахматов Сергей Александрович",
+    "FIOshort": "Бахматов С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Бахматов Сергей Александрович",
+    "FIOshort": "Бахматов С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Персональный менеджмент",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Управление персоналом организации",
+    "LessonType": "пр",
+    "Room": "2-412",
+    "FIO": "Козлова Олеся Владимировна",
+    "FIOshort": "Козлова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Основы безопасности труда",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  }
+]

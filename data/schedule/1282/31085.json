@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Управление карьерой (Career management)",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Кроскультурная коммуникация (Cross-cultural Communication)",
+    "LessonType": "л",
+    "Room": "1-415",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Кроскультурная коммуникация (Cross-cultural Communication)",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Кроскультурная коммуникация (Cross-cultural Communication)",
+    "LessonType": "л",
+    "Room": "1-415",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Кроскультурная коммуникация (Cross-cultural Communication)",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Китова Елена Борисовна",
+    "FIOshort": "Китова Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Методы принятия решений (Decision Making)",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Методы принятия решений (Decision Making)",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Методы принятия решений (Decision Making)",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Методы принятия решений (Decision Making)",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Антипина Наталья Валерьевна",
+    "FIOshort": "Антипина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Профессиональная коммуникация (Communication for Professional Purpose)",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Профессиональная коммуникация (Communication for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Профессиональная коммуникация (Communication for Professional Purpose)",
+    "LessonType": "л",
+    "Room": "3-703",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Профессиональная коммуникация (Communication for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  }
+]
