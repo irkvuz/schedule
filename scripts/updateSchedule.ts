@@ -4,7 +4,7 @@
 
 import fs from 'fs';
 import ProgressBar from 'progress';
-import { IScheduleOld } from '../src/constants';
+import { IScheduleOld, ITrimesterOld } from '../src/constants';
 import api from './api';
 import { Faculty, Group } from './types';
 
@@ -17,13 +17,35 @@ const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
 };
 
+/**
+ * Removes duplicates in array of objects
+ * @param objects Array of objects
+ * @param uniqueKey key that is used for filtration
+ * @returns array of unique objects
+ */
+export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
+  const ids = objects.map((object) => object[uniqueKey]);
+  return objects.filter(
+    (object, index) => !ids.includes(object[uniqueKey], index + 1)
+  );
+};
+
 (async () => {
   try {
     console.log('Start downloading');
-    let trimesters = await api.getTrimesters();
+
+    const trimesters = await api.getTrimesters();
     if (!trimesters.length) throw new Error('No trimesters returned');
-    const trimesterIds = trimesters.map(trimester => trimester.IdTrimester);
-    json2file(`./public/data/trimesters.json`, trimesters);
+    const existingTrimesters: ITrimesterOld[] = JSON.parse(
+      fs.readFileSync(`./public/data/Trimesters.json`, 'utf-8')
+    );
+    const allTrimesters = uniqueBy(
+      [...existingTrimesters, ...trimesters],
+      'IdTrimester'
+    );
+    json2file(`./public/data/trimesters.json`, allTrimesters);
+
+    const trimesterIds = trimesters.map((trimester) => trimester.IdTrimester);
     // we are going to use first trimesterId as identifier for folder
     let dirSchedule = `./public/data/schedule/${trimesterIds[0]}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
