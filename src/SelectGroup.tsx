@@ -1,14 +1,12 @@
-import { Cascader, Spin } from 'antd';
+import { Cascader } from 'antd';
 import {
-  CascaderOptionType,
-  FilledFieldNamesType,
-  CascaderValueType,
+  CascaderOptionType, CascaderValueType, FilledFieldNamesType
 } from 'antd/lib/cascader';
-import React, { useEffect, useState } from 'react';
-import api from './api';
+import React from 'react';
 import { IFacultyWithGroups } from './constants';
 import { MatchParams } from './Schedule/Schedule';
 export interface Props extends MatchParams {
+  facultiesWithGroups: IFacultyWithGroups[],
   onChange: (
     value: CascaderValueType,
     selectedOptions?: CascaderOptionType[]
@@ -16,22 +14,6 @@ export interface Props extends MatchParams {
 }
 
 function SelectGroup(props: Props) {
-  const [options, setOptions] = useState<IFacultyWithGroups[]>([]);
-  const [loading, setLoading] = useState<boolean>(false);
-
-  useEffect(() => {
-    setLoading(true);
-    api
-      .getFacultiesWithGroups()
-      .then((facultiesWithGroups) => {
-        setLoading(false);
-        setOptions(facultiesWithGroups);
-      })
-      .catch((error) => {
-        setLoading(false);
-        console.log(error);
-      });
-  }, []);
 
   const filter = (
     inputValue: string,
@@ -43,11 +25,9 @@ function SelectGroup(props: Props) {
     });
   };
 
-  if (loading) return <Spin />;
-  if (options.length === 0) return <div>Options empty</div>;
   return (
     <Cascader
-      options={options}
+      options={props.facultiesWithGroups}
       onChange={props.onChange}
       allowClear={false}
       size="large"

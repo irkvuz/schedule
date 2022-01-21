@@ -3,7 +3,7 @@ import { CascaderValueType } from 'antd/lib/cascader';
 import React, { useEffect, useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import api from '../api';
-import { IScheduleOld, ITrimesterOld } from '../constants';
+import { IFacultyWithGroups, IScheduleOld, ITrimesterOld } from '../constants';
 import SelectGroup from '../SelectGroup';
 import { reachGoal } from '../utils/customYandexMetrika';
 import { getWeekNumber } from '../utils/getWeekNumber';
@@ -20,10 +20,15 @@ export interface Props extends RouteComponentProps<MatchParams> {
 }
 
 export default function Schedule(props: Props) {
-  const [trimester, setTrimester] = useState<ITrimesterOld | undefined>(undefined);
+  const [trimester, setTrimester] = useState<ITrimesterOld | undefined>(
+    undefined
+  );
   const [schedule, setSchedule] = useState<IScheduleOld>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [weekNumber, setWeekNumber] = useState<number>(0);
+  const [facultiesWithGroups, setFacultiesWithGroups] = useState<
+    IFacultyWithGroups[] 
+  >([]);
 
   const loadSchedule = async (
     facultyId: string,
@@ -64,6 +69,17 @@ export default function Schedule(props: Props) {
 
   const { groupId, facultyId } = props.match.params;
 
+  useEffect(() => {
+    api
+      .getFacultiesWithGroups()
+      .then((facultiesWithGroups) => {
+        setFacultiesWithGroups(facultiesWithGroups);
+      })
+      .catch((error) => {
+        throw new Error('Ошибка при получении списка групп и факультетов');
+      });
+  }, []);
+
   // Триместр загружаетс только один раз при componentDidMount
   useEffect(() => {
     async function loadTrimester() {
@@ -96,6 +112,7 @@ export default function Schedule(props: Props) {
     <>
       <div>
         <SelectGroup
+          facultiesWithGroups={facultiesWithGroups}
           facultyId={facultyId}
           groupId={groupId}
           onChange={handleGroupChange}
