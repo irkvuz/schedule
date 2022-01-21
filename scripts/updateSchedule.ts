@@ -11,7 +11,7 @@ import { Faculty, Group } from './types';
 const VERBOSE = true;
 
 // @TODO store trimesterds in data folder
-const trimesterIds = [1282, 1286, 1287, 1290, 1291, 1294, 1295];
+// const DEFAULT_TRIMESTER_IDS = [1282, 1286, 1287, 1290, 1291, 1294, 1295];
 
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
@@ -20,10 +20,11 @@ const json2file = (path: string, obj: any) => {
 (async () => {
   try {
     console.log('Start downloading');
-    // let trimesters = await api.getTrimesters();
-    // let trimesterId = trimesters[0].IdTrimester;
-    // json2file(`./public/data/trimesters/${trimesterId}.json`, trimesters[0]);
-    // json2file(`./public/data/trimesters/current.json`, trimesters[0]);
+    let trimesters = await api.getTrimesters();
+    if (!trimesters.length) throw new Error('No trimesters returned');
+    const trimesterIds = trimesters.map(trimester => trimester.IdTrimester);
+    json2file(`./public/data/trimesters.json`, trimesters);
+    // we are going to use first trimesterId as identifier for folder
     let dirSchedule = `./public/data/schedule/${trimesterIds[0]}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
 
