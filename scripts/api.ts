@@ -32,12 +32,17 @@ const methods = {
   getGroups: async (facultyId: number): Promise<IGroupOld[]> =>
     JSON.parse((await axios.get(`/?mode=1&id=${facultyId}`)).data.substr(1)),
   getTrimesters: async (): Promise<ITrimesterOld[]> => {
-    const originalTrimesters:ITrimesterOld[] = JSON.parse((await axios.get(`/?mode=2`)).data.substr(1));
-    const niceTrimesters = originalTrimesters.map(trimester=>{
+    const originalTrimesters: ITrimesterOld[] = JSON.parse(
+      (await axios.get(`/?mode=2`)).data.substr(1)
+    );
+    const sortedTrimesters = originalTrimesters.sort((a, b) =>
+      a.IdTrimester > b.IdTrimester ? 1 : b.IdTrimester > a.IdTrimester ? -1 : 0
+    );
+    const niceTrimesters = sortedTrimesters.map((trimester) => {
       delete trimester.week;
       delete trimester.Error;
       return trimester;
-    })
+    });
     return niceTrimesters;
   },
   getSchedule: async (
