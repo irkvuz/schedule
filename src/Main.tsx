@@ -47,7 +47,7 @@ export const Main: React.FC = () => {
       </div>
 
       <footer>
-        Сделано с ❤{' '}
+        Сделано с ❤ &nbsp;
         <a
           href="https://vk.com/irkvuz"
           target="_blank"
