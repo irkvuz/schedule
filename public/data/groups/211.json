@@ -219,14 +219,16 @@
     "Group": "ГС(11)-20-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1296
   },
   {
     "IdGroup": 30380,
     "Group": "ГС(9)-19-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1296
   },
   {
     "IdGroup": 30472,
