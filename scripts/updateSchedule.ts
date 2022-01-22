@@ -27,7 +27,10 @@ export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
   );
 };
 
-function getCurrentTrimesters(trimesters:ITrimesterOld[], today = new Date().toISOString()) {
+function getCurrentTrimesters(
+  trimesters: ITrimesterOld[],
+  today = new Date().toISOString()
+) {
   const currentTrimesters = trimesters.filter((t) => {
     return today >= t.dateStart && today <= t.dateFinish;
   });
@@ -61,13 +64,9 @@ async function updateTrimesters() {
     console.log('Start downloading');
 
     const trimesterIds = await updateTrimesters();
-    if(VERBOSE) {
+    if (VERBOSE) {
       console.log('Current trimester ids:', trimesterIds.toString());
-    }    
-    
-    // we are going to use first trimesterId as identifier for folder
-    let dirSchedule = `./public/data/schedule/${trimesterIds[0]}`;
-    if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
+    }
 
     if (VERBOSE) console.log('Getting faculties');
     let faculties = await api.getFaculties();
@@ -77,11 +76,17 @@ async function updateTrimesters() {
     const lastUpdate = JSON.parse(file);
 
     let facultiesWithGroups: Faculty[] = [];
-    for (let f of faculties) {
-      if (VERBOSE) {
-        console.log('Getting groups for', f.IdFaculty, f.FacultyAbbr);
-      }
+    for (let j in faculties) {
+      const f = faculties[j];
       let groups = await api.getGroups(f.IdFaculty);
+      if (VERBOSE) {
+        console.log(
+          `[${Number(j) + 1}/${faculties.length}] Getting groups for`,
+          f.IdFaculty,
+          f.FacultyAbbr,
+          `(${groups.length})`
+        );
+      }
       let newFaculty = new Faculty(f);
       let bar = new ProgressBar(
         `${newFaculty.name} [:bar] :current/:total :percent :etas`,
@@ -127,6 +132,8 @@ async function updateTrimesters() {
             );
             return lesson;
           });
+          const dirSchedule = `./public/data/schedule/${groups[i].trimesterId}`;
+          if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
           const pathToScheduleFile = `${dirSchedule}/${groups[i].IdGroup}.json`;
           if (fs.existsSync(pathToScheduleFile)) {
             const file = fs.readFileSync(pathToScheduleFile, 'utf-8');
