@@ -26,7 +26,9 @@ export interface IItem {
   name: string;
 }
 
-export interface IGroup extends IItem {}
+export interface IGroup extends IItem {
+  trimesterId: number;
+}
 
 export interface IFaculty extends IItem {
   fullName: string;

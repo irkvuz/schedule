@@ -3,9 +3,11 @@ import { IFaculty, IFacultyOld, IGroup, IGroupOld } from '../src/constants';
 export class Group implements IGroup {
   public id: string;
   public name: string;
+  public trimesterId: number;
   constructor(obj: IGroupOld) {
     this.id = String(obj.IdGroup); // Cascader requires `id` as a String
     this.name = obj.Group;
+    this.trimesterId = obj.trimesterId;
   }
 }
 
