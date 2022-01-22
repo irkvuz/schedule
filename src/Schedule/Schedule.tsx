@@ -20,27 +20,25 @@ export interface Props extends RouteComponentProps<MatchParams> {
 }
 
 export default function Schedule(props: Props) {
-  const [trimester, setTrimester] = useState<ITrimesterOld | undefined>(
-    undefined
-  );
+  const [trimesters, setTrimesters] = useState<ITrimesterOld[]>([]);
+  const [trimesterId, setTrimesterId] = useState<number>();
   const [schedule, setSchedule] = useState<IScheduleOld>([]);
   const [loading, setLoading] = useState<boolean>(false);
-  const [weekNumber, setWeekNumber] = useState<number>(0);
   const [facultiesWithGroups, setFacultiesWithGroups] = useState<
-    IFacultyWithGroups[] 
+    IFacultyWithGroups[]
   >([]);
 
   const loadSchedule = async (
     facultyId: string,
     groupId: string,
-    trimester: ITrimesterOld
+    trimesterId: number
   ) => {
     setLoading(true);
     try {
       localStorage.setItem('facultyId', facultyId);
       localStorage.setItem('groupId', groupId);
 
-      const schedule = await api.getSchedule(groupId, trimester.IdTrimester);
+      const schedule = await api.getSchedule(groupId, trimesterId);
 
       setSchedule(schedule);
       setLoading(false);
@@ -69,34 +67,26 @@ export default function Schedule(props: Props) {
 
   const { groupId, facultyId } = props.match.params;
 
+  // for facultiesWithGroups and trimesters
   useEffect(() => {
-    api
-      .getFacultiesWithGroups()
-      .then((facultiesWithGroups) => {
-        setFacultiesWithGroups(facultiesWithGroups);
-      })
-      .catch((error) => {
-        throw new Error('Ошибка при получении списка групп и факультетов');
-      });
+    api.getFacultiesWithGroups().then((facultiesWithGroups) => {
+      setFacultiesWithGroups(facultiesWithGroups);
+    });
+    api.getTrimesters().then((trimesters) => {
+      setTrimesters(trimesters);
+    });
   }, []);
 
-  // Триместр загружаетс только один раз при componentDidMount
   useEffect(() => {
-    async function loadTrimester() {
-      try {
-        const t = await api.getTrimester();
-        if (t) {
-          setTrimester(t);
-          setWeekNumber(getWeekNumber(t.dateStart, props.today) + 15);
-        }
-      } catch (error) {}
-    }
-    loadTrimester();
-  }, [props.today]);
+    if (trimesterId) loadSchedule(facultyId, groupId, trimesterId);
+  }, [facultyId, groupId, trimesterId]);
 
   useEffect(() => {
-    if (trimester) loadSchedule(facultyId, groupId, trimester);
-  }, [facultyId, groupId, trimester]);
+    const faculty = facultiesWithGroups.find((f) => f.id === facultyId);
+    const group = faculty?.groups.find((g) => g.id === groupId);
+    const trimesterId = group?.trimesterId;
+    setTrimesterId(trimesterId);
+  }, [facultiesWithGroups, trimesters, facultyId, groupId]);
 
   const handleGroupChange = (
     value: CascaderValueType,
@@ -107,6 +97,11 @@ export default function Schedule(props: Props) {
     props.history.push(url);
     reachGoal('change_group_cascader');
   };
+
+  const trimester = trimesters.find((t) => t.IdTrimester === trimesterId); // TODO
+  const weekNumber = trimester
+    ? getWeekNumber(trimester.dateStart, props.today)
+    : 0; // TODO
 
   return (
     <>
