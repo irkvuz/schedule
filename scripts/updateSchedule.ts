@@ -10,9 +10,6 @@ import { Faculty, Group } from './types';
 
 const VERBOSE = true;
 
-// @TODO store trimesterds in data folder
-// const DEFAULT_TRIMESTER_IDS = [1282, 1286, 1287, 1290, 1291, 1294, 1295];
-
 const json2file = (path: string, obj: any) => {
   fs.writeFileSync(path, JSON.stringify(obj, null, 2) + '\n');
 };
@@ -30,22 +27,44 @@ export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
   );
 };
 
+function getCurrentTrimesters(trimesters:ITrimesterOld[], today = new Date().toISOString()) {
+  const currentTrimesters = trimesters.filter((t) => {
+    return today >= t.dateStart && today <= t.dateFinish;
+  });
+  return currentTrimesters;
+}
+
+async function updateTrimesters() {
+  const trimestersFromApi = await api.getTrimesters();
+  if (!trimestersFromApi.length) throw new Error('No trimesters returned');
+
+  const existingTrimesters: ITrimesterOld[] = JSON.parse(
+    fs.readFileSync(`./public/data/Trimesters.json`, 'utf-8')
+  );
+  const allTrimesters = uniqueBy(
+    [...existingTrimesters, ...trimestersFromApi],
+    'IdTrimester'
+  );
+  const allTrimestersSorted = allTrimesters.sort((a, b) =>
+    a.IdTrimester > b.IdTrimester ? 1 : b.IdTrimester > a.IdTrimester ? -1 : 0
+  );
+
+  json2file(`./public/data/trimesters.json`, allTrimestersSorted);
+
+  const currTrimesters = getCurrentTrimesters(allTrimestersSorted);
+  const trimesterIds = currTrimesters.map((t) => t.IdTrimester);
+  return trimesterIds;
+}
+
 (async () => {
   try {
     console.log('Start downloading');
 
-    const trimesters = await api.getTrimesters();
-    if (!trimesters.length) throw new Error('No trimesters returned');
-    const existingTrimesters: ITrimesterOld[] = JSON.parse(
-      fs.readFileSync(`./public/data/Trimesters.json`, 'utf-8')
-    );
-    const allTrimesters = uniqueBy(
-      [...existingTrimesters, ...trimesters],
-      'IdTrimester'
-    );
-    json2file(`./public/data/trimesters.json`, allTrimesters);
-
-    const trimesterIds = trimesters.map((trimester) => trimester.IdTrimester);
+    const trimesterIds = await updateTrimesters();
+    if(VERBOSE) {
+      console.log('Current trimester ids:', trimesterIds.toString());
+    }    
+    
     // we are going to use first trimesterId as identifier for folder
     let dirSchedule = `./public/data/schedule/${trimesterIds[0]}`;
     if (!fs.existsSync(dirSchedule)) fs.mkdirSync(dirSchedule);
@@ -75,14 +94,31 @@ export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
         bar.tick();
         groups[i].hasSchedule = false;
         let schedule: IScheduleOld;
-        for (let trimesterId of trimesterIds) {
-          schedule = await api.getSchedule(groups[i].IdGroup, trimesterId);
+        // to avoid multiple useless requests
+        if (
+          groups[i].trimesterId &&
+          trimesterIds.includes(groups[i].trimesterId)
+        ) {
+          schedule = await api.getSchedule(
+            groups[i].IdGroup,
+            groups[i].trimesterId
+          );
           if (schedule.length > 1) {
             groups[i].hasSchedule = true;
-            groups[i].trimesterId = trimesterId;
-            break;
+          } else {
+            groups[i].trimesterId = undefined;
+          }
+        } else {
+          for (let trimesterId of trimesterIds) {
+            schedule = await api.getSchedule(groups[i].IdGroup, trimesterId);
+            if (schedule.length > 1) {
+              groups[i].hasSchedule = true;
+              groups[i].trimesterId = trimesterId;
+              break;
+            }
           }
         }
+
         if (groups[i].hasSchedule) {
           schedule = schedule.map((lesson) => {
             lesson.Lesson = lesson.Lesson.replace(
@@ -93,7 +129,7 @@ export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
           });
           const pathToScheduleFile = `${dirSchedule}/${groups[i].IdGroup}.json`;
           if (fs.existsSync(pathToScheduleFile)) {
-            const file: any = fs.readFileSync(pathToScheduleFile);
+            const file = fs.readFileSync(pathToScheduleFile, 'utf-8');
             const oldSchedule = JSON.parse(file);
             if (JSON.stringify(schedule) !== JSON.stringify(oldSchedule)) {
               lastUpdate[groups[i].IdGroup] = new Date();
@@ -115,5 +151,6 @@ export const uniqueBy = <T>(objects: T[], uniqueKey: keyof T): T[] => {
     if (error.status) console.log('error.status', error.status);
     if (error.code) console.log('error.code', error.code);
     if (error.config?.url) console.log('error.config.url', error.config.url);
+    throw new Error(error);
   }
 })();
