@@ -42,7 +42,7 @@ async function updateTrimesters() {
   if (!trimestersFromApi.length) throw new Error('No trimesters returned');
 
   const existingTrimesters: ITrimesterOld[] = JSON.parse(
-    fs.readFileSync(`./public/data/Trimesters.json`, 'utf-8')
+    fs.readFileSync(`./public/data/trimesters.json`, 'utf-8')
   );
   const allTrimesters = uniqueBy(
     [...existingTrimesters, ...trimestersFromApi],
