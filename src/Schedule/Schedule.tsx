@@ -6,7 +6,7 @@ import api from '../api';
 import { IFacultyWithGroups, IScheduleOld, ITrimesterOld } from '../constants';
 import SelectGroup from '../SelectGroup';
 import { reachGoal } from '../utils/customYandexMetrika';
-import { getWeekNumber } from '../utils/getWeekNumber';
+import { getTrimesterInfo } from '../utils/getTrimesterInfo';
 import TabsWeekDays from './TabsWeekDays';
 import TrimesterInfo from './TrimesterInfo';
 
@@ -99,9 +99,9 @@ export default function Schedule(props: Props) {
   };
 
   const trimester = trimesters.find((t) => t.IdTrimester === trimesterId); // TODO
-  const weekNumber = trimester
-    ? getWeekNumber(trimester.dateStart, props.today)
-    : 0; // TODO
+  const trimesterInfo = trimester
+    ? getTrimesterInfo(trimester, props.today)
+    : undefined;
 
   return (
     <>
@@ -114,15 +114,15 @@ export default function Schedule(props: Props) {
         />
       </div>
       <div>
-        {trimester && (
-          <TrimesterInfo trimester={trimester} today={props.today} />
+        {trimesterInfo && (
+          <TrimesterInfo trimesterInfo={trimesterInfo} today={props.today} />
         )}
       </div>
       <div>
         <TabsWeekDays
           loading={loading}
           schedule={schedule}
-          week_number={weekNumber}
+          week_number={trimesterInfo?.weekNumberInSemester || 0}
           today={props.today}
         />
       </div>

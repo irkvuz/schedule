@@ -1,29 +1,23 @@
 import { Alert } from 'antd';
-import { differenceInWeeks, format, getISODay, parseJSON } from 'date-fns';
+import { format, getISODay } from 'date-fns';
 import React from 'react';
-import { ITrimesterOld, WEEK_DAY_NAMES } from '../constants';
-import { getWeekNumber } from '../utils/getWeekNumber';
+import { ITrimesterInfo } from '../utils/getTrimesterInfo';
+import { WEEK_DAY_NAMES } from '../constants';
 
 interface Props {
-  trimester: ITrimesterOld;
+  trimesterInfo: ITrimesterInfo;
   today: Date;
 }
 
 export default function TrimesterInfo(props: Props) {
-  const dateStart = parseJSON(props.trimester.dateStart);
-  const dateFinish = parseJSON(props.trimester.dateFinish);
-
-  const weekNumberInSemester = getWeekNumber(
-    props.trimester.dateStart,
-    props.today
-  );
-  const weeksInSemester = differenceInWeeks(dateFinish, dateStart) + 1;
-  /**
-   * In second semestr it shoud be equal to number of weeks in prev simester
-   */
-  const weeksInPrevSemester = 0;
-  const weekNumberInYear = weekNumberInSemester + weeksInPrevSemester;
-  const weeksInYear = weeksInSemester + weeksInPrevSemester;
+  const {
+    weekNumberInSemester,
+    weekNumberInYear,
+    weeksInSemester,
+    weeksInYear,
+    dateStartString,
+    dateFinishString,
+  } = props.trimesterInfo;
 
   return (
     <>
@@ -43,8 +37,7 @@ export default function TrimesterInfo(props: Props) {
         )}
       </div>
       <div>
-        Семестр: {format(dateStart, 'dd.MM.yyyy')} -{' '}
-        {format(dateFinish, 'dd.MM.yyyy')}
+        Семестр: {dateStartString} - {dateFinishString}
       </div>
       {weekNumberInSemester > weeksInSemester && (
         <Alert
