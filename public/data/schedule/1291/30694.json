@@ -209,12 +209,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
+    "WeekDay": 6,
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "Онлайн-119",
+    "Room": "11-203",
     "FIO": "Беломестных Алёна Игоревна",
     "FIOshort": "Беломестных А.И.",
     "Error": null
