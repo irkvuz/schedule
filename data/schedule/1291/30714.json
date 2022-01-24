@@ -45,13 +45,35 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-308",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "История",
     "LessonType": "л",
     "Room": "12-208",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-003",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
     "Error": null
   },
   {
@@ -107,17 +129,6 @@
     "Room": "12-307",
     "FIO": "Конограй Оксана Юрьевна",
     "FIOshort": "Конограй О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-206",
-    "FIO": "Муратов Владислав Сергеевич",
-    "FIOshort": "Муратов В.С.",
     "Error": null
   },
   {
