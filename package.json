@@ -49,6 +49,7 @@
     "next": "yarn version --patch",
     "postversion": "git push --tags && git push",
     "start": "react-app-rewired start",
+    "serve": "npx serve build",
     "build": "react-app-rewired build",
     "size": "size-limit",
     "analyze": "source-map-explorer 'build/static/js/*.js'",
