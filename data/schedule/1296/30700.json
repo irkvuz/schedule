@@ -55,17 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-210",
-    "FIO": "Беломестных Алёна Игоревна",
-    "FIOshort": "Беломестных А.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
