@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -122,6 +133,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-402",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Экономика",
@@ -160,6 +182,17 @@
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
+    "FIO": "Шульгин Александр Владимирович",
+    "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-402",
     "FIO": "Шульгин Александр Владимирович",
     "FIOshort": "Шульгин А.В.",
     "Error": null

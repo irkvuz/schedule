@@ -66,12 +66,23 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
+    "WeekDay": 3,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Китайский язык для делового общения",
     "LessonType": "пр",
-    "Room": "10-101",
+    "Room": "10-201(а)",
+    "FIO": "Долгова Екатерина Евгеньевна",
+    "FIOshort": "Долгова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык для делового общения",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
     "FIO": "Долгова Екатерина Евгеньевна",
     "FIOshort": "Долгова Е.Е.",
     "Error": null
@@ -121,17 +132,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Китайский язык для делового общения",
-    "LessonType": "пр",
-    "Room": "10-102",
-    "FIO": "Долгова Екатерина Евгеньевна",
-    "FIOshort": "Долгова Е.Е.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
@@ -160,6 +160,39 @@
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "пр",
     "Room": "2-217",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Левченко Наталья Евгеньевна",
+    "FIOshort": "Левченко Н.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "3-403",
     "FIO": "Левченко Наталья Евгеньевна",
     "FIOshort": "Левченко Н.Е.",
     "Error": null
