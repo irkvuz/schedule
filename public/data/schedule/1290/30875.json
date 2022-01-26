@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-202",
-    "FIO": "Маркина Мария Олеговна",
-    "FIOshort": "Маркина М.О.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Культура речи",
