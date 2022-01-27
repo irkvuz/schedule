@@ -78,6 +78,28 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "10-201(а)",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Налоги и налогообложение",
