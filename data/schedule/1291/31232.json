@@ -253,17 +253,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Афонина Светлана Владимировна",
-    "FIOshort": "Афонина С.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 1,
