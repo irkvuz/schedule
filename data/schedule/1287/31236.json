@@ -1,28 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "12-205",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "География",
-    "LessonType": "пр",
-    "Room": "12-205",
-    "FIO": "Никиткина Виктория Владимировна",
-    "FIOshort": "Никиткина В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "География",
@@ -41,6 +19,28 @@
     "Room": "12-205",
     "FIO": "Хорошилова Екатерина Сергеевна",
     "FIOshort": "Хорошилова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-207",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "12-305",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
     "Error": null
   },
   {
