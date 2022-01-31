@@ -112,6 +112,17 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-416",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Статистика",
     "LessonType": "л",

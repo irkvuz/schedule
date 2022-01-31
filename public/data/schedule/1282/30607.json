@@ -141,38 +141,5 @@
     "FIO": "Левченко Наталья Евгеньевна",
     "FIOshort": "Левченко Н.Е.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Бухгалтерский учёт",
-    "LessonType": "пр",
-    "Room": "3-403",
-    "FIO": "Левченко Наталья Евгеньевна",
-    "FIOshort": "Левченко Н.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Бухгалтерский учёт",
-    "LessonType": "пр",
-    "Room": "3-403",
-    "FIO": "Левченко Наталья Евгеньевна",
-    "FIOshort": "Левченко Н.Е.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Бухгалтерский учёт",
-    "LessonType": "пр",
-    "Room": "3-403",
-    "FIO": "Левченко Наталья Евгеньевна",
-    "FIOshort": "Левченко Н.Е.",
-    "Error": null
   }
 ]
