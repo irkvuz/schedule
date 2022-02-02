@@ -138,8 +138,8 @@
     "Lesson": "Менеджмент",
     "LessonType": "пр",
     "Room": "5-410",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Иньшина Анна Юрьевна",
+    "FIOshort": "Иньшина А.Ю.",
     "Error": null
   },
   {
@@ -160,8 +160,8 @@
     "Lesson": "Менеджмент",
     "LessonType": "л",
     "Room": "11-202",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Иньшина Анна Юрьевна",
+    "FIOshort": "Иньшина А.Ю.",
     "Error": null
   },
   {
@@ -248,8 +248,8 @@
     "Lesson": "Менеджмент",
     "LessonType": "л",
     "Room": "11-412",
-    "FIO": "",
-    "FIOshort": "",
+    "FIO": "Иньшина Анна Юрьевна",
+    "FIOshort": "Иньшина А.Ю.",
     "Error": null
   }
 ]
