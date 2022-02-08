@@ -16,7 +16,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-214",
+    "Room": "5-512",
     "FIO": "Рябинина Анна Анатольевна",
     "FIOshort": "Рябинина А.А.",
     "Error": null
@@ -112,10 +112,21 @@
   {
     "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-214",
+    "Room": "5-506",
+    "FIO": "Рябинина Анна Анатольевна",
+    "FIOshort": "Рябинина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-515",
     "FIO": "Рябинина Анна Анатольевна",
     "FIOshort": "Рябинина А.А.",
     "Error": null
