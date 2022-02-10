@@ -9,27 +9,21 @@ const YM_ID = Number(process.env.YANDEX_METRIKA_IDENTIFIER);
 const isProduction = process.env.NODE_ENV === 'production';
 
 export function reachGoal(identifier: string) {
-  if(!isProduction) {
-    console.log('[Yandex Metrika] reachGoal', identifier);
+  if (typeof window.ym === 'function') {
+    window.ym(YM_ID, 'reachGoal', identifier);
+  } else {
+    if (isProduction) {
+      console.error('Tracking is missing');
+    }
   }
-
-  if (isProduction && typeof window.ym !== 'function') {
-    console.error('Tracking is missing');
-    return;
-  }
-
-  window.ym(YM_ID, 'reachGoal', identifier)
 }
 
 export function hit(url: string) {
-  if(!isProduction) {
-    console.log('[Yandex Metrika] hit', url);
+  if (typeof window.ym === 'function') {
+    window.ym(YM_ID, 'hit', url);
+  } else {
+    if (isProduction) {
+      console.error('Tracking is missing');
+    }
   }
-
-  if (isProduction && typeof window.ym !== 'function') {
-    console.error('Tracking is missing');
-    return;
-  }
-
-  window.ym(YM_ID, 'hit', url);
 }
