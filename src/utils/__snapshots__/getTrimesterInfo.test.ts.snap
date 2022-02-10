@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return correct trimester info 1`] = `
+Object {
+  "dateFinishString": "15.12.2018",
+  "dateStartString": "01.09.2018",
+  "weekNumberInSemester": 2,
+  "weekNumberInYear": 17,
+  "weeksInSemester": 15,
+  "weeksInYear": 30,
+}
+`;
