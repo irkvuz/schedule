@@ -46,32 +46,10 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-307",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-406",
     "FIO": "Кишинская Татьяна Александровна",
     "FIOshort": "Кишинская Т.А.",
     "Error": null
