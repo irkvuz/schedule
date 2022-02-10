@@ -1,4 +1,4 @@
-import { differenceInWeeks, format, parseJSON } from 'date-fns';
+import { differenceInWeeks, format, parseISO } from 'date-fns';
 import { ITrimesterOld } from '../constants';
 import { getWeekNumber } from './getWeekNumber';
 
@@ -15,8 +15,8 @@ export function getTrimesterInfo(
   trimester: ITrimesterOld,
   today: Date
 ): ITrimesterInfo {
-  const dateStart = parseJSON(trimester.dateStart);
-  const dateFinish = parseJSON(trimester.dateFinish);
+  const dateStart = parseISO(trimester.dateStart);
+  const dateFinish = parseISO(trimester.dateFinish);
 
   const weekNumberInSemester = getWeekNumber(
     trimester.dateStart,
