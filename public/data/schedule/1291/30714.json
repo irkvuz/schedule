@@ -24,7 +24,18 @@
   {
     "WeekDay": 1,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "12-201",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Дендрология и лесоведение",
     "LessonType": "пр",
     "Room": "12-003",
