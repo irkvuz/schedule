@@ -24,10 +24,21 @@
   {
     "WeekDay": 1,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "5-512",
+    "Room": "5-216",
+    "FIO": "Карасева Алена Викторовна",
+    "FIOshort": "Карасева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-506",
     "FIO": "Карасева Алена Викторовна",
     "FIOshort": "Карасева А.В.",
     "Error": null
@@ -126,7 +137,7 @@
     "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "5-508",
+    "Room": "5-505",
     "FIO": "Карасева Алена Викторовна",
     "FIOshort": "Карасева А.В.",
     "Error": null
