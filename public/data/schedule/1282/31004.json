@@ -155,6 +155,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Куулар Эдита Канкиевна",
+    "FIOshort": "Куулар Э.К.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Финансовая грамотность",
