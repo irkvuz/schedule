@@ -244,10 +244,21 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Математика",
     "LessonType": "пр",
     "Room": "3-702",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-704",
     "FIO": "Тимофеев Сергей Викторович",
     "FIOshort": "Тимофеев С.В.",
     "Error": null
