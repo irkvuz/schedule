@@ -4,8 +4,7 @@
     "Group": "Л-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 30226,
@@ -66,8 +65,7 @@
     "Group": "ММО-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 30614,
@@ -81,24 +79,21 @@
     "Group": "ММТД-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17762,
     "Group": "МО-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17812,
     "Group": "МО-18-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 30180,
@@ -160,8 +155,7 @@
     "Group": "МЭК-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17758,
@@ -215,8 +209,7 @@
     "Group": "ПП-17-1",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17891,
@@ -263,8 +256,7 @@
     "Group": "РФ-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 30230,
@@ -295,8 +287,7 @@
     "Group": "Т-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 30232,
@@ -466,24 +457,21 @@
     "Group": "ЭБ-17-1",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17205,
     "Group": "ЭБ-17-2",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17206,
     "Group": "ЭБ-17-3",
     "Course": 5,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1286
+    "hasSchedule": false
   },
   {
     "IdGroup": 17720,
