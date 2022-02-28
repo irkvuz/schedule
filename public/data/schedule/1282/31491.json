@@ -144,22 +144,22 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Русская литература",
     "LessonType": "пр",
-    "Room": "Онлайн-115",
+    "Room": "Онлайн-116",
     "FIO": "Егорова Наталья Брониславовна",
     "FIOshort": "Егорова Н.Б.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Русская литература",
     "LessonType": "пр",
-    "Room": "Онлайн-116",
+    "Room": "Онлайн-115",
     "FIO": "Егорова Наталья Брониславовна",
     "FIOshort": "Егорова Н.Б.",
     "Error": null
