@@ -78,17 +78,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Религиоведение",
-    "LessonType": "л",
-    "Room": "2-314",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Религиоведение",
@@ -118,6 +107,17 @@
     "Room": "1-211",
     "FIO": "Воронцова Евгения Геннадьевна",
     "FIOshort": "Воронцова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Религиоведение",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
     "Error": null
   },
   {
