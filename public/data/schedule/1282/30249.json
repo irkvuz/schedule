@@ -33,17 +33,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Регламентация и нормирование труда",
-    "LessonType": "л",
-    "Room": "2-415",
-    "FIO": "Былков Владимир Георгиевич",
-    "FIOshort": "Былков В.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
