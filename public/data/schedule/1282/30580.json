@@ -123,7 +123,7 @@
   {
     "WeekDay": 5,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Экономический анализ",
     "LessonType": "л",
     "Room": "4-404",
