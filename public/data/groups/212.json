@@ -195,6 +195,13 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 31723,
+    "Group": "ЮП-19-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31154,
     "Group": "ЮС-18-1",
     "Course": 4,
@@ -212,6 +219,13 @@
     "IdGroup": 31156,
     "Group": "ЮС-18-3",
     "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31724,
+    "Group": "ЮС-19-1",
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   }
