@@ -373,5 +373,19 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1282
+  },
+  {
+    "IdGroup": 31721,
+    "Group": "ЭОБ(НГК)-20-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31722,
+    "Group": "ЭОБ(С)-20-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
   }
 ]

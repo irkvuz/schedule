@@ -243,7 +243,7 @@
     "Course": 2,
     "Error": null,
     "hasSchedule": true,
-    "trimesterId": 1291
+    "trimesterId": 1307
   },
   {
     "IdGroup": 30868,
@@ -251,7 +251,7 @@
     "Course": 2,
     "Error": null,
     "hasSchedule": true,
-    "trimesterId": 1291
+    "trimesterId": 1307
   },
   {
     "IdGroup": 30731,
@@ -777,7 +777,7 @@
     "Course": 3,
     "Error": null,
     "hasSchedule": true,
-    "trimesterId": 1291
+    "trimesterId": 1307
   },
   {
     "IdGroup": 30860,
@@ -785,7 +785,7 @@
     "Course": 3,
     "Error": null,
     "hasSchedule": true,
-    "trimesterId": 1291
+    "trimesterId": 1307
   },
   {
     "IdGroup": 30714,
