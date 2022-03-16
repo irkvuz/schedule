@@ -166,7 +166,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Информационная безопасность",
     "LessonType": "л",
@@ -177,7 +177,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
@@ -188,7 +188,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Эксплуатация информационной системы",
     "LessonType": "л",
@@ -199,7 +199,7 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Эксплуатация информационной системы",
     "LessonType": "пр",
