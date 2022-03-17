@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 2",
-    "LessonType": "пр",
-    "Room": "1-416",
-    "FIO": "Сметанина Татьяна Витальевна",
-    "FIOshort": "Сметанина Т.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -325,6 +314,17 @@
     "Lesson": "Иностранный язык 2",
     "LessonType": "пр",
     "Room": "1-415",
+    "FIO": "Сметанина Татьяна Витальевна",
+    "FIOshort": "Сметанина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык 2",
+    "LessonType": "пр",
+    "Room": "1-413",
     "FIO": "Сметанина Татьяна Витальевна",
     "FIOshort": "Сметанина Т.В.",
     "Error": null
