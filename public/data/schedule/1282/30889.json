@@ -154,12 +154,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
+    "WeekDay": 4,
+    "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Фотожурналистика",
     "LessonType": "пр",
-    "Room": "2-407",
+    "Room": "1-210",
     "FIO": "Соболева Галина Александровна",
     "FIOshort": "Соболева Г.А.",
     "Error": null
