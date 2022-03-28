@@ -68,7 +68,7 @@
   {
     "WeekDay": 2,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
     "Room": "12-303",
@@ -151,6 +151,17 @@
     "Room": "12-305",
     "FIO": "Тирских Лариса Анатольевна",
     "FIOshort": "Тирских Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "12-402",
+    "FIO": "Соснова Светлана Владимировна",
+    "FIOshort": "Соснова С.В.",
     "Error": null
   },
   {
