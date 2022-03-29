@@ -1077,6 +1077,26 @@
         "trimesterId": 1301
       },
       {
+        "id": "31214",
+        "name": "КТ(11)-21-1",
+        "trimesterId": 1304
+      },
+      {
+        "id": "31215",
+        "name": "КТ(11)-21-2",
+        "trimesterId": 1304
+      },
+      {
+        "id": "31463",
+        "name": "КТ(11)-21-3",
+        "trimesterId": 1304
+      },
+      {
+        "id": "31464",
+        "name": "КТ(11)-21-4",
+        "trimesterId": 1304
+      },
+      {
         "id": "30382",
         "name": "КТ(9)-19-1",
         "trimesterId": 1301
@@ -1090,6 +1110,26 @@
         "id": "30474",
         "name": "КТ(9)-19-3",
         "trimesterId": 1301
+      },
+      {
+        "id": "30702",
+        "name": "КТ(9)-20-1",
+        "trimesterId": 1304
+      },
+      {
+        "id": "30703",
+        "name": "КТ(9)-20-2",
+        "trimesterId": 1304
+      },
+      {
+        "id": "30704",
+        "name": "КТ(9)-20-3",
+        "trimesterId": 1304
+      },
+      {
+        "id": "30890",
+        "name": "КТ(9)-20-4",
+        "trimesterId": 1304
       },
       {
         "id": "31216",
@@ -1349,17 +1389,17 @@
       {
         "id": "31219",
         "name": "Т(11)-21-1",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "31220",
         "name": "Т(11)-21-2",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "31221",
         "name": "Т(11)-21-3",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "30384",
@@ -1379,17 +1419,17 @@
       {
         "id": "30707",
         "name": "Т(9)-20-1",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "30708",
         "name": "Т(9)-20-2",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "30709",
         "name": "Т(9)-20-3",
-        "trimesterId": 1291
+        "trimesterId": 1307
       },
       {
         "id": "31223",
