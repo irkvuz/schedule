@@ -199,6 +199,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Экскурсоведение",
@@ -244,7 +255,7 @@
   {
     "WeekDay": 6,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-113",
