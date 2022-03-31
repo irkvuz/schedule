@@ -12,6 +12,17 @@
   },
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Литература",
+    "LessonType": "л",
+    "Room": "12-101",
+    "FIO": "Вершинина Ирина Николаевна",
+    "FIOshort": "Вершинина И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Математика 1",
