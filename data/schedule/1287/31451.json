@@ -71,7 +71,7 @@
     "Odd": 0,
     "Lesson": "Русский язык",
     "LessonType": "л",
-    "Room": "12-409",
+    "Room": "12-304",
     "FIO": "Филатова Татьяна Феофиловна",
     "FIOshort": "Филатова Т.Ф.",
     "Error": null
@@ -253,45 +253,12 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "12-403",
-    "FIO": "Филатова Татьяна Феофиловна",
-    "FIOshort": "Филатова Т.Ф.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-305",
-    "FIO": "Филатова Татьяна Феофиловна",
-    "FIOshort": "Филатова Т.Ф.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Литература",
-    "LessonType": "пр",
-    "Room": "12-305",
-    "FIO": "Филатова Татьяна Феофиловна",
-    "FIOshort": "Филатова Т.Ф.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
+    "WeekDay": 5,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Экономика",
     "LessonType": "л",
-    "Room": "12-304",
+    "Room": "12-404",
     "FIO": "Зиборева Ольга Юрьевна",
     "FIOshort": "Зиборева О.Ю.",
     "Error": null
