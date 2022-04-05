@@ -111,7 +111,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Девелопмент",
     "LessonType": "пр",
@@ -122,7 +122,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Девелопмент",
     "LessonType": "л",
@@ -133,7 +133,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Девелопмент",
     "LessonType": "пр",
@@ -144,7 +144,7 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Девелопмент",
     "LessonType": "л",
