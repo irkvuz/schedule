@@ -121,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
@@ -140,17 +151,6 @@
     "Room": "5-513",
     "FIO": "Змановская Ольга Викторовна",
     "FIOshort": "Змановская О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Налоги и налогообложение",
-    "LessonType": "пр",
-    "Room": "5-513",
-    "FIO": "Комарова Галина Петровна",
-    "FIOshort": "Комарова Г.П.",
     "Error": null
   }
 ]

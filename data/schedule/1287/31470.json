@@ -1,57 +1,57 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "12-206",
-    "FIO": "Мызникова Татьяна Иннокентьевна",
-    "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "л",
-    "Room": "12-206",
-    "FIO": "Мызникова Татьяна Иннокентьевна",
-    "FIOshort": "Мызникова Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "География",
-    "LessonType": "пр",
-    "Room": "12-206",
-    "FIO": "Мельникова Лариса Алексеевна",
-    "FIOshort": "Мельникова Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "География",
-    "LessonType": "л",
-    "Room": "12-206",
-    "FIO": "Мельникова Лариса Алексеевна",
-    "FIOshort": "Мельникова Л.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "12-210",
+    "Room": "12-004",
     "FIO": "Кишинская Татьяна Александровна",
     "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "л",
+    "Room": "12-206",
+    "FIO": "Мызникова Татьяна Иннокентьевна",
+    "FIOshort": "Мызникова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "12-206",
+    "FIO": "Мельникова Лариса Алексеевна",
+    "FIOshort": "Мельникова Л.А.",
     "Error": null
   },
   {
@@ -243,6 +243,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Основы безопасности жизнедеятельности",
@@ -272,17 +283,6 @@
     "Room": "12-402",
     "FIO": "Воронина Надежда Георгиевна",
     "FIOshort": "Воронина Н.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Кишинская Татьяна Александровна",
-    "FIOshort": "Кишинская Т.А.",
     "Error": null
   }
 ]
