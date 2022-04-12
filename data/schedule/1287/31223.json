@@ -112,17 +112,6 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "12-304",
-    "FIO": "Ефимцева Ирина Андреевна",
-    "FIOshort": "Ефимцева И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Экономика",
     "LessonType": "пр",
@@ -162,6 +151,17 @@
     "Room": "12-405",
     "FIO": "Дунаева Виктория Владимировна",
     "FIOshort": "Дунаева В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
     "Error": null
   },
   {
