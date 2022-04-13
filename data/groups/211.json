@@ -733,8 +733,7 @@
     "Group": "ЛХ(11)-19-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1305
+    "hasSchedule": false
   },
   {
     "IdGroup": 30715,
@@ -757,8 +756,7 @@
     "Group": "ЛХ(9)-18-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1305
+    "hasSchedule": false
   },
   {
     "IdGroup": 30372,
