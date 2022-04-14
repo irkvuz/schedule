@@ -66,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент (в торговле)",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
@@ -96,17 +107,6 @@
     "Room": "11-411",
     "FIO": "Хромовских Елена Ивановна",
     "FIOshort": "Хромовских Е.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Менеджмент (в торговле)",
-    "LessonType": "л",
-    "Room": "11-409",
-    "FIO": "Козлова Елена Владимировна",
-    "FIOshort": "Козлова Е.В.",
     "Error": null
   },
   {
