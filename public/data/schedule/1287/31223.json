@@ -134,18 +134,7 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Ефимцева Ирина Андреевна",
-    "FIOshort": "Ефимцева И.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
     "Room": "12-308",
