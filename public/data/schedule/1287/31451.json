@@ -2,21 +2,10 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Литература",
     "LessonType": "л",
     "Room": "12-405",
-    "FIO": "Филатова Татьяна Феофиловна",
-    "FIOshort": "Филатова Т.Ф.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Литература",
-    "LessonType": "л",
-    "Room": "12-101",
     "FIO": "Филатова Татьяна Феофиловна",
     "FIOshort": "Филатова Т.Ф.",
     "Error": null
@@ -61,17 +50,6 @@
     "Lesson": "Русский язык",
     "LessonType": "л",
     "Room": "12-207",
-    "FIO": "Филатова Татьяна Феофиловна",
-    "FIOshort": "Филатова Т.Ф.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "л",
-    "Room": "12-407",
     "FIO": "Филатова Татьяна Феофиловна",
     "FIOshort": "Филатова Т.Ф.",
     "Error": null
@@ -261,6 +239,50 @@
     "Room": "12-404",
     "FIO": "Зиборева Ольга Юрьевна",
     "FIOshort": "Зиборева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Литература",
+    "LessonType": "л",
+    "Room": "12-403",
+    "FIO": "Филатова Татьяна Феофиловна",
+    "FIOshort": "Филатова Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Филатова Татьяна Феофиловна",
+    "FIOshort": "Филатова Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Литература",
+    "LessonType": "пр",
+    "Room": "12-305",
+    "FIO": "Филатова Татьяна Феофиловна",
+    "FIOshort": "Филатова Т.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Родная литература",
+    "LessonType": "л",
+    "Room": "12-305",
+    "FIO": "Филатова Татьяна Феофиловна",
+    "FIOshort": "Филатова Т.Ф.",
     "Error": null
   }
 ]
