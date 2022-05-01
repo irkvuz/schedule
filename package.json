@@ -11,7 +11,7 @@
   "dependencies": {
     "@sentry/browser": "6.16.1",
     "@types/jest": "27.0.3",
-    "@types/react": "17.0.43",
+    "@types/react": "17.0.44",
     "@types/react-dom": "17.0.11",
     "antd": "4.16.13",
     "axios": "0.21.2",
