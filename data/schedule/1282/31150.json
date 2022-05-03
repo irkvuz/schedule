@@ -144,22 +144,22 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Русская литература",
     "LessonType": "пр",
-    "Room": "10-205",
+    "Room": "10-304",
     "FIO": "Егорова Наталья Брониславовна",
     "FIOshort": "Егорова Н.Б.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Русский язык (практическая грамматика)",
     "LessonType": "пр",
-    "Room": "10-202",
+    "Room": "10-304",
     "FIO": "Егорова Наталья Брониславовна",
     "FIOshort": "Егорова Н.Б.",
     "Error": null
