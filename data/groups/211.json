@@ -32,24 +32,21 @@
     "Group": "БД(11)-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31186,
     "Group": "БД(11)-21-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31187,
     "Group": "БД(11)-21-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 30362,
@@ -77,24 +74,21 @@
     "Group": "БД(9)-20-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 30721,
     "Group": "БД(9)-20-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 30871,
     "Group": "БД(9)-20-3",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31188,
@@ -147,16 +141,14 @@
     "Group": "БУ(11)-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31194,
     "Group": "БУ(11)-21-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 30364,
@@ -177,16 +169,14 @@
     "Group": "БУ(9)-20-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 30729,
     "Group": "БУ(9)-20-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31195,
@@ -1248,15 +1238,13 @@
     "Group": "Ф(11)-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   },
   {
     "IdGroup": 31474,
     "Group": "Ф(11)-21-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1295
+    "hasSchedule": false
   }
 ]
