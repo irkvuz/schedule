@@ -241,8 +241,7 @@
     "Group": "ДОУ(11)-21-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1294
+    "hasSchedule": false
   },
   {
     "IdGroup": 30366,
@@ -263,8 +262,7 @@
     "Group": "ДОУ(9)-20-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1294
+    "hasSchedule": false
   },
   {
     "IdGroup": 31202,
