@@ -378,6 +378,13 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 32027,
+    "Group": "ЗИО(9)-20-4",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31207,
     "Group": "ЗИО(9)-21-1",
     "Course": 1,
