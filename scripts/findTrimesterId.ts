@@ -10,18 +10,21 @@ import api from './api';
   try {
     // Insert here groups for which there is available schedule on bgu.ru
     const groups = [
-      30605, // МЕНрк-20-1
+      // 30605, // МЕНрк-20-1
+      31084, 
+      31635, 
+      31632,
     ];
-    const prevTrimesterId = 1282; // second 2021-2022
+    const prevTrimesterId = 1307; // second 2021-2022
     const max = 100;
     let result = new Set();
 
-    for (let groupId of groups) {
-      for (
-        let trimesterId = prevTrimesterId + 1;
-        trimesterId <= prevTrimesterId + max;
-        trimesterId++
-      ) {
+    for (
+      let trimesterId = prevTrimesterId + 1;
+      trimesterId <= prevTrimesterId + max;
+      trimesterId++
+    ) {
+      for (let groupId of groups) {
         let schedule = await api.getSchedule(groupId, trimesterId);
         // if (schedule.length <= 1) continue;
         console.log(trimesterId, schedule.length);

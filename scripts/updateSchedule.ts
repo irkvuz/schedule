@@ -39,7 +39,11 @@ function getCurrentTrimesters(
 
 async function updateTrimesters() {
   const trimestersFromApi = await api.getTrimesters();
+  console.log('Trimesters from api:', trimestersFromApi);
   if (!trimestersFromApi.length) throw new Error('No trimesters returned');
+  trimestersFromApi.forEach((trimester) => {
+    if (trimester.uYear === null) throw new Error('Trimester with empty uYear');
+  });
 
   const existingTrimesters: ITrimesterOld[] = JSON.parse(
     fs.readFileSync(`./public/data/trimesters.json`, 'utf-8')
