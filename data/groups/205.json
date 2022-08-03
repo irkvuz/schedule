@@ -1,63 +1,56 @@
 [
   {
-    "IdGroup": 17715,
-    "Group": "ГМУ-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17716,
-    "Group": "ГМУ-18-2",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 30247,
     "Group": "ГМУ-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30575,
     "Group": "ГМУ-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31024,
     "Group": "ГМУ-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 17765,
-    "Group": "М-18-1",
-    "Course": 4,
+    "IdGroup": 31641,
+    "Group": "ГМУ-22-1",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30248,
     "Group": "М-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30577,
     "Group": "М-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31019,
     "Group": "М-21-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31632,
+    "Group": "М-22-1",
     "Course": 1,
     "Error": null,
     "hasSchedule": false
@@ -65,27 +58,20 @@
   {
     "IdGroup": 31086,
     "Group": "МБФ-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 30634,
-    "Group": "МГМУ-20-1",
-    "Course": 2,
+    "IdGroup": 31696,
+    "Group": "МБФ-22-1",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31082,
     "Group": "МГМУ-21-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30635,
-    "Group": "ММен-20-1",
     "Course": 2,
     "Error": null,
     "hasSchedule": false
@@ -93,69 +79,34 @@
   {
     "IdGroup": 31084,
     "Group": "ММен-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 30636,
-    "Group": "МММеж-20-1",
-    "Course": 2,
+    "IdGroup": 31697,
+    "Group": "ММен-22-1",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31085,
     "Group": "МММеж-21-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31698,
+    "Group": "МММеж-22-1",
     "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30638,
-    "Group": "ММТур-20-1",
-    "Course": 2,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17764,
-    "Group": "МРК-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30128,
-    "Group": "МРК-18-2",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30642,
-    "Group": "МТД-20-1",
-    "Course": 2,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30639,
-    "Group": "МУБ-20-1",
-    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31462,
     "Group": "МУБ-21-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30640,
-    "Group": "МУП-20-1",
     "Course": 2,
     "Error": null,
     "hasSchedule": false
@@ -163,13 +114,6 @@
   {
     "IdGroup": 31083,
     "Group": "МУП-21-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30641,
-    "Group": "МФиК-20-1",
     "Course": 2,
     "Error": null,
     "hasSchedule": false
@@ -177,196 +121,175 @@
   {
     "IdGroup": 31081,
     "Group": "МФиК-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 17756,
-    "Group": "Н-18-1",
-    "Course": 4,
+    "IdGroup": 31695,
+    "Group": "МФиК-22-1",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30233,
     "Group": "ПМЛ-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30609,
     "Group": "ПМЛ-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31021,
     "Group": "ПМЛ-21-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31637,
+    "Group": "ПМЛ-22-1",
     "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17769,
-    "Group": "РФф-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17936,
-    "Group": "ТБ-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17754,
-    "Group": "УБ-18-1",
-    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30598,
     "Group": "УБ-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31016,
     "Group": "УБ-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 17860,
-    "Group": "УП-18-1",
-    "Course": 4,
+    "IdGroup": 31635,
+    "Group": "УБ-22-1",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30249,
     "Group": "УП-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30576,
     "Group": "УП-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31023,
     "Group": "УП-21-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31639,
+    "Group": "УП-22-1",
     "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17771,
-    "Group": "Ф-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 17770,
-    "Group": "Ф-18-2",
-    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30599,
     "Group": "Ф-20-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30600,
     "Group": "Ф-20-2",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31018,
     "Group": "Ф-21-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31445,
     "Group": "Ф-21-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 31633,
+    "Group": "Ф-22-1",
     "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
-    "IdGroup": 31438,
-    "Group": "Фб-18-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 31437,
-    "Group": "Фф-18-1",
-    "Course": 4,
+    "IdGroup": 31634,
+    "Group": "Ф-22-2",
+    "Course": 1,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30250,
     "Group": "Э(БФН)-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30251,
     "Group": "Э(БФН)-19-2",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30252,
     "Group": "Э(БФН)-19-3",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31122,
     "Group": "Э(УБ)-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31123,
     "Group": "Э(ФиК)-19-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31597,
     "Group": "Э(ФиК)-19-2",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   }
