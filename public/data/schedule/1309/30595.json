@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Геоинформационные системы в лесном деле",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Геоинформационные системы в лесном деле",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесная пирология",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Лесная пирология",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гидротехнические мелиорации лесных земель",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гидротехнические мелиорации лесных земель",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "4-412",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Тертышник Михаил Иванович",
+    "FIOshort": "Тертышник М.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесная фитопатология",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесная фитопатология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Белых Ольга Александровна",
+    "FIOshort": "Белых О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесная пирология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесная пирология",
+    "LessonType": "л",
+    "Room": "4-404",
+    "FIO": "Каницкая Людмила Васильевна",
+    "FIOshort": "Каницкая Л.В.",
+    "Error": null
+  }
+]

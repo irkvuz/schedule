@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "пр",
+    "Room": "11-308",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "л",
+    "Room": "11-312",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-415",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-415",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "л",
+    "Room": "11-306",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Организация досуга туристов",
+    "LessonType": "пр",
+    "Room": "11-306",
+    "FIO": "Попова Наталья Анатольевна",
+    "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "пр",
+    "Room": "5-403",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация туристской индустрии",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Урбанович Ирина Анатольевна",
+    "FIOshort": "Урбанович И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Технология и организация сопровождения туристов",
+    "LessonType": "пр",
+    "Room": "5-403",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "5-401",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономическая теория",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация туристской индустрии",
+    "LessonType": "л",
+    "Room": "5-412",
+    "FIO": "Урбанович Ирина Анатольевна",
+    "FIOshort": "Урбанович И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация туристской индустрии",
+    "LessonType": "пр",
+    "Room": "5-412",
+    "FIO": "Урбанович Ирина Анатольевна",
+    "FIOshort": "Урбанович И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "География туризма",
+    "LessonType": "пр",
+    "Room": "5-401",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "География туризма",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "География туризма",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Палкин Олег Юрьевич",
+    "FIOshort": "Палкин О.Ю.",
+    "Error": null
+  }
+]

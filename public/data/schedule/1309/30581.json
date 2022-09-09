@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Рынки ИКТ и организация продаж",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Рынки ИКТ и организация продаж",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы построения  информационных систем",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы построения  информационных систем",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Анализ и визуализация данных",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Анализ и визуализация данных",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ и визуализация данных",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Моделирование бизнес-процессов",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Информационное право",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Моделирование бизнес-процессов",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Пешкова Ольга Вячеславовна",
+    "FIOshort": "Пешкова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информационное право",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Интернет-технологии",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Миненков Роман Валерьевич",
+    "FIOshort": "Миненков Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Интернет-технологии",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Миненков Роман Валерьевич",
+    "FIOshort": "Миненков Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Интернет-технологии",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Миненков Роман Валерьевич",
+    "FIOshort": "Миненков Р.В.",
+    "Error": null
+  }
+]

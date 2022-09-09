@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ финансовой отчетности",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Анализ финансовой отчетности",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Грозина Эльвира Васильевна",
+    "FIOshort": "Грозина Э.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое консультирование",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое консультирование",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Касаткина Галина Максимовна",
+    "FIOshort": "Касаткина Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Практикум по бухгалтерскому учету",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Практикум по бухгалтерскому учету",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налогообложение организаций финансового сектора",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налогообложение организаций финансового сектора",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Ткач Юлия Борисовна",
+    "FIOshort": "Ткач Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое консультирование",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управленческий учет",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управленческий учет",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Власова Наталья Владимировна",
+    "FIOshort": "Власова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управленческий учет",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Аудит",
+    "LessonType": "пр",
+    "Room": "2-215",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  }
+]

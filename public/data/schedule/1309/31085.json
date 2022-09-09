@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Командообразование и лидерство в глобальной среде (Teambuilding and Leadership in Global Environment)",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Командообразование и лидерство в глобальной среде (Teambuilding and Leadership in Global Environment)",
+    "LessonType": "л",
+    "Room": "5-215",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Командообразование и лидерство в глобальной среде (Teambuilding and Leadership in Global Environment)",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Современные практики международного менеджмента (Contemporary Issues in International Management)",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Современные практики международного менеджмента (Contemporary Issues in International Management)",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Метелева Елена Растиславна",
+    "FIOshort": "Метелева Е.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Управление человеческими ресурсами в международных компаниях (HRM in international companies)",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Лисовская Наталья Валерьевна",
+    "FIOshort": "Лисовская Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Деловое письмо (Bussiness Writing)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление человеческими ресурсами в международных компаниях (HRM in international companies)",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Лисовская Наталья Валерьевна",
+    "FIOshort": "Лисовская Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Деловое письмо (Bussiness Writing)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  }
+]
