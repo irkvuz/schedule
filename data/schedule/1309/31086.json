@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Банковский Маркетинг (Distribution Strategies and Customer Perspectives)",
+    "LessonType": "л",
+    "Room": "3-906",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Риск-менеджмент (Risk-Management)",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Банковский Маркетинг (Distribution Strategies and Customer Perspectives)",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Хлебович Дарья Игоревна",
+    "FIOshort": "Хлебович Д.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Риск-менеджмент (Risk-Management)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Алексеев Денис Анатольевич",
+    "FIOshort": "Алексеев Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Основы научно-исследовательской деятельности (Master Thesis Tutorial)",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Жигас Маргарита Герутисовна",
+    "FIOshort": "Жигас М.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Международные стандарты финансовой отчетности (International Financial Reporting Standards)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Международные стандарты финансовой отчетности (International Financial Reporting Standards)",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Бубнова Юлия Борисовна",
+    "FIOshort": "Бубнова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Стратегический менеджмент (Strategic Management)",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Агеева Евгения Валерьевна",
+    "FIOshort": "Агеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управление проектами (Project Management)",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Деловое письмо (Bussiness Writing)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Деловое письмо (Bussiness Writing)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Пахомова Людмила Владимировна",
+    "FIOshort": "Пахомова Л.В.",
+    "Error": null
+  }
+]

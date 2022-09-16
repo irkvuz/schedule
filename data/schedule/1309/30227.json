@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Внешняя политика России",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Внешняя политика России",
+    "LessonType": "пр",
+    "Room": "2-317",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "1-215",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Меньшикова Екатерина Евгеньевна",
+    "FIOshort": "Меньшикова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правовые основы и практика консульской службы",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Политика и экономика Китая",
+    "LessonType": "л",
+    "Room": "1-212",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Политика и экономика Китая",
+    "LessonType": "пр",
+    "Room": "1-212",
+    "FIO": "Курышов Андрей Михайлович",
+    "FIOshort": "Курышов А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правовые основы и практика консульской службы",
+    "LessonType": "л",
+    "Room": "1-212",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория и история дипломатии",
+    "LessonType": "л",
+    "Room": "1-209",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-415",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Английский язык 1",
+    "LessonType": "пр",
+    "Room": "1-409",
+    "FIO": "Меньшикова Екатерина Евгеньевна",
+    "FIOshort": "Меньшикова Е.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Теория и история дипломатии",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Политические системы и государственное управление в странах Востока",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Политические системы и государственное управление в странах Востока",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Китайский язык",
+    "LessonType": "пр",
+    "Room": "1-214",
+    "FIO": "Шитикова Юлия Александровна",
+    "FIOshort": "Шитикова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  }
+]

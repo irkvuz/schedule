@@ -1,0 +1,123 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "StartUp предпринимательство",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Лачкарёв Владислав Владимирович",
+    "FIOshort": "Лачкарёв В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "StartUp предпринимательство",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Лачкарёв Владислав Владимирович",
+    "FIOshort": "Лачкарёв В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Управление проектами",
+    "LessonType": "л",
+    "Room": "3-408",
+    "FIO": "Архипова Зоя Валентиновна",
+    "FIOshort": "Архипова З.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Информационные технологии в бизнес-аналитике",
+    "LessonType": "л",
+    "Room": "3-404",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "StartUp предпринимательство",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Лачкарёв Владислав Владимирович",
+    "FIOshort": "Лачкарёв В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в бизнес-аналитике",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Братищенко Владимир Владимирович",
+    "FIOshort": "Братищенко В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Data Science",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Кросс-платформенные инструментальные системы",
+    "LessonType": "л",
+    "Room": "3-408",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Data Science",
+    "LessonType": "л",
+    "Room": "3-408",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Кросс-платформенные инструментальные системы",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Родионов Алексей Владимирович",
+    "FIOshort": "Родионов А.В.",
+    "Error": null
+  }
+]

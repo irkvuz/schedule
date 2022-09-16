@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Логистика",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Мищукова Ксения Сергеевна",
+    "FIOshort": "Мищукова К.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "11-408",
+    "FIO": "Мищукова Ксения Сергеевна",
+    "FIOshort": "Мищукова К.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-403",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "11-403",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Интернет-маркетинг",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Иньшина Анна Юрьевна",
+    "FIOshort": "Иньшина А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Интернет-маркетинг",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Иньшина Анна Юрьевна",
+    "FIOshort": "Иньшина А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Логистика",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "11-202",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-202",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Логистика",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  }
+]
