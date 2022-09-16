@@ -190,11 +190,11 @@
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
-    "Lesson": "История 1",
-    "LessonType": "л",
+    "Lesson": "Экономика",
+    "LessonType": "пр",
     "Room": "12-101",
-    "FIO": "Третьяков Денис Геннадьевич",
-    "FIOshort": "Третьяков Д.Г.",
+    "FIO": "Доржиева Людмила Ивановна",
+    "FIOshort": "Доржиева Л.И.",
     "Error": null
   },
   {
@@ -222,23 +222,23 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Экономика",
-    "LessonType": "пр",
-    "Room": "12-205",
-    "FIO": "Доржиева Людмила Ивановна",
-    "FIOshort": "Доржиева Л.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Обществознание",
     "LessonType": "пр",
     "Room": "12-205",
     "FIO": "Клеофастова Ирина Ивановна",
     "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Третьяков Денис Геннадьевич",
+    "FIOshort": "Третьяков Д.Г.",
     "Error": null
   },
   {

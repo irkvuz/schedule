@@ -90,7 +90,8 @@
     "Group": "Ж-22-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1309
   },
   {
     "IdGroup": 30221,
@@ -413,6 +414,7 @@
     "Group": "РСО-22-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1309
   }
 ]

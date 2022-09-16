@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "11-207",
+    "FIO": "Мищукова Ксения Сергеевна",
+    "FIOshort": "Мищукова К.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Государственные, муниципальные архивы и архивы организаций",
@@ -19,6 +30,17 @@
     "Room": "11-301",
     "FIO": "Желан Ирина Викторовна",
     "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "11-207",
+    "FIO": "Мищукова Ксения Сергеевна",
+    "FIOshort": "Мищукова К.С.",
     "Error": null
   },
   {
@@ -211,7 +233,7 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Информатика",
     "LessonType": "пр",
     "Room": "11-401",
@@ -221,19 +243,8 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "11-113",
-    "FIO": "Муратов Владислав Сергеевич",
-    "FIOshort": "Муратов В.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "11-113",

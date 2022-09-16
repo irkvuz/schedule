@@ -233,7 +233,7 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История 1",
     "LessonType": "пр",
     "Room": "12-401",

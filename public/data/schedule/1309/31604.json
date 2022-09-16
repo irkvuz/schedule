@@ -46,23 +46,34 @@
   {
     "WeekDay": 1,
     "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Экономическая культура",
     "LessonType": "л",
     "Room": "4-402",
     "FIO": "Самаруха Алексей Викторович",
     "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Шарманова Оксана Сергеевна",
+    "FIOshort": "Шарманова О.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Немецкий язык",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Шарманова Оксана Сергеевна",
+    "FIOshort": "Шарманова О.С.",
     "Error": null
   },
   {
@@ -111,6 +122,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Управление личной эффективностью",
@@ -137,7 +159,7 @@
     "Odd": 0,
     "Lesson": "Теория государства и права",
     "LessonType": "пр",
-    "Room": "4-304",
+    "Room": "5-208",
     "FIO": "Осипова Марина Анатольевна",
     "FIOshort": "Осипова М.А.",
     "Error": null
@@ -176,6 +198,28 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-106",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -203,7 +247,7 @@
     "Odd": 0,
     "Lesson": "История государства и права России",
     "LessonType": "л",
-    "Room": "6-402",
+    "Room": "4-403",
     "FIO": "Цыкунов Григорий Александрович",
     "FIOshort": "Цыкунов Г.А.",
     "Error": null
