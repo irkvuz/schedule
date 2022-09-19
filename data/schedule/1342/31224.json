@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Организация досуга туристов",
@@ -24,23 +35,12 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
+    "Room": "12-004",
     "FIO": "Афонина Светлана Владимировна",
     "FIOshort": "Афонина С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-415",
-    "FIO": "Ефимцева Ирина Андреевна",
-    "FIOshort": "Ефимцева И.А.",
     "Error": null
   },
   {
@@ -68,12 +68,23 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Организация досуга туристов",
     "LessonType": "пр",
-    "Room": "11-306",
+    "Room": "11-001",
     "FIO": "Попова Наталья Анатольевна",
     "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
     "Error": null
   },
   {

@@ -27,7 +27,7 @@
     "Odd": 0,
     "Lesson": "Профессиональный французский язык",
     "LessonType": "пр",
-    "Room": "1-207",
+    "Room": "1-404",
     "FIO": "Баклашкина Олеся Николаевна",
     "FIOshort": "Баклашкина О.Н.",
     "Error": null
@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Бисикало Елена Эдуардовна",
+    "FIOshort": "Бисикало Е.Э.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -102,22 +113,22 @@
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
-    "Lesson": "Макроэкономика",
-    "LessonType": "пр",
-    "Room": "1-207",
-    "FIO": "Шавкунова Ирина Сергеевна",
-    "FIOshort": "Шавкунова И.С.",
+    "Lesson": "Финансы",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
+    "WeekDay": 4,
+    "StartTime": "8:30",
     "Odd": 0,
-    "Lesson": "Финансы",
+    "Lesson": "Макроэкономика",
     "LessonType": "л",
-    "Room": "2-409",
-    "FIO": "Ковтун Лира Раисовна",
-    "FIOshort": "Ковтун Л.Р.",
+    "Room": "2-308",
+    "FIO": "Бисикало Елена Эдуардовна",
+    "FIOshort": "Бисикало Е.Э.",
     "Error": null
   },
   {
@@ -136,7 +147,7 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Страхование",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "2-411",
     "FIO": "Жигас Маргарита Герутисовна",
     "FIOshort": "Жигас М.Г.",
@@ -147,21 +158,10 @@
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Страхование",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "2-411",
     "FIO": "Жигас Маргарита Герутисовна",
     "FIOshort": "Жигас М.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Макроэкономика",
-    "LessonType": "л",
-    "Room": "2-411",
-    "FIO": "Шавкунова Ирина Сергеевна",
-    "FIOshort": "Шавкунова И.С.",
     "Error": null
   },
   {

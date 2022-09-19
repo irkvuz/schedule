@@ -66,6 +66,50 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Шабуров Николай Сергеевич",
+    "FIOshort": "Шабуров Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Веб-дизайн",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Шабуров Николай Сергеевич",
+    "FIOshort": "Шабуров Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Шабуров Николай Сергеевич",
+    "FIOshort": "Шабуров Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Веб-дизайн",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Шабуров Николай Сергеевич",
+    "FIOshort": "Шабуров Н.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "17:30",
     "Odd": 1,
@@ -107,50 +151,6 @@
     "Room": "2-415",
     "FIO": "Тюрнева Галина Владимировна",
     "FIOshort": "Тюрнева Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Компьютерная графика",
-    "LessonType": "л",
-    "Room": "2-416",
-    "FIO": "Шабуров Николай Сергеевич",
-    "FIOshort": "Шабуров Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Веб-дизайн",
-    "LessonType": "л",
-    "Room": "2-416",
-    "FIO": "Шабуров Николай Сергеевич",
-    "FIOshort": "Шабуров Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Компьютерная графика",
-    "LessonType": "пр",
-    "Room": "2-404",
-    "FIO": "Шабуров Николай Сергеевич",
-    "FIOshort": "Шабуров Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Веб-дизайн",
-    "LessonType": "пр",
-    "Room": "2-404",
-    "FIO": "Шабуров Николай Сергеевич",
-    "FIOshort": "Шабуров Н.С.",
     "Error": null
   }
 ]

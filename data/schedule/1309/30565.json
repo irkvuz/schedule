@@ -99,17 +99,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Юридическая клиника",
-    "LessonType": "л",
-    "Room": "4-403",
-    "FIO": "Морозова Анастасия Сергеевна",
-    "FIOshort": "Морозова А.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,

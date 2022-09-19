@@ -133,22 +133,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Основы предпринимательской деятельности",
-    "LessonType": "пр",
-    "Room": "11-205",
-    "FIO": "Мима Мария Юрьевна",
-    "FIOshort": "Мима М.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-113",
+    "Room": "12-004",
     "FIO": "Муратов Владислав Сергеевич",
     "FIOshort": "Муратов В.С.",
     "Error": null
@@ -176,6 +165,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "пр",
+    "Room": "11-301",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 0,
@@ -195,6 +195,17 @@
     "Room": "11-312",
     "FIO": "Лаврова Марина Анатольевна",
     "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
     "Error": null
   },
   {

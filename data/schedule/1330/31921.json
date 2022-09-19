@@ -132,6 +132,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-203",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -199,33 +210,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Математика 1",
     "LessonType": "пр",
     "Room": "12-302",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "12-001",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
     "Error": null
@@ -294,6 +283,17 @@
     "Room": "12-004",
     "FIO": "Черкашин Александр Витальевич",
     "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-303",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
     "Error": null
   }
 ]

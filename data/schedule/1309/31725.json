@@ -44,6 +44,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
@@ -140,17 +162,6 @@
     "Room": "5-303",
     "FIO": "Гусева Галина Викторовна",
     "FIOshort": "Гусева Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-302",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
     "Error": null
   },
   {

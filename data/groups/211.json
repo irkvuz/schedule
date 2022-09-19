@@ -1136,8 +1136,7 @@
     "Group": "ПСО(9)-22-11",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1330
+    "hasSchedule": false
   },
   {
     "IdGroup": 31909,

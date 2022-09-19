@@ -1,11 +1,33 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-003",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "л",
+    "Room": "12-003",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История 1",
     "LessonType": "л",
-    "Room": "11-409",
+    "Room": "12-405",
     "FIO": "Шаламова Светлана Александровна",
     "FIOshort": "Шаламова С.А.",
     "Error": null
@@ -14,20 +36,9 @@
     "WeekDay": 1,
     "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "11-403",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
-    "Room": "11-403",
+    "Room": "12-405",
     "FIO": "Чайка Иван Иванович",
     "FIOshort": "Чайка И.И.",
     "Error": null
@@ -57,12 +68,12 @@
   {
     "WeekDay": 2,
     "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Математика 1",
-    "LessonType": "л",
-    "Room": "11-412",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
+    "Odd": 2,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "11-311",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
     "Error": null
   },
   {
@@ -133,6 +144,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Родная литература",
+    "LessonType": "л",
+    "Room": "11-415",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Русский язык",
@@ -158,18 +180,7 @@
     "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Математика 1",
-    "LessonType": "пр",
-    "Room": "11-408",
-    "FIO": "Сидоренко Геннадий Васильевич",
-    "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Математика 1",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "11-408",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
@@ -179,11 +190,11 @@
     "WeekDay": 4,
     "StartTime": "17:30",
     "Odd": 2,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
     "Room": "11-414",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
     "Error": null
   },
   {
@@ -237,8 +248,8 @@
     "Lesson": "География",
     "LessonType": "пр",
     "Room": "11-202",
-    "FIO": "Калачева Лидия Лаврентьевна",
-    "FIOshort": "Калачева Л.Л.",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
     "Error": null
   },
   {
@@ -248,8 +259,63 @@
     "Lesson": "География",
     "LessonType": "л",
     "Room": "11-202",
-    "FIO": "Калачева Лидия Лаврентьевна",
-    "FIOshort": "Калачева Л.Л.",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Маслакова Виктория Викторовна",
+    "FIOshort": "Маслакова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-003",
+    "FIO": "Чайка Иван Иванович",
+    "FIOshort": "Чайка И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Иностранный язык 1",
+    "LessonType": "пр",
+    "Room": "12-003",
+    "FIO": "Чайка Иван Иванович",
+    "FIOshort": "Чайка И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-003",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Математика 1",
+    "LessonType": "пр",
+    "Room": "12-003",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
     "Error": null
   },
   {
@@ -261,39 +327,6 @@
     "Room": "12-405",
     "FIO": "Выборова Светлана Александровна",
     "FIOshort": "Выборова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Экономика",
-    "LessonType": "пр",
-    "Room": "12-403",
-    "FIO": "Густелева Ольга Юрьевна",
-    "FIOshort": "Густелева О.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Иностранный язык 1",
-    "LessonType": "пр",
-    "Room": "12-307",
-    "FIO": "Чайка Иван Иванович",
-    "FIOshort": "Чайка И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Маслакова Виктория Викторовна",
-    "FIOshort": "Маслакова В.В.",
     "Error": null
   }
 ]
