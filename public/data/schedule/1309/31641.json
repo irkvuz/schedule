@@ -295,5 +295,38 @@
     "FIO": "Малёванный Андрей Александрович",
     "FIOshort": "Малёванный А.А.",
     "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "3-510",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-101",
+    "FIO": "Валлее Шарлотт Виктория Агнес",
+    "FIOshort": "Валлее Ш.В.",
+    "Error": null
   }
 ]

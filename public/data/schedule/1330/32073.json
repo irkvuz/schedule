@@ -1,6 +1,39 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "11-107",
+    "FIO": "Ринчинов Артем Бэликтоевич",
+    "FIOshort": "Ринчинов А.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "11-402",
+    "FIO": "Ринчинов Артем Бэликтоевич",
+    "FIOshort": "Ринчинов А.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Литература",
@@ -8,6 +41,17 @@
     "Room": "11-311",
     "FIO": "Аюрова Сурэна Лхамажаповна",
     "FIOshort": "Аюрова С.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "11-107",
+    "FIO": "Ринчинов Артем Бэликтоевич",
+    "FIOshort": "Ринчинов А.Б.",
     "Error": null
   },
   {
@@ -24,23 +68,12 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
-    "Room": "11-103",
+    "Room": "12-004",
     "FIO": "Муратов Владислав Сергеевич",
     "FIOshort": "Муратов В.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "История 1",
-    "LessonType": "л",
-    "Room": "11-202",
-    "FIO": "Ринчинов Артем Бэликтоевич",
-    "FIOshort": "Ринчинов А.Б.",
     "Error": null
   },
   {
@@ -156,18 +189,7 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Экология",
-    "LessonType": "л",
-    "Room": "12-208",
-    "FIO": "Колупаева Александра Викторовна",
-    "FIOshort": "Колупаева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-004",
@@ -206,6 +228,17 @@
     "Room": "12-307",
     "FIO": "Копылова Ольга Николаевна",
     "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "11-415",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
     "Error": null
   },
   {
