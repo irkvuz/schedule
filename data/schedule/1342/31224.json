@@ -46,7 +46,7 @@
   {
     "WeekDay": 2,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "11-415",
@@ -74,6 +74,17 @@
     "Room": "11-001",
     "FIO": "Попова Наталья Анатольевна",
     "FIOshort": "Попова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Ефимцева Ирина Андреевна",
+    "FIOshort": "Ефимцева И.А.",
     "Error": null
   },
   {

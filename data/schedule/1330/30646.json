@@ -165,12 +165,12 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
+    "WeekDay": 5,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Основы философии",
     "LessonType": "пр",
-    "Room": "5-410",
+    "Room": "12-307",
     "FIO": "Фомина Юлия Анатольевна",
     "FIOshort": "Фомина Ю.А.",
     "Error": null
@@ -189,7 +189,7 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-004",
@@ -206,17 +206,6 @@
     "Room": "12-307",
     "FIO": "Хорошилова Екатерина Сергеевна",
     "FIOshort": "Хорошилова Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "2-108",
-    "FIO": "Глазова Екатерина Владимировна",
-    "FIOshort": "Глазова Е.В.",
     "Error": null
   },
   {

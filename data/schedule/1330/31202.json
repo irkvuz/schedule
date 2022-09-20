@@ -2,7 +2,7 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Информатика",
     "LessonType": "пр",
     "Room": "11-207",
@@ -30,17 +30,6 @@
     "Room": "11-301",
     "FIO": "Желан Ирина Викторовна",
     "FIOshort": "Желан И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "11-207",
-    "FIO": "Мищукова Ксения Сергеевна",
-    "FIOshort": "Мищукова К.С.",
     "Error": null
   },
   {
