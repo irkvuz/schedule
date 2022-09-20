@@ -88,17 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Валлее Шарлотт Виктория Агнес",
-    "FIOshort": "Валлее Ш.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 2,

@@ -2,17 +2,6 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "11-409",
-    "FIO": "Выборова Светлана Александровна",
-    "FIOshort": "Выборова С.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Иностранный язык 1",
     "LessonType": "пр",
@@ -57,7 +46,7 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-004",
@@ -162,6 +151,17 @@
     "Room": "12-101",
     "FIO": "Тараканов Павел Николаевич",
     "FIOshort": "Тараканов П.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-205",
+    "FIO": "Выборова Светлана Александровна",
+    "FIOshort": "Выборова С.А.",
     "Error": null
   },
   {
@@ -327,6 +327,17 @@
     "Room": "12-402",
     "FIO": "Анучина Дарья Алексеевна",
     "FIOshort": "Анучина Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
     "Error": null
   }
 ]
