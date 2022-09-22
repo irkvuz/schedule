@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "11-207",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -165,6 +176,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
@@ -195,28 +217,6 @@
     "Room": "11-408",
     "FIO": "Евдокимова Надежда Владимировна",
     "FIOshort": "Евдокимова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Управление персоналом",
-    "LessonType": "пр",
-    "Room": "11-306",
-    "FIO": "Ганаза Ольга Владимировна",
-    "FIOshort": "Ганаза О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Управление персоналом",
-    "LessonType": "л",
-    "Room": "11-306",
-    "FIO": "Ганаза Ольга Владимировна",
-    "FIOshort": "Ганаза О.В.",
     "Error": null
   }
 ]

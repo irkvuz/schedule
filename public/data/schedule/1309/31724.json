@@ -121,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Практикум по подготовке к следственной деятельности",
+    "LessonType": "пр",
+    "Room": "6-306",
+    "FIO": "Буфетова Марьям Шамильевна",
+    "FIOshort": "Буфетова М.Ш.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
