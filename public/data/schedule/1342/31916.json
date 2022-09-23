@@ -156,10 +156,21 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
     "Room": "11-414",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая теория",
+    "LessonType": "пр",
+    "Room": "11-304",
     "FIO": "Галицкая Кристина Викторовна",
     "FIOshort": "Галицкая К.В.",
     "Error": null

@@ -123,17 +123,6 @@
   {
     "WeekDay": 4,
     "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Менеджмент",
-    "LessonType": "л",
-    "Room": "11-414",
-    "FIO": "Лебедева Оксана Викторовна",
-    "FIOshort": "Лебедева О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Документационное обеспечение управления",
     "LessonType": "л",
@@ -178,7 +167,7 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Управление персоналом",
     "LessonType": "пр",
     "Room": "11-001",
@@ -217,28 +206,6 @@
     "Room": "11-408",
     "FIO": "Евдокимова Надежда Владимировна",
     "FIOshort": "Евдокимова Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Управление персоналом",
-    "LessonType": "пр",
-    "Room": "11-306",
-    "FIO": "Ганаза Ольга Владимировна",
-    "FIOshort": "Ганаза О.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Управление персоналом",
-    "LessonType": "л",
-    "Room": "11-306",
-    "FIO": "Ганаза Ольга Владимировна",
-    "FIOshort": "Ганаза О.В.",
     "Error": null
   }
 ]
