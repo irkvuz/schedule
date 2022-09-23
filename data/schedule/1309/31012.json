@@ -56,35 +56,35 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "10:15",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Французский язык (факультатив)",
     "LessonType": "пр",
-    "Room": "1-404",
+    "Room": "1-405",
     "FIO": "Косар Франсуа Ги Люк Этьен",
     "FIOshort": "Косар Ф.Г.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
+    "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Мировая экономика",
+    "Lesson": "Макроэкономика",
     "LessonType": "пр",
-    "Room": "1-309",
-    "FIO": "Балашова Мария Александровна",
-    "FIOshort": "Балашова М.А.",
+    "Room": "1-210",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
+    "StartTime": "17:30",
     "Odd": 0,
-    "Lesson": "Макроэкономика",
+    "Lesson": "Мировая экономика",
     "LessonType": "пр",
-    "Room": "2-310",
-    "FIO": "Бисикало Елена Эдуардовна",
-    "FIOshort": "Бисикало Е.Э.",
+    "Room": "1-210",
+    "FIO": "Балашова Мария Александровна",
+    "FIOshort": "Балашова М.А.",
     "Error": null
   },
   {
@@ -118,17 +118,6 @@
     "Room": "2-411",
     "FIO": "Ковтун Лира Раисовна",
     "FIOshort": "Ковтун Л.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Макроэкономика",
-    "LessonType": "л",
-    "Room": "2-308",
-    "FIO": "Рудяков Василий Анатольевич",
-    "FIOshort": "Рудяков В.А.",
     "Error": null
   },
   {
@@ -147,7 +136,7 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Страхование",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "2-411",
     "FIO": "Жигас Маргарита Герутисовна",
     "FIOshort": "Жигас М.Г.",
@@ -158,10 +147,21 @@
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Страхование",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "2-411",
     "FIO": "Жигас Маргарита Герутисовна",
     "FIOshort": "Жигас М.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Макроэкономика",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
     "Error": null
   },
   {

@@ -166,17 +166,6 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Макроэкономика",
-    "LessonType": "л",
-    "Room": "2-308",
-    "FIO": "Рудяков Василий Анатольевич",
-    "FIOshort": "Рудяков В.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Страхование",
@@ -190,6 +179,17 @@
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
+    "Lesson": "Страхование",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Жигас Маргарита Герутисовна",
+    "FIOshort": "Жигас М.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
     "Lesson": "Макроэкономика",
     "LessonType": "пр",
     "Room": "5-213",
@@ -199,13 +199,13 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "14:00",
+    "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Страхование",
+    "Lesson": "Макроэкономика",
     "LessonType": "л",
-    "Room": "2-411",
-    "FIO": "Жигас Маргарита Герутисовна",
-    "FIOshort": "Жигас М.Г.",
+    "Room": "2-308",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
     "Error": null
   },
   {

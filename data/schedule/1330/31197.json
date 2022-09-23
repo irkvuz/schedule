@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление персоналом",
+    "LessonType": "л",
+    "Room": "11-207",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -162,6 +173,17 @@
     "Room": "11-409",
     "FIO": "Баянова Елена Владимировна",
     "FIOshort": "Баянова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Управление персоналом",
+    "LessonType": "пр",
+    "Room": "11-001",
+    "FIO": "Ганаза Ольга Владимировна",
+    "FIOshort": "Ганаза О.В.",
     "Error": null
   },
   {

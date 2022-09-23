@@ -1,5 +1,27 @@
 [
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "HR-аналитика",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "HR-аналитика",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "17:30",
     "Odd": 1,
@@ -129,28 +151,6 @@
     "Room": "2-311",
     "FIO": "Лисовская Наталья Валерьевна",
     "FIOshort": "Лисовская Н.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "HR-аналитика",
-    "LessonType": "л",
-    "Room": "2-311",
-    "FIO": "Астраханцева Арина Сергеевна",
-    "FIOshort": "Астраханцева А.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "HR-аналитика",
-    "LessonType": "пр",
-    "Room": "2-311",
-    "FIO": "Астраханцева Арина Сергеевна",
-    "FIOshort": "Астраханцева А.С.",
     "Error": null
   }
 ]
