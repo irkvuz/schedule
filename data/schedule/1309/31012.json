@@ -56,33 +56,33 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Французский язык (факультатив)",
-    "LessonType": "пр",
-    "Room": "1-405",
-    "FIO": "Косар Франсуа Ги Люк Этьен",
-    "FIOshort": "Косар Ф.Г.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "15:45",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Макроэкономика",
     "LessonType": "пр",
-    "Room": "1-210",
+    "Room": "4-204",
     "FIO": "Рудяков Василий Анатольевич",
     "FIOshort": "Рудяков В.А.",
     "Error": null
   },
   {
     "WeekDay": 2,
-    "StartTime": "17:30",
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Французский язык (факультатив)",
+    "LessonType": "пр",
+    "Room": "1-404",
+    "FIO": "Косар Франсуа Ги Люк Этьен",
+    "FIOshort": "Косар Ф.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Мировая экономика",
     "LessonType": "пр",
-    "Room": "1-210",
+    "Room": "1-309",
     "FIO": "Балашова Мария Александровна",
     "FIOshort": "Балашова М.А.",
     "Error": null
