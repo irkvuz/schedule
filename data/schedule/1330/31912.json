@@ -134,6 +134,17 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Родная литература",
+    "LessonType": "л",
+    "Room": "11-107",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
@@ -184,17 +195,6 @@
     "Room": "11-408",
     "FIO": "Сидоренко Геннадий Васильевич",
     "FIOshort": "Сидоренко Г.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "11-408",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
