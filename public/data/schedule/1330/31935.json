@@ -55,6 +55,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "12-205",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 1,

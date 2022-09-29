@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Ширяева Алена Игоревна",
+    "FIOshort": "Ширяева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Математика",
@@ -132,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Беломестных Алёна Игоревна",
-    "FIOshort": "Беломестных А.И.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
@@ -162,17 +162,6 @@
     "Room": "12-407",
     "FIO": "Тараканов Павел Николаевич",
     "FIOshort": "Тараканов П.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Беломестных Алёна Игоревна",
-    "FIOshort": "Беломестных А.И.",
     "Error": null
   },
   {
