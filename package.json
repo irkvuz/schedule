@@ -15,7 +15,7 @@
     "@types/react-dom": "17.0.17",
     "antd": "4.16.13",
     "axios": "0.21.2",
-    "babel-plugin-import": "1.13.3",
+    "babel-plugin-import": "1.13.5",
     "customize-cra": "1.0.0",
     "date-fns": "2.27.0",
     "history": "4.10.1",
