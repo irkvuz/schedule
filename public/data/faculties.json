@@ -1,5 +1,11 @@
 [
   {
+    "IdFaculty": 214,
+    "FacultyName": "Братск_Экономика и управление",
+    "FacultyAbbr": "Бр_ЭиУ",
+    "Error": null
+  },
+  {
     "IdFaculty": 20,
     "FacultyName": "Государственного права и национальной безопасности",
     "FacultyAbbr": "ГПиНБ",
