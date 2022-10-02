@@ -123,6 +123,17 @@
   {
     "WeekDay": 4,
     "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "11-414",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Документационное обеспечение управления",
     "LessonType": "л",

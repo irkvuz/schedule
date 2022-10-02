@@ -112,10 +112,32 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Трудовое право",
     "LessonType": "пр",
     "Room": "11-309",
+    "FIO": "Андреева Светлана Дмитриевна",
+    "FIOshort": "Андреева С.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-113",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "5-408",
     "FIO": "Андреева Светлана Дмитриевна",
     "FIOshort": "Андреева С.Д.",
     "Error": null
