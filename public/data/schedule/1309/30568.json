@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-305",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Уголовное право (Особенная часть)",
@@ -88,6 +99,28 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Трофимов Сергей Валерьевич",
+    "FIOshort": "Трофимов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "6-402",
+    "FIO": "Трофимов Сергей Валерьевич",
+    "FIOshort": "Трофимов С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
@@ -107,39 +140,6 @@
     "Room": "4-306",
     "FIO": "Мазюк Роман Васильевич",
     "FIOshort": "Мазюк Р.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Трудовое право",
-    "LessonType": "л",
-    "Room": "4-306",
-    "FIO": "Трофимов Сергей Валерьевич",
-    "FIOshort": "Трофимов С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Уголовный процесс",
-    "LessonType": "пр",
-    "Room": "6-409",
-    "FIO": "Мазюк Роман Васильевич",
-    "FIOshort": "Мазюк Р.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "6-409",
-    "FIO": "Трофимов Сергей Валерьевич",
-    "FIOshort": "Трофимов С.В.",
     "Error": null
   }
 ]

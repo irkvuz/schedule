@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Библиография",
+    "LessonType": "пр",
+    "Room": "2-201",
+    "FIO": "Бурзунова Анна Николаевна",
+    "FIOshort": "Бурзунова А.Н.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 2,
