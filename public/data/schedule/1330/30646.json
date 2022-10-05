@@ -35,12 +35,23 @@
   {
     "WeekDay": 1,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Трудовое право",
     "LessonType": "пр",
     "Room": "5-408",
     "FIO": "Андреева Светлана Дмитриевна",
     "FIOshort": "Андреева С.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
     "Error": null
   },
   {
@@ -165,14 +176,14 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Основы философии",
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Трудовое право",
     "LessonType": "пр",
-    "Room": "12-307",
-    "FIO": "Фомина Юлия Анатольевна",
-    "FIOshort": "Фомина Ю.А.",
+    "Room": "5-408",
+    "FIO": "Андреева Светлана Дмитриевна",
+    "FIOshort": "Андреева С.Д.",
     "Error": null
   },
   {

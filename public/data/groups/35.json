@@ -135,14 +135,16 @@
     "Group": "МЭКрк-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1309
   },
   {
     "IdGroup": 30607,
     "Group": "МЭКрк-20-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1309
   },
   {
     "IdGroup": 31014,
