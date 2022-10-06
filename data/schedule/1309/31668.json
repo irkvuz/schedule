@@ -60,7 +60,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-401",
+    "Room": "1-414",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -115,7 +115,7 @@
     "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "1-401",
+    "Room": "1-414",
     "FIO": "Луц Светлана Сергеевна",
     "FIOshort": "Луц С.С.",
     "Error": null
@@ -184,6 +184,39 @@
     "Room": "11-103",
     "FIO": "Изотова Инга Игоревна",
     "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
     "Error": null
   },
   {

@@ -89,17 +89,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Ширяева Алена Игоревна",
-    "FIOshort": "Ширяева А.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Математика",
@@ -140,6 +129,17 @@
     "Room": "12-205",
     "FIO": "Фрик Дмитрий Геннадьевич",
     "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Ширяева Татьяна Олеговна",
+    "FIOshort": "Ширяева Т.О.",
     "Error": null
   },
   {

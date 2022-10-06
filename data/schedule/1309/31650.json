@@ -174,5 +174,38 @@
     "FIO": "Арбатская Елена Анатольевна",
     "FIOshort": "Арбатская Е.А.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Рюмкина Вера Георгиевна",
+    "FIOshort": "Рюмкина В.Г.",
+    "Error": null
   }
 ]

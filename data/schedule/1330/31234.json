@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "5-408",
+    "FIO": "Андреева Светлана Дмитриевна",
+    "FIOshort": "Андреева С.Д.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
@@ -184,17 +195,6 @@
     "Room": "5-412",
     "FIO": "Деренко Марина Петровна",
     "FIOshort": "Деренко М.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "5-408",
-    "FIO": "Андреева Светлана Дмитриевна",
-    "FIOshort": "Андреева С.Д.",
     "Error": null
   },
   {
