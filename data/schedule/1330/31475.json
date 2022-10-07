@@ -45,28 +45,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-210",
-    "FIO": "Ширяева Алена Игоревна",
-    "FIOshort": "Ширяева А.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "12-408",
-    "FIO": "Копылов Семен Михайлович",
-    "FIOshort": "Копылов С.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Основы землеустройства",
@@ -155,6 +133,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Ширяева Татьяна Олеговна",
+    "FIOshort": "Ширяева Т.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Физика 2",
@@ -178,10 +167,10 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
-    "Room": "12-307",
+    "Room": "12-308",
     "FIO": "Копылов Семен Михайлович",
     "FIOshort": "Копылов С.М.",
     "Error": null
