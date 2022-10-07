@@ -215,5 +215,13 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1309
+  },
+  {
+    "IdGroup": 32128,
+    "Group": "НБус-22-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1309
   }
 ]
