@@ -1,7 +1,7 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Бюджет и бюджетная система",
     "LessonType": "л",
@@ -12,11 +12,11 @@
   },
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Бюджет и бюджетная система",
     "LessonType": "пр",
-    "Room": "2-409",
+    "Room": "5-505",
     "FIO": "Файберг Татьяна Владимировна",
     "FIOshort": "Файберг Т.В.",
     "Error": null
