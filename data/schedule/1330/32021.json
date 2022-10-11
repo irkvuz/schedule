@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Клевцова Ангелина Андреевна",
-    "FIOshort": "Клевцова А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 1,
@@ -184,6 +173,17 @@
     "Room": "12-003",
     "FIO": "Третьяков Денис Геннадьевич",
     "FIOshort": "Третьяков Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-210",
+    "FIO": "Клевцова Ангелина Андреевна",
+    "FIOshort": "Клевцова А.А.",
     "Error": null
   },
   {
