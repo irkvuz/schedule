@@ -156,7 +156,7 @@
   {
     "WeekDay": 6,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Маркетинговые коммуникации",
     "LessonType": "л",
     "Room": "3-903",
@@ -166,8 +166,41 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Орлова Елена Геннадьевна",
+    "FIOshort": "Орлова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
     "Lesson": "Маркетинговые коммуникации",
     "LessonType": "пр",
     "Room": "3-903",
@@ -178,10 +211,10 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Маркетинговые коммуникации",
     "LessonType": "пр",
-    "Room": "3-903",
+    "Room": "3-702",
     "FIO": "Орлова Елена Геннадьевна",
     "FIOshort": "Орлова Е.Г.",
     "Error": null
