@@ -70,7 +70,7 @@
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Основы лесовосстановления",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "4-410",
     "FIO": "Балданова Лена Петровна",
     "FIOshort": "Балданова Л.П.",
@@ -103,10 +103,32 @@
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Лесная энтомология",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "4-410",
     "FIO": "Балданова Лена Петровна",
     "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "4-410",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
     "Error": null
   },
   {
@@ -132,47 +154,25 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
+    "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Лесная фитопатология",
     "LessonType": "л",
     "Room": "4-410",
-    "FIO": "Белых Ольга Александровна",
-    "FIOshort": "Белых О.А.",
+    "FIO": "Лукиянчук Леонид Павлович",
+    "FIOshort": "Лукиянчук Л.П.",
     "Error": null
   },
   {
-    "WeekDay": 5,
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Лесная фитопатология",
     "LessonType": "пр",
     "Room": "4-410",
-    "FIO": "Белых Ольга Александровна",
-    "FIOshort": "Белых О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Основы лесовосстановления",
-    "LessonType": "л",
-    "Room": "4-410",
-    "FIO": "Балданова Лена Петровна",
-    "FIOshort": "Балданова Л.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Основы лесовосстановления",
-    "LessonType": "л",
-    "Room": "4-410",
-    "FIO": "Гаскина Екатерина Александровна",
-    "FIOshort": "Гаскина Е.А.",
+    "FIO": "Лукиянчук Леонид Павлович",
+    "FIOshort": "Лукиянчук Л.П.",
     "Error": null
   }
 ]

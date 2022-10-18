@@ -145,10 +145,21 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Статистика",
     "LessonType": "л",
     "Room": "12-101",
+    "FIO": "Кузнецова Елена Владимировна",
+    "FIOshort": "Кузнецова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "12-407",
     "FIO": "Кузнецова Елена Владимировна",
     "FIOshort": "Кузнецова Е.В.",
     "Error": null
