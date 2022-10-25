@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "1-402",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
@@ -159,7 +170,7 @@
     "Odd": 0,
     "Lesson": "Основы алгоритмизации",
     "LessonType": "пр",
-    "Room": "3-804",
+    "Room": "3-403",
     "FIO": "Пешкова Ольга Вячеславовна",
     "FIOshort": "Пешкова О.В.",
     "Error": null

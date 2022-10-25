@@ -22,6 +22,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "4-213",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
