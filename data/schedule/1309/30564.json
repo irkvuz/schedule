@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "пр",
+    "Room": "3-802",
+    "FIO": "Степаненко Диана Аркадьевна",
+    "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
