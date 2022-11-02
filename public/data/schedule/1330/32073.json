@@ -13,17 +13,6 @@
   {
     "WeekDay": 1,
     "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "История 1",
-    "LessonType": "л",
-    "Room": "11-107",
-    "FIO": "Ринчинов Артем Бэликтоевич",
-    "FIOshort": "Ринчинов А.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "История 1",
     "LessonType": "л",
