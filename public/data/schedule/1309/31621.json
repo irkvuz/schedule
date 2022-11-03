@@ -188,17 +188,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Библиография",
-    "LessonType": "пр",
-    "Room": "2-201",
-    "FIO": "Бурзунова Анна Николаевна",
-    "FIOshort": "Бурзунова А.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Экономическая теория",
