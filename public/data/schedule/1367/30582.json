@@ -55,28 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Основы радиожурналистики",
-    "LessonType": "пр",
-    "Room": "2-412",
-    "FIO": "Изместьева Екатерина Сергеевна",
-    "FIOshort": "Изместьева Е.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Основы радиожурналистики",
-    "LessonType": "пр",
-    "Room": "2-412",
-    "FIO": "Изместьева Екатерина Сергеевна",
-    "FIOshort": "Изместьева Е.С.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -134,12 +112,34 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Основы радиожурналистики",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Финансовая грамотность",
     "LessonType": "пр",
     "Room": "2-407",
     "FIO": "Ковтун Лира Раисовна",
     "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы радиожурналистики",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Изместьева Екатерина Сергеевна",
+    "FIOshort": "Изместьева Е.С.",
     "Error": null
   },
   {
