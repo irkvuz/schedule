@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Бизнес-планирование",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Чистякова Ольга Владимировна",
+    "FIOshort": "Чистякова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Бизнес-планирование",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Чистякова Ольга Владимировна",
+    "FIOshort": "Чистякова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бизнес-планирование",
+    "LessonType": "пр",
+    "Room": "3-509",
+    "FIO": "Чистякова Ольга Владимировна",
+    "FIOshort": "Чистякова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международная торговля",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Складская логистика",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Складская логистика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Складская логистика",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международный маркетинг",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Транспортная логистика",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Транспортная логистика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Транспортная логистика",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международный маркетинг",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Международная логистика",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Силантьев Александр Валерьевич",
+    "FIOshort": "Силантьев А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международная логистика",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Силантьев Александр Валерьевич",
+    "FIOshort": "Силантьев А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международная торговля",
+    "LessonType": "пр",
+    "Room": "3-706",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  }
+]
