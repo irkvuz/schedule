@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы организационно-управленческой деятельности",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Качурова Елизавета Сергеевна",
+    "FIOshort": "Качурова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Степаненко Диана Аркадьевна",
+    "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Чуксина Валентина Валерьевна",
+    "FIOshort": "Чуксина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы организационно-управленческой деятельности",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Качурова Елизавета Сергеевна",
+    "FIOshort": "Качурова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оперативно-розыскная деятельность",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Фильчакова Светлана Юрьевна",
+    "FIOshort": "Фильчакова С.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Налоговое право",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Фильчакова Светлана Юрьевна",
+    "FIOshort": "Фильчакова С.Ю.",
+    "Error": null
+  }
+]

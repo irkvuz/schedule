@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Ямбаева Оксана Бакасовна",
+    "FIOshort": "Ямбаева О.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы теории управления",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Белобородова Нина Анатольевна",
+    "FIOshort": "Белобородова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы теории управления",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Белобородова Нина Анатольевна",
+    "FIOshort": "Белобородова Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы общей и социальной психологии",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Казанцев Леонид Викторович",
+    "FIOshort": "Казанцев Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "2-108",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Государственная политика в социально-трудовой сфере",
+    "LessonType": "пр",
+    "Room": "2-313",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Государственная политика в социально-трудовой сфере",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Былков Владимир Георгиевич",
+    "FIOshort": "Былков В.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Ямбаева Оксана Бакасовна",
+    "FIOshort": "Ямбаева О.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы общей и социальной психологии",
+    "LessonType": "л",
+    "Room": "2-414",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Суранова Оксана Александровна",
+    "FIOshort": "Суранова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "2-317",
+    "FIO": "Суранова Оксана Александровна",
+    "FIOshort": "Суранова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  }
+]

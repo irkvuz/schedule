@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Белоусов Владимир Николаевич",
+    "FIOshort": "Белоусов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Ведерников Алексей Викторович",
+    "FIOshort": "Ведерников А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Агильдин Владимир Валерьевич",
+    "FIOshort": "Агильдин В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Фойгель Елена Игоревна",
+    "FIOshort": "Фойгель Е.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Корягина Светлана Анатольевна",
+    "FIOshort": "Корягина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "5-215",
+    "FIO": "Белоусов Владимир Николаевич",
+    "FIOshort": "Белоусов В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовое право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Медведева Надежда Владиславовна",
+    "FIOshort": "Медведева Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Арбитражный процесс",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Ведерников Алексей Викторович",
+    "FIOshort": "Ведерников А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансовое право",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Медведева Надежда Владиславовна",
+    "FIOshort": "Медведева Н.В.",
+    "Error": null
+  }
+]
