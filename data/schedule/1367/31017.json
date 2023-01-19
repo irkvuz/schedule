@@ -56,6 +56,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Операционные системы",
+    "LessonType": "л",
+    "Room": "3-804",
+    "FIO": "Федоров Вячеслав Викторович",
+    "FIOshort": "Федоров В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Общая теория систем",
@@ -68,17 +79,6 @@
   {
     "WeekDay": 3,
     "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Операционные системы",
-    "LessonType": "л",
-    "Room": "3-702",
-    "FIO": "Федоров Вячеслав Викторович",
-    "FIOshort": "Федоров В.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Операционные системы",
     "LessonType": "пр",
@@ -111,6 +111,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Шабуров Николай Сергеевич",
+    "FIOshort": "Шабуров Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Общая теория систем",
@@ -127,17 +138,6 @@
     "Lesson": "Компьютерная графика",
     "LessonType": "пр",
     "Room": "3-407",
-    "FIO": "Шабуров Николай Сергеевич",
-    "FIOshort": "Шабуров Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Компьютерная графика",
-    "LessonType": "л",
-    "Room": "4-211",
     "FIO": "Шабуров Николай Сергеевич",
     "FIOshort": "Шабуров Н.С.",
     "Error": null
