@@ -192,9 +192,69 @@
     "dateFinish": "2023-05-19T00:00:00"
   },
   {
+    "IdTrimester": 1371,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-06-21T00:00:00"
+  },
+  {
+    "IdTrimester": 1373,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-05-24T00:00:00"
+  },
+  {
+    "IdTrimester": 1375,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-03-29T00:00:00"
+  },
+  {
+    "IdTrimester": 1376,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-05-03T00:00:00"
+  },
+  {
+    "IdTrimester": 1377,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-04-19T00:00:00"
+  },
+  {
+    "IdTrimester": 1378,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-05-17T00:00:00"
+  },
+  {
+    "IdTrimester": 1379,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-05-10T00:00:00"
+  },
+  {
     "IdTrimester": 1380,
     "uYear": "2022-2023 уч.г.",
     "dateStart": "2023-01-09T00:00:00",
     "dateFinish": "2023-05-04T00:00:00"
+  },
+  {
+    "IdTrimester": 1383,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-03-15T00:00:00"
+  },
+  {
+    "IdTrimester": 1384,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-04-12T00:00:00"
+  },
+  {
+    "IdTrimester": 1386,
+    "uYear": "2022-2023 уч.г.",
+    "dateStart": "2023-01-12T00:00:00",
+    "dateFinish": "2023-05-31T00:00:00"
   }
 ]
