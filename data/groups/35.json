@@ -153,7 +153,8 @@
     "Group": "МЭКрк-21-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1367
   },
   {
     "IdGroup": 31622,
