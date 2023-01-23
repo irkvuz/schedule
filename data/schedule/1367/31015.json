@@ -44,18 +44,7 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Статистика",
-    "LessonType": "пр",
-    "Room": "5-201",
-    "FIO": "Рогачева Ольга Александровна",
-    "FIOshort": "Рогачева О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Статистика",
@@ -66,8 +55,19 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
+    "WeekDay": 3,
     "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Статистика",
     "LessonType": "пр",
@@ -107,6 +107,94 @@
     "Room": "5-201",
     "FIO": "Сорокина Елена Михайловна",
     "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Сорокина Елена Михайловна",
+    "FIOshort": "Сорокина Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "5-201",
+    "FIO": "Рогачева Ольга Александровна",
+    "FIOshort": "Рогачева О.А.",
     "Error": null
   }
 ]
