@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -74,17 +85,6 @@
     "Room": "4-306",
     "FIO": "Корнакова Светлана Викторовна",
     "FIOshort": "Корнакова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Международное право",
-    "LessonType": "пр",
-    "Room": "5-213",
-    "FIO": "Тамбовцева Галина Михайловна",
-    "FIOshort": "Тамбовцева Г.М.",
     "Error": null
   },
   {
