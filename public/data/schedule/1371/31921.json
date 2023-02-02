@@ -198,17 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Черкашин Александр Витальевич",
-    "FIOshort": "Черкашин А.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 0,
