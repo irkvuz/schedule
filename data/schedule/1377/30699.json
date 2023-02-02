@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Беломестных Алёна Игоревна",
+    "FIOshort": "Беломестных А.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 1,
@@ -228,17 +239,6 @@
     "Room": "11-308",
     "FIO": "Попова Наталья Анатольевна",
     "FIOshort": "Попова Н.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 1,
-    "Lesson": "Физическая культура",
-    "LessonType": "пр",
-    "Room": "12-004",
-    "FIO": "Беломестных Алёна Игоревна",
-    "FIOshort": "Беломестных А.И.",
     "Error": null
   },
   {
