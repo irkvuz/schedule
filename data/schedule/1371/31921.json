@@ -166,17 +166,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "",
-    "FIO": "Копылова Ольга Николаевна",
-    "FIOshort": "Копылова О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Астрономия",

@@ -100,17 +100,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "",
-    "FIO": "Копылова Ольга Николаевна",
-    "FIOshort": "Копылова О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Литература",
@@ -239,6 +228,17 @@
     "Room": "12-305",
     "FIO": "Мельникова Лариса Алексеевна",
     "FIOshort": "Мельникова Л.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Родная литература",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
     "Error": null
   },
   {
