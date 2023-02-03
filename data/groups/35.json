@@ -191,7 +191,8 @@
     "Group": "ПМЛрк-21-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1367
   },
   {
     "IdGroup": 31625,
