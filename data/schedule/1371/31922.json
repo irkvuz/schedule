@@ -57,17 +57,6 @@
   {
     "WeekDay": 2,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "12-210",
-    "FIO": "Копылова Ольга Николаевна",
-    "FIOshort": "Копылова О.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "География",
     "LessonType": "пр",
