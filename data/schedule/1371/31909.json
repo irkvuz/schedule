@@ -177,6 +177,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "12-302",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Родная литература",
@@ -217,17 +228,6 @@
     "Room": "12-101",
     "FIO": "Чайка Иван Иванович",
     "FIOshort": "Чайка И.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Экономика",
-    "LessonType": "пр",
-    "Room": "12-302",
-    "FIO": "Густелева Ольга Юрьевна",
-    "FIOshort": "Густелева О.Ю.",
     "Error": null
   },
   {
