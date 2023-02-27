@@ -44,6 +44,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Теория гуманитарных наук",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Теория гуманитарных наук",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "17:30",
     "Odd": 1,
@@ -85,28 +107,6 @@
     "Room": "1-211",
     "FIO": "Никулина Татьяна Ивановна",
     "FIOshort": "Никулина Т.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Теория гуманитарных наук",
-    "LessonType": "пр",
-    "Room": "2-208",
-    "FIO": "Кирьянова Ольга Александровна",
-    "FIOshort": "Кирьянова О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Теория гуманитарных наук",
-    "LessonType": "пр",
-    "Room": "2-208",
-    "FIO": "Кирьянова Ольга Александровна",
-    "FIOshort": "Кирьянова О.А.",
     "Error": null
   },
   {
