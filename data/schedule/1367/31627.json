@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (разговорный курс)",
-    "LessonType": "пр",
-    "Room": "10-205",
-    "FIO": "Пяо Мэйшань",
-    "FIOshort": "Пяо М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информационные технологии",
@@ -151,6 +140,28 @@
     "Room": "1-201",
     "FIO": "Бимакова Руфина Рашидовна",
     "FIOshort": "Бимакова Р.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Иностранный язык (разговорный курс)",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык (разговорный курс)",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Пяо Мэйшань",
+    "FIOshort": "Пяо М.",
     "Error": null
   },
   {
