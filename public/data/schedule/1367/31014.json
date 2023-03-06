@@ -145,7 +145,18 @@
   {
     "WeekDay": 4,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Измайлова Мария Олеговна",
+    "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Экономический анализ",
     "LessonType": "пр",
     "Room": "1-207",
@@ -156,12 +167,23 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Налоги и налогообложение",
     "LessonType": "л",
     "Room": "2-310",
     "FIO": "Измайлова Мария Олеговна",
     "FIOshort": "Измайлова М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Кузнецова Наталья Викторовна",
+    "FIOshort": "Кузнецова Н.В.",
     "Error": null
   },
   {
