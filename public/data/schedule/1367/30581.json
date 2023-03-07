@@ -133,22 +133,22 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Распределенные системы",
     "LessonType": "л",
-    "Room": "3-404",
+    "Room": "2-106",
     "FIO": "Миненков Роман Валерьевич",
     "FIOshort": "Миненков Р.В.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Распределенные системы",
     "LessonType": "пр",
-    "Room": "3-404",
+    "Room": "2-106",
     "FIO": "Миненков Роман Валерьевич",
     "FIOshort": "Миненков Р.В.",
     "Error": null
