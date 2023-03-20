@@ -133,6 +133,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Желан Ирина Викторовна",
+    "FIOshort": "Желан И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Физическая культура",
