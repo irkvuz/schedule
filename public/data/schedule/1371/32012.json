@@ -253,6 +253,28 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экология",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Владимирова Светлана Владимировна",
+    "FIOshort": "Владимирова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экология",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Владимирова Светлана Владимировна",
+    "FIOshort": "Владимирова С.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
