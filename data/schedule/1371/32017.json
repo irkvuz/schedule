@@ -233,10 +233,21 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Литература",
     "LessonType": "л",
-    "Room": "12-210",
+    "Room": "12-203",
+    "FIO": "Митянина Анастасия Алексеевна",
+    "FIOshort": "Митянина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Литература",
+    "LessonType": "л",
+    "Room": "12-406",
     "FIO": "Митянина Анастасия Алексеевна",
     "FIOshort": "Митянина А.А.",
     "Error": null

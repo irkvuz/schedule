@@ -132,6 +132,28 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -243,33 +265,11 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Гражданская позиция",
-    "LessonType": "пр",
-    "Room": "6-304",
-    "FIO": "Чигрина Елена Владимировна",
-    "FIOshort": "Чигрина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Гражданская позиция",
     "LessonType": "л",
     "Room": "6-303",
-    "FIO": "Чигрина Елена Владимировна",
-    "FIOshort": "Чигрина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Гражданская позиция",
-    "LessonType": "пр",
-    "Room": "6-304",
     "FIO": "Чигрина Елена Владимировна",
     "FIOshort": "Чигрина Е.В.",
     "Error": null
