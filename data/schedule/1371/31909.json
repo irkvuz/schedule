@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "География",
@@ -24,7 +35,7 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Экономика",
     "LessonType": "л",
     "Room": "11-204",
