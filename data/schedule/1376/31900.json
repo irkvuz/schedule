@@ -89,6 +89,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Спиридонова Юлия Владимировна",
+    "FIOshort": "Спиридонова Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История",
