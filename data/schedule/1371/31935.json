@@ -198,17 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 0,
-    "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Карелина Ксения Алексеевна",
-    "FIOshort": "Карелина К.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 1,
