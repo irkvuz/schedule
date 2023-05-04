@@ -111,17 +111,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Астрономия",
-    "LessonType": "пр",
-    "Room": "12-207",
-    "FIO": "Клевцова Ангелина Андреевна",
-    "FIOshort": "Клевцова А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 1,
     "Lesson": "Астрономия",
@@ -222,12 +211,23 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Физическая культура",
     "LessonType": "пр",
     "Room": "12-210",
     "FIO": "Шульгин Александр Владимирович",
     "FIOshort": "Шульгин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Астрономия",
+    "LessonType": "пр",
+    "Room": "12-207",
+    "FIO": "Клевцова Ангелина Андреевна",
+    "FIOshort": "Клевцова А.А.",
     "Error": null
   },
   {
