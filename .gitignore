@@ -24,3 +24,6 @@ yarn-error.log*
 tmp.sh
 backstop_data/html_report/
 backstop_data/bitmaps_test/
+/test-results/
+/playwright-report/
+/playwright/.cache/
