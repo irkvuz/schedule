@@ -42,10 +42,19 @@ export default defineConfig({
       use: { ...devices['Desktop Firefox'] },
     },
 
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
-    },
+    /**
+     * @TODO uncomment when fix problem with webkit on macOS
+     * ERROR: MacOS version is too old!
+     * 
+     * This version of Playwright does not support running
+     * WebKit on MacOS 10.15. Please either:
+     * - update your operating system to version 11 or higher
+     * - use Playwright v1.25 or older
+     */
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari'] },
+    // },
 
     /* Test against mobile viewports. */
     // {
