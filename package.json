@@ -60,6 +60,7 @@
     "test": "react-app-rewired test",
     "test:coverage": "react-app-rewired test --coverage",
     "test:scripts": "jest --config=scripts/jest.config.js scripts",
+    "test:integration": "playwright test",
     "eject": "react-scripts eject",
     "updateSchedule": "ts-node --project scripts/tsconfig.json scripts/updateSchedule.ts",
     "commitSchedule": "git add public/data/ && git commit -m 'Update schedule'",
