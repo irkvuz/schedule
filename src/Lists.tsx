@@ -42,6 +42,7 @@ function UniversalListPL(props: UniversalListProps) {
       <br />
       <br />
       <List<Item>
+        data-testid="list"
         dataSource={itemsFiltred}
         loading={loading}
         bordered
