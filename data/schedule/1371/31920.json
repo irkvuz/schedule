@@ -89,17 +89,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "8:30",
-    "Odd": 2,
-    "Lesson": "Родная литература",
-    "LessonType": "л",
-    "Room": "12-408",
-    "FIO": "Карпова Ольга Разумовна",
-    "FIOshort": "Карпова О.Р.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Экономика",
@@ -140,6 +129,17 @@
     "Room": "Онлайн-1",
     "FIO": "Клевцова Ангелина Андреевна",
     "FIOshort": "Клевцова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Родная литература",
+    "LessonType": "л",
+    "Room": "12-207",
+    "FIO": "Карпова Ольга Разумовна",
+    "FIOshort": "Карпова О.Р.",
     "Error": null
   },
   {
