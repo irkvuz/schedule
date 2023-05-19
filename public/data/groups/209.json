@@ -25,8 +25,7 @@
     "Group": "ЗемК-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31472,
@@ -54,8 +53,7 @@
     "Group": "ЛД-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30596,
@@ -69,32 +67,28 @@
     "Group": "ЛД-21-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31003,
     "Group": "ЛД-21-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31654,
     "Group": "ЛД-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31656,
     "Group": "ЛД-22-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31088,
@@ -171,40 +165,35 @@
     "Group": "НГК-21-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31647,
     "Group": "НГК-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30578,
     "Group": "ПД-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30579,
     "Group": "ПД-20-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31007,
     "Group": "ПД-21-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31008,
@@ -218,24 +207,21 @@
     "Group": "ПД-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 32043,
     "Group": "ПД-22-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 32045,
     "Group": "ПД-22-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30245,
@@ -249,8 +235,7 @@
     "Group": "Стр-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30989,
@@ -264,8 +249,7 @@
     "Group": "Стр-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30241,
@@ -321,16 +305,14 @@
     "Group": "ЭиУГ-21",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31643,
     "Group": "ЭиУГ-22-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 30580,
@@ -351,15 +333,13 @@
     "Group": "ЭОБ(НГК)-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   },
   {
     "IdGroup": 31722,
     "Group": "ЭОБ(С)-20-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1367
+    "hasSchedule": false
   }
 ]
