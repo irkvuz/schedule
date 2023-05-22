@@ -46,10 +46,21 @@
   {
     "WeekDay": 2,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История 1",
     "LessonType": "пр",
-    "Room": "12-203",
+    "Room": "12-001",
+    "FIO": "Тараканов Павел Николаевич",
+    "FIOshort": "Тараканов П.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "12-003",
     "FIO": "Тараканов Павел Николаевич",
     "FIOshort": "Тараканов П.Н.",
     "Error": null
