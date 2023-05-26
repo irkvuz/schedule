@@ -210,17 +210,6 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "История 1",
-    "LessonType": "пр",
-    "Room": "12-101",
-    "FIO": "Торшин Игорь Викторович",
-    "FIOshort": "Торшин И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Экология",
@@ -239,6 +228,17 @@
     "Room": "12-301",
     "FIO": "Ефимцева Ирина Андреевна",
     "FIOshort": "Ефимцева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История 1",
+    "LessonType": "пр",
+    "Room": "12-408",
+    "FIO": "Торшин Игорь Викторович",
+    "FIOshort": "Торшин И.В.",
     "Error": null
   },
   {
