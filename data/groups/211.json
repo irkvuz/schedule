@@ -1241,6 +1241,13 @@
     "trimesterId": 1371
   },
   {
+    "IdGroup": 32471,
+    "Group": "ТГ(9)-22-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 30716,
     "Group": "ТХ(11)-20-1",
     "Course": 3,
