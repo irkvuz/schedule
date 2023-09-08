@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление имиджем",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление имиджем",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория и практика связей с общественностью",
+    "LessonType": "пр",
+    "Room": "2-416",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория и практика связей с общественностью",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Создание медиаконтента",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Карасов Никита Алексеевич",
+    "FIOshort": "Карасов Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Создание медиаконтента",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Карасов Никита Алексеевич",
+    "FIOshort": "Карасов Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Создание медиаконтента",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Карасов Никита Алексеевич",
+    "FIOshort": "Карасов Н.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "пр",
+    "Room": "2-409",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Маркетинговые коммуникации",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Рубцова Наталья Владимировна",
+    "FIOshort": "Рубцова Н.В.",
+    "Error": null
+  }
+]

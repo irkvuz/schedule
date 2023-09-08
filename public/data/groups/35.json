@@ -1,63 +1,55 @@
 [
   {
-    "IdGroup": 30253,
-    "Group": "ББЛрки-19-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 30603,
     "Group": "ББЛрки-20-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31027,
     "Group": "ББЛрки-21-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31919,
     "Group": "ББЛрки-21-2",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31624,
     "Group": "ББЛрки-22-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 32367,
     "Group": "ББЛрки-22-2",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 30463,
-    "Group": "ББТ-19",
-    "Course": 4,
+    "IdGroup": 32284,
+    "Group": "ББЛрки-23-1",
+    "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 30604,
     "Group": "ББТ-20",
-    "Course": 3,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30791,
-    "Group": "БЛрки-19",
     "Course": 4,
     "Error": null,
     "hasSchedule": false
@@ -65,169 +57,179 @@
   {
     "IdGroup": 31562,
     "Group": "БЛрки-20",
-    "Course": 3,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30293,
-    "Group": "МЕНрк-19-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 30605,
     "Group": "МЕНрк-20-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31020,
     "Group": "МЕНрк-21-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31621,
     "Group": "МЕНрк-22-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 31074,
-    "Group": "МЛрки-21-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
+  },
+  {
+    "IdGroup": 32192,
+    "Group": "МЕНрк-23-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31703,
     "Group": "МЛрки-22-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1390
+  },
+  {
+    "IdGroup": 32238,
+    "Group": "МЛрки-23-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30254,
-    "Group": "МЭКрк-19-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30255,
-    "Group": "МЭКрк-19-2",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 30606,
     "Group": "МЭКрк-20-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 30607,
     "Group": "МЭКрк-20-2",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31014,
     "Group": "МЭКрк-21-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31015,
     "Group": "МЭКрк-21-2",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31622,
     "Group": "МЭКрк-22-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 31627,
     "Group": "МЭКрк-22-2",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 30294,
-    "Group": "ПМЛрк-19-1",
-    "Course": 4,
+    "IdGroup": 32195,
+    "Group": "МЭКркП-23-1",
+    "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 30608,
     "Group": "ПМЛрк-20-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31022,
     "Group": "ПМЛрк-21-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31625,
     "Group": "ПМЛрк-22-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 31797,
-    "Group": "ПФрки-22 линг-1",
+    "IdGroup": 32196,
+    "Group": "ПМЛрк-23-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 31798,
-    "Group": "ПФрки-22 линг-2",
+    "IdGroup": 32261,
+    "Group": "ПФрки-23 линг-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 31799,
-    "Group": "ПФрки-22 линг-3",
+    "IdGroup": 32262,
+    "Group": "ПФрки-23 линг-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 31801,
-    "Group": "ПФрки-22 линг-4",
+    "IdGroup": 32266,
+    "Group": "ПФрки-23 линг-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
-    "IdGroup": 31803,
-    "Group": "ПФрки-22 линг-5",
+    "IdGroup": 32267,
+    "Group": "ПФрки-23 линг-4",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
+  },
+  {
+    "IdGroup": 32269,
+    "Group": "ПФрки-23 линг-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1390
   }
 ]

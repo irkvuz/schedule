@@ -1,15 +1,8 @@
 [
   {
-    "IdGroup": 32102,
-    "Group": "БФН-19-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 32114,
     "Group": "ФК-21-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   }

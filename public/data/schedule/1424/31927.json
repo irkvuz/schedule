@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Финансы организаций",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Психология общения",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Лыкосова Дарья Федоровна",
+    "FIOshort": "Лыкосова Д.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансы организаций",
+    "LessonType": "л",
+    "Room": "5-207",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "л",
+    "Room": "11-305",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-201",
+    "FIO": "Маркина Мария Олеговна",
+    "FIOshort": "Маркина М.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Закупки отдельными видами юридических лиц",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Психология общения",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Лыкосова Дарья Федоровна",
+    "FIOshort": "Лыкосова Д.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансы организаций",
+    "LessonType": "пр",
+    "Room": "5-203",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансы организаций",
+    "LessonType": "л",
+    "Room": "5-203",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Психология общения",
+    "LessonType": "л",
+    "Room": "5-309",
+    "FIO": "Лыкосова Дарья Федоровна",
+    "FIOshort": "Лыкосова Д.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Бюджетный учет",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Шигенина Галина Викторовна",
+    "FIOshort": "Шигенина Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Закупки отдельными видами юридических лиц",
+    "LessonType": "л",
+    "Room": "5-207",
+    "FIO": "Костюк Анна Валерьевна",
+    "FIOshort": "Костюк А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "5-408",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Бюджетный учет",
+    "LessonType": "л",
+    "Room": "5-307",
+    "FIO": "Шигенина Галина Викторовна",
+    "FIOshort": "Шигенина Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Лаврова Марина Анатольевна",
+    "FIOshort": "Лаврова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Митюкова Оксана Николаевна",
+    "FIOshort": "Митюкова О.Н.",
+    "Error": null
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-119",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-12",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "Онлайн-126",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Профессиональная этика",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Моисеев Владимир Павлович",
+    "FIOshort": "Моисеев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "6-402",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Профессиональная этика",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Моисеев Владимир Павлович",
+    "FIOshort": "Моисеев В.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Гаврилова Наталья Игоревна",
+    "FIOshort": "Гаврилова Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Гаврилова Наталья Игоревна",
+    "FIOshort": "Гаврилова Н.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Коломинов Вячеслав Валентинович",
+    "FIOshort": "Коломинов В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Правоохранительные органы в РФ",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Асатрян Хачатур Ашотович",
+    "FIOshort": "Асатрян Х.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Глызина Вера Евгеньевна",
+    "FIOshort": "Глызина В.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История государства и права зарубежных стран",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Сафонов Михаил Александрович",
+    "FIOshort": "Сафонов М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История государства и права зарубежных стран",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Сафонов Михаил Александрович",
+    "FIOshort": "Сафонов М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Осипова Марина Анатольевна",
+    "FIOshort": "Осипова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "4-302",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  }
+]
