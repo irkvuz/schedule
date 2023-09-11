@@ -949,6 +949,13 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 31212,
+    "Group": "ЛХ(9)-21-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31869,
     "Group": "ЛХ(9)-22-1",
     "Course": 2,
@@ -1418,7 +1425,8 @@
     "Group": "Т(9)-22-4",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1426
   },
   {
     "IdGroup": 32439,
