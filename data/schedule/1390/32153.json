@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Шаламов Владимир Александрович",
+    "FIOshort": "Шаламов В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-121",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Информационно-коммуникационные технологии",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Информационно-коммуникационные технологии",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-212",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информационно-коммуникационные технологии",
+    "LessonType": "пр",
+    "Room": "3-510",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Казарин Виктор Николаевич",
+    "FIOshort": "Казарин В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Линейная алгебра",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Линейная алгебра",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Дискретная математика",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "3-402",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Дискретная математика",
+    "LessonType": "пр",
+    "Room": "3-403",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  }
+]

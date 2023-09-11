@@ -1,16 +1,10 @@
 [
   {
-    "IdGroup": 32120,
-    "Group": "ЮР-19-1",
-    "Course": 4,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 32118,
     "Group": "ЮР-20-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   }
 ]

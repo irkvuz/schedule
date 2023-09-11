@@ -1,0 +1,57 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Компьютерные системы учета",
+    "LessonType": "пр",
+    "Room": "Онлайн-1",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Компьютерные системы учета",
+    "LessonType": "пр",
+    "Room": "Онлайн-1",
+    "FIO": "Кулаков Вадим Валентинович",
+    "FIOshort": "Кулаков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-10",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-10",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-10",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  }
+]

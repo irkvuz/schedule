@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесоводство",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Недревесная продукция леса",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Кархова Светлана Александровна",
+    "FIOshort": "Кархова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Лесоводство",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Лесные культуры",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Лесные культуры",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Недревесная продукция леса",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Кархова Светлана Александровна",
+    "FIOshort": "Кархова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Недревесная продукция леса",
+    "LessonType": "пр",
+    "Room": "3-804",
+    "FIO": "Кархова Светлана Александровна",
+    "FIOshort": "Кархова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Землеустройство. Кадастры и реестры",
+    "LessonType": "пр",
+    "Room": "4-213",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Землеустройство. Кадастры и реестры",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Лесоводство",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Кабанов Сергей Васильевич",
+    "FIOshort": "Кабанов С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Планирование деятельности предприятия",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Кархова Светлана Александровна",
+    "FIOshort": "Кархова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Планирование деятельности предприятия",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Кархова Светлана Александровна",
+    "FIOshort": "Кархова С.А.",
+    "Error": null
+  }
+]

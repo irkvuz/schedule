@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Марасанова Анна Александровна",
+    "FIOshort": "Марасанова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Карамышева Светлана Николаевна",
+    "FIOshort": "Карамышева С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "4-205",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "4-205",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Инклюзивная компетентность",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Трохирова Ульяна Владимировна",
+    "FIOshort": "Трохирова У.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-204",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Карамышева Светлана Николаевна",
+    "FIOshort": "Карамышева С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Самойлова Жанна Владимировна",
+    "FIOshort": "Самойлова Ж.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Чигрина Елена Владимировна",
+    "FIOshort": "Чигрина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Лянной Глеб Геннадьевич",
+    "FIOshort": "Лянной Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-1",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "3-705",
+    "FIO": "Маджаров Александр Станиславович",
+    "FIOshort": "Маджаров А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "3-705",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Казарин Виктор Николаевич",
+    "FIOshort": "Казарин В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Шаламов Владимир Александрович",
+    "FIOshort": "Шаламов В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Безопасность жизнедеятельности",
+    "LessonType": "пр",
+    "Room": "2-204",
+    "FIO": "Торопов Виктор Дмитриевич",
+    "FIOshort": "Торопов В.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Информационные системы и технологии",
+    "LessonType": "л",
+    "Room": "3-403",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные системы и технологии",
+    "LessonType": "пр",
+    "Room": "3-510",
+    "FIO": "Рубина Нина Владимировна",
+    "FIOshort": "Рубина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-121",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Баёв Павел Анатольевич",
+    "FIOshort": "Баёв П.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мифология и символизм",
+    "LessonType": "пр",
+    "Room": "2-217",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-207",
+    "FIO": "Семенова Ольга Фиофановна",
+    "FIOshort": "Семенова О.Ф.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Мифология и символизм",
+    "LessonType": "л",
+    "Room": "2-316",
+    "FIO": "Зверева Ольга Юрьевна",
+    "FIOshort": "Зверева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Казарин Виктор Николаевич",
+    "FIOshort": "Казарин В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Введение в историю искусств",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Введение в историю искусств",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Санников Александр Павлович",
+    "FIOshort": "Санников А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Хаустов Дмитрий Сергеевич",
+    "FIOshort": "Хаустов Д.С.",
+    "Error": null
+  }
+]

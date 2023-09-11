@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Хорошилова Екатерина Сергеевна",
+    "FIOshort": "Хорошилова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Справочно-правовые системы в профессиональной деятельности",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Казанцева Ирина Игоревна",
+    "FIOshort": "Казанцева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Хорошилова Екатерина Сергеевна",
+    "FIOshort": "Хорошилова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-401",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-007",
+    "FIO": "Кишинская Татьяна Александровна",
+    "FIOshort": "Кишинская Т.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Справочно-правовые системы в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Казанцева Ирина Игоревна",
+    "FIOshort": "Казанцева И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "пр",
+    "Room": "11-412",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "5-404",
+    "FIO": "Хорошилова Екатерина Сергеевна",
+    "FIOshort": "Хорошилова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Хорошилова Екатерина Сергеевна",
+    "FIOshort": "Хорошилова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "4-402",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Психология социально-правовой деятельности",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Копылова Ольга Николаевна",
+    "FIOshort": "Копылова О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Право социального обеспечения",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Массель Анастасия Дмитриевна",
+    "FIOshort": "Массель А.Д.",
+    "Error": null
+  }
+]

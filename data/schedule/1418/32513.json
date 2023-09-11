@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Афонина Светлана Владимировна",
+    "FIOshort": "Афонина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-408",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "5-510",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Пуничева Екатерина Леонидовна",
+    "FIOshort": "Пуничева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Гурчин Артур Андреевич",
+    "FIOshort": "Гурчин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Почвоведение",
+    "LessonType": "пр",
+    "Room": "5-510",
+    "FIO": "Пуничева Екатерина Леонидовна",
+    "FIOshort": "Пуничева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Пуничева Екатерина Леонидовна",
+    "FIOshort": "Пуничева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "пр",
+    "Room": "5-510",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "5-413",
+    "FIO": "Гурчин Артур Андреевич",
+    "FIOshort": "Гурчин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Жучёва Ксения Владимировна",
+    "FIOshort": "Жучёва К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Жучёва Ксения Владимировна",
+    "FIOshort": "Жучёва К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "пр",
+    "Room": "5-510",
+    "FIO": "Жучёва Ксения Владимировна",
+    "FIOshort": "Жучёва К.В.",
+    "Error": null
+  }
+]
