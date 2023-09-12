@@ -443,16 +443,14 @@
     "Group": "ТД-23-3",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1390
+    "hasSchedule": false
   },
   {
     "IdGroup": 32164,
     "Group": "ТД-23-4",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1390
+    "hasSchedule": false
   },
   {
     "IdGroup": 30235,

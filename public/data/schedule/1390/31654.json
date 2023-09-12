@@ -67,6 +67,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесоведение",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Лесоведение",
@@ -85,17 +96,6 @@
     "Room": "4-411",
     "FIO": "Войникова Галина Николаевна",
     "FIOshort": "Войникова Г.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Лесоведение",
-    "LessonType": "л",
-    "Room": "4-412",
-    "FIO": "Балданова Лена Петровна",
-    "FIOshort": "Балданова Л.П.",
     "Error": null
   },
   {
