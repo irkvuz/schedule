@@ -145,10 +145,21 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "5-202",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-411",
     "FIO": "Фаркова Ирина Анатольевна",
     "FIOshort": "Фаркова И.А.",
     "Error": null
