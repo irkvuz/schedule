@@ -237,7 +237,8 @@
     "Group": "Ю-23-4",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   },
   {
     "IdGroup": 32244,
