@@ -121,6 +121,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Биология",
+    "LessonType": "л",
+    "Room": "11-409",
+    "FIO": "Дунаева Виктория Владимировна",
+    "FIOshort": "Дунаева В.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 1,
