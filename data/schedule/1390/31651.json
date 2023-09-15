@@ -111,6 +111,28 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "л",
+    "Room": "",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Компьютерная графика",
+    "LessonType": "пр",
+    "Room": "3-906",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Инженерная геология",
@@ -132,33 +154,11 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "14:00",
+    "WeekDay": 5,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Компьютерная графика",
     "LessonType": "пр",
-    "Room": "3-510",
-    "FIO": "Олзоев Борис Николаевич",
-    "FIOshort": "Олзоев Б.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 1,
-    "Lesson": "Компьютерная графика",
-    "LessonType": "пр",
-    "Room": "3-510",
-    "FIO": "Олзоев Борис Николаевич",
-    "FIOshort": "Олзоев Б.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Компьютерная графика",
-    "LessonType": "л",
     "Room": "3-510",
     "FIO": "Олзоев Борис Николаевич",
     "FIOshort": "Олзоев Б.Н.",
