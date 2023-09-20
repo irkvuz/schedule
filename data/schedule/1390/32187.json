@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "15:45",
-    "Odd": 2,
-    "Lesson": "Организация внеучебной деятельности в БГУ",
-    "LessonType": "л",
-    "Room": "4-206",
-    "FIO": "Ермошкина Римма Леонидовна",
-    "FIOshort": "Ермошкина Р.Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,

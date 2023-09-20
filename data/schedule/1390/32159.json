@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-408",
+    "FIO": "Сорокин Александр Васильевич",
+    "FIOshort": "Сорокин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "История России",
