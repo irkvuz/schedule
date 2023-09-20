@@ -187,6 +187,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Шарманова Оксана Сергеевна",
+    "FIOshort": "Шарманова О.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
