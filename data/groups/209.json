@@ -37,6 +37,13 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 32526,
+    "Group": "ЗемКус-22-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 30595,
     "Group": "ЛД-20-1",
     "Course": 4,
