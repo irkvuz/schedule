@@ -40,6 +40,14 @@
     "trimesterId": 1390
   },
   {
+    "IdGroup": 32531,
+    "Group": "ББЛрки-22-3",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1390
+  },
+  {
     "IdGroup": 32284,
     "Group": "ББЛрки-23-1",
     "Course": 1,
