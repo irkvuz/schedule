@@ -112,17 +112,6 @@
   {
     "WeekDay": 3,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Анализ финансово-хозяйственной деятельности",
-    "LessonType": "л",
-    "Room": "",
-    "FIO": "Лаврова Марина Анатольевна",
-    "FIOshort": "Лаврова М.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Маркетинг",
     "LessonType": "пр",
