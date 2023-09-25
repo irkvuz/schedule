@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Электронная коммерция",
+    "LessonType": "л",
+    "Room": "1-310",
+    "FIO": "Синица Эдуард Олегович",
+    "FIOshort": "Синица Э.О.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -63,6 +74,17 @@
     "Room": "2-405",
     "FIO": "Чаликова-Уханова Мария Васильевна",
     "FIOshort": "Чаликова-Уханова М.В",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Электронная коммерция",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Синица Эдуард Олегович",
+    "FIOshort": "Синица Э.О.",
     "Error": null
   },
   {
