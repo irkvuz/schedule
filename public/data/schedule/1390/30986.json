@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -63,17 +74,6 @@
     "Room": "2-215",
     "FIO": "Олейников Илья Васильевич",
     "FIOshort": "Олейников И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Политология",
-    "LessonType": "л",
-    "Room": "2-314",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
     "Error": null
   },
   {

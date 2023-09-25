@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Информационные технологии",
-    "LessonType": "пр",
-    "Room": "4-309",
-    "FIO": "Сорокина Полина Геннадьевна",
-    "FIOshort": "Сорокина П.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 2,
@@ -162,6 +151,17 @@
     "Room": "2-415",
     "FIO": "Баёв Павел Анатольевич",
     "FIOshort": "Баёв П.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "4-309",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
     "Error": null
   },
   {

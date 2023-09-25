@@ -5,31 +5,9 @@
     "Odd": 0,
     "Lesson": "Иностранный язык (китайский)",
     "LessonType": "пр",
-    "Room": "10-102",
-    "FIO": "Зарбуева Анастасия Ильинична",
-    "FIOshort": "Зарбуева А.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
-    "LessonType": "пр",
     "Room": "10-104",
     "FIO": "Ли Маша",
     "FIOshort": "Ли М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
-    "LessonType": "пр",
-    "Room": "10-102",
-    "FIO": "Зарбуева Анастасия Ильинична",
-    "FIOshort": "Зарбуева А.И.",
     "Error": null
   },
   {
@@ -66,6 +44,39 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Политология",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-201(б)",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "10-201(б)",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -96,17 +107,6 @@
     "Room": "2-215",
     "FIO": "Олейников Илья Васильевич",
     "FIOshort": "Олейников И.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Политология",
-    "LessonType": "л",
-    "Room": "2-314",
-    "FIO": "Распопина Алена Александровна",
-    "FIOshort": "Распопина А.А.",
     "Error": null
   },
   {
