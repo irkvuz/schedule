@@ -456,8 +456,7 @@
     "Group": "ИС(9)-20-3",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1418
+    "hasSchedule": false
   },
   {
     "IdGroup": 30873,
