@@ -253,6 +253,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "10-202",
+    "FIO": "Леонов Максим Вадимович",
+    "FIOshort": "Леонов М.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
@@ -275,25 +286,14 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "8:30",
+    "WeekDay": 5,
+    "StartTime": "17:30",
     "Odd": 0,
     "Lesson": "Иностранный язык (базовый курс)",
     "LessonType": "пр",
-    "Room": "10-103",
-    "FIO": "Каверзина Мария Владимировна",
-    "FIOshort": "Каверзина М.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "10-103",
-    "FIO": "Каверзина Мария Владимировна",
-    "FIOshort": "Каверзина М.В.",
+    "Room": "10-202",
+    "FIO": "Леонов Максим Вадимович",
+    "FIOshort": "Леонов М.В.",
     "Error": null
   },
   {
