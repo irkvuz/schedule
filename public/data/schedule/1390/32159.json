@@ -1,6 +1,17 @@
 [
   {
     "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Чжан Яньцзе",
+    "FIOshort": "Чжан Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
     "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Информационные технологии",
@@ -144,6 +155,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Чжан Яньцзе",
+    "FIOshort": "Чжан Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Иностранный язык",
@@ -206,28 +228,6 @@
     "Room": "1-209",
     "FIO": "Юшков Олег Александрович",
     "FIOshort": "Юшков О.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
-    "LessonType": "пр",
-    "Room": "1-204",
-    "FIO": "Чжан Яньцзе",
-    "FIOshort": "Чжан Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (китайский)",
-    "LessonType": "пр",
-    "Room": "2-414",
-    "FIO": "Чжан Яньцзе",
-    "FIOshort": "Чжан Я.",
     "Error": null
   },
   {
