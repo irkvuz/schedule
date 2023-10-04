@@ -244,21 +244,10 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Информатика",
     "LessonType": "л",
-    "Room": "11-411",
-    "FIO": "Санковец Дмитрий Алексеевич",
-    "FIOshort": "Санковец Д.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Информатика",
-    "LessonType": "л",
-    "Room": "11-411",
+    "Room": "11-305",
     "FIO": "Санковец Дмитрий Алексеевич",
     "FIOshort": "Санковец Д.А.",
     "Error": null
