@@ -360,13 +360,6 @@
     "trimesterId": 1390
   },
   {
-    "IdGroup": 30984,
-    "Group": "РСМ-21-1",
-    "Course": 3,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 30597,
     "Group": "РСО-20-1",
     "Course": 4,
