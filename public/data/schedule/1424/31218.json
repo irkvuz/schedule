@@ -90,7 +90,7 @@
   {
     "WeekDay": 3,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Основы философии",
     "LessonType": "пр",
     "Room": "5-207",
@@ -105,6 +105,17 @@
     "Lesson": "Основы философии",
     "LessonType": "л",
     "Room": "5-412",
+    "FIO": "Тараканов Павел Николаевич",
+    "FIOshort": "Тараканов П.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы философии",
+    "LessonType": "пр",
+    "Room": "5-513",
     "FIO": "Тараканов Павел Николаевич",
     "FIOshort": "Тараканов П.Н.",
     "Error": null
