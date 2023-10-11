@@ -79,7 +79,18 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Культура речи",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Лысанова Екатерина Андреевна",
+    "FIOshort": "Лысанова Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
     "Lesson": "Культура речи",
     "LessonType": "л",
     "Room": "5-516",
