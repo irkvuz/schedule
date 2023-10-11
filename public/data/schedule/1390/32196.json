@@ -298,18 +298,18 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Маркетинг",
     "LessonType": "л",
-    "Room": "10-102",
+    "Room": "10-103",
     "FIO": "Холмовский Станислав Геннадьевич",
     "FIOshort": "Холмовский С.Г.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Маркетинг",
     "LessonType": "пр",
