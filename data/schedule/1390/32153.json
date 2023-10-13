@@ -207,5 +207,27 @@
     "FIO": "Белых Татьяна Ивановна",
     "FIOshort": "Белых Т.И.",
     "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "10-101",
+    "FIO": "Егорова Наталья Брониславовна",
+    "FIOshort": "Егорова Н.Б.",
+    "Error": null
   }
 ]
