@@ -163,27 +163,5 @@
     "FIO": "Рудяков Василий Анатольевич",
     "FIOshort": "Рудяков В.А.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-302",
-    "FIO": "Егорова Наталья Брониславовна",
-    "FIOshort": "Егорова Н.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-302",
-    "FIO": "Егорова Наталья Брониславовна",
-    "FIOshort": "Егорова Н.Б.",
-    "Error": null
   }
 ]
