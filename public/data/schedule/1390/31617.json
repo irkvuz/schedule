@@ -174,27 +174,5 @@
     "FIO": "Бусько Михаил Михайлович",
     "FIOshort": "Бусько М.М.",
     "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-302",
-    "FIO": "Егорова Наталья Брониславовна",
-    "FIOshort": "Егорова Н.Б.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "10-302",
-    "FIO": "Егорова Наталья Брониславовна",
-    "FIOshort": "Егорова Н.Б.",
-    "Error": null
   }
 ]
