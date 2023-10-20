@@ -123,6 +123,13 @@
     "trimesterId": 1390
   },
   {
+    "IdGroup": 32551,
+    "Group": "МЛД-23-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31694,
     "Group": "МНГК-22-1",
     "Course": 2,
