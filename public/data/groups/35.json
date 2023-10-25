@@ -239,5 +239,12 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1390
+  },
+  {
+    "IdGroup": 32552,
+    "Group": "ПФрки-23 линг-6",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   }
 ]
