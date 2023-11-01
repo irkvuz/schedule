@@ -245,6 +245,7 @@
     "Group": "ПФрки-23 линг-6",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1390
   }
 ]
