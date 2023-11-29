@@ -33,6 +33,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесные культуры",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Гаскина Екатерина Александровна",
+    "FIOshort": "Гаскина Е.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
