@@ -4,7 +4,6 @@
     "Group": "ЮР-20-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1390
+    "hasSchedule": false
   }
 ]
