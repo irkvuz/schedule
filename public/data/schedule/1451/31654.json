@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Внешнеэкономическая деятельность",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Бирюкова Анастасия Ивановна",
+    "FIOshort": "Бирюкова А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Биология птиц и зверей",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Правоведение",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Биология птиц и зверей",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Болданова Елена Владимировна",
+    "FIOshort": "Болданова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Правоведение",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Гусева Галина Викторовна",
+    "FIOshort": "Гусева Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лесная фитопатология",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы лесовосстановления",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Лесная энтомология",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Балданова Лена Петровна",
+    "FIOshort": "Балданова Л.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Лесная фитопатология",
+    "LessonType": "пр",
+    "Room": "4-410",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  }
+]

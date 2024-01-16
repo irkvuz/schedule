@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы экономики публичного сектора",
+    "LessonType": "л",
+    "Room": "3-705",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы экономики публичного сектора",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Тагаров Бато Жаргалович",
+    "FIOshort": "Тагаров Б.Ж.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-407",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Урбанаев Леонид Львович",
+    "FIOshort": "Урбанаев Л.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "2-316",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Суранова Оксана Александровна",
+    "FIOshort": "Суранова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Суранова Оксана Александровна",
+    "FIOshort": "Суранова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Урбанаев Леонид Львович",
+    "FIOshort": "Урбанаев Л.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История государственного управления в России",
+    "LessonType": "л",
+    "Room": "4-203",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История государственного управления в России",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Левченко Владимир Михайлович",
+    "FIOshort": "Левченко В.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика в управлении",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Самаруха Алексей Викторович",
+    "FIOshort": "Самаруха А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Ринчинов Артём Бэликтоевич",
+    "FIOshort": "Ринчинов А.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика в управлении",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Сорокина Полина Геннадьевна",
+    "FIOshort": "Сорокина П.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Шаламова Светлана Александровна",
+    "FIOshort": "Шаламова С.А.",
+    "Error": null
+  }
+]

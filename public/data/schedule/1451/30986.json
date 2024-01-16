@@ -1,0 +1,222 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Разработка и реализация проектов",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Чистякова Ольга Владимировна",
+    "FIOshort": "Чистякова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Чистякова Ольга Владимировна",
+    "FIOshort": "Чистякова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Разработка и реализация проектов",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Беликов Александр Юрьевич",
+    "FIOshort": "Беликов А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Дипломатический протокол и этикет",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Региональные аспекты международных отношений",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Олейников Илья Васильевич",
+    "FIOshort": "Олейников И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Дипломатический протокол и этикет",
+    "LessonType": "л",
+    "Room": "2-209",
+    "FIO": "Распопина Алена Александровна",
+    "FIOshort": "Распопина А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История международных отношений",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-420",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "1-410",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Мировая политика",
+    "LessonType": "л",
+    "Room": "1-212",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Мировая политика",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Региональные аспекты международных отношений",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Ерицян Инга Нелсиковна",
+    "FIOshort": "Ерицян И.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Геополитика",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (английский)",
+    "LessonType": "пр",
+    "Room": "1-403",
+    "FIO": "Косова Юлия Борисовна",
+    "FIOshort": "Косова Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История международных отношений",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Цыкунов Григорий Александрович",
+    "FIOshort": "Цыкунов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Геополитика",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Шалак Александр Васильевич",
+    "FIOshort": "Шалак А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (китайский)",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Зарубина Ирина Александровна",
+    "FIOshort": "Зарубина И.А.",
+    "Error": null
+  }
+]

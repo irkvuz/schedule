@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Товароведение",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "4-212",
+    "FIO": "Арбатская Елена Анатольевна",
+    "FIOshort": "Арбатская Е.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Микро и макроэкономика",
+    "LessonType": "л",
+    "Room": "4-306",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Микро и макроэкономика",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Рудяков Василий Анатольевич",
+    "FIOshort": "Рудяков В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Товароведение",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Суранова Оксана Александровна",
+    "FIOshort": "Суранова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Корнилова Дарима Дылык-Нимаевна",
+    "FIOshort": "Корнилова Д.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Корнилова Дарима Дылык-Нимаевна",
+    "FIOshort": "Корнилова Д.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной сфере",
+    "LessonType": "пр",
+    "Room": "1-104",
+    "FIO": "Луц Светлана Сергеевна",
+    "FIOshort": "Луц С.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Шаламова Светлана Александровна",
+    "FIOshort": "Шаламова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Шаламова Светлана Александровна",
+    "FIOshort": "Шаламова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Математика 2",
+    "LessonType": "л",
+    "Room": "3-706",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика 2",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Белых Татьяна Ивановна",
+    "FIOshort": "Белых Т.И.",
+    "Error": null
+  }
+]
