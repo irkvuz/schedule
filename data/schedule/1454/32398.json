@@ -13,10 +13,21 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История 1",
     "LessonType": "л",
-    "Room": "11-210",
+    "Room": "11-304",
+    "FIO": "Галыгина Дарья Владимировна",
+    "FIOshort": "Галыгина Д.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История 1",
+    "LessonType": "л",
+    "Room": "11-412",
     "FIO": "Галыгина Дарья Владимировна",
     "FIOshort": "Галыгина Д.В.",
     "Error": null
