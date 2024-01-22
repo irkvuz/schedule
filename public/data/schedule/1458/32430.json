@@ -13,7 +13,18 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Кассовые операции банка",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Подрезова Дарья Николаевна",
+    "FIOshort": "Подрезова Д.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Кассовые операции банка",
     "LessonType": "пр",
     "Room": "11-204",

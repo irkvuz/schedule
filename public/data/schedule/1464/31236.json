@@ -24,18 +24,7 @@
   {
     "WeekDay": 1,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Семейное право",
-    "LessonType": "л",
-    "Room": "2-307",
-    "FIO": "Чигрина Елена Владимировна",
-    "FIOshort": "Чигрина Е.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 2,
+    "Odd": 0,
     "Lesson": "Семейное право",
     "LessonType": "л",
     "Room": "2-307",
