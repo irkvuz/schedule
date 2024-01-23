@@ -123,17 +123,6 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Иностранный язык-китайский",
-    "LessonType": "пр",
-    "Room": "5-515",
-    "FIO": "Рахвалова Юлия Анатольевна",
-    "FIOshort": "Рахвалова Ю.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Иностранный язык-китайский",
     "LessonType": "пр",
