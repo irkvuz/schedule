@@ -88,17 +88,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Международное право",
-    "LessonType": "пр",
-    "Room": "6-311",
-    "FIO": "Приходько Татьяна Викторовна",
-    "FIOshort": "Приходько Т.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -151,6 +140,17 @@
     "Room": "4-206",
     "FIO": "Степаненко Диана Аркадьевна",
     "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
     "Error": null
   },
   {
