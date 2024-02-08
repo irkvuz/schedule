@@ -247,6 +247,27 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 32689,
+    "Group": "ЮП-21-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32690,
+    "Group": "ЮП-21-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32694,
+    "Group": "ЮПус-22-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 32246,
     "Group": "ЮС-20-1",
     "Course": 4,
@@ -257,6 +278,27 @@
     "IdGroup": 32247,
     "Group": "ЮС-20-2",
     "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32691,
+    "Group": "ЮС-21-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32692,
+    "Group": "ЮС-21-2",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32693,
+    "Group": "ЮСус-22-1",
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
