@@ -2,17 +2,6 @@
   {
     "WeekDay": 1,
     "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Криминалистика",
-    "LessonType": "пр",
-    "Room": "6-305",
-    "FIO": "Кряжев Владимир Сергеевич",
-    "FIOshort": "Кряжев В.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
-    "StartTime": "8:30",
     "Odd": 2,
     "Lesson": "Международное право",
     "LessonType": "пр",
@@ -96,6 +85,17 @@
     "Room": "6-402",
     "FIO": "Антонов Владимир Александрович",
     "FIOshort": "Антонов В.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Криминалистика",
+    "LessonType": "пр",
+    "Room": "6-403",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
     "Error": null
   },
   {
