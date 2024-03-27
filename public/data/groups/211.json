@@ -759,14 +759,16 @@
     "Group": "КТ(11)-23-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1470
   },
   {
     "IdGroup": 32438,
     "Group": "КТ(11)-23-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1470
   },
   {
     "IdGroup": 31216,
@@ -818,21 +820,24 @@
     "Group": "КТ(9)-22-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1470
   },
   {
     "IdGroup": 32017,
     "Group": "КТ(9)-22-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1470
   },
   {
     "IdGroup": 32018,
     "Group": "КТ(9)-22-3",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1470
   },
   {
     "IdGroup": 32019,
