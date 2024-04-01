@@ -55,6 +55,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "5-514",
+    "FIO": "Фаркова Ирина Анатольевна",
+    "FIOshort": "Фаркова И.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 1,
@@ -118,17 +129,6 @@
     "Room": "4-202",
     "FIO": "Галицкая Кристина Викторовна",
     "FIOshort": "Галицкая К.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "5-213",
-    "FIO": "Фаркова Ирина Анатольевна",
-    "FIOshort": "Фаркова И.А.",
     "Error": null
   },
   {
