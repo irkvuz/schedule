@@ -198,17 +198,6 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 2,
-    "Lesson": "Интернет-маркетинг",
-    "LessonType": "л",
-    "Room": "2-208",
-    "FIO": "Татаринов Константин Анатольевич",
-    "FIOshort": "Татаринов К.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 1,
