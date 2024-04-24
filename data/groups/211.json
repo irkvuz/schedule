@@ -147,13 +147,6 @@
     "trimesterId": 1458
   },
   {
-    "IdGroup": 32433,
-    "Group": "БУ(11)-23-2",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 31195,
     "Group": "БУ(9)-21-1",
     "Course": 3,
@@ -212,13 +205,6 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1454
-  },
-  {
-    "IdGroup": 32478,
-    "Group": "БУ(9)-23-П-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
   },
   {
     "IdGroup": 31914,
