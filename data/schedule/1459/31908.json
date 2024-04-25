@@ -79,21 +79,10 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 1,
+    "Odd": 0,
     "Lesson": "Трудовое право",
     "LessonType": "пр",
-    "Room": "5-502",
-    "FIO": "Халмакшинова Анна Николаевна",
-    "FIOshort": "Халмакшинова А.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Трудовое право",
-    "LessonType": "пр",
-    "Room": "5-404",
+    "Room": "5-213",
     "FIO": "Халмакшинова Анна Николаевна",
     "FIOshort": "Халмакшинова А.Н.",
     "Error": null
