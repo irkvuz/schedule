@@ -1485,5 +1485,40 @@
     "Error": null,
     "hasSchedule": true,
     "trimesterId": 1458
+  },
+  {
+    "IdGroup": 32877,
+    "Group": "ЮР(9)-23-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32878,
+    "Group": "ЮР(9)-23-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32879,
+    "Group": "ЮР(9)-23-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32880,
+    "Group": "ЮР(9)-23-4",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32881,
+    "Group": "ЮР(9)-23-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
   }
 ]
