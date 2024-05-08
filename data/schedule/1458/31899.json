@@ -46,17 +46,6 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Рынок ценных бумаг",
-    "LessonType": "пр",
-    "Room": "11-412",
-    "FIO": "Подрезова Дарья Николаевна",
-    "FIOshort": "Подрезова Д.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Банковская система",
     "LessonType": "пр",
