@@ -1255,6 +1255,27 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 32882,
+    "Group": "ПЮР(9)-23-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32883,
+    "Group": "ПЮР(9)-23-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 32884,
+    "Group": "ПЮР(9)-23-3",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31916,
     "Group": "Т(11)-22-1",
     "Course": 2,
