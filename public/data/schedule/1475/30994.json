@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Актёрское мастерство",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Винокуров Андрей Матвеевич",
+    "FIOshort": "Винокуров А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Актёрское мастерство",
+    "LessonType": "пр",
+    "Room": "2-317",
+    "FIO": "Винокуров Андрей Матвеевич",
+    "FIOshort": "Винокуров А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Data Science",
+    "LessonType": "л",
+    "Room": "2-412",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История систем мысли",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История систем мысли",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Прохоренкова Светлана Александровна",
+    "FIOshort": "Прохоренкова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Системное и критическое мышление",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Системное и критическое мышление",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Тимофеев Сергей Викторович",
+    "FIOshort": "Тимофеев С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Авторское право",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Авторское право",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Data Science",
+    "LessonType": "пр",
+    "Room": "2-311",
+    "FIO": "Баенхаева Аюна Валерьевна",
+    "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория киноискусства в системе гуманитарного знания ",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Теория киноискусства в системе гуманитарного знания ",
+    "LessonType": "л",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Теория киноискусства в системе гуманитарного знания ",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория киноискусства в системе гуманитарного знания ",
+    "LessonType": "пр",
+    "Room": "2-208",
+    "FIO": "Кирьянова Ольга Александровна",
+    "FIOshort": "Кирьянова О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "3-402",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Кураторство арт-пространства",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Раднаева Юмжан Дашинимаевна",
+    "FIOshort": "Раднаева Ю.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Кураторство арт-пространства",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Раднаева Юмжан Дашинимаевна",
+    "FIOshort": "Раднаева Ю.Д.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Кураторство арт-пространства",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Раднаева Юмжан Дашинимаевна",
+    "FIOshort": "Раднаева Ю.Д.",
+    "Error": null
+  }
+]

@@ -1,223 +1,1892 @@
 [
   {
+    "id": "20",
+    "name": "ГПиНБ",
+    "fullName": "Государственного права и национальной безопасности",
+    "groups": [
+      {
+        "id": "32210",
+        "name": "МЮм-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32630",
+        "name": "МЮм-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32214",
+        "name": "МЮфп-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32633",
+        "name": "МЮфп-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30563",
+        "name": "НБ-20-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30564",
+        "name": "НБ-20-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30565",
+        "name": "НБ-20-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31031",
+        "name": "НБ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31032",
+        "name": "НБ-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31033",
+        "name": "НБ-21-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31034",
+        "name": "НБ-21-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31605",
+        "name": "НБ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31606",
+        "name": "НБ-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31607",
+        "name": "НБ-22-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32142",
+        "name": "НБ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32144",
+        "name": "НБ-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32603",
+        "name": "НБ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32668",
+        "name": "НБ-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32688",
+        "name": "НБгр-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31725",
+        "name": "НБус-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32146",
+        "name": "НБус-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32621",
+        "name": "НБус-24-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "name": "ИКСКИТ",
+    "fullName": "Институт культуры, социальных коммуникаций и информационных технологий",
+    "groups": [
+      {
+        "id": "31017",
+        "name": "БИ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31617",
+        "name": "БИ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32151",
+        "name": "БИ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32622",
+        "name": "БИ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31006",
+        "name": "Ж-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31618",
+        "name": "Ж-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32149",
+        "name": "Ж-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32579",
+        "name": "Ж-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30994",
+        "name": "ИЗИ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31646",
+        "name": "ИЗИ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32154",
+        "name": "ИЗИ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32577",
+        "name": "ИЗИ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32562",
+        "name": "ИИ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30997",
+        "name": "ИС-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31004",
+        "name": "ИС-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31649",
+        "name": "ИС-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31650",
+        "name": "ИС-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32152",
+        "name": "ИС-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32153",
+        "name": "ИС-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32592",
+        "name": "ИС-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32895",
+        "name": "ИС-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32217",
+        "name": "МЖ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32213",
+        "name": "МИЗИ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32636",
+        "name": "МИЗИ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32218",
+        "name": "МИС-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32637",
+        "name": "МИС-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32219",
+        "name": "МРС-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32652",
+        "name": "МРС-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32216",
+        "name": "МСЭП-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32659",
+        "name": "МСЭП-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30566",
+        "name": "ПСД-20-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31028",
+        "name": "ПСД-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31660",
+        "name": "ПСД-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32148",
+        "name": "ПСД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32594",
+        "name": "ПСД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32899",
+        "name": "ПСД-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30987",
+        "name": "РС-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31662",
+        "name": "РС-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30993",
+        "name": "РСО-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31665",
+        "name": "РСО-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32092",
+        "name": "РСО-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32150",
+        "name": "РСО-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32494",
+        "name": "РСО-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32632",
+        "name": "РСО-24-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "name": "ИМЭМО",
+    "fullName": "Институт мировой экономики и международных отношений",
+    "groups": [
+      {
+        "id": "32157",
+        "name": "ВЭД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32583",
+        "name": "ВЭД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31013",
+        "name": "Л-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31663",
+        "name": "Л-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32158",
+        "name": "Л-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32572",
+        "name": "Л-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32220",
+        "name": "МЛ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32639",
+        "name": "МЛ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32221",
+        "name": "ММО-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32641",
+        "name": "ММО-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30986",
+        "name": "МО-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31000",
+        "name": "МО-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31667",
+        "name": "МО-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32159",
+        "name": "МО-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32564",
+        "name": "МО-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32896",
+        "name": "МО-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31011",
+        "name": "МЭК-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31659",
+        "name": "МЭК-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30567",
+        "name": "ПП-20-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30996",
+        "name": "ПП-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31670",
+        "name": "ПП-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32049",
+        "name": "ПП-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32167",
+        "name": "ПП-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32571",
+        "name": "ПП-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31012",
+        "name": "РФ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31005",
+        "name": "Т-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31669",
+        "name": "Т-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32160",
+        "name": "Т-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32580",
+        "name": "Т-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30571",
+        "name": "ТД-20-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30572",
+        "name": "ТД-20-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30882",
+        "name": "ТД-20-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30995",
+        "name": "ТД-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31029",
+        "name": "ТД-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31030",
+        "name": "ТД-21-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31443",
+        "name": "ТД-21-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31671",
+        "name": "ТД-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31672",
+        "name": "ТД-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31673",
+        "name": "ТД-22-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32048",
+        "name": "ТД-22-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32161",
+        "name": "ТД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32162",
+        "name": "ТД-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32598",
+        "name": "ТД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32670",
+        "name": "ТД-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30573",
+        "name": "ЭБ-20-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31035",
+        "name": "ЭБ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31036",
+        "name": "ЭБ-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31674",
+        "name": "ЭБ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31675",
+        "name": "ЭБ-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32165",
+        "name": "ЭБ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32596",
+        "name": "ЭБ-24-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "name": "ИНХ",
+    "fullName": "Институт народного хозяйства",
+    "groups": [
+      {
+        "id": "31651",
+        "name": "ЗемК-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32191",
+        "name": "ЗемК-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32599",
+        "name": "ЗемК-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31002",
+        "name": "ЛД-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31654",
+        "name": "ЛД-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32175",
+        "name": "ЛД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32604",
+        "name": "ЛД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32551",
+        "name": "МЛД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32656",
+        "name": "МЛД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32222",
+        "name": "МНГК-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32645",
+        "name": "МНГК-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32570",
+        "name": "МСтр-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "30998",
+        "name": "НГК-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31647",
+        "name": "НГК-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32173",
+        "name": "НГК-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32609",
+        "name": "НГК-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32900",
+        "name": "НГК-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31007",
+        "name": "ПД-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31645",
+        "name": "ПД-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32043",
+        "name": "ПД-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32045",
+        "name": "ПД-22-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32171",
+        "name": "ПД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32172",
+        "name": "ПД-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32611",
+        "name": "ПД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32662",
+        "name": "ПД-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31648",
+        "name": "Стр-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32174",
+        "name": "Стр-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31009",
+        "name": "ЭиУГ-21",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31643",
+        "name": "ЭиУГ-22-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "name": "ИУФ",
+    "fullName": "Институт управления и финансов",
+    "groups": [
+      {
+        "id": "31024",
+        "name": "ГМУ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31641",
+        "name": "ГМУ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32200",
+        "name": "ГМУ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32495",
+        "name": "ГМУ-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32619",
+        "name": "ГМУ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32664",
+        "name": "ГМУ-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31019",
+        "name": "М-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31632",
+        "name": "М-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32046",
+        "name": "М-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32178",
+        "name": "М-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32614",
+        "name": "М-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32898",
+        "name": "М-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32226",
+        "name": "ММен-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32649",
+        "name": "ММен-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32227",
+        "name": "МММеж-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32650",
+        "name": "МММеж-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32228",
+        "name": "МФиК-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32559",
+        "name": "МФиК-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31021",
+        "name": "ПМЛ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31637",
+        "name": "ПМЛ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32182",
+        "name": "ПМЛ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32623",
+        "name": "ПМЛ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31016",
+        "name": "УБ-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31635",
+        "name": "УБ-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32585",
+        "name": "УБ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31023",
+        "name": "УП-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31639",
+        "name": "УП-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32183",
+        "name": "УП-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32617",
+        "name": "УП-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31633",
+        "name": "Ф-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31634",
+        "name": "Ф-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32180",
+        "name": "Ф-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32181",
+        "name": "Ф-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32588",
+        "name": "Ф-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32591",
+        "name": "Фб-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32590",
+        "name": "Фф-21-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "ИЮ",
+    "fullName": "Институт юстиции",
+    "groups": [
+      {
+        "id": "32236",
+        "name": "МЮгр-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32653",
+        "name": "МЮгр-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32657",
+        "name": "МЮпд-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32232",
+        "name": "МЮПК-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32229",
+        "name": "МЮпн-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32643",
+        "name": "МЮпн-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32234",
+        "name": "МЮсэ-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32646",
+        "name": "МЮсэ-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31604",
+        "name": "СПД-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32047",
+        "name": "СПД-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32188",
+        "name": "СПД-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32189",
+        "name": "СПД-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32608",
+        "name": "СПД-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32669",
+        "name": "СПД-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32209",
+        "name": "СПДус-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31628",
+        "name": "Ю-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31629",
+        "name": "Ю-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31630",
+        "name": "Ю-22-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32184",
+        "name": "Ю-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32185",
+        "name": "Ю-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32186",
+        "name": "Ю-23-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32521",
+        "name": "Ю-23-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32626",
+        "name": "Ю-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32665",
+        "name": "Ю-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32666",
+        "name": "Ю-24-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32667",
+        "name": "Ю-24-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32689",
+        "name": "ЮП-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32690",
+        "name": "ЮП-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32694",
+        "name": "ЮПус-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32691",
+        "name": "ЮС-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32692",
+        "name": "ЮС-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32693",
+        "name": "ЮСус-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32187",
+        "name": "Юус-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32627",
+        "name": "Юус-24-1",
+        "trimesterId": 1475
+      }
+    ]
+  },
+  {
     "id": "211",
     "name": "КБГУ",
     "fullName": "Колледж Байкальского государственного университета",
     "groups": [
       {
+        "id": "32430",
+        "name": "БД(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32839",
+        "name": "БД(11)-24-1",
+        "trimesterId": 1520
+      },
+      {
+        "id": "31899",
+        "name": "БД(9)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31895",
+        "name": "БД(9)-22-2",
+        "trimesterId": 1516
+      },
+      {
         "id": "32395",
         "name": "БД(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32396",
         "name": "БД(9)-23-2",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
-        "id": "32399",
-        "name": "БУ(9)-23-1",
-        "trimesterId": 1454
+        "id": "32872",
+        "name": "БД(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32892",
+        "name": "БД(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32432",
+        "name": "БУ(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32837",
+        "name": "БУ(11)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31950",
+        "name": "БУ(9)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31951",
+        "name": "БУ(9)-22-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32072",
+        "name": "БУ(9)-22-3",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32836",
+        "name": "БУ(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32436",
+        "name": "ДОУ(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31938",
+        "name": "ДОУ(9)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31933",
+        "name": "ЗИО(9)-22-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31934",
+        "name": "ЗИО(9)-22-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31935",
+        "name": "ЗИО(9)-22-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31936",
+        "name": "ЗИО(9)-22-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32441",
+        "name": "ЗУ(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32442",
+        "name": "ЗУ(11)-23-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32451",
+        "name": "ЗУ(11)-23-3",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32832",
+        "name": "ЗУ(11)-24-1",
+        "trimesterId": 1516
       },
       {
         "id": "32408",
         "name": "ЗУ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1516
       },
       {
         "id": "32409",
         "name": "ЗУ(9)-23-2",
-        "trimesterId": 1454
+        "trimesterId": 1516
       },
       {
         "id": "32410",
         "name": "ЗУ(9)-23-3",
-        "trimesterId": 1454
+        "trimesterId": 1516
+      },
+      {
+        "id": "32829",
+        "name": "ЗУ(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32830",
+        "name": "ЗУ(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32831",
+        "name": "ЗУ(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31985",
+        "name": "ИСП(11)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32007",
+        "name": "ИСП(11)-22-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32444",
+        "name": "ИСП(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32445",
+        "name": "ИСП(11)-23-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32819",
+        "name": "ИСП(11)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32820",
+        "name": "ИСП(11)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31987",
+        "name": "ИСП(9)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32010",
+        "name": "ИСП(9)-22-2",
+        "trimesterId": 1516
       },
       {
         "id": "32414",
         "name": "ИСП(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32415",
         "name": "ИСП(9)-23-2",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32416",
         "name": "ИСП(9)-23-3",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32417",
         "name": "ИСП(9)-23-4",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32418",
         "name": "ИСП(9)-23-5",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32484",
         "name": "ИСП(9)-23-6",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
-        "id": "32485",
-        "name": "ИСП(9)-23-7",
-        "trimesterId": 1454
+        "id": "32822",
+        "name": "ИСП(9)-24-1",
+        "trimesterId": 1499
       },
       {
-        "id": "32486",
-        "name": "ИСП(9)-23-8",
-        "trimesterId": 1454
+        "id": "32823",
+        "name": "ИСП(9)-24-2",
+        "trimesterId": 1499
       },
       {
-        "id": "32487",
-        "name": "ИСП(9)-23-9",
-        "trimesterId": 1454
+        "id": "32824",
+        "name": "ИСП(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32825",
+        "name": "ИСП(9)-24-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32826",
+        "name": "ИСП(9)-24-5",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32827",
+        "name": "ИСП(9)-24-6",
+        "trimesterId": 1499
       },
       {
         "id": "32437",
         "name": "КТ(11)-23-1",
-        "trimesterId": 1470
-      },
-      {
-        "id": "32438",
-        "name": "КТ(11)-23-2",
-        "trimesterId": 1470
+        "trimesterId": 1516
       },
       {
         "id": "32016",
         "name": "КТ(9)-22-1",
-        "trimesterId": 1470
+        "trimesterId": 1516
       },
       {
         "id": "32017",
         "name": "КТ(9)-22-2",
-        "trimesterId": 1470
+        "trimesterId": 1516
       },
       {
         "id": "32018",
         "name": "КТ(9)-22-3",
-        "trimesterId": 1470
+        "trimesterId": 1516
       },
       {
         "id": "32401",
         "name": "КТ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32402",
         "name": "КТ(9)-23-2",
-        "trimesterId": 1454
-      },
-      {
-        "id": "32403",
-        "name": "КТ(9)-23-3",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32412",
         "name": "ЛХ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32413",
         "name": "ЛХ(9)-23-2",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32515",
         "name": "ЛХ(9)-23-3",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32516",
         "name": "ЛХ(9)-23-4",
-        "trimesterId": 1454
+        "trimesterId": 1499
+      },
+      {
+        "id": "32834",
+        "name": "ЛХ(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32835",
+        "name": "ЛХ(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32890",
+        "name": "ЛХ(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32891",
+        "name": "ЛХ(9)-24-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32873",
+        "name": "ПБД(9)-24-1",
+        "trimesterId": 1499
       },
       {
         "id": "32398",
         "name": "ПБУ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
+      },
+      {
+        "id": "32838",
+        "name": "ПБУ(9)-24-1",
+        "trimesterId": 1499
       },
       {
         "id": "32400",
         "name": "ПДОУ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
-        "id": "32419",
-        "name": "ППСО(9)-23-1",
-        "trimesterId": 1454
+        "id": "32818",
+        "name": "ПДОУ(9)-24-1",
+        "trimesterId": 1499
       },
       {
-        "id": "32421",
-        "name": "ППСО(9)-23-2",
-        "trimesterId": 1454
+        "id": "32448",
+        "name": "ПСО(11)-23-1",
+        "trimesterId": 1499
       },
       {
-        "id": "32422",
-        "name": "ППСО(9)-23-3",
-        "trimesterId": 1454
+        "id": "32449",
+        "name": "ПСО(11)-23-2",
+        "trimesterId": 1499
       },
       {
-        "id": "32423",
-        "name": "ПСО(9)-23-1",
-        "trimesterId": 1454
+        "id": "32454",
+        "name": "ПСО(11)-23-3",
+        "trimesterId": 1499
       },
       {
-        "id": "32424",
-        "name": "ПСО(9)-23-2",
-        "trimesterId": 1454
+        "id": "32450",
+        "name": "ПСО(11)-23-4",
+        "trimesterId": 1499
       },
       {
-        "id": "32425",
-        "name": "ПСО(9)-23-3",
-        "trimesterId": 1454
+        "id": "32452",
+        "name": "ПСО(11)-23-5",
+        "trimesterId": 1499
       },
       {
-        "id": "32426",
-        "name": "ПСО(9)-23-4",
-        "trimesterId": 1454
+        "id": "31908",
+        "name": "ПСО(9)-22-1",
+        "trimesterId": 1499
       },
       {
-        "id": "32427",
-        "name": "ПСО(9)-23-5",
-        "trimesterId": 1454
+        "id": "31909",
+        "name": "ПСО(9)-22-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31910",
+        "name": "ПСО(9)-22-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31911",
+        "name": "ПСО(9)-22-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31912",
+        "name": "ПСО(9)-22-5",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31913",
+        "name": "ПСО(9)-22-6",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32882",
+        "name": "ПЮР(9)-23-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32883",
+        "name": "ПЮР(9)-23-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32884",
+        "name": "ПЮР(9)-23-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32845",
+        "name": "ПЮР(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32846",
+        "name": "ПЮР(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32847",
+        "name": "ПЮР(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "31920",
+        "name": "Т(9)-22-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31921",
+        "name": "Т(9)-22-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31922",
+        "name": "Т(9)-22-3",
+        "trimesterId": 1516
+      },
+      {
+        "id": "31923",
+        "name": "Т(9)-22-4",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32439",
+        "name": "ТГ(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32440",
+        "name": "ТГ(11)-23-2",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32854",
+        "name": "ТГ(11)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32889",
+        "name": "ТГ(11)-24-2",
+        "trimesterId": 1499
       },
       {
         "id": "32404",
         "name": "ТГ(9)-23-1",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32405",
         "name": "ТГ(9)-23-2",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32406",
         "name": "ТГ(9)-23-3",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32407",
         "name": "ТГ(9)-23-4",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32496",
         "name": "ТГ(9)-23-5",
-        "trimesterId": 1454
+        "trimesterId": 1499
       },
       {
         "id": "32497",
         "name": "ТГ(9)-23-6",
-        "trimesterId": 1454
+        "trimesterId": 1499
+      },
+      {
+        "id": "32855",
+        "name": "ТГ(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32856",
+        "name": "ТГ(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32857",
+        "name": "ТГ(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32858",
+        "name": "ТГ(9)-24-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32888",
+        "name": "ТГ(9)-24-5",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32843",
+        "name": "ТД(11)-24-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32840",
+        "name": "ТД(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32841",
+        "name": "ТД(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32842",
+        "name": "ТД(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32434",
+        "name": "Ф(11)-23-1",
+        "trimesterId": 1516
+      },
+      {
+        "id": "32817",
+        "name": "Ф(11)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32849",
+        "name": "ЮР(11)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32850",
+        "name": "ЮР(11)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32851",
+        "name": "ЮР(11)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32852",
+        "name": "ЮР(11)-24-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32877",
+        "name": "ЮР(9)-23-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32878",
+        "name": "ЮР(9)-23-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32879",
+        "name": "ЮР(9)-23-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32880",
+        "name": "ЮР(9)-23-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32881",
+        "name": "ЮР(9)-23-5",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32848",
+        "name": "ЮР(9)-24-1",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32874",
+        "name": "ЮР(9)-24-2",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32875",
+        "name": "ЮР(9)-24-3",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32876",
+        "name": "ЮР(9)-24-4",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32887",
+        "name": "ЮР(9)-24-5",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32893",
+        "name": "ЮР(9)-24-6",
+        "trimesterId": 1499
+      },
+      {
+        "id": "32894",
+        "name": "ЮР(9)-24-7",
+        "trimesterId": 1499
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "МФ",
+    "fullName": "Международный факультет",
+    "groups": [
+      {
+        "id": "31027",
+        "name": "ББЛрки-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31919",
+        "name": "ББЛрки-21-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31624",
+        "name": "ББЛрки-22-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32367",
+        "name": "ББЛрки-22-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32531",
+        "name": "ББЛрки-22-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32284",
+        "name": "ББЛрки-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32766",
+        "name": "ББЛрки-23-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32584",
+        "name": "ББЛрки-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32897",
+        "name": "ББЛрки-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "31020",
+        "name": "МЕНрк-21-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32192",
+        "name": "МЕНрк-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32615",
+        "name": "МЕНрк-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32238",
+        "name": "МЛрки-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32640",
+        "name": "МЛрки-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32195",
+        "name": "МЭКркП-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32589",
+        "name": "МЭКркП-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32196",
+        "name": "ПМЛрк-23-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32624",
+        "name": "ПМЛрк-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32573",
+        "name": "ПФрки-гум-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32747",
+        "name": "ПФрки-гум-24-2",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32748",
+        "name": "ПФрки-гум-24-3",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32749",
+        "name": "ПФрки-гум-24-4",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32575",
+        "name": "ПФрки-экон-24-1",
+        "trimesterId": 1475
+      },
+      {
+        "id": "32595",
+        "name": "Фрк-24-1",
+        "trimesterId": 1475
       }
     ]
   }

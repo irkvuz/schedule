@@ -1,177 +1,199 @@
 [
   {
-    "IdGroup": 31616,
-    "Group": "МЮм-22-1",
-    "Course": 2,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 32210,
     "Group": "МЮм-23-1",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 31615,
-    "Group": "МЮфп-22-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32630,
+    "Group": "МЮм-24-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 32214,
     "Group": "МЮфп-23-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32633,
+    "Group": "МЮфп-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30212,
-    "Group": "НБ-19-1",
-    "Course": 5,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30216,
-    "Group": "НБ-19-2",
-    "Course": 5,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30217,
-    "Group": "НБ-19-3",
-    "Course": 5,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
-    "IdGroup": 30218,
-    "Group": "НБ-19-4",
-    "Course": 5,
-    "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 30563,
     "Group": "НБ-20-1",
-    "Course": 4,
+    "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 30564,
     "Group": "НБ-20-2",
-    "Course": 4,
+    "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 30565,
     "Group": "НБ-20-3",
-    "Course": 4,
+    "Course": 5,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 30886,
     "Group": "НБ-20-4",
-    "Course": 4,
+    "Course": 5,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 31031,
     "Group": "НБ-21-1",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31032,
     "Group": "НБ-21-2",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31033,
     "Group": "НБ-21-3",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31034,
     "Group": "НБ-21-4",
-    "Course": 3,
+    "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31605,
     "Group": "НБ-22-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31606,
     "Group": "НБ-22-2",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31607,
     "Group": "НБ-22-3",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31608,
     "Group": "НБ-22-4",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 32142,
     "Group": "НБ-23-1",
-    "Course": 1,
+    "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 32144,
     "Group": "НБ-23-2",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32603,
+    "Group": "НБ-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32668,
+    "Group": "НБ-24-2",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32688,
+    "Group": "НБгр-24-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31725,
     "Group": "НБус-22-1",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 32128,
     "Group": "НБус-22-2",
-    "Course": 2,
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   },
   {
     "IdGroup": 32146,
     "Group": "НБус-23-1",
+    "Course": 2,
+    "Error": null,
+    "hasSchedule": true,
+    "trimesterId": 1475
+  },
+  {
+    "IdGroup": 32621,
+    "Group": "НБус-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   }
 ]

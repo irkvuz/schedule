@@ -1,0 +1,123 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Логистика",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы предпринимательской деятельности",
+    "LessonType": "л",
+    "Room": "11-204",
+    "FIO": "Мима Мария Юрьевна",
+    "FIOshort": "Мима М.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Анализ финансово-хозяйственной деятельности",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Змановская Ольга Викторовна",
+    "FIOshort": "Змановская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы философии",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Тараканов Павел Николаевич",
+    "FIOshort": "Тараканов П.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Плохотников Михаил Александрович",
+    "FIOshort": "Плохотников М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "12-407",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Логистика",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Старухина Нина Эдуардовна",
+    "FIOshort": "Старухина Н.Э.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Финансы, налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "11-203",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  }
+]

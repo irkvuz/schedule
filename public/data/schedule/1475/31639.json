@@ -1,0 +1,156 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "л",
+    "Room": "2-105",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономический анализ",
+    "LessonType": "пр",
+    "Room": "2-105",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология и психология труда",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Баёв Павел Анатольевич",
+    "FIOshort": "Баёв П.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация труда персонала",
+    "LessonType": "л",
+    "Room": "2-211",
+    "FIO": "Кряжева Алена Павловна",
+    "FIOshort": "Кряжева А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Антикризисное управление персоналом",
+    "LessonType": "л",
+    "Room": "2-313",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Татаринов Константин Анатольевич",
+    "FIOshort": "Татаринов К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "л",
+    "Room": "5-203",
+    "FIO": "Носырева Ирина Григорьевна",
+    "FIOshort": "Носырева И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Трудовое право",
+    "LessonType": "пр",
+    "Room": "5-203",
+    "FIO": "Носырева Ирина Григорьевна",
+    "FIOshort": "Носырева И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономика труда",
+    "LessonType": "л",
+    "Room": "5-203",
+    "FIO": "Носырева Ирина Григорьевна",
+    "FIOshort": "Носырева И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика труда",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Носырева Ирина Григорьевна",
+    "FIOshort": "Носырева И.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Антикризисное управление персоналом",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Балашова Надежда Валерьевна",
+    "FIOshort": "Балашова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Социология и психология труда",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Баёв Павел Анатольевич",
+    "FIOshort": "Баёв П.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Организация труда персонала",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Кряжева Алена Павловна",
+    "FIOshort": "Кряжева А.П.",
+    "Error": null
+  }
+]

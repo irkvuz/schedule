@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Чмаркова Елена Гирадьевна",
+    "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Электронная коммерция",
+    "LessonType": "пр",
+    "Room": "3-510",
+    "FIO": "Силантьев Александр Валерьевич",
+    "FIOshort": "Силантьев А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Организация торгового бизнеса",
+    "LessonType": "л",
+    "Room": "3-903",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономика торговли",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Статистика",
+    "LessonType": "пр",
+    "Room": "3-702",
+    "FIO": "Малютина Светлана Анатольевна",
+    "FIOshort": "Малютина С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "5-207",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Электронная коммерция",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Силантьев Александр Валерьевич",
+    "FIOshort": "Силантьев А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "л",
+    "Room": "3-602",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Маркетинг",
+    "LessonType": "пр",
+    "Room": "3-602",
+    "FIO": "Рыженков Алексей Геннадьевич",
+    "FIOshort": "Рыженков А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Организация торгового бизнеса",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Щепина Светлана Владиславовна",
+    "FIOshort": "Щепина С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика торговли",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экономика торговли",
+    "LessonType": "л",
+    "Room": "3-702",
+    "FIO": "Холмовский Станислав Геннадьевич",
+    "FIOshort": "Холмовский С.Г.",
+    "Error": null
+  }
+]
