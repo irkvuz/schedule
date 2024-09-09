@@ -77,6 +77,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Эргономика",
+    "LessonType": "л",
+    "Room": "2-315",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
@@ -107,6 +118,17 @@
     "Room": "3-408",
     "FIO": "Баенхаева Аюна Валерьевна",
     "FIOshort": "Баенхаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Эргономика",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Чернова Людмила Михайловна",
+    "FIOshort": "Чернова Л.М.",
     "Error": null
   },
   {
@@ -151,28 +173,6 @@
     "Room": "2-315",
     "FIO": "Трохирова Ульяна Владимировна",
     "FIOshort": "Трохирова У.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Эргономика",
-    "LessonType": "л",
-    "Room": "5-207",
-    "FIO": "Чернова Людмила Михайловна",
-    "FIOshort": "Чернова Л.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Эргономика",
-    "LessonType": "пр",
-    "Room": "5-207",
-    "FIO": "Чернова Людмила Михайловна",
-    "FIOshort": "Чернова Л.М.",
     "Error": null
   }
 ]

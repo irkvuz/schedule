@@ -88,6 +88,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "5-213",
+    "FIO": "Бисикало Елена Эдуардовна",
+    "FIOshort": "Бисикало Е.Э.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -210,22 +221,11 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "12:00",
-    "Odd": 2,
-    "Lesson": "Экономическая культура",
-    "LessonType": "пр",
-    "Room": "5-208",
-    "FIO": "Бисикало Елена Эдуардовна",
-    "FIOshort": "Бисикало Е.Э.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Основы российской государственности",
-    "LessonType": "пр",
-    "Room": "5-203",
+    "LessonType": "л",
+    "Room": "5-401",
     "FIO": "Баёв Павел Анатольевич",
     "FIOshort": "Баёв П.А.",
     "Error": null
@@ -235,8 +235,8 @@
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "Основы российской государственности",
-    "LessonType": "л",
-    "Room": "5-301",
+    "LessonType": "пр",
+    "Room": "5-214",
     "FIO": "Баёв Павел Анатольевич",
     "FIOshort": "Баёв П.А.",
     "Error": null

@@ -2,7 +2,7 @@
   {
     "WeekDay": 1,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Общая психология",
     "LessonType": "л",
     "Room": "2-312",
@@ -17,6 +17,17 @@
     "Lesson": "Общая психология",
     "LessonType": "пр",
     "Room": "2-312",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "2-316",
     "FIO": "Никулина Татьяна Ивановна",
     "FIOshort": "Никулина Т.И.",
     "Error": null

@@ -293,13 +293,6 @@
     "trimesterId": 1475
   },
   {
-    "IdGroup": 32663,
-    "Group": "Ф-24-2",
-    "Course": 1,
-    "Error": null,
-    "hasSchedule": false
-  },
-  {
     "IdGroup": 32591,
     "Group": "Фб-21-2",
     "Course": 4,
