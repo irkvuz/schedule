@@ -110,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Информатика 1",
+    "LessonType": "пр",
+    "Room": "11-304",
+    "FIO": "Обогоева Арина Владимировна",
+    "FIOshort": "Обогоева А.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 1,
@@ -239,17 +250,6 @@
     "Room": "11-204",
     "FIO": "Лысанова Екатерина Андреевна",
     "FIOshort": "Лысанова Е.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Информатика 1",
-    "LessonType": "пр",
-    "Room": "11-401",
-    "FIO": "Гурчин Артур Андреевич",
-    "FIOshort": "Гурчин А.А.",
     "Error": null
   }
 ]

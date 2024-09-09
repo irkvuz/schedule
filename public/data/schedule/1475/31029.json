@@ -33,17 +33,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Таможенные платежи",
-    "LessonType": "пр",
-    "Room": "2-415",
-    "FIO": "Гущина Ольга Геннадьевна",
-    "FIOshort": "Гущина О.Г.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
@@ -193,6 +182,17 @@
     "Lesson": "Таможенные платежи",
     "LessonType": "л",
     "Room": "2-416",
+    "FIO": "Гущина Ольга Геннадьевна",
+    "FIOshort": "Гущина О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "пр",
+    "Room": "2-316",
     "FIO": "Гущина Ольга Геннадьевна",
     "FIOshort": "Гущина О.Г.",
     "Error": null
