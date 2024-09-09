@@ -1,0 +1,123 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Государственная служба в РФ",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Тугарина Зинаида Николаевна",
+    "FIOshort": "Тугарина З.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория государства и права",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Бурлакова Анна Александровна",
+    "FIOshort": "Бурлакова А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Конституционное право России",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "5-510",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Мельгунова Анастасия Геннадьевна",
+    "FIOshort": "Мельгунова А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 0,
+    "Lesson": "Деловой английский язык (English for Professional Purpose)",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Мельгунова Анастасия Геннадьевна",
+    "FIOshort": "Мельгунова А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "л",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Исследование рынков",
+    "LessonType": "л",
+    "Room": "3-605",
+    "FIO": "Кузьмин Михаил Петрович",
+    "FIOshort": "Кузьмин М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Управленческая экономика (Managerial Economics)",
+    "LessonType": "пр",
+    "Room": "3-704",
+    "FIO": "Рыбалко Михаил Леонидович",
+    "FIOshort": "Рыбалко М.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Исследование рынков",
+    "LessonType": "пр",
+    "Room": "3-605",
+    "FIO": "Кузьмин Михаил Петрович",
+    "FIOshort": "Кузьмин М.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "л",
+    "Room": "5-214",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Методы научных исследований в управленческой деятельности (Research Methods in Management)",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "л",
+    "Room": "5-202",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "5-202",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Теория организации и организационное поведение (Organizational Theory and Organizational Behavior)",
+    "LessonType": "пр",
+    "Room": "5-202",
+    "FIO": "Астраханцева Арина Сергеевна",
+    "FIOshort": "Астраханцева А.С.",
+    "Error": null
+  }
+]

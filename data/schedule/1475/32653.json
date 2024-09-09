@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Договорное право",
+    "LessonType": "л",
+    "Room": "6-310",
+    "FIO": "Райников Артем Сергеевич",
+    "FIOshort": "Райников А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Договорное право",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Райников Артем Сергеевич",
+    "FIOshort": "Райников А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Правовая аналитика",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Праскова Светлана Васильевна",
+    "FIOshort": "Праскова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Правовая аналитика",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Праскова Светлана Васильевна",
+    "FIOshort": "Праскова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Правовые позиции органов судебной власти",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Правовые позиции органов судебной власти",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Приходько Татьяна Викторовна",
+    "FIOshort": "Приходько Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Страховое право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Вакулина Галина Анатольевна",
+    "FIOshort": "Вакулина Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Актуальные проблемы цивилистики",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Виниченко Юлия Вараздатовна",
+    "FIOshort": "Виниченко Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Актуальные проблемы цивилистики",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Виниченко Юлия Вараздатовна",
+    "FIOshort": "Виниченко Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Юридическая техника",
+    "LessonType": "л",
+    "Room": "4-206",
+    "FIO": "Костюнина Ольга Владиславовна",
+    "FIOshort": "Костюнина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Юридическая техника",
+    "LessonType": "пр",
+    "Room": "6-303",
+    "FIO": "Костюнина Ольга Владиславовна",
+    "FIOshort": "Костюнина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Вещное право",
+    "LessonType": "л",
+    "Room": "6-305",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
+    "Odd": 2,
+    "Lesson": "Вещное право",
+    "LessonType": "пр",
+    "Room": "6-305",
+    "FIO": "Старицын Алексей Юрьевич",
+    "FIOshort": "Старицын А.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Семейное и наследственное право",
+    "LessonType": "л",
+    "Room": "6-305",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Семейное и наследственное право",
+    "LessonType": "пр",
+    "Room": "6-305",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  }
+]

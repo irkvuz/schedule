@@ -1,0 +1,145 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление имиджем",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление имиджем",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Деловой документооборот",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Деловой документооборот",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Теория и практика связей с общественностью",
+    "LessonType": "пр",
+    "Room": "2-414",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Теория и практика связей с общественностью",
+    "LessonType": "л",
+    "Room": "2-416",
+    "FIO": "Игнатьева Ирина Валентиновна",
+    "FIOshort": "Игнатьева И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Медиаактивность в рекламе",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Мельникова Наталья Леонидовна",
+    "FIOshort": "Мельникова Н.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "л",
+    "Room": "2-308",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Поведение потребителей",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Поляков Владимир Владимирович",
+    "FIOshort": "Поляков В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Рекламный и PR-текст",
+    "LessonType": "пр",
+    "Room": "2-209",
+    "FIO": "Келэвро Алексей Александрович",
+    "FIOshort": "Келэвро А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Медиаактивность в рекламе",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Мельникова Наталья Леонидовна",
+    "FIOshort": "Мельникова Н.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Рекламный и PR-текст",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Келэвро Алексей Александрович",
+    "FIOshort": "Келэвро А.А.",
+    "Error": null
+  }
+]

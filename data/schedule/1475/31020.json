@@ -1,0 +1,68 @@
+[
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Логистика",
+    "LessonType": "л",
+    "Room": "Онлайн-10",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Логистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-10",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Логистика",
+    "LessonType": "пр",
+    "Room": "Онлайн-10",
+    "FIO": "Малецкая Марина Борисовна",
+    "FIOshort": "Малецкая М.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Менеджмент в цифровой экономике",
+    "LessonType": "л",
+    "Room": "Онлайн-100",
+    "FIO": "Антипина Полина Витальевна",
+    "FIOshort": "Антипина П.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Менеджмент в цифровой экономике",
+    "LessonType": "пр",
+    "Room": "Онлайн-100",
+    "FIO": "Антипина Полина Витальевна",
+    "FIOshort": "Антипина П.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Менеджмент в цифровой экономике",
+    "LessonType": "пр",
+    "Room": "Онлайн-100",
+    "FIO": "Антипина Полина Витальевна",
+    "FIOshort": "Антипина П.В.",
+    "Error": null
+  }
+]

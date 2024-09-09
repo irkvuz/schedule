@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Карпеева Екатерина Вячеславовна",
+    "FIOshort": "Карпеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Карпеева Екатерина Вячеславовна",
+    "FIOshort": "Карпеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Гуджабидзе Георгий Автандилович",
+    "FIOshort": "Гуджабидзе Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Гармышев Ярослав Владимирович",
+    "FIOshort": "Гармышев Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Алфёров Станислав Николаевич",
+    "FIOshort": "Алфёров С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Административный процесс",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Хаитов Григорий Александрович",
+    "FIOshort": "Хаитов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "пр",
+    "Room": "5-212",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "пр",
+    "Room": "5-212",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "6-306",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Административный процесс",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Хаитов Григорий Александрович",
+    "FIOshort": "Хаитов Г.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Баганова Светлана Владимировна",
+    "FIOshort": "Баганова С.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Степаненко Диана Аркадьевна",
+    "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Мазюк Роман Васильевич",
+    "FIOshort": "Мазюк Р.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Юридическая клиника",
+    "LessonType": "л",
+    "Room": "4-202",
+    "FIO": "Ямалиев Ринат Наильевич",
+    "FIOshort": "Ямалиев Р.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Семейное право",
+    "LessonType": "л",
+    "Room": "6-305",
+    "FIO": "Ищенко Наталья Юрьевна",
+    "FIOshort": "Ищенко Н.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Особенная часть)",
+    "LessonType": "л",
+    "Room": "6-305",
+    "FIO": "Гармышев Ярослав Владимирович",
+    "FIOshort": "Гармышев Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-311",
+    "FIO": "Пятковская Юлия Валерьевна",
+    "FIOshort": "Пятковская Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Современная научная картина мира",
+    "LessonType": "пр",
+    "Room": "3-603",
+    "FIO": "Горбунова Ольга Ивановна",
+    "FIOshort": "Горбунова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "3-902",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Брянская Наталья Леонидовна",
+    "FIOshort": "Брянская Н.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "4-412",
+    "FIO": "Брянская Наталья Леонидовна",
+    "FIOshort": "Брянская Н.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-101",
+    "FIO": "Черкашина Елена Владимировна",
+    "FIOshort": "Черкашина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-412",
+    "FIO": "Огородникова Татьяна Владимировна",
+    "FIOshort": "Огородникова Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Далбаева Валентина Юрьевна",
+    "FIOshort": "Далбаева В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "4-411",
+    "FIO": "Огородникова Татьяна Владимировна",
+    "FIOshort": "Огородникова Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Экономика",
+    "LessonType": "пр",
+    "Room": "3-604",
+    "FIO": "Изместьев Александр Анатольевич",
+    "FIOshort": "Изместьев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "4-411",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Экономика",
+    "LessonType": "л",
+    "Room": "3-604",
+    "FIO": "Изместьев Александр Анатольевич",
+    "FIOshort": "Изместьев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "3-903",
+    "FIO": "Тарханова Елена Геннадьевна",
+    "FIOshort": "Тарханова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Информационные технологии",
+    "LessonType": "пр",
+    "Room": "3-510",
+    "FIO": "Мамонова Наталья Вячеславовна",
+    "FIOshort": "Мамонова Н.В.",
+    "Error": null
+  }
+]

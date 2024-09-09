@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Внешнеэкономические связи России",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Козырская Ирина Евгеньевна",
+    "FIOshort": "Козырская И.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Уголовное право",
+    "LessonType": "л",
+    "Room": "5-513",
+    "FIO": "Гармышев Ярослав Владимирович",
+    "FIOshort": "Гармышев Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Внешнеэкономические связи России",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Козырская Ирина Евгеньевна",
+    "FIOshort": "Козырская И.Е.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "л",
+    "Room": "5-516",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бюджетная система и бюджетный процесс",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Самаруха Виктор Иванович",
+    "FIOshort": "Самаруха В.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бюджетная система и бюджетный процесс",
+    "LessonType": "пр",
+    "Room": "1-211",
+    "FIO": "Самаруха Виктор Иванович",
+    "FIOshort": "Самаруха В.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Алфёров Станислав Николаевич",
+    "FIOshort": "Алфёров С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-211",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "л",
+    "Room": "2-211",
+    "FIO": "Печенникова Галина Геннадьевна",
+    "FIOshort": "Печенникова Г.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "пр",
+    "Room": "2-211",
+    "FIO": "Касаткина Галина Максимовна",
+    "FIOshort": "Касаткина Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Экономическая безопасность",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Гущина Ирина Владимировна",
+    "FIOshort": "Гущина И.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоги и налогообложение",
+    "LessonType": "л",
+    "Room": "2-211",
+    "FIO": "Комарова Галина Петровна",
+    "FIOshort": "Комарова Г.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "пр",
+    "Room": "3-703",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Специальная подготовка",
+    "LessonType": "пр",
+    "Room": "8-111",
+    "FIO": "Батанов Сергей Геннадьевич",
+    "FIOshort": "Батанов С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Командная работа и лидерство",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Баганов Валерий Юрьевич",
+    "FIOshort": "Баганов В.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Специальная подготовка",
+    "LessonType": "л",
+    "Room": "8-206",
+    "FIO": "Батанов Сергей Геннадьевич",
+    "FIOshort": "Батанов С.Г.",
+    "Error": null
+  }
+]

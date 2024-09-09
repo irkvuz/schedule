@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономическая культура",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "пр",
+    "Room": "1-310",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "л",
+    "Room": "2-217",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-314",
+    "FIO": "Афанасов Олег Владимирович",
+    "FIOshort": "Афанасов О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Введение в профессию",
+    "LessonType": "пр",
+    "Room": "1-209",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Введение в профессию",
+    "LessonType": "л",
+    "Room": "2-311",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Общий психологический практикум",
+    "LessonType": "л",
+    "Room": "2-309",
+    "FIO": "Пуляевская Ольга Владимировна",
+    "FIOshort": "Пуляевская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Общий психологический практикум",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Пуляевская Ольга Владимировна",
+    "FIOshort": "Пуляевская О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "л",
+    "Room": "Онлайн-100",
+    "FIO": "Изотова Инга Игоревна",
+    "FIOshort": "Изотова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Анатомия и физиология ЦНС",
+    "LessonType": "пр",
+    "Room": "1-212",
+    "FIO": "Субота Ирина Юрьевна",
+    "FIOshort": "Субота И.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Экономическая культура",
+    "LessonType": "пр",
+    "Room": "2-312",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Баёв Павел Анатольевич",
+    "FIOshort": "Баёв П.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "пр",
+    "Room": "2-309",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Управление личной эффективностью",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Сараева Оксана Николаевна",
+    "FIOshort": "Сараева О.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Финансовая грамотность",
+    "LessonType": "л",
+    "Room": "4-403",
+    "FIO": "Авдюшина Марина Анатольевна",
+    "FIOshort": "Авдюшина М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-211",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "4-303",
+    "FIO": "Афанасов Олег Владимирович",
+    "FIOshort": "Афанасов О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "л",
+    "Room": "2-215",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Общая психология",
+    "LessonType": "пр",
+    "Room": "1-201",
+    "FIO": "Никулина Татьяна Ивановна",
+    "FIOshort": "Никулина Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "1-210",
+    "FIO": "Баёв Павел Анатольевич",
+    "FIOshort": "Баёв П.А.",
+    "Error": null
+  }
+]

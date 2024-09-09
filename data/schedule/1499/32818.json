@@ -1,0 +1,233 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "л",
+    "Room": "12-303",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Биология",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Дунаева Виктория Владимировна",
+    "FIOshort": "Дунаева В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Литература",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Забанова Виктория Викторовна",
+    "FIOshort": "Забанова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Физика",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Никульшина Наталья Владимировна",
+    "FIOshort": "Никульшина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "11-103",
+    "FIO": "Черкашин Александр Витальевич",
+    "FIOshort": "Черкашин А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-310",
+    "FIO": "Забанова Виктория Викторовна",
+    "FIOshort": "Забанова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Колупаева Александра Викторовна",
+    "FIOshort": "Колупаева А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Биология",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Дунаева Виктория Владимировна",
+    "FIOshort": "Дунаева В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Информатика 1",
+    "LessonType": "л",
+    "Room": "12-302",
+    "FIO": "Нефедьев Антон Александрович",
+    "FIOshort": "Нефедьев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "12-304",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Физика",
+    "LessonType": "пр",
+    "Room": "12-403",
+    "FIO": "Никульшина Наталья Владимировна",
+    "FIOshort": "Никульшина Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Клеофастова Ирина Ивановна",
+    "FIOshort": "Клеофастова И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Забанова Виктория Викторовна",
+    "FIOshort": "Забанова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Макарова Лариса Вацлавовна",
+    "FIOshort": "Макарова Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Литература",
+    "LessonType": "пр",
+    "Room": "12-406",
+    "FIO": "Забанова Виктория Викторовна",
+    "FIOshort": "Забанова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Информатика 1",
+    "LessonType": "пр",
+    "Room": "12-101",
+    "FIO": "Нефедьев Антон Александрович",
+    "FIOshort": "Нефедьев А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-303",
+    "FIO": "Рахвалова Юлия Анатольевна",
+    "FIOshort": "Рахвалова Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "12-303",
+    "FIO": "Фомина Юлия Анатольевна",
+    "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  }
+]

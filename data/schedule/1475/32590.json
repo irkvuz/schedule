@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Исполнение бюджета",
+    "LessonType": "пр",
+    "Room": "2-408",
+    "FIO": "Ковтун Лира Раисовна",
+    "FIOshort": "Ковтун Л.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Региональные финансы",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Региональные финансы",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управление финансовыми рисками",
+    "LessonType": "л",
+    "Room": "2-409",
+    "FIO": "Хитрова Елена Михайловна",
+    "FIOshort": "Хитрова Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управление финансовыми рисками",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Хитрова Елена Михайловна",
+    "FIOshort": "Хитрова Е.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Финансовые модели холдингов",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Финансовые модели холдингов",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Щукина Татьяна Владимировна",
+    "FIOshort": "Щукина Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика",
+    "LessonType": "л",
+    "Room": "2-411",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Финансовая диагностика",
+    "LessonType": "пр",
+    "Room": "2-411",
+    "FIO": "Кислицына Лариса Викторовна",
+    "FIOshort": "Кислицына Л.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса и недвижимости",
+    "LessonType": "л",
+    "Room": "2-317",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Оценка стоимости бизнеса и недвижимости",
+    "LessonType": "пр",
+    "Room": "2-407",
+    "FIO": "Кулижская Жанна Сергеевна",
+    "FIOshort": "Кулижская Ж.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Цифровизация в бюджетном секторе",
+    "LessonType": "л",
+    "Room": "2-407",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Цифровизация в бюджетном секторе",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Файберг Татьяна Владимировна",
+    "FIOshort": "Файберг Т.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Санников Александр Павлович",
+    "FIOshort": "Санников А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "1-311",
+    "FIO": "Санников Александр Павлович",
+    "FIOshort": "Санников А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "5-502",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "5-502",
+    "FIO": "Курьянова Светлана Александровна",
+    "FIOshort": "Курьянова С.А.",
+    "Error": null
+  }
+]

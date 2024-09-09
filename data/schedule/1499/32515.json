@@ -1,0 +1,112 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Почвоведение",
+    "LessonType": "л",
+    "Room": "11-411",
+    "FIO": "Пуничева Екатерина Леонидовна",
+    "FIOshort": "Пуничева Е.Л.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Информатика",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Лагерев Александр Григорьевич",
+    "FIOshort": "Лагерев А.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "л",
+    "Room": "11-301",
+    "FIO": "Сидоренко Геннадий Васильевич",
+    "FIOshort": "Сидоренко Г.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Дендрология и лесоведение",
+    "LessonType": "л",
+    "Room": "5-306",
+    "FIO": "Никитенко Елена Борисовна",
+    "FIOshort": "Никитенко Е.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Экологические основы природопользования",
+    "LessonType": "л",
+    "Room": "5-306",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Выполнение работ по профессии \"Лесовод\"",
+    "LessonType": "л",
+    "Room": "11-308",
+    "FIO": "Фрик Дмитрий Геннадьевич",
+    "FIOshort": "Фрик Д.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Ботаника",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
+    "Error": null
+  }
+]

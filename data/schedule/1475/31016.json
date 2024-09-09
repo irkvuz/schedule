@@ -1,0 +1,189 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Управленческий учет",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Управленческий учет",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Путырская Яна Владимировна",
+    "FIOshort": "Путырская Я.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Налоговое консультирование",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Касаткина Галина Максимовна",
+    "FIOshort": "Касаткина Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Налоговое консультирование",
+    "LessonType": "пр",
+    "Room": "2-404",
+    "FIO": "Касаткина Галина Максимовна",
+    "FIOshort": "Касаткина Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Особенности бухгалтерского учета по видам деятельности",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Особенности бухгалтерского учета по видам деятельности",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Лабораторный практикум по бухгалтерскому учету",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Лабораторный практикум по бухгалтерскому учету",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Копылова Татьяна Ильинична",
+    "FIOshort": "Копылова Т.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговый учет и отчетность",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Чайка Юлия Борисовна",
+    "FIOshort": "Чайка Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоговый учет и отчетность",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Чайка Юлия Борисовна",
+    "FIOshort": "Чайка Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Налоговый учет и отчетность",
+    "LessonType": "пр",
+    "Room": "2-405",
+    "FIO": "Чайка Юлия Борисовна",
+    "FIOshort": "Чайка Ю.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Платежи участников ВЭД",
+    "LessonType": "л",
+    "Room": "2-314",
+    "FIO": "Орлова Елена Николаевна",
+    "FIOshort": "Орлова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Анализ финансовой отчетности",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "История России",
+    "LessonType": "л",
+    "Room": "2-307",
+    "FIO": "Санников Александр Павлович",
+    "FIOshort": "Санников А.П.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Анализ финансовой отчетности",
+    "LessonType": "л",
+    "Room": "2-310",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Платежи участников ВЭД",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Орлова Елена Николаевна",
+    "FIOshort": "Орлова Е.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "2-310",
+    "FIO": "Санников Александр Павлович",
+    "FIOshort": "Санников А.П.",
+    "Error": null
+  }
+]
