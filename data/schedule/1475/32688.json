@@ -209,6 +209,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Организация внеучебной деятельности в БГУ",
+    "LessonType": "л",
+    "Room": "4-312",
+    "FIO": "Пятковская Юлия Валерьевна",
+    "FIOshort": "Пятковская Ю.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,

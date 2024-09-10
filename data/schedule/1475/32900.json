@@ -35,12 +35,34 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Костюнина Ольга Владиславовна",
+    "FIOshort": "Костюнина О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
     "Odd": 2,
     "Lesson": "Инклюзивная компетентность",
     "LessonType": "л",
     "Room": "4-306",
     "FIO": "Трохирова Ульяна Владимировна",
     "FIOshort": "Трохирова У.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Гражданская позиция",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Костюнина Ольга Владиславовна",
+    "FIOshort": "Костюнина О.В.",
     "Error": null
   },
   {
@@ -122,6 +144,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Русский язык и деловая коммуникация",
+    "LessonType": "пр",
+    "Room": "4-409",
+    "FIO": "Карамышева Светлана Николаевна",
+    "FIOshort": "Карамышева С.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "15:45",
     "Odd": 0,
     "Lesson": "История России",
@@ -129,6 +162,17 @@
     "Room": "4-412",
     "FIO": "Кузнецов Алексей Александрович",
     "FIOshort": "Кузнецов А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "",
+    "FIOshort": "",
     "Error": null
   },
   {
@@ -166,11 +210,22 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "17:30",
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы российской государственности",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Соломеин Алексей Александрович",
+    "FIOshort": "Соломеин А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "История России",
     "LessonType": "пр",
-    "Room": "",
+    "Room": "6-106",
     "FIO": "Кузнецов Алексей Александрович",
     "FIOshort": "Кузнецов А.А.",
     "Error": null

@@ -99,6 +99,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Таможенная стоимость ",
+    "LessonType": "пр",
+    "Room": "2-315",
+    "FIO": "Жабина Дарья Александровна",
+    "FIOshort": "Жабина Д.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -118,6 +129,17 @@
     "Room": "2-415",
     "FIO": "Гущина Ольга Геннадьевна",
     "FIOshort": "Гущина О.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Таможенные платежи",
+    "LessonType": "пр",
+    "Room": "2-415",
+    "FIO": "Жабина Дарья Александровна",
+    "FIOshort": "Жабина Д.А.",
     "Error": null
   },
   {
