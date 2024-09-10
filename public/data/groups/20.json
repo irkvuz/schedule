@@ -166,6 +166,13 @@
     "trimesterId": 1475
   },
   {
+    "IdGroup": 32901,
+    "Group": "НБгрус-24-1",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 31725,
     "Group": "НБус-22-1",
     "Course": 3,
