@@ -209,6 +209,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Общий курс перевода второго иностранного языка",
+    "LessonType": "пр",
+    "Room": "5-513",
+    "FIO": "Зарбуева Анастасия Ильинична",
+    "FIOshort": "Зарбуева А.И.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "14:00",
     "Odd": 0,

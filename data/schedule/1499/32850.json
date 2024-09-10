@@ -22,6 +22,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Государственная служба в РФ",
+    "LessonType": "л",
+    "Room": "5-308",
+    "FIO": "Никеров Дмитрий Михайлович",
+    "FIOshort": "Никеров Д.М.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -90,10 +101,21 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Государственная служба в РФ",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Никеров Дмитрий Михайлович",
+    "FIOshort": "Никеров Д.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
     "Lesson": "История России",
-    "LessonType": "л",
-    "Room": "5-401",
+    "LessonType": "пр",
+    "Room": "5-307",
     "FIO": "Фомина Юлия Анатольевна",
     "FIOshort": "Фомина Ю.А.",
     "Error": null
