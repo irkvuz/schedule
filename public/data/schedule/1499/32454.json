@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 1,
-    "Lesson": "Гражданский процесс",
-    "LessonType": "пр",
-    "Room": "5-404",
-    "FIO": "Крекова Марина Александровна",
-    "FIOshort": "Крекова М.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "8:30",
     "Odd": 0,
