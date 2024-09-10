@@ -55,6 +55,28 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "пр",
+    "Room": "",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
@@ -99,14 +121,14 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "8:30",
-    "Odd": 1,
-    "Lesson": "Государственная служба в РФ",
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы финансовой  грамотности",
     "LessonType": "пр",
-    "Room": "5-516",
-    "FIO": "Никеров Дмитрий Михайлович",
-    "FIOshort": "Никеров Д.М.",
+    "Room": "4-213",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
     "Error": null
   },
   {
@@ -123,12 +145,45 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Государственная служба в РФ",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Никеров Дмитрий Михайлович",
+    "FIOshort": "Никеров Д.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Конституционное право России",
     "LessonType": "л",
     "Room": "5-401",
     "FIO": "Немцов Юрий Геннадьевич",
     "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "5-307",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
     "Error": null
   }
 ]
