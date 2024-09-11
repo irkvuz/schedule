@@ -170,7 +170,8 @@
     "Group": "НБгрус-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31725,
