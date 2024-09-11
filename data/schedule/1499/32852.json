@@ -101,10 +101,10 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Конституционное право России",
     "LessonType": "л",
-    "Room": "5-510",
+    "Room": "5-401",
     "FIO": "Немцов Юрий Геннадьевич",
     "FIOshort": "Немцов Ю.Г.",
     "Error": null
@@ -112,12 +112,45 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Конституционное право России",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "История России",
     "LessonType": "л",
     "Room": "5-510",
     "FIO": "Фомина Юлия Анатольевна",
     "FIOshort": "Фомина Ю.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "5-306",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
     "Error": null
   }
 ]

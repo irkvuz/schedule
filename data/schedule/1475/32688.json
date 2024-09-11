@@ -56,17 +56,6 @@
   },
   {
     "WeekDay": 2,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "История России",
-    "LessonType": "л",
-    "Room": "4-202",
-    "FIO": "Казарин Виктор Николаевич",
-    "FIOshort": "Казарин В.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 1,
     "Lesson": "Финансовая грамотность",

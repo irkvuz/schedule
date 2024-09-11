@@ -66,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "л",
+    "Room": "5-401",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
@@ -110,25 +121,80 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "4-202",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "4-406",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "пр",
+    "Room": "5-506",
+    "FIO": "Грошева Екатерина Валерьевна",
+    "FIOshort": "Грошева Е.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "пр",
+    "Room": "5-516",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
     "Odd": 2,
     "Lesson": "Государственная служба в РФ",
     "LessonType": "пр",
-    "Room": "5-516",
+    "Room": "5-309",
     "FIO": "Никеров Дмитрий Михайлович",
     "FIOshort": "Никеров Д.М.",
     "Error": null
   },
   {
     "WeekDay": 5,
-    "StartTime": "10:15",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Конституционное право России",
     "LessonType": "л",
     "Room": "5-401",
     "FIO": "Немцов Юрий Геннадьевич",
     "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Судоустройство и правоохранительные органы",
+    "LessonType": "пр",
+    "Room": "5-309",
+    "FIO": "Ильина Татьяна Сергеевна",
+    "FIOshort": "Ильина Т.С.",
     "Error": null
   }
 ]
