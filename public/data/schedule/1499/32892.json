@@ -78,17 +78,6 @@
   },
   {
     "WeekDay": 3,
-    "StartTime": "10:15",
-    "Odd": 2,
-    "Lesson": "Русский язык",
-    "LessonType": "пр",
-    "Room": "12-303",
-    "FIO": "Соснова Светлана Владимировна",
-    "FIOshort": "Соснова С.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Физика",

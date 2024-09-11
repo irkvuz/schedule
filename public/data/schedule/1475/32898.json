@@ -88,6 +88,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-414",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "12:00",
     "Odd": 0,
@@ -250,6 +261,17 @@
     "Room": "4-312",
     "FIO": "Пятковская Юлия Валерьевна",
     "FIOshort": "Пятковская Ю.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Иностранный язык для делового общения",
+    "LessonType": "пр",
+    "Room": "1-417",
+    "FIO": "Глухова Елена Сергеевна",
+    "FIOshort": "Глухова Е.С.",
     "Error": null
   },
   {
