@@ -101,7 +101,18 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Физика",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Карелина Ксения Алексеевна",
+    "FIOshort": "Карелина К.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Физика",
     "LessonType": "л",
     "Room": "11-210",
@@ -211,12 +222,12 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Физика",
     "LessonType": "пр",
     "Room": "12-304",
-    "FIO": "Карелина Ксения Алексеевна",
-    "FIOshort": "Карелина К.А.",
+    "FIO": "Подрезова Дарья Николаевна",
+    "FIOshort": "Подрезова Д.Н.",
     "Error": null
   },
   {
