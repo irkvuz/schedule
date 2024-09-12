@@ -176,17 +176,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Литература",
-    "LessonType": "пр",
-    "Room": "",
-    "FIO": "Аюпова Клара Нарисовна",
-    "FIOshort": "Аюпова К.Н.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "12:00",
     "Odd": 1,
