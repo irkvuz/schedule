@@ -244,7 +244,18 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Основы менеджмента",
+    "LessonType": "л",
+    "Room": "11-205",
+    "FIO": "Козлова Елена Владимировна",
+    "FIOshort": "Козлова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Основы менеджмента",
     "LessonType": "л",
     "Room": "11-205",
