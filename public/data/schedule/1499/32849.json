@@ -44,6 +44,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право России",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -68,10 +79,21 @@
   {
     "WeekDay": 2,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Глазова Екатерина Владимировна",
+    "FIOshort": "Глазова Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
     "Lesson": "Судоустройство и правоохранительные органы",
     "LessonType": "л",
-    "Room": "5-401",
+    "Room": "5-510",
     "FIO": "Ильина Татьяна Сергеевна",
     "FIOshort": "Ильина Т.С.",
     "Error": null
@@ -145,6 +167,17 @@
   {
     "WeekDay": 4,
     "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-412",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Основы финансовой  грамотности",
     "LessonType": "пр",
@@ -195,6 +228,17 @@
     "Room": "5-309",
     "FIO": "Ильина Татьяна Сергеевна",
     "FIOshort": "Ильина Т.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Теория государства и права",
+    "LessonType": "пр",
+    "Room": "5-410",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
     "Error": null
   }
 ]
