@@ -213,8 +213,8 @@
     "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Внешняя политика России",
-    "LessonType": "л",
-    "Room": "2-416",
+    "LessonType": "пр",
+    "Room": "2-311",
     "FIO": "Курышов Андрей Михайлович",
     "FIOshort": "Курышов А.М.",
     "Error": null
@@ -224,8 +224,8 @@
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Внешняя политика России",
-    "LessonType": "пр",
-    "Room": "2-415",
+    "LessonType": "л",
+    "Room": "2-411",
     "FIO": "Курышов Андрей Михайлович",
     "FIOshort": "Курышов А.М.",
     "Error": null

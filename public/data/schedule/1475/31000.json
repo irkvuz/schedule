@@ -132,6 +132,17 @@
     "Error": null
   },
   {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "История России",
+    "LessonType": "пр",
+    "Room": "1-309",
+    "FIO": "Кузьмин Юрий Васильевич",
+    "FIOshort": "Кузьмин Ю.В.",
+    "Error": null
+  },
+  {
     "WeekDay": 4,
     "StartTime": "8:30",
     "Odd": 0,
@@ -188,24 +199,13 @@
   },
   {
     "WeekDay": 5,
-    "StartTime": "8:30",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Внешняя политика России",
     "LessonType": "л",
-    "Room": "2-416",
+    "Room": "2-411",
     "FIO": "Курышов Андрей Михайлович",
     "FIOshort": "Курышов А.М.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "История России",
-    "LessonType": "пр",
-    "Room": "1-302",
-    "FIO": "Кузьмин Юрий Васильевич",
-    "FIOshort": "Кузьмин Ю.В.",
     "Error": null
   },
   {
