@@ -113,20 +113,9 @@
     "WeekDay": 2,
     "StartTime": "15:45",
     "Odd": 0,
-    "Lesson": "Философия",
-    "LessonType": "пр",
-    "Room": "2-314",
-    "FIO": "Немцева Анна Владимировна",
-    "FIOshort": "Немцева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 0,
     "Lesson": "Экономическая теория",
     "LessonType": "пр",
-    "Room": "5-514",
+    "Room": "5-214",
     "FIO": "Шавкунова Ирина Сергеевна",
     "FIOshort": "Шавкунова И.С.",
     "Error": null
@@ -173,6 +162,17 @@
     "Room": "Онлайн-1",
     "FIO": "Чмаркова Елена Гирадьевна",
     "FIOshort": "Чмаркова Е.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Философия",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Немцева Анна Владимировна",
+    "FIOshort": "Немцева А.В.",
     "Error": null
   },
   {
