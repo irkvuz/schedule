@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "11-112",
-    "FIO": "Кольцова Алла Викторовна",
-    "FIOshort": "Кольцова А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Выполнение работ по профессии \"Лесовод\"",
@@ -45,10 +34,32 @@
   },
   {
     "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-112",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-210",
+    "FIO": "Кольцова Алла Викторовна",
+    "FIOshort": "Кольцова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
     "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Информатика",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "11-308",
     "FIO": "Лагерев Александр Григорьевич",
     "FIOshort": "Лагерев А.Г.",
