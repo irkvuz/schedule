@@ -123,6 +123,17 @@
   {
     "WeekDay": 4,
     "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Семейное и наследственное право",
+    "LessonType": "л",
+    "Room": "6-409",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Вещное право",
     "LessonType": "л",
@@ -134,34 +145,23 @@
   {
     "WeekDay": 4,
     "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Семейное и наследственное право",
+    "LessonType": "пр",
+    "Room": "6-409",
+    "FIO": "Плеханова Олеся Игоревна",
+    "FIOshort": "Плеханова О.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "19:15",
     "Odd": 2,
     "Lesson": "Вещное право",
     "LessonType": "пр",
     "Room": "6-305",
     "FIO": "Старицын Алексей Юрьевич",
     "FIOshort": "Старицын А.Ю.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Семейное и наследственное право",
-    "LessonType": "л",
-    "Room": "6-305",
-    "FIO": "Плеханова Олеся Игоревна",
-    "FIOshort": "Плеханова О.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "19:15",
-    "Odd": 1,
-    "Lesson": "Семейное и наследственное право",
-    "LessonType": "пр",
-    "Room": "6-305",
-    "FIO": "Плеханова Олеся Игоревна",
-    "FIOshort": "Плеханова О.И.",
     "Error": null
   }
 ]

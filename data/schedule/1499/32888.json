@@ -57,7 +57,7 @@
   {
     "WeekDay": 1,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История",
     "LessonType": "л",
     "Room": "12-403",
