@@ -134,17 +134,6 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 1,
-    "Lesson": "Экология туризма",
-    "LessonType": "пр",
-    "Room": "11-415",
-    "FIO": "Попова Наталья Анатольевна",
-    "FIOshort": "Попова Н.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Психология делового общения",
     "LessonType": "пр",
