@@ -123,14 +123,16 @@
     "Group": "МЭКрк-21-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31015,
     "Group": "МЭКрк-21-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31622,
@@ -167,7 +169,8 @@
     "Group": "ПМЛрк-21-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 31625,
