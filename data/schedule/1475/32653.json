@@ -2,12 +2,34 @@
   {
     "WeekDay": 1,
     "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "6-404",
+    "FIO": "Епифанцева Татьяна Юрьевна",
+    "FIOshort": "Епифанцева Т.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
     "Odd": 2,
     "Lesson": "Договорное право",
     "LessonType": "л",
     "Room": "6-310",
     "FIO": "Райников Артем Сергеевич",
     "FIOshort": "Райников А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "19:15",
+    "Odd": 1,
+    "Lesson": "Теория права",
+    "LessonType": "л",
+    "Room": "6-404",
+    "FIO": "Архипкин Игорь Валерьевич",
+    "FIOshort": "Архипкин И.В.",
     "Error": null
   },
   {
