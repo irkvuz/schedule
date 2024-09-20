@@ -154,12 +154,12 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
-    "StartTime": "17:30",
+    "WeekDay": 4,
+    "StartTime": "19:15",
     "Odd": 2,
     "Lesson": "Управление человеческими ресурсами",
     "LessonType": "л",
-    "Room": "3-903",
+    "Room": "3-804",
     "FIO": "Васильева Александра Николаевна",
     "FIOshort": "Васильева А.Н.",
     "Error": null
