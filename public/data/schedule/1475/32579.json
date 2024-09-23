@@ -198,6 +198,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "1-416",
+    "FIO": "Рудакова Руфина Рашидовна",
+    "FIOshort": "Рудакова Р.Р.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 1,
