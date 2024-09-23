@@ -156,7 +156,18 @@
   {
     "WeekDay": 4,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Биология",
+    "LessonType": "л",
+    "Room": "11-210",
+    "FIO": "Степанченко Арина Владимировна",
+    "FIOshort": "Степанченко А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Биология",
     "LessonType": "л",
     "Room": "11-411",
