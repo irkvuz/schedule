@@ -1,0 +1,35 @@
+[
+  {
+    "WeekDay": 2,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-11",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Менеджмент",
+    "LessonType": "пр",
+    "Room": "Онлайн-11",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "Онлайн-11",
+    "FIO": "Солодков Михаил Викторович",
+    "FIOshort": "Солодков М.В.",
+    "Error": null
+  }
+]
