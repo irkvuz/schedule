@@ -1,17 +1,6 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Уголовное право",
-    "LessonType": "пр",
-    "Room": "5-408",
-    "FIO": "Бубаева Надежда Семеновна",
-    "FIOshort": "Бубаева Н.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 1,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Государственная служба в РФ",
@@ -36,9 +25,20 @@
     "WeekDay": 1,
     "StartTime": "14:00",
     "Odd": 0,
+    "Lesson": "Уголовное право",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Бубаева Надежда Семеновна",
+    "FIOshort": "Бубаева Н.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
     "Lesson": "Теория государства и права",
     "LessonType": "пр",
-    "Room": "5-408",
+    "Room": "5-314",
     "FIO": "Халмакшинова Анна Николаевна",
     "FIOshort": "Халмакшинова А.Н.",
     "Error": null
