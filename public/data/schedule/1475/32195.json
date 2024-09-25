@@ -55,17 +55,6 @@
     "Error": null
   },
   {
-    "WeekDay": 1,
-    "StartTime": "17:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "5-502",
-    "FIO": "Лю Лили",
-    "FIOshort": "Лю Л.",
-    "Error": null
-  },
-  {
     "WeekDay": 2,
     "StartTime": "10:15",
     "Odd": 0,
@@ -239,6 +228,17 @@
     "Room": "5-505",
     "FIO": "Чжан Яньцзе",
     "FIOshort": "Чжан Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Иностранный язык (базовый курс)",
+    "LessonType": "пр",
+    "Room": "5-502",
+    "FIO": "Лю Лили",
+    "FIOshort": "Лю Л.",
     "Error": null
   },
   {
