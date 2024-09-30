@@ -177,6 +177,17 @@
   },
   {
     "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Биология 1",
+    "LessonType": "пр",
+    "Room": "11-310",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Физика 1",
