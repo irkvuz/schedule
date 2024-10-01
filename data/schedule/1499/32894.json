@@ -111,6 +111,17 @@
   },
   {
     "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Литература",
+    "LessonType": "пр",
+    "Room": "12-405",
+    "FIO": "Аюпова Клара Нарисовна",
+    "FIOshort": "Аюпова К.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Обществознание",

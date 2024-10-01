@@ -68,7 +68,7 @@
   {
     "WeekDay": 3,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Русский язык",
     "LessonType": "л",
     "Room": "11-306",
@@ -85,6 +85,17 @@
     "Room": "11-306",
     "FIO": "Черника Елена Яковлевна",
     "FIOshort": "Черника Е.Я.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Русский язык",
+    "LessonType": "л",
+    "Room": "11-415",
+    "FIO": "Аюпова Клара Нарисовна",
+    "FIOshort": "Аюпова К.Н.",
     "Error": null
   },
   {
