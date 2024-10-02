@@ -167,7 +167,18 @@
   {
     "WeekDay": 6,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Инженерная графика",
+    "LessonType": "л",
+    "Room": "3-510",
+    "FIO": "Олзоев Борис Николаевич",
+    "FIOshort": "Олзоев Б.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 2,
     "Lesson": "Инженерная графика",
     "LessonType": "л",
     "Room": "3-806",
