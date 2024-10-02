@@ -133,6 +133,17 @@
   },
   {
     "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Гражданский процесс",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Крекова Марина Александровна",
+    "FIOshort": "Крекова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 1,
     "Lesson": "Правоохранительные органы в РФ",
@@ -167,34 +178,12 @@
   {
     "WeekDay": 4,
     "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Информатика",
-    "LessonType": "пр",
-    "Room": "5-413",
-    "FIO": "Деренко Марина Петровна",
-    "FIOshort": "Деренко М.П.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
+    "Odd": 2,
     "Lesson": "Основы философии",
     "LessonType": "пр",
-    "Room": "5-408",
+    "Room": "5-313",
     "FIO": "Тараканов Павел Николаевич",
     "FIOshort": "Тараканов П.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Гражданский процесс",
-    "LessonType": "пр",
-    "Room": "5-408",
-    "FIO": "Крекова Марина Александровна",
-    "FIOshort": "Крекова М.А.",
     "Error": null
   },
   {
@@ -217,6 +206,17 @@
     "Room": "4-202",
     "FIO": "Крекова Марина Александровна",
     "FIOshort": "Крекова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Информатика",
+    "LessonType": "пр",
+    "Room": "11-302",
+    "FIO": "Деренко Марина Петровна",
+    "FIOshort": "Деренко М.П.",
     "Error": null
   },
   {
