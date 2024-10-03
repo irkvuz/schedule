@@ -110,17 +110,6 @@
     "Error": null
   },
   {
-    "WeekDay": 2,
-    "StartTime": "17:30",
-    "Odd": 2,
-    "Lesson": "Информатика 1",
-    "LessonType": "пр",
-    "Room": "12-208",
-    "FIO": "Иванова Анастасия Николаевна",
-    "FIOshort": "Иванова А.Н.",
-    "Error": null
-  },
-  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 1,
