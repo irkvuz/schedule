@@ -60,8 +60,7 @@
     "Group": "МЮсэ-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1475
+    "hasSchedule": false
   },
   {
     "IdGroup": 31604,
@@ -124,8 +123,7 @@
     "Group": "СПДус-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1475
+    "hasSchedule": false
   },
   {
     "IdGroup": 30985,
