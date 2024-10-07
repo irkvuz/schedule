@@ -66,17 +66,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Криминалистика",
-    "LessonType": "л",
-    "Room": "6-302",
-    "FIO": "Грибунов Олег Павлович",
-    "FIOshort": "Грибунов О.П.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "10:15",
     "Odd": 0,
