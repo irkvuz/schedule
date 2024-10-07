@@ -125,7 +125,7 @@
     "StartTime": "8:30",
     "Odd": 1,
     "Lesson": "Физика 1",
-    "LessonType": "пр",
+    "LessonType": "л",
     "Room": "11-205",
     "FIO": "Садиева Виктория Викторовна",
     "FIOshort": "Садиева В.В.",
@@ -220,6 +220,17 @@
     "Error": null
   },
   {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Русский язык",
+    "LessonType": "пр",
+    "Room": "11-403",
+    "FIO": "Лысанова Екатерина Андреевна",
+    "FIOshort": "Лысанова Е.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
@@ -245,11 +256,11 @@
     "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 2,
-    "Lesson": "Русский язык",
+    "Lesson": "Физика 1",
     "LessonType": "пр",
     "Room": "11-204",
-    "FIO": "Лысанова Екатерина Андреевна",
-    "FIOshort": "Лысанова Е.А.",
+    "FIO": "Садиева Виктория Викторовна",
+    "FIOshort": "Садиева В.В.",
     "Error": null
   }
 ]
