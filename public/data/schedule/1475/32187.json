@@ -66,6 +66,17 @@
     "Error": null
   },
   {
+    "WeekDay": 2,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Криминалистика",
+    "LessonType": "л",
+    "Room": "5-312",
+    "FIO": "Кряжев Владимир Сергеевич",
+    "FIOshort": "Кряжев В.С.",
+    "Error": null
+  },
+  {
     "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
@@ -107,17 +118,6 @@
     "Room": "5-212",
     "FIO": "Алфёров Станислав Николаевич",
     "FIOshort": "Алфёров С.Н.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Криминалистика",
-    "LessonType": "л",
-    "Room": "5-213",
-    "FIO": "Кряжев Владимир Сергеевич",
-    "FIOshort": "Кряжев В.С.",
     "Error": null
   },
   {
