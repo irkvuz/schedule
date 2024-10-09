@@ -209,12 +209,12 @@
     "Error": null
   },
   {
-    "WeekDay": 6,
-    "StartTime": "10:15",
+    "WeekDay": 5,
+    "StartTime": "14:00",
     "Odd": 2,
     "Lesson": "Физика",
     "LessonType": "пр",
-    "Room": "12-304",
+    "Room": "12-204",
     "FIO": "Подрезова Дарья Николаевна",
     "FIOshort": "Подрезова Д.Н.",
     "Error": null
