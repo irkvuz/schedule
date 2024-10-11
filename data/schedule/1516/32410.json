@@ -134,9 +134,9 @@
   {
     "WeekDay": 4,
     "StartTime": "15:45",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Основы землеустройства",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "12-307",
     "FIO": "Конограй Оксана Юрьевна",
     "FIOshort": "Конограй О.Ю.",
@@ -144,11 +144,11 @@
   },
   {
     "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
     "Lesson": "Основы землеустройства",
-    "LessonType": "пр",
-    "Room": "12-304",
+    "LessonType": "л",
+    "Room": "12-307",
     "FIO": "Конограй Оксана Юрьевна",
     "FIOshort": "Конограй О.Ю.",
     "Error": null
