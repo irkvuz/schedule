@@ -331,7 +331,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "14:00",
+    "StartTime": "12:00",
     "Odd": 0,
     "Lesson": "Управление человеческими ресурсами",
     "LessonType": "л",
@@ -342,7 +342,7 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "15:45",
+    "StartTime": "14:00",
     "Odd": 0,
     "Lesson": "Управление человеческими ресурсами",
     "LessonType": "пр",
