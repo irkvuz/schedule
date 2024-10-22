@@ -230,6 +230,13 @@
     "trimesterId": 1475
   },
   {
+    "IdGroup": 32948,
+    "Group": "ПФрки-гум-24-5",
+    "Course": 1,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 32575,
     "Group": "ПФрки-экон-24-1",
     "Course": 1,
