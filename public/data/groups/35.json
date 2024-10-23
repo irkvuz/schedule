@@ -242,7 +242,8 @@
     "Group": "ПФрки-гум-24-5",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1475
   },
   {
     "IdGroup": 32575,
