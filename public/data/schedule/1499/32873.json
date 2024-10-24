@@ -167,7 +167,7 @@
   {
     "WeekDay": 5,
     "StartTime": "8:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "История",
     "LessonType": "пр",
     "Room": "12-401",
@@ -211,12 +211,23 @@
   {
     "WeekDay": 5,
     "StartTime": "14:00",
-    "Odd": 2,
+    "Odd": 1,
     "Lesson": "Физика",
     "LessonType": "пр",
-    "Room": "12-204",
+    "Room": "12-206",
     "FIO": "Подрезова Дарья Николаевна",
     "FIOshort": "Подрезова Д.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "12-409",
+    "FIO": "Галыгина Дарья Владимировна",
+    "FIOshort": "Галыгина Д.В.",
     "Error": null
   },
   {
