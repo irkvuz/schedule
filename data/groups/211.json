@@ -357,8 +357,7 @@
     "Group": "ИСП(11)-22-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1516
+    "hasSchedule": false
   },
   {
     "IdGroup": 32008,
