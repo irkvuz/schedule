@@ -26,8 +26,7 @@
     "Group": "БД(11)-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1520
+    "hasSchedule": false
   },
   {
     "IdGroup": 31899,
