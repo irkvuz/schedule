@@ -200,10 +200,21 @@
   {
     "WeekDay": 5,
     "StartTime": "15:45",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Математика",
     "LessonType": "пр",
-    "Room": "12-407",
+    "Room": "12-206",
+    "FIO": "Плохотников Михаил Александрович",
+    "FIOshort": "Плохотников М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "12-204",
     "FIO": "Плохотников Михаил Александрович",
     "FIOshort": "Плохотников М.А.",
     "Error": null
