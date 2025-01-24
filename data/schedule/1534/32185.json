@@ -1,0 +1,167 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Международное право",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Юридическая психология",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 1,
+    "Lesson": "Юридическая психология",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Машков Сергей Александрович",
+    "FIOshort": "Машков С.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "пр",
+    "Room": "6-404",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "л",
+    "Room": "6-302",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Архипкина Анастасия Сергеевна",
+    "FIOshort": "Архипкина А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Международное право",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Тамбовцева Галина Михайловна",
+    "FIOshort": "Тамбовцева Г.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Конституционное право",
+    "LessonType": "пр",
+    "Room": "6-310",
+    "FIO": "Архипкина Анастасия Сергеевна",
+    "FIOshort": "Архипкина А.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Кравченко Ирина Олеговна",
+    "FIOshort": "Кравченко И.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Уголовное право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-312",
+    "FIO": "Кравченко Ирина Олеговна",
+    "FIOshort": "Кравченко И.О.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Информационные технологии в юридической деятельности",
+    "LessonType": "пр",
+    "Room": "4-213",
+    "FIO": "Матусевич Дмитрий Сергеевич",
+    "FIOshort": "Матусевич Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Кирьянова Ольга Викторовна",
+    "FIOshort": "Кирьянова О.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Гражданское право (Общая часть)",
+    "LessonType": "л",
+    "Room": "5-303",
+    "FIO": "Титов Евгений Валерьевич",
+    "FIOshort": "Титов Е.В.",
+    "Error": null
+  }
+]

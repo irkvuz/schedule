@@ -11,35 +11,40 @@
     "Group": "ГМУ-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32200,
     "Group": "ГМУ-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32495,
     "Group": "ГМУ-23-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32619,
     "Group": "ГМУ-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32664,
     "Group": "ГМУ-24-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 31019,
@@ -53,35 +58,40 @@
     "Group": "М-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32046,
     "Group": "М-22-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32178,
     "Group": "М-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32614,
     "Group": "М-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32898,
     "Group": "М-24-2",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32226,
@@ -144,7 +154,8 @@
     "Group": "ПМЛ-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32091,
@@ -158,14 +169,16 @@
     "Group": "ПМЛ-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32623,
     "Group": "ПМЛ-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 31016,
@@ -179,14 +192,16 @@
     "Group": "УБ-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32585,
     "Group": "УБ-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 31023,
@@ -200,21 +215,24 @@
     "Group": "УП-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32183,
     "Group": "УП-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32617,
     "Group": "УП-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 31018,
@@ -235,35 +253,40 @@
     "Group": "Ф-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 31634,
     "Group": "Ф-22-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32180,
     "Group": "Ф-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32181,
     "Group": "Ф-23-2",
     "Course": 2,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32588,
     "Group": "Ф-24-1",
     "Course": 1,
     "Error": null,
-    "hasSchedule": false
+    "hasSchedule": true,
+    "trimesterId": 1534
   },
   {
     "IdGroup": 32591,

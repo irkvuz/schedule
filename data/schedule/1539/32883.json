@@ -1,0 +1,211 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Физическая культура",
+    "LessonType": "пр",
+    "Room": "12-004",
+    "FIO": "Муратов Владислав Сергеевич",
+    "FIOshort": "Муратов В.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовный процесс",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экономика организации",
+    "LessonType": "пр",
+    "Room": "12-201",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Гражданское право",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Конституционное право России",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Гражданское право",
+    "LessonType": "пр",
+    "Room": "12-203",
+    "FIO": "Пашина Светлана Борисовна",
+    "FIOshort": "Пашина С.Б.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Административный процесс",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Основы управления в правоохранительных органах",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономика организации",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Галицкая Кристина Викторовна",
+    "FIOshort": "Галицкая К.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "пр",
+    "Room": "12-208",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Административное право",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Высоцкая Елена Васильевна",
+    "FIOshort": "Высоцкая Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Основы управления в правоохранительных органах",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Административное право",
+    "LessonType": "пр",
+    "Room": "12-203",
+    "FIO": "Высоцкая Елена Васильевна",
+    "FIOshort": "Высоцкая Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Иностранный язык в профессиональной деятельности",
+    "LessonType": "пр",
+    "Room": "12-204",
+    "FIO": "Чайка Иван Иванович",
+    "FIOshort": "Чайка И.И.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Административный процесс",
+    "LessonType": "пр",
+    "Room": "12-203",
+    "FIO": "Булгатова Марина Михайловна",
+    "FIOshort": "Булгатова М.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Конституционное право России",
+    "LessonType": "пр",
+    "Room": "12-206",
+    "FIO": "Немцов Юрий Геннадьевич",
+    "FIOshort": "Немцов Ю.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Основы финансовой  грамотности",
+    "LessonType": "л",
+    "Room": "12-307",
+    "FIO": "Густелева Ольга Юрьевна",
+    "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  }
+]

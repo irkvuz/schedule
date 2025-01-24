@@ -1,0 +1,178 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Налоговое право",
+    "LessonType": "пр",
+    "Room": "6-106",
+    "FIO": "Хабдаев Александр Максимович",
+    "FIOshort": "Хабдаев А.М.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Силовое пресечение правонарушителей",
+    "LessonType": "пр",
+    "Room": "8-111",
+    "FIO": "Батанов Сергей Геннадьевич",
+    "FIOshort": "Батанов С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Силовое пресечение правонарушителей",
+    "LessonType": "пр",
+    "Room": "8-111",
+    "FIO": "Батанов Сергей Геннадьевич",
+    "FIOshort": "Батанов С.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "пр",
+    "Room": "6-311",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 1,
+    "Lesson": "Экологическое право",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Земельное право",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Сутурин Михаил Александрович",
+    "FIOshort": "Сутурин М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
+    "Lesson": "Экологическое право",
+    "LessonType": "пр",
+    "Room": "6-411",
+    "FIO": "Рыбинская Елена Тимофеевна",
+    "FIOshort": "Рыбинская Е.Т.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Уголовно-исполнительное право",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Сутурин Михаил Александрович",
+    "FIOshort": "Сутурин М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Особенности расследования отдельных видов преступлений",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Китаева Валентина Николаевна",
+    "FIOshort": "Китаева В.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "л",
+    "Room": "6-403",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Особенности расследования отдельных видов преступлений",
+    "LessonType": "л",
+    "Room": "6-303",
+    "FIO": "Степаненко Диана Аркадьевна",
+    "FIOshort": "Степаненко Д.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Предпринимательское право",
+    "LessonType": "пр",
+    "Room": "6-304",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Криминология",
+    "LessonType": "л",
+    "Room": "6-405",
+    "FIO": "Сутурин Михаил Александрович",
+    "FIOshort": "Сутурин М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Криминология",
+    "LessonType": "пр",
+    "Room": "6-410",
+    "FIO": "Сутурин Михаил Александрович",
+    "FIOshort": "Сутурин М.А.",
+    "Error": null
+  }
+]

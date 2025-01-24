@@ -1,0 +1,200 @@
+[
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Дёмина Елена Владимировна",
+    "FIOshort": "Дёмина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Мильгунов Дмитрий Сергеевич",
+    "FIOshort": "Мильгунов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "4-405",
+    "FIO": "Мильгунов Дмитрий Сергеевич",
+    "FIOshort": "Мильгунов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Королева Ирина Александровна",
+    "FIOshort": "Королева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Математика",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Королева Ирина Александровна",
+    "FIOshort": "Королева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 2,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "История",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Королева Ирина Александровна",
+    "FIOshort": "Королева И.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Егорова Марина Алексеевна",
+    "FIOshort": "Егорова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Обществознание",
+    "LessonType": "пр",
+    "Room": "4-304",
+    "FIO": "Егорова Марина Алексеевна",
+    "FIOshort": "Егорова М.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "5-512",
+    "FIO": "Дёмина Елена Владимировна",
+    "FIOshort": "Дёмина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "4-305",
+    "FIO": "Дёмина Елена Владимировна",
+    "FIOshort": "Дёмина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Дёмина Елена Владимировна",
+    "FIOshort": "Дёмина Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "География",
+    "LessonType": "пр",
+    "Room": "4-404",
+    "FIO": "Мильгунов Дмитрий Сергеевич",
+    "FIOshort": "Мильгунов Д.С.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "14:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (аудиовизуальный курс)",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Барышникова Ульяна Николаевна",
+    "FIOshort": "Барышникова У.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "15:45",
+    "Odd": 0,
+    "Lesson": "Русский язык (аудиовизуальный курс)",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Барышникова Ульяна Николаевна",
+    "FIOshort": "Барышникова У.Н.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "5-214",
+    "FIO": "Семёнова Вера Владимировна",
+    "FIOshort": "Семёнова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Семёнова Вера Владимировна",
+    "FIOshort": "Семёнова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Семёнова Вера Владимировна",
+    "FIOshort": "Семёнова В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Русский язык (практический курс)",
+    "LessonType": "пр",
+    "Room": "5-313",
+    "FIO": "Семёнова Вера Владимировна",
+    "FIOshort": "Семёнова В.В.",
+    "Error": null
+  }
+]
