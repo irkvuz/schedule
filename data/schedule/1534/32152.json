@@ -167,10 +167,21 @@
   {
     "WeekDay": 5,
     "StartTime": "17:30",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Бухгалтерский учёт",
     "LessonType": "пр",
-    "Room": "3-403",
+    "Room": "2-105",
+    "FIO": "Фадеева Анна Анатольевна",
+    "FIOshort": "Фадеева А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "17:30",
+    "Odd": 2,
+    "Lesson": "Бухгалтерский учёт",
+    "LessonType": "пр",
+    "Room": "2-312",
     "FIO": "Фадеева Анна Анатольевна",
     "FIOshort": "Фадеева А.А.",
     "Error": null

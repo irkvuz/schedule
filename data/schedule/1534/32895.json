@@ -187,28 +187,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Программирование",
-    "LessonType": "пр",
-    "Room": "3-801",
-    "FIO": "Пшеничных Артем Александрович",
-    "FIOshort": "Пшеничных А.А.",
-    "Error": null
-  },
-  {
-    "WeekDay": 4,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Программирование",
-    "LessonType": "л",
-    "Room": "3-902",
-    "FIO": "Пшеничных Артем Александрович",
-    "FIOshort": "Пшеничных А.А.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "8:30",
     "Odd": 1,
@@ -239,6 +217,28 @@
     "Room": "11-007",
     "FIO": "Малёванный Андрей Александрович",
     "FIOshort": "Малёванный А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Программирование",
+    "LessonType": "л",
+    "Room": "3-802",
+    "FIO": "Пшеничных Артем Александрович",
+    "FIOshort": "Пшеничных А.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 0,
+    "Lesson": "Программирование",
+    "LessonType": "пр",
+    "Room": "3-404",
+    "FIO": "Пшеничных Артем Александрович",
+    "FIOshort": "Пшеничных А.А.",
     "Error": null
   }
 ]

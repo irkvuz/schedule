@@ -167,10 +167,21 @@
   {
     "WeekDay": 5,
     "StartTime": "10:15",
-    "Odd": 0,
+    "Odd": 1,
     "Lesson": "Геодезия",
     "LessonType": "л",
-    "Room": "11-312",
+    "Room": "11-408",
+    "FIO": "Конограй Оксана Юрьевна",
+    "FIOshort": "Конограй О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 2,
+    "Lesson": "Геодезия",
+    "LessonType": "л",
+    "Room": "11-301",
     "FIO": "Конограй Оксана Юрьевна",
     "FIOshort": "Конограй О.Ю.",
     "Error": null

@@ -143,17 +143,6 @@
     "Error": null
   },
   {
-    "WeekDay": 4,
-    "StartTime": "17:30",
-    "Odd": 1,
-    "Lesson": "Менеджмент",
-    "LessonType": "л",
-    "Room": "5-403",
-    "FIO": "Лебедева Оксана Викторовна",
-    "FIOshort": "Лебедева О.В.",
-    "Error": null
-  },
-  {
     "WeekDay": 5,
     "StartTime": "14:00",
     "Odd": 1,
@@ -239,6 +228,17 @@
     "Room": "12-407",
     "FIO": "Густелева Ольга Юрьевна",
     "FIOshort": "Густелева О.Ю.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "17:30",
+    "Odd": 1,
+    "Lesson": "Менеджмент",
+    "LessonType": "л",
+    "Room": "12-409",
+    "FIO": "Лебедева Оксана Викторовна",
+    "FIOshort": "Лебедева О.В.",
     "Error": null
   },
   {
