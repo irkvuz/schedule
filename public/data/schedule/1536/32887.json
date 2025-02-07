@@ -55,6 +55,17 @@
     "Error": null
   },
   {
+    "WeekDay": 1,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "11-411",
+    "FIO": "Морозова Надежда Георгиевна",
+    "FIOshort": "Морозова Н.Г.",
+    "Error": null
+  },
+  {
     "WeekDay": 2,
     "StartTime": "8:30",
     "Odd": 0,
@@ -112,12 +123,23 @@
   {
     "WeekDay": 3,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Физика",
+    "LessonType": "пр",
+    "Room": "12-402",
+    "FIO": "Петров Николай Витальевич",
+    "FIOshort": "Петров Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 3,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "12-402",
-    "FIO": "Карасева Алёна Викторовна",
-    "FIOshort": "Карасева А.В.",
+    "FIO": "Морозова Надежда Георгиевна",
+    "FIOshort": "Морозова Н.Г.",
     "Error": null
   },
   {
@@ -162,6 +184,28 @@
     "Room": "12-004",
     "FIO": "Хаустова Наталья Викторовна",
     "FIOshort": "Хаустова Н.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Морозова Надежда Георгиевна",
+    "FIOshort": "Морозова Н.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 2,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-301",
+    "FIO": "Морозова Надежда Георгиевна",
+    "FIOshort": "Морозова Н.Г.",
     "Error": null
   },
   {
@@ -210,6 +254,17 @@
   },
   {
     "WeekDay": 6,
+    "StartTime": "8:30",
+    "Odd": 1,
+    "Lesson": "Химия",
+    "LessonType": "л",
+    "Room": "12-001",
+    "FIO": "Никиткина Виктория Владимировна",
+    "FIOshort": "Никиткина В.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
     "StartTime": "10:15",
     "Odd": 1,
     "Lesson": "Физика",
@@ -221,19 +276,8 @@
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык",
-    "LessonType": "пр",
-    "Room": "12-306",
-    "FIO": "Карасева Алёна Викторовна",
-    "FIOshort": "Карасева А.В.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
     "StartTime": "14:00",
-    "Odd": 0,
+    "Odd": 2,
     "Lesson": "Химия",
     "LessonType": "л",
     "Room": "12-001",
