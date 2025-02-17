@@ -244,7 +244,18 @@
   {
     "WeekDay": 6,
     "StartTime": "12:00",
-    "Odd": 0,
+    "Odd": 1,
+    "Lesson": "Иностранный язык",
+    "LessonType": "пр",
+    "Room": "12-405",
+    "FIO": "Морозова Надежда Георгиевна",
+    "FIOshort": "Морозова Н.Г.",
+    "Error": null
+  },
+  {
+    "WeekDay": 6,
+    "StartTime": "12:00",
+    "Odd": 2,
     "Lesson": "Иностранный язык",
     "LessonType": "пр",
     "Room": "12-306",

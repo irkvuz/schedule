@@ -77,80 +77,25 @@
     "Error": null
   },
   {
-    "WeekDay": 5,
+    "WeekDay": 3,
     "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Иностранный язык (курс грамматики)",
     "LessonType": "пр",
-    "Room": "1-203",
+    "Room": "5-213",
     "FIO": "Ли Мин",
     "FIOshort": "Ли М.",
     "Error": null
   },
   {
-    "WeekDay": 5,
+    "WeekDay": 3,
     "StartTime": "12:00",
     "Odd": 0,
-    "Lesson": "Китайский язык для делового общения",
-    "LessonType": "пр",
-    "Room": "1-203",
-    "FIO": "Чжан Яньцзе",
-    "FIOshort": "Чжан Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "14:00",
-    "Odd": 0,
-    "Lesson": "Китайский язык для делового общения",
-    "LessonType": "пр",
-    "Room": "5-506",
-    "FIO": "Чжан Яньцзе",
-    "FIOshort": "Чжан Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 5,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Китайский язык для делового общения",
-    "LessonType": "пр",
-    "Room": "5-506",
-    "FIO": "Чжан Яньцзе",
-    "FIOshort": "Чжан Я.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "8:30",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
+    "Lesson": "Иностранный язык (курс грамматики)",
     "LessonType": "пр",
     "Room": "5-213",
-    "FIO": "Лю Лили",
-    "FIOshort": "Лю Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "5-213",
-    "FIO": "Лю Лили",
-    "FIOshort": "Лю Л.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Иностранный язык (базовый курс)",
-    "LessonType": "пр",
-    "Room": "5-213",
-    "FIO": "Лю Лили",
-    "FIOshort": "Лю Л.",
+    "FIO": "Ли Мин",
+    "FIOshort": "Ли М.",
     "Error": null
   }
 ]
