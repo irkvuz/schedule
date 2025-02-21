@@ -296,6 +296,13 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 33049,
+    "Group": "Фб-22-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 32561,
     "Group": "Фус-24-1",
     "Course": 1,
@@ -306,6 +313,13 @@
     "IdGroup": 32590,
     "Group": "Фф-21-1",
     "Course": 4,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 33048,
+    "Group": "Фф-22-1",
+    "Course": 3,
     "Error": null,
     "hasSchedule": false
   }
