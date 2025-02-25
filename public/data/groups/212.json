@@ -263,9 +263,23 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 33077,
+    "Group": "ЮП-22-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 32694,
     "Group": "ЮПус-22-1",
     "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 33082,
+    "Group": "ЮПус-23-1",
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
@@ -284,9 +298,23 @@
     "hasSchedule": false
   },
   {
+    "IdGroup": 33080,
+    "Group": "ЮС-22-1",
+    "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
     "IdGroup": 32693,
     "Group": "ЮСус-22-1",
     "Course": 3,
+    "Error": null,
+    "hasSchedule": false
+  },
+  {
+    "IdGroup": 33081,
+    "Group": "ЮСус-23-1",
+    "Course": 2,
     "Error": null,
     "hasSchedule": false
   },
