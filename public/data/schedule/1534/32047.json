@@ -1,13 +1,24 @@
 [
   {
     "WeekDay": 1,
-    "StartTime": "10:15",
+    "StartTime": "8:30",
     "Odd": 0,
     "Lesson": "Гражданское право (Особенная часть)",
-    "LessonType": "л",
+    "LessonType": "пр",
     "Room": "6-305",
     "FIO": "Карпеева Екатерина Вячеславовна",
     "FIOshort": "Карпеева Е.В.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Конкурсное право",
+    "LessonType": "пр",
+    "Room": "5-208",
+    "FIO": "Юсупова Анастасия Владимировна",
+    "FIOshort": "Юсупова А.В.",
     "Error": null
   },
   {
@@ -74,17 +85,6 @@
     "Room": "6-302",
     "FIO": "Лубягин Михаил Сергеевич",
     "FIOshort": "Лубягин М.С.",
-    "Error": null
-  },
-  {
-    "WeekDay": 3,
-    "StartTime": "12:00",
-    "Odd": 0,
-    "Lesson": "Конкурсное право",
-    "LessonType": "пр",
-    "Room": "6-302",
-    "FIO": "Юсупова Анастасия Владимировна",
-    "FIOshort": "Юсупова А.В.",
     "Error": null
   },
   {
