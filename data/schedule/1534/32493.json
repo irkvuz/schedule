@@ -121,17 +121,6 @@
     "Error": null
   },
   {
-    "WeekDay": 3,
-    "StartTime": "15:45",
-    "Odd": 0,
-    "Lesson": "Менеджмент в туризме",
-    "LessonType": "л",
-    "Room": "5-515",
-    "FIO": "Новичкова Татьяна Рабфаиловна",
-    "FIOshort": "Новичкова Т.Р.",
-    "Error": null
-  },
-  {
     "WeekDay": 4,
     "StartTime": "12:00",
     "Odd": 0,
@@ -173,6 +162,17 @@
     "Room": "1-212",
     "FIO": "Ржепка Элина Анатольевна",
     "FIOshort": "Ржепка Э.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 5,
+    "StartTime": "10:15",
+    "Odd": 0,
+    "Lesson": "Менеджмент в туризме",
+    "LessonType": "л",
+    "Room": "5-508",
+    "FIO": "Новичкова Татьяна Рабфаиловна",
+    "FIOshort": "Новичкова Т.Р.",
     "Error": null
   },
   {
