@@ -24,6 +24,17 @@
   {
     "WeekDay": 1,
     "StartTime": "12:00",
+    "Odd": 1,
+    "Lesson": "Экономика развития фирмы",
+    "LessonType": "пр",
+    "Room": "4-409",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
+    "WeekDay": 1,
+    "StartTime": "12:00",
     "Odd": 2,
     "Lesson": "Маркетинговое управление бизнесом",
     "LessonType": "л",
@@ -99,6 +110,17 @@
     "Error": null
   },
   {
+    "WeekDay": 4,
+    "StartTime": "14:00",
+    "Odd": 1,
+    "Lesson": "Экономика развития фирмы",
+    "LessonType": "пр",
+    "Room": "5-314",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
+    "Error": null
+  },
+  {
     "WeekDay": 5,
     "StartTime": "10:15",
     "Odd": 1,
@@ -146,33 +168,22 @@
     "WeekDay": 6,
     "StartTime": "8:30",
     "Odd": 0,
-    "Lesson": "Экономика развития фирмы",
-    "LessonType": "л",
-    "Room": "4-412",
-    "FIO": "Тертышник Михаил Иванович",
-    "FIOshort": "Тертышник М.И.",
-    "Error": null
-  },
-  {
-    "WeekDay": 6,
-    "StartTime": "10:15",
-    "Odd": 0,
     "Lesson": "Маркетинговое управление бизнесом",
     "LessonType": "пр",
-    "Room": "4-411",
+    "Room": "4-405",
     "FIO": "Корнилова Дарима Дылык-Нимаевна",
     "FIOshort": "Корнилова Д.Д.",
     "Error": null
   },
   {
     "WeekDay": 6,
-    "StartTime": "12:00",
+    "StartTime": "10:15",
     "Odd": 0,
     "Lesson": "Экономика развития фирмы",
-    "LessonType": "пр",
-    "Room": "4-411",
-    "FIO": "Тертышник Михаил Иванович",
-    "FIOshort": "Тертышник М.И.",
+    "LessonType": "л",
+    "Room": "5-403",
+    "FIO": "Юшков Олег Александрович",
+    "FIOshort": "Юшков О.А.",
     "Error": null
   }
 ]
