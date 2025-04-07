@@ -186,16 +186,14 @@
     "Group": "ДОУ(11)-23-1",
     "Course": 2,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1544
+    "hasSchedule": false
   },
   {
     "IdGroup": 31938,
     "Group": "ДОУ(9)-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1544
+    "hasSchedule": false
   },
   {
     "IdGroup": 31933,
