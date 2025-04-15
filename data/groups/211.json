@@ -752,16 +752,14 @@
     "Group": "ЛХ(11)-22-1",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1548
+    "hasSchedule": false
   },
   {
     "IdGroup": 32483,
     "Group": "ЛХ(11)-22-2",
     "Course": 3,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1548
+    "hasSchedule": false
   },
   {
     "IdGroup": 32443,
@@ -784,16 +782,14 @@
     "Group": "ЛХ(9)-21-1",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1548
+    "hasSchedule": false
   },
   {
     "IdGroup": 31212,
     "Group": "ЛХ(9)-21-2",
     "Course": 4,
     "Error": null,
-    "hasSchedule": true,
-    "trimesterId": 1548
+    "hasSchedule": false
   },
   {
     "IdGroup": 31869,
