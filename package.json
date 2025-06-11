@@ -11,8 +11,8 @@
   "dependencies": {
     "@sentry/browser": "6.16.1",
     "@types/jest": "27.0.3",
-    "@types/react": "17.0.52",
-    "@types/react-dom": "17.0.17",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
     "antd": "4.16.13",
     "axios": "0.28.0",
     "babel-plugin-import": "1.13.6",
@@ -20,9 +20,9 @@
     "date-fns": "2.27.0",
     "history": "4.10.1",
     "prop-types": "15.7.2",
-    "react": "17.0.2",
+    "react": "19.1.0",
     "react-app-rewired": "2.1.8",
-    "react-dom": "17.0.2",
+    "react-dom": "19.1.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "3.4.4",
     "typescript": "5.0.4"
