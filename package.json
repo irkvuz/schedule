@@ -30,7 +30,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@playwright/test": "^1.33.0",
+    "@playwright/test": "1.33.0",
     "@size-limit/preset-app": "8.0.0",
     "@testing-library/react": "12.1.5",
     "@types/progress": "2.0.5",
