@@ -1,7 +1,7 @@
 /* eslint-disable jest/no-done-callback */
 import { test, expect } from '@playwright/test';
 
-test('Full jerney for М-21-1', async ({ page }) => {
+test('Full jerney for ПБД(9)-24-1', async ({ page }) => {
   await page.goto('https://bgu.irkvuz.ru/');
   expect(page).toHaveURL('https://bgu.irkvuz.ru/faculties');
   await page.getByTestId('input-search').fill('Колледж');
@@ -9,8 +9,8 @@ test('Full jerney for М-21-1', async ({ page }) => {
   expect(page).toHaveURL('https://bgu.irkvuz.ru/211/');
   
   await page.getByTestId('input-search').fill('БД');
-  await page.getByRole('link', { name: 'БД(9)-22-1' }).click();
-  expect(page).toHaveURL('https://bgu.irkvuz.ru/211/31899/');
+  await page.getByRole('link', { name: 'ПБД(9)-24-1' }).click();
+  expect(page).toHaveURL('https://bgu.irkvuz.ru/211/32873/');
   
   await page.getByTestId('week-parity-switcher').click();
   expect(page.locator('.ant-message-notice-content')).toBeVisible();
