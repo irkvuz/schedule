@@ -3840,6 +3840,11 @@ core-util-is@~1.0.0:
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.3.tgz#a6042d3634c2b27e9328f837b965fac83808db85"
   integrity sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==
 
+corepack@0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/corepack/-/corepack-0.17.0.tgz#36c1288ba181eb8c3ddb9cf5f2e827fc13cf81cc"
+  integrity sha512-NPC33N1xLToFanQavovjJXk/pEr/CN0tQhp8FhOGs6d2iXQvG8u2eQxWUwuCzQYTm+oQm/xPFqSuyTVh4iD5Ew==
+
 cosmiconfig@^5.0.0, cosmiconfig@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-5.2.1.tgz#040f726809c591e77a17c0a3626ca45b4f168b1a"
