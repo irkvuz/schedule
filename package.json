@@ -7,7 +7,6 @@
   "author": "Yury Savin <bgu@savin.dev>",
   "license": "MIT",
   "homepage": "https://bgu.irkvuz.ru",
-  "private": false,
   "engines": {
     "node": "16.x"
   },
