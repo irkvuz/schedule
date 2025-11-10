@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.33.0",
-    "@size-limit/preset-app": "8.0.0",
+    "@size-limit/preset-app": "11.2.0",
     "@testing-library/react": "12.1.5",
     "@types/progress": "2.0.5",
     "@types/react-router-dom": "5.3.3",
